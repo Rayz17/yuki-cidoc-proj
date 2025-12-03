@@ -1,0 +1,56 @@
+﻿文物类型,核心实体（Domain）,关系 (Property),中间类 (Class),子属性 (Sub-Property),目标类 (Range Class),抽取属性：文化特征单元,文化特征单元说明：抽取内容说明 (Description)
+陶器,E22 Man-Made Object,P45 consists of (由...组成),E57 Material (材料),P1 is identified by,E55 Type,陶土种类,识别陶土的基本类型（如红陶土、高岭土等）。
+陶器,E22 Man-Made Object,P2 has type,N/A,N/A,E55 Type,陶土纯洁程度 ,描述陶土的纯度。
+陶器,E22 Man-Made Object,E55 Type,N/A,N/A,E55 Type,陶土细腻程度 ,描述陶土颗粒的细腻度。
+陶器,E22 Man-Made Object,P45 consists of (由...组成),N/A,N/A,E57 Material (材料),掺杂物,包含矿物性（沙子、云母）和有机物（稻壳、骨渣）。
+陶器,E22 Man-Made Object,P43 has dimension (具有量度),N/A,N/A,E54 Dimension (维度),硬度,用于物理检测，并可辅助推理烧成温度。
+陶器,E22 Man-Made Object,P108 was produced by (已产出),E12 Production (生产),P33 used specific technique,E55 Type,烧成温度,记录生产该陶器时的窑温数据。
+陶器,E22 Man-Made Object,P2 has type (是类型),N/A,N/A,E55 Type (类型),基本器型,陶器的分类名称，如：罐、壶、盆、钵、鼎等。
+陶器,E22 Man-Made Object,P46 is composed of (由...构成),E26 Physical Feature (物理部件),P2 has type,E55 Type (类型),器型部位特征,描述陶器的具体部位形态，如：卷沿、敛口、高领、鼓腹等。
+陶器,E22 Man-Made Object,P46 is composed of (或者反向 P46),E19 Physical Object (器物组合),P2 has type,E55 Type (类型),器物组合,指陶器所属的组合类型，如：鼎簋组合、杯盘组合。(注：在 CRM 中通常表示为 E22 是某个组合 E19 的一部分)
+陶器,E22 Man-Made Object,P43 has dimension (具有量度),E54 Dimension (维度),P2 has type,E55 Type (类型),基本尺寸,定义测量的是哪个维度，如：通高、口径、底径、腹径。
+陶器,E22 Man-Made Object,P103 was intended for (被意图用于),N/A,N/A,E55 Type (类型),器物功能,陶器制造时的预设用途，如：炊煮、盛储、水器、礼器。
+陶器,E22 Man-Made Object,P108 was produced by (已产出),E12 Production (生产),P32 used general technique,E55 Type (类型),成型工艺,制作陶坯的基础技术，如：泥条盘筑、轮制、手捏、模制。
+陶器,E22 Man-Made Object,P108 was produced by (已产出),E12 Production (生产),P32 used specific technique,E55 Type (类型),修整技术,对陶坯表面的处理技术，如：磨光、刮削、拍打。
+陶器,E22 Man-Made Object,P108 was produced by (已产出),E12 Production (生产),P32 used specific technique,记录其长、宽、高、重等定量数据。,装饰手法,施加纹饰的动作/技术，如：刻划、彩绘、镂空、堆塑。
+陶器,E22 Man-Made Object,P65 shows visual item (展示视觉项),E36 Visual Item (视觉项),P2 has type,E55 Type (类型),纹饰类型,视觉上呈现的具体图案，如：绳纹、几何纹、动物纹、弦纹。
+陶器,E22 Man-Made Object,P1\text{ is identified by},N/A,N/A,E41 名称/称号,人工物品编号,记录其唯一的编号。
+陶器,E22 Man-Made Object,P108\text{ was produced by},N/A,N/A,E12 Production (生产),制作活动,关联到该文物的制造活动。
+陶器,E22 Man-Made Object,P14\text{ carried out by},N/A,N/A,E39 行为者,制作者,记录制造该文物的人或群体。
+陶器,E22 Man-Made Object,P4\text{ has time-span},N/A,N/A,E52 时间跨度,制作年代,记录文物的制作时间。
+陶器,E22 Man-Made Object,P7\text{ took place at},N/A,N/A,E53 地点,制作地点,记录文物的制造地理位置。
+陶器,E22 Man-Made Object,P53 has former or current location,N/A,N/A,E25 Man-Made Feature(墓葬/灰坑/地层/堆积),原始出土地点,关联到该文物的发现地点和上下文，关联到其出土的墓葬、灰坑或层位。
+陶器,E22 Man-Made Object,P106\text{ was found by},N/A,N/A,E7 活动,发掘活动,关联到发现该物品的发掘活动。
+陶器,E22 Man-Made Object,P43\text{ has measurement},N/A,N/A,E54 量度,量度信息,记录其长、宽、高、重等定量数据。
+玉器,E22 Man-Made Object,P2 has type(有类型),N/A,N/A,E55 Type(器型类型),器型单元,"(按形制分类)直接将器物形态定义为类型概念，如：
+璧环类 (Bi/Huan)、琮筒类 (Cong/Tube)、兵器仪仗类、佩饰类、肖生类 (Zoomorphic)、丧葬类、剑饰类"
+玉器,E22 Man-Made Object,P65 shows visual item(展示视觉项),E36 Visual Item(视觉单元),P2 has type(有类型),E55 Type(纹饰类型),纹饰单元(按图案题材分类),几何纹饰单元、神人神兽纹饰单元、宗教符号单元
+玉器,E22 Man-Made Object,P108i was produced by(被生产于),E12 Production(生产事件),P32 used general technique(使用通用技术),E55 Type(工艺类型),工艺特征单元(按制作痕迹分类),切割与成型、钻孔技术、雕刻技法、装饰工艺
+玉器,E22 Man-Made Object,P45 consists o(由...构成)f,N/A,N/A,E57 Material(材质),材质单元,"按材质的材料物理特征进行界定和描述，如: 透闪石, 软玉等"
+玉器,E22 Man-Made Object,P44 has condition(有状态),E3 Condition State(生存状态/条件),P2 has type(有类型),E55 Type(沁色类型),沁色单元,"按沁色物理和工艺特征进行界定和描述，如: 钙化, 铁沁等"
+玉器,E22 Man-Made Object,P1\text{ is identified by},N/A,N/A,E41 名称/称号,人工物品编号,记录其唯一的编号。
+玉器,E22 Man-Made Object,$P43\text{ has measurement}$,N/A,N/A,E54 量度,量度信息,记录其长、宽、高、重等定量数据。
+玉器,E22 Man-Made Object,P53 has former or current location,N/A,N/A,E25 Man-Made Feature(墓葬/灰坑/地层/堆积),原始出土地点,关联到其出土的墓葬、灰坑或层位。
+玉器,E22 Man-Made Object,P108\text{ was produced by},N/A,N/A,E12 Production (生产),制作活动,关联到其制造活动。
+玉器,E22 Man-Made Object,P14\text{ carried out by},N/A,N/A,E39 行为者,制作者,记录制造该物品的人或群体。
+玉器,E22 Man-Made Object,P4\text{ has time-span},N/A,N/A,E52 时间跨度,制作年代,记录物品的制作时间。
+玉器,E22 Man-Made Object,P7\text{ took place at},N/A,N/A,E53 地点,制作地点,记录物品的制造地理位置。
+玉器,E22 Man-Made Object,P106\text{ was found by},N/A,N/A,E7 活动,发掘活动,关联到发现该物品的发掘活动。
+玉器,E22 Man-Made Object,P46 is composed of,E26 物理特征(器身/整体),P2 has type,E55 形态类型,整体形态描述,记录其玉器整体形态的描述，如：长条形，一端圆尖，另一端略扁
+玉器,E22 Man-Made Object,P103 was intended for (被意图用于),N/A,N/A,E55 Type (类型)器物功能,器物功能,此物件使用的场合、作用、使用者和目的等等
+遗址,E27 Site,P1 is identified by(被标识为),N/A,N/A,E41 Appellation(名称),遗址名称,遗址的标准名称、别名（例如：三星堆遗址）。
+遗址,E27 Site,P2 has type(类型),N/A,N/A,E55 Type(类型),遗址类型,遗址类型（例如：聚落址、墓地、城址、祭祀坑）。
+遗址,E27 Site,P53 has former or current location(位于),N/A,N/A,E53 Place(地点),遗址当前位置,遗址所在的行政区划、地理单元（例如：广汉市鸭子河南岸）。
+遗址,E27 Site,P168 place is defined by(空间定义),N/A,N/A,E94 Space Primitive(空间数据),遗址空间数据,具体的经纬度坐标、海拔高度数据。如果抽取不到，需要通过LLM基于当前位置进行推理标注
+遗址,E27 Site,P3 has note(注释),N/A,N/A,E62 String(文本),遗址描述,遗址的自然环境描述、发掘历史综述、保存状况等非结构化文本。
+遗址,E27 Site,P46 is composed of(由...组成),N/A,N/A,E53 Place(发掘区/区域),遗址内子区域,遗址内部划分的区域（如：西区、北城墙区、探方T0102）。
+遗址,E53 Place,P87 is identified by(被标识为),N/A,N/A,E44 Place Appellation(区域编号),子区域编号或名称,"区域的编号或名称（如：Area A, T105）。"
+遗址,E53 Place,P89 falls within(位于...之内),N/A,N/A,E53 Place(地理范围),子区域位置描述,该区域在遗址内的相对位置描述（如：位于遗址中心台地）。
+遗址,E53 Place,P46 is composed of,N/A,N/A,E25 Man-Made Feature(墓葬/灰坑/地层/堆积),子区域内具体单位,建立子区域与内部具体单位（墓葬、灰坑、探方）的从属关系。
+时期,E4 Period,P1 is identified by(被标识为),N/A,N/A,E41 Appellation(名称),时期/期别,遗址内的细分同一文化的细分名称分期名称（如：盘龙城第一期、二里头二期偏晚）。如果同一文化没有细分则为该文化的名称
+时期,E4 Period,P7 took place at,N/A,N/A,E27 Site,发展阶段,时期/期别属于遗址的哪个阶段，定义这个时期是属于该遗址的特定发展阶段。
+时期,E4 Period,P4 has time-span(拥有时间跨度),N/A,N/A,E52 Time-Span(时间段),绝对年代,"该期别的绝对年代范围（如：1600 BC - 1500 BC, C14测年数据）。"
+时期,E4 Period,P10 falls within,N/A,N/A,E4 Period（朝代）,历史背景朝代,该文化时期/期别的朝代（如：夏朝)
+时期,E4 Period,P9 consists of(包含),N/A,N/A,E4 Period(子时期),细分时期划分,时期/期别的更细分时期，更细的年代划分（如：盘龙城一期早段、盘龙城一期晚段）。
+时期,E4 Period,P120 occurs before(发生于...之前),N/A,N/A,E4 Period(后一期别),时期顺序,明确期别之间的时间序列关系（第一期 早于 第二期）。
+时期,E25 Man-Made Feature(墓葬/灰坑/地层/堆积),P108i was produced by,E12 Production,P10 falls within,E4 Period,物理地层归属,将物理实体（墓葬/灰坑/地层/堆积等）归属到特定时期/期别，如将物理地层（第3层）归属到特定期别（第二期）。

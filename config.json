@@ -1,0 +1,43 @@
+{
+  "llm": {
+    "provider": "coze",
+    "api_url": "https://api.coze.cn",
+    "bot_id": "7578436701686153268",
+    "api_key": "sat_of0NkyzmpYUoteMZ61B8p8noBeuaFWMQREg6XcInnXgE1MThaeDKHjPqHw5NUqWo",
+    "temperature": 0.7,
+    "max_tokens": 4096,
+    "bot_pool": [
+      {
+        "name": "Bot 1 (默认)",
+        "bot_id": "7578436701686153268",
+        "api_key": "sat_of0NkyzmpYUoteMZ61B8p8noBeuaFWMQREg6XcInnXgE1MThaeDKHjPqHw5NUqWo"
+      },
+      {
+        "name": "Bot 2",
+        "bot_id": "7578478041932890154",
+        "api_key": "sat_of0NkyzmpYUoteMZ61B8p8noBeuaFWMQREg6XcInnXgE1MThaeDKHjPqHw5NUqWo"
+      },
+      {
+        "name": "Bot 3",
+        "bot_id": "7578478041933004842",
+        "api_key": "sat_of0NkyzmpYUoteMZ61B8p8noBeuaFWMQREg6XcInnXgE1MThaeDKHjPqHw5NUqWo"
+      },
+      {
+        "name": "Bot 4",
+        "bot_id": "7578478149848596490",
+        "api_key": "sat_of0NkyzmpYUoteMZ61B8p8noBeuaFWMQREg6XcInnXgE1MThaeDKHjPqHw5NUqWo"
+      },
+      {
+        "name": "Bot 5",
+        "bot_id": "7578477659441922075",
+        "api_key": "sat_of0NkyzmpYUoteMZ61B8p8noBeuaFWMQREg6XcInnXgE1MThaeDKHjPqHw5NUqWo"
+      }
+    ]
+  },
+  "database": {
+    "path": "database/artifacts_v3.db"
+  },
+  "reports_dir": "reports",
+  "templates_dir": "templates",
+  "prompts_dir": "prompts"
+}

@@ -1,0 +1,2303 @@
+{
+  "version": "3.0.0",
+  "visualisation": {
+    "nodes": [
+      {
+        "id": "n:0",
+        "position": {
+          "x": 270.5953591039981,
+          "y": 718.1949393508933
+        }
+      },
+      {
+        "id": "n:1",
+        "position": {
+          "x": -167.56031133230886,
+          "y": -678.2316371830053
+        }
+      },
+      {
+        "id": "n:2",
+        "position": {
+          "x": 749.2949521298675,
+          "y": 56.561662399823874
+        }
+      },
+      {
+        "id": "n:3",
+        "position": {
+          "x": -434.26928434855404,
+          "y": -232.38658269993593
+        }
+      },
+      {
+        "id": "n:4",
+        "position": {
+          "x": 339.4699043368797,
+          "y": -133.90132744714174
+        }
+      },
+      {
+        "id": "n:5",
+        "position": {
+          "x": 103.252949946146,
+          "y": 100.65430427848791
+        }
+      },
+      {
+        "id": "n:6",
+        "position": {
+          "x": -518.8942375805567,
+          "y": -558.5838648372137
+        }
+      },
+      {
+        "id": "n:7",
+        "position": {
+          "x": 55.991832756549904,
+          "y": -408.9252364732888
+        }
+      },
+      {
+        "id": "n:8",
+        "position": {
+          "x": -641.6703037262082,
+          "y": 250.25881678219048
+        }
+      },
+      {
+        "id": "n:9",
+        "position": {
+          "x": -671.7173516847897,
+          "y": -42.02124542029738
+        }
+      },
+      {
+        "id": "n:10",
+        "position": {
+          "x": 16.569544104115803,
+          "y": 412.96654418565254
+        }
+      },
+      {
+        "id": "n:11",
+        "position": {
+          "x": 557.3418460283659,
+          "y": 409.55724709016846
+        }
+      },
+      {
+        "id": "n:12",
+        "position": {
+          "x": 640.4767399700544,
+          "y": -380.1500174731575
+        }
+      },
+      {
+        "id": "n:13",
+        "position": {
+          "x": -226.27896729870798,
+          "y": 726.7821775357395
+        }
+      },
+      {
+        "id": "n:14",
+        "position": {
+          "x": 334.8099170684004,
+          "y": -693.6826331024685
+        }
+      },
+      {
+        "id": "n:15",
+        "position": {
+          "x": -405.47064282355603,
+          "y": 426.7372955676573
+        }
+      },
+      {
+        "id": "n:16",
+        "position": {
+          "x": -595.2119781981104,
+          "y": 680.2578388019565
+        }
+      }
+    ]
+  },
+  "dataModel": {
+    "version": "3.0.0",
+    "graphSchemaRepresentation": {
+      "version": "1.0.0",
+      "graphSchema": {
+        "nodeLabels": [
+          {
+            "$id": "nl:0",
+            "token": "QuantitativeDatum",
+            "properties": [
+              {
+                "$id": "p:0_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:0_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:0_2",
+                "token": "value",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:1",
+            "token": "Period",
+            "properties": [
+              {
+                "$id": "p:1_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:1_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:1_2",
+                "token": "developmentStage",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:1_3",
+                "token": "name",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:2",
+            "token": "Production",
+            "properties": [
+              {
+                "$id": "p:2_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:2_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:2_2",
+                "token": "name",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:3",
+            "token": "PhysicalObject",
+            "properties": [
+              {
+                "$id": "p:3_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:3_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:4",
+            "token": "ManMadeObject",
+            "properties": [
+              {
+                "$id": "p:4_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:4_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:4_2",
+                "token": "category",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:4_3",
+                "token": "code",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:4_4",
+                "token": "description",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:5",
+            "token": "ManMadeFeature",
+            "properties": [
+              {
+                "$id": "p:5_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:5_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:5_2",
+                "token": "description",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:5_3",
+                "token": "name",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:5_4",
+                "token": "type",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:6",
+            "token": "ManMadeFeatureAttribute",
+            "properties": [
+              {
+                "$id": "p:6_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:6_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:6_2",
+                "token": "value",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:7",
+            "token": "Site",
+            "properties": [
+              {
+                "$id": "p:7_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:7_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:7_2",
+                "token": "location",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:7_3",
+                "token": "name",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:7_4",
+                "token": "type",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:8",
+            "token": "VisualItem",
+            "properties": [
+              {
+                "$id": "p:8_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:8_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:9",
+            "token": "Actor",
+            "properties": [
+              {
+                "$id": "p:9_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:9_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:9_2",
+                "token": "value",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:10",
+            "token": "TimeSpan",
+            "properties": [
+              {
+                "$id": "p:10_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:10_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:10_2",
+                "token": "value",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:11",
+            "token": "Place",
+            "properties": [
+              {
+                "$id": "p:11_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:11_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:11_2",
+                "token": "value",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:12",
+            "token": "Measurement",
+            "properties": [
+              {
+                "$id": "p:12_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:12_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:12_2",
+                "token": "metric",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:12_3",
+                "token": "value",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:13",
+            "token": "Dimension",
+            "properties": [
+              {
+                "$id": "p:13_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:13_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:13_2",
+                "token": "metric",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:13_3",
+                "token": "value",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:14",
+            "token": "Type",
+            "properties": [
+              {
+                "$id": "p:14_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:14_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:14_2",
+                "token": "name",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:15",
+            "token": "Material",
+            "properties": [
+              {
+                "$id": "p:15_0",
+                "token": "id:ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:15_1",
+                "token": ":LABEL",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              },
+              {
+                "$id": "p:15_2",
+                "token": "name",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          },
+          {
+            "$id": "nl:16",
+            "token": "",
+            "properties": [
+              {
+                "$id": "p:1",
+                "token": ":START_ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": true
+              },
+              {
+                "$id": "p:2",
+                "token": ":END_ID",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": true
+              },
+              {
+                "$id": "p:3",
+                "token": ":TYPE",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": true
+              }
+            ]
+          }
+        ],
+        "relationshipTypes": [
+          {
+            "$id": "rt:0",
+            "token": "RELATED_TO",
+            "properties": [
+              {
+                "$id": "p:0_0",
+                "token": ":TYPE",
+                "type": {
+                  "type": "string"
+                },
+                "nullable": false
+              }
+            ]
+          }
+        ],
+        "nodeObjectTypes": [
+          {
+            "$id": "n:0",
+            "labels": [
+              {
+                "$ref": "#nl:0"
+              }
+            ]
+          },
+          {
+            "$id": "n:1",
+            "labels": [
+              {
+                "$ref": "#nl:1"
+              }
+            ]
+          },
+          {
+            "$id": "n:2",
+            "labels": [
+              {
+                "$ref": "#nl:2"
+              }
+            ]
+          },
+          {
+            "$id": "n:3",
+            "labels": [
+              {
+                "$ref": "#nl:3"
+              }
+            ]
+          },
+          {
+            "$id": "n:4",
+            "labels": [
+              {
+                "$ref": "#nl:4"
+              }
+            ]
+          },
+          {
+            "$id": "n:5",
+            "labels": [
+              {
+                "$ref": "#nl:5"
+              }
+            ]
+          },
+          {
+            "$id": "n:6",
+            "labels": [
+              {
+                "$ref": "#nl:6"
+              }
+            ]
+          },
+          {
+            "$id": "n:7",
+            "labels": [
+              {
+                "$ref": "#nl:7"
+              }
+            ]
+          },
+          {
+            "$id": "n:8",
+            "labels": [
+              {
+                "$ref": "#nl:8"
+              }
+            ]
+          },
+          {
+            "$id": "n:9",
+            "labels": [
+              {
+                "$ref": "#nl:9"
+              }
+            ]
+          },
+          {
+            "$id": "n:10",
+            "labels": [
+              {
+                "$ref": "#nl:10"
+              }
+            ]
+          },
+          {
+            "$id": "n:11",
+            "labels": [
+              {
+                "$ref": "#nl:11"
+              }
+            ]
+          },
+          {
+            "$id": "n:12",
+            "labels": [
+              {
+                "$ref": "#nl:12"
+              }
+            ]
+          },
+          {
+            "$id": "n:13",
+            "labels": [
+              {
+                "$ref": "#nl:13"
+              }
+            ]
+          },
+          {
+            "$id": "n:14",
+            "labels": [
+              {
+                "$ref": "#nl:14"
+              }
+            ]
+          },
+          {
+            "$id": "n:15",
+            "labels": [
+              {
+                "$ref": "#nl:15"
+              }
+            ]
+          },
+          {
+            "$id": "n:16",
+            "labels": [
+              {
+                "$ref": "#nl:16"
+              }
+            ]
+          }
+        ],
+        "relationshipObjectTypes": [
+          {
+            "$id": "r:0",
+            "type": {
+              "$ref": "#rt:0"
+            },
+            "from": {
+              "$ref": "#n:3"
+            },
+            "to": {
+              "$ref": "#n:3"
+            }
+          }
+        ],
+        "constraints": [
+          {
+            "$id": "c:0",
+            "name": "id:ID_QuantitativeDatum_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:0"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:0_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:1",
+            "name": "id:ID_Period_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:1"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:1_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:2",
+            "name": "id:ID_Production_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:2"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:2_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:3",
+            "name": "id:ID_PhysicalObject_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:3"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:3_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:4",
+            "name": "id:ID_ManMadeObject_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:4"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:4_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:5",
+            "name": "id:ID_ManMadeFeature_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:5"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:5_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:6",
+            "name": "id:ID_ManMadeFeatureAttribute_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:6"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:6_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:7",
+            "name": "id:ID_Site_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:7"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:7_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:8",
+            "name": "id:ID_VisualItem_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:8"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:8_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:9",
+            "name": "id:ID_Actor_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:9"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:9_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:10",
+            "name": "id:ID_TimeSpan_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:10"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:10_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:11",
+            "name": "id:ID_Place_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:11"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:11_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:12",
+            "name": "id:ID_Measurement_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:12"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:12_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:13",
+            "name": "id:ID_Dimension_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:13"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:13_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:14",
+            "name": "id:ID_Type_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:14"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:14_0"
+              }
+            ]
+          },
+          {
+            "$id": "c:15",
+            "name": "id:ID_Material_uniq",
+            "constraintType": "uniqueness",
+            "entityType": "node",
+            "nodeLabel": {
+              "$ref": "#nl:15"
+            },
+            "relationshipType": null,
+            "properties": [
+              {
+                "$ref": "#p:15_0"
+              }
+            ]
+          }
+        ],
+        "indexes": []
+      }
+    },
+    "graphSchemaExtensionsRepresentation": {
+      "nodeKeyProperties": [
+        {
+          "node": {
+            "$ref": "#n:0"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:0_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:1"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:1_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:2"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:2_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:3"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:3_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:4"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:4_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:5"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:5_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:6"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:6_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:7"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:7_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:8"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:8_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:9"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:9_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:10"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:10_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:11"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:11_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:12"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:12_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:13"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:13_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:14"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:14_0"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:15"
+          },
+          "keyProperties": [
+            {
+              "$ref": "#p:15_0"
+            }
+          ]
+        }
+      ]
+    },
+    "graphMappingRepresentation": {
+      "dataSourceSchema": {
+        "type": "local",
+        "tableSchemas": [
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "记录其长、宽、高、重等定量数据。_Artifact_陶器_3_装饰手法"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "记录其长、宽、高、重等定量数据。"
+              },
+              {
+                "name": "value",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "刻划"
+              }
+            ],
+            "name": "nodes_记录其长、宽、高、重等定量数据。.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "Period_1"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E4_Period"
+              },
+              {
+                "name": "development_stage",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "良渚文化时期"
+              },
+              {
+                "name": "name",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "良渚文化"
+              }
+            ],
+            "name": "nodes_E4_Period.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E12_Production_Artifact_陶器_3"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E12_Production"
+              },
+              {
+                "name": "name",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "Production"
+              }
+            ],
+            "name": "nodes_E12_Production.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E19_PhysicalObject_Artifact_陶器_5_器物组合"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E19_PhysicalObject"
+              }
+            ],
+            "name": "nodes_E19_PhysicalObject.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "Artifact_陶器_1"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E22_ManMade_Object"
+              },
+              {
+                "name": "category",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "陶器"
+              },
+              {
+                "name": "code",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "M15:42"
+              },
+              {
+                "name": "description",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "口径21.2、高11、圈足径16.6厘米"
+              }
+            ],
+            "name": "nodes_E22_ManMade_Object.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "Structure_1"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E25_ManMade_Feature"
+              },
+              {
+                "name": "description",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "包含M1至M66共66座墓葬。"
+              },
+              {
+                "name": "name",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "墓地"
+              },
+              {
+                "name": "type",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "墓地"
+              }
+            ],
+            "name": "nodes_E25_ManMade_Feature.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E25_ManMadeFeature_Artifact_陶器_1_原始出土地点"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E25_ManMadeFeature"
+              },
+              {
+                "name": "value",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "M15"
+              }
+            ],
+            "name": "nodes_E25_ManMadeFeature.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "Site_1"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E27_Site"
+              },
+              {
+                "name": "location",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "浙江余杭县"
+              },
+              {
+                "name": "name",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "反山"
+              },
+              {
+                "name": "type",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "墓地"
+              }
+            ],
+            "name": "nodes_E27_Site.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E36_VisualItem_Artifact_陶器_2_纹饰类型"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E36_VisualItem"
+              }
+            ],
+            "name": "nodes_E36_VisualItem.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E39_行为者_Artifact_陶器_170_制作者"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E39_行为者"
+              },
+              {
+                "name": "value",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "吴福宝"
+              }
+            ],
+            "name": "nodes_E39_行为者.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E52_时间跨度_Artifact_陶器_115_制作年代"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E52_时间跨度"
+              },
+              {
+                "name": "value",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "19860701"
+              }
+            ],
+            "name": "nodes_E52_时间跨度.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E53_地点_Artifact_陶器_170_制作地点"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E53_地点"
+              },
+              {
+                "name": "value",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "良渚博物院"
+              }
+            ],
+            "name": "nodes_E53_地点.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E54_量度_Artifact_陶器_439_量度信息"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E54_量度"
+              },
+              {
+                "name": "metric",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "量度信息"
+              },
+              {
+                "name": "value",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "口径15.6、高10.6、圈足径10.7厘米"
+              }
+            ],
+            "name": "nodes_E54_量度.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E54_Dimension_Artifact_陶器_2672_硬度"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E54_Dimension"
+              },
+              {
+                "name": "metric",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "硬度"
+              },
+              {
+                "name": "value",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "甚坚硬"
+              }
+            ],
+            "name": "nodes_E54_Dimension.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E55_Type_0f3aa26ab6"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E55_Type"
+              },
+              {
+                "name": "name",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "凹弦纹、凸弦纹、长方形镂孔"
+              }
+            ],
+            "name": "nodes_E55_Type.csv"
+          },
+          {
+            "expanded": false,
+            "fields": [
+              {
+                "name": "id:ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E57_Material_Artifact_陶器_11_掺杂物"
+              },
+              {
+                "name": ":LABEL",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "E57_Material"
+              },
+              {
+                "name": "name",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "砂"
+              }
+            ],
+            "name": "nodes_E57_Material.csv"
+          },
+          {
+            "expanded": true,
+            "fields": [
+              {
+                "name": ":START_ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "Structure_1"
+              },
+              {
+                "name": ":END_ID",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "Site_4"
+              },
+              {
+                "name": ":TYPE",
+                "recommendedType": {
+                  "type": "string"
+                },
+                "sample": "P53_has_former_or_current_location"
+              }
+            ],
+            "name": "relationships.csv"
+          }
+        ]
+      },
+      "nodeMappings": [
+        {
+          "node": {
+            "$ref": "#n:0"
+          },
+          "tableName": "nodes_记录其长、宽、高、重等定量数据。.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:0_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:0_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:0_2"
+              },
+              "fieldName": "value"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:1"
+          },
+          "tableName": "nodes_E4_Period.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:1_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:1_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:1_2"
+              },
+              "fieldName": "development_stage"
+            },
+            {
+              "property": {
+                "$ref": "#p:1_3"
+              },
+              "fieldName": "name"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:2"
+          },
+          "tableName": "nodes_E12_Production.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:2_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:2_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:2_2"
+              },
+              "fieldName": "name"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:3"
+          },
+          "tableName": "nodes_E19_PhysicalObject.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:3_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:3_1"
+              },
+              "fieldName": ":LABEL"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:4"
+          },
+          "tableName": "nodes_E22_ManMade_Object.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:4_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:4_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:4_2"
+              },
+              "fieldName": "category"
+            },
+            {
+              "property": {
+                "$ref": "#p:4_3"
+              },
+              "fieldName": "code"
+            },
+            {
+              "property": {
+                "$ref": "#p:4_4"
+              },
+              "fieldName": "description"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:5"
+          },
+          "tableName": "nodes_E25_ManMade_Feature.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:5_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:5_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:5_2"
+              },
+              "fieldName": "description"
+            },
+            {
+              "property": {
+                "$ref": "#p:5_3"
+              },
+              "fieldName": "name"
+            },
+            {
+              "property": {
+                "$ref": "#p:5_4"
+              },
+              "fieldName": "type"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:6"
+          },
+          "tableName": "nodes_E25_ManMadeFeature.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:6_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:6_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:6_2"
+              },
+              "fieldName": "value"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:7"
+          },
+          "tableName": "nodes_E27_Site.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:7_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:7_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:7_2"
+              },
+              "fieldName": "location"
+            },
+            {
+              "property": {
+                "$ref": "#p:7_3"
+              },
+              "fieldName": "name"
+            },
+            {
+              "property": {
+                "$ref": "#p:7_4"
+              },
+              "fieldName": "type"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:8"
+          },
+          "tableName": "nodes_E36_VisualItem.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:8_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:8_1"
+              },
+              "fieldName": ":LABEL"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:9"
+          },
+          "tableName": "nodes_E39_行为者.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:9_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:9_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:9_2"
+              },
+              "fieldName": "value"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:10"
+          },
+          "tableName": "nodes_E52_时间跨度.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:10_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:10_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:10_2"
+              },
+              "fieldName": "value"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:11"
+          },
+          "tableName": "nodes_E53_地点.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:11_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:11_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:11_2"
+              },
+              "fieldName": "value"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:12"
+          },
+          "tableName": "nodes_E54_量度.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:12_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:12_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:12_2"
+              },
+              "fieldName": "metric"
+            },
+            {
+              "property": {
+                "$ref": "#p:12_3"
+              },
+              "fieldName": "value"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:13"
+          },
+          "tableName": "nodes_E54_Dimension.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:13_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:13_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:13_2"
+              },
+              "fieldName": "metric"
+            },
+            {
+              "property": {
+                "$ref": "#p:13_3"
+              },
+              "fieldName": "value"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:14"
+          },
+          "tableName": "nodes_E55_Type.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:14_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:14_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:14_2"
+              },
+              "fieldName": "name"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:15"
+          },
+          "tableName": "nodes_E57_Material.csv",
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:15_0"
+              },
+              "fieldName": "id:ID"
+            },
+            {
+              "property": {
+                "$ref": "#p:15_1"
+              },
+              "fieldName": ":LABEL"
+            },
+            {
+              "property": {
+                "$ref": "#p:15_2"
+              },
+              "fieldName": "name"
+            }
+          ]
+        },
+        {
+          "node": {
+            "$ref": "#n:16"
+          },
+          "tableName": "relationships.csv",
+          "propertyMappings": [
+            {
+              "fieldName": ":START_ID",
+              "property": {
+                "$ref": "#p:1"
+              }
+            },
+            {
+              "fieldName": ":END_ID",
+              "property": {
+                "$ref": "#p:2"
+              }
+            },
+            {
+              "fieldName": ":TYPE",
+              "property": {
+                "$ref": "#p:3"
+              }
+            }
+          ]
+        }
+      ],
+      "relationshipMappings": [
+        {
+          "relationship": {
+            "$ref": "#r:0"
+          },
+          "tableName": "relationships.csv",
+          "fromMappings": {
+            "#p:3_0": "id:ID"
+          },
+          "toMappings": {
+            "#p:3_0": ":END_ID"
+          },
+          "propertyMappings": [
+            {
+              "property": {
+                "$ref": "#p:0_0"
+              },
+              "fieldName": ":TYPE"
+            }
+          ]
+        }
+      ]
+    },
+    "configurations": {
+      "idsToIgnore": []
+    }
+  }
+}

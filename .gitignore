@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.cursor/
+
+# 数据库文件
+database/*.db*
+
+# 原始报告和大体量资源（不上传到 GitHub）
+遗址出土报告/
+yuki-ref/
+reports/
+
+# 日志
+logs/
+
+
