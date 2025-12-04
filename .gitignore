@@ -15,4 +15,10 @@ reports/
 # 日志
 logs/
 
+# Excel 临时文件
+~$*.xlsx
+~$*.xls
+
+# 临时文件
+.specstory/
 
