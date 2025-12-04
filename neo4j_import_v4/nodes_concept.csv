@@ -1,0 +1,3290 @@
+id,name,
+type_49823b10,豆,E55_Type
+mat_5f6dfeb7,泥质褐胎黑皮陶,E57_Material
+type_0f3aa26a,凹弦纹、凸弦纹、长方形镂孔,E55_Type
+type_940e72a7,鼎,E55_Type
+type_520b2f70,竖向的线条,E55_Type
+mat_bf5d86f9,夹砂褐胎黑皮陶,E57_Material
+type_21427cf5,罐,E55_Type
+mat_aa1d50ef,夹砂灰胎黑皮陶,E57_Material
+type_b712c9ad,甑,E55_Type
+type_7889e301,竖向线条,E55_Type
+mat_48d374b7,夹砂红胎黑皮陶,E57_Material
+type_2419889e,长方形镂孔,E55_Type
+mat_5d640c38,泥质灰胎黑皮陶,E57_Material
+type_4334fc53,陶甑鼎,E55_Type
+type_781dfb1f,素面,E55_Type
+mat_bb7533b2,夹砂黑胎黑皮陶,E57_Material
+type_ff4efcaf,盘,E55_Type
+type_d9fee6ba,凸弦纹,E55_Type
+type_c6a59806,陶过滤器,E55_Type
+mat_92df81bf,泥质灰陶,E57_Material
+type_f7de1d81,缸,E55_Type
+type_c94a2c8f,粗篮纹,E55_Type
+mat_2c2cf701,夹粗砂红陶,E57_Material
+type_3e3ead1a,泥质灰陶器,E55_Type
+mat_000e0325,夹砂红陶,E57_Material
+type_ff5ad7e1,圈足罐,E55_Type
+mat_76a99318,夹砂红褐陶,E57_Material
+type_3485cee2,陶豆,E55_Type
+type_2908fff6,凹弦纹,E55_Type
+type_7a56b4ea,圈足盘,E55_Type
+mat_7e888ffb,泥质灰胎，外胎为橙黄色,E57_Material
+type_8426ccc6,斜向篮纹,E55_Type
+mat_3357c26d,夹粗砂褐胎,E57_Material
+type_697755e7,平底盘,E55_Type
+mat_e03df801,泥质橙红胎黑皮陶,E57_Material
+type_f2df3f41,朱色彩绘,E55_Type
+mat_858ed3e5,泥质陶,E57_Material
+mat_e7c6f48a,泥质橙红陶,E57_Material
+type_53aae0fe,不明器种,E55_Type
+mat_8d6727fc,夹细砂红陶,E57_Material
+mat_3b470c5f,夹粗砂陶,E57_Material
+mat_4e7e9a54,夹细砂红褐陶,E57_Material
+type_65ebc35d,篮纹,E55_Type
+mat_52ac07b9,夹砂陶,E57_Material
+mat_644a6c09,夹细砂陶,E57_Material
+type_fb94c3ce,凹弦纹，凹弧边三角形和圆形未透镂孔组成的纹带,E55_Type
+type_04bd0c61,过滤器,E55_Type
+type_2ab47290,陶鼎,E55_Type
+type_85d3a0d4,陶甑,E55_Type
+mat_dc1f3774,夹细砂,E57_Material
+mat_e6968dff,夹粗砂,E57_Material
+mat_b8ed7324,泥质黑胎黑皮陶,E57_Material
+type_2d6b90ef,大口缸,E55_Type
+mat_11582143,夹细砂黑皮陶,E57_Material
+type_e88b0ca6,弦纹,E55_Type
+mat_9c906731,夹砂黑皮陶,E57_Material
+type_44e92372,陶罐,E55_Type
+mat_93a1cdc4,泥质黑皮陶,E57_Material
+mat_f6c4f722,夹砂褐陶,E57_Material
+type_28410f7f,陶大口缸,E55_Type
+type_04119f8b,轮制,E55_Type
+mat_34fadd68,夹砂黑胎褐陶,E57_Material
+type_35ecb309,鼎足残片,E55_Type
+type_bc9d903c,甑鼎,E55_Type
+type_095c6eab,球形隧孔珠,E55_Type
+type_0fa794fd,陶盘,E55_Type
+type_fcaf2017,高领罐,E55_Type
+type_30db79c5,壶,E55_Type
+mat_1b85376a,夹砂黑陶,E57_Material
+type_366526c2,竹节状凸棱,E55_Type
+type_551ab92c,陶尊,E55_Type
+type_bed304e3,"凹弦纹, 扁圆孔",E55_Type
+type_9d92e284,宽把杯,E55_Type
+type_466e21b6,圆形穿孔,E55_Type
+type_0e5a0680,T形足鼎,E55_Type
+type_17cf4561,陶盆,E55_Type
+type_08beabf1,"凹弦纹, 圆形镂孔",E55_Type
+mat_1b8c60a0,泥质红衣陶,E57_Material
+type_65483c3c,陶纺轮,E55_Type
+mat_f137740c,泥质红陶,E57_Material
+type_f976e598,鱼鳍足鼎,E55_Type
+type_241f42a2,"凸棱, 褶棱, 扁圆孔",E55_Type
+type_19d38b80,"凸弦纹, 扁圆形镂孔",E55_Type
+type_aa544c39,圆锥足鼎,E55_Type
+type_d29660b2,"凹弦纹,扁圆孔",E55_Type
+type_280114d5,褶棱,E55_Type
+type_d4262612,尊,E55_Type
+type_68efa702,"凹弦纹, 圆形穿孔",E55_Type
+type_4bf5ca7e,"凸棱, 扁穿孔",E55_Type
+type_d74d0f20,凸棱,E55_Type
+type_d401c3bb,凸弦纹、凹弦纹、圆形镂孔、扁圆形镂孔,E55_Type
+mat_9a719e98,夹砂或泥质,E57_Material
+type_3e502364,A型镀,E55_Type
+type_939e162c,Ⅱ式,E55_Type
+type_eb5602f1,豆盘,E55_Type
+type_b0c7e701,双鼻壶,E55_Type
+type_86296f5a,杯,E55_Type
+type_fd9d7ebd,盆,E55_Type
+type_568c3ec8,纺轮,E55_Type
+mat_3b3920f4,泥质灰黄陶,E57_Material
+mat_939cc989,泥质褐陶,E57_Material
+mat_8f5833f9,粗泥质红陶,E57_Material
+type_bd87d9a6,侧扁足,E55_Type
+mat_f50251a7,夹砂灰陶,E57_Material
+type_5c149fce,三角形侧扁足,E55_Type
+type_7a625768,鱼鳍形鼎足,E55_Type
+type_2e43a180,T形鼎足,E55_Type
+type_6bd9bec2,平行的竖向直槽，两个半圆错位相扣的符号,E55_Type
+type_00c82fb8,三角凿形足,E55_Type
+type_fd9437b4,短刻槽,E55_Type
+type_01b542b0,凹弧足,E55_Type
+type_a2e568c7,三道断续的竖向刻槽,E55_Type
+type_1fc5b813,圆锥足,E55_Type
+type_acadbb1a,其他足,E55_Type
+type_662fd6b5,多道交错的短直线,E55_Type
+type_7d7ef7ad,花边，中部有一道较深的竖槽，竖槽两边各有三道较浅的平行直线,E55_Type
+type_8c8fbd24,豆把,E55_Type
+type_cdbbf353,两组凸弦纹，弦纹间饰有扁圆镂孔，一周三孔,E55_Type
+mat_dab9ddba,泥质红胎黑皮陶,E57_Material
+type_c2b6e45d,杯把,E55_Type
+type_14c9268b,麻花状,E55_Type
+type_44dee6d1,交叉的短直线,E55_Type
+type_5c9d9663,多条竖向短直线,E55_Type
+type_1ed97423,罐口沿残片,E55_Type
+type_ea61856e,两点为一组的戳点纹,E55_Type
+type_8b0a3ed5,陶片,E55_Type
+type_35daf5eb,竖向短直线,E55_Type
+type_9662e7e6,两点为一组,E55_Type
+type_1954d25b,罐腹部残片,E55_Type
+type_664ebc35,弦断条纹,E55_Type
+type_af42653c,不规则波浪纹,E55_Type
+mat_247850dd,泥质灰胎褐皮陶,E57_Material
+type_fb45b840,豆圈足残片,E55_Type
+type_635ffb73,纵向曲折纹,E55_Type
+type_23695d66,盆钵类口沿残片,E55_Type
+type_70443381,瓦棱,E55_Type
+type_ec798bd2,器腹残片,E55_Type
+type_5f6eed9a,器底残片,E55_Type
+type_92ef7e9d,不规则的波浪纹,E55_Type
+mat_3cc235c7,泥质褐胎,E57_Material
+type_de98cdfd,动物形器盖纽,E55_Type
+type_e1258e25,截孔,E55_Type
+type_d0693c82,钻芯,E55_Type
+type_d7efbf1c,制作不规整,E55_Type
+type_c35512dd,圈足杯,E55_Type
+type_0382a04f,鼎足,E55_Type
+type_93fb2c59,竖向较短的戳划纹,E55_Type
+type_f1c041af,竖向凹槽,E55_Type
+type_8c8449de,竖向划纹,E55_Type
+type_5e3cf1b4,竖向刻划纹,E55_Type
+type_95c08892,刻划纹,E55_Type
+type_b4f3c5db,楔形足,E55_Type
+type_9eb729ff,符号,E55_Type
+type_a831ac16,圈足,E55_Type
+type_745b63cc,鼎罐类口沿片,E55_Type
+type_abafd4d2,罐口沿,E55_Type
+type_c1b71fea,罐口沿片,E55_Type
+type_5fed6992,盆钵类口沿片,E55_Type
+type_6c0def4f,器把,E55_Type
+type_1ba3429c,缸片,E55_Type
+type_daf742fb,韩瓶,E55_Type
+mat_2d49cbe8,灰胎,E57_Material
+type_213a5ff2,葵口碗,E55_Type
+mat_9088451f,褐胎,E57_Material
+type_2358eb47,青瓷碗,E55_Type
+mat_ab80c6a6,灰白胎,E57_Material
+type_459198db,瓷罐,E55_Type
+type_2576c294,旋纹,E55_Type
+mat_f0b7509e,黑灰粗胎,E57_Material
+type_bdcc9668,酱釉双耳罐,E55_Type
+type_7ee3dd38,细冰裂纹,E55_Type
+mat_0432d642,灰褐胎,E57_Material
+type_78d739c7,四系罐,E55_Type
+type_b5a6d590,凹旋纹,E55_Type
+mat_5b9bdbdd,红褐胎,E57_Material
+type_f827f80a,酱釉罐,E55_Type
+mat_08fe3702,暗褐胎,E57_Material
+type_15474fb9,酱釉灯盏,E55_Type
+type_6ec88223,罐形,E55_Type
+type_6e731133,褶状装饰,E55_Type
+type_b8987f94,II双鼻壶,E55_Type
+type_ee63e428,盆形,E55_Type
+type_75227a55,"凹旋纹, 扁圆孔",E55_Type
+type_1f847a48,BⅢ壶,E55_Type
+type_f5e0f173,×形符,E55_Type
+type_60db0009,旋纹和零星扁圆镂孔,E55_Type
+type_2b75d6c3,凹旋纹、凸棱,E55_Type
+type_3fa68144,品字形分布的扁圆孔,E55_Type
+type_9041f338,凹旋纹，旋纹间饰有4个扁孔,E55_Type
+type_7292200d,BⅡ壶,E55_Type
+type_4f77fd01,B型壶,E55_Type
+type_3a2d4726,AⅢ壶,E55_Type
+type_f55ba5a3,凹旋纹，扁圆孔,E55_Type
+type_e69746f6,器盖,E55_Type
+type_513cc2f7,"5 道凸棱, 扁圆孔",E55_Type
+type_31c19a74,网格状符号,E55_Type
+type_a6394abc,扁圆孔,E55_Type
+mat_9be6aa2d,粗泥灰陶,E57_Material
+type_5a9902c3,I双鼻壶,E55_Type
+type_fd1bf3d0,凹旋纹，竖向错位的扁圆孔,E55_Type
+type_57743c30,簋,E55_Type
+type_fa6b4d50,两道凹弦纹和若干扁圆镂孔,E55_Type
+type_f4578fca,凹旋纹、扁圆孔,E55_Type
+type_c3dcf0e5,凹槽,E55_Type
+type_7d1f088d,"凹旋纹, 扁孔",E55_Type
+type_b391223b,两道凹旋纹，旋纹内分别饰2个对称和3个不对称的未透扁孔,E55_Type
+type_6973788a,把上部和下部分别有三组圆孔和一组圆孔，每组2个圆孔。把外侧以细泥条纵向粘铺作装饰,E55_Type
+type_249b513d,圆圈及放射纹,E55_Type
+type_b8fa3d8b,鼎身与鼎足分别制好后粘接,E55_Type
+type_05eb1bb3,手捏,E55_Type
+type_3ca92a73,泥条盘筑,E55_Type
+type_49eed28c,未穿透镂孔,E55_Type
+type_ff9018a0,细泥条编织纹,E55_Type
+type_05aa1e20,布纹麻布印痕,E55_Type
+type_af400525,细泥条麻花状编织纹,E55_Type
+type_657fe76b,塞痕及麻布印痕,E55_Type
+type_01efd41b,细泥条麻花状拼贴,E55_Type
+type_d9bc183c,麻布印痕,E55_Type
+type_525ccad9,Ba型,E55_Type
+type_cdd5f674,Bb型,E55_Type
+type_cdcf8420,截点纹,E55_Type
+type_a808fc3a,鹊划纹,E55_Type
+type_59d0ee99,鹍划纹,E55_Type
+type_c1c490eb,附加堆纹和半圆截纹,E55_Type
+type_a76e30d5,同心圆圈纹,E55_Type
+mat_2c0938d0,夹砂夹蚌褐胎黑皮陶,E57_Material
+type_59737e33,鱼鳍足陶鼎（Aa型Ⅱ式）,E55_Type
+type_6edb309d,I式,E55_Type
+type_d73e072f,隔挡鼎,E55_Type
+type_103825dd,纵向平行划纹,E55_Type
+mat_6fc6cd9a,夹砂红褐胎红皮陶,E57_Material
+type_12215cf9,叶脉形交错刻划纹,E55_Type
+type_5ebf1696,划纹和戳点纹,E55_Type
+mat_8210e0e5,"夹砂夹蚌红褐胎, 外施黑皮但大部分脱落",E57_Material
+type_c4b619a7,划纹,E55_Type
+type_047781bb,楔形戳点纹,E55_Type
+type_f965216e,圆形凹点,E55_Type
+mat_0d711093,夹砂灰褐胎黑皮陶,E57_Material
+type_221bb82d,纵向短直槽,E55_Type
+type_9230849c,Da型,E55_Type
+type_25dd7a15,Db型,E55_Type
+type_17939e9a,Ea型I式,E55_Type
+type_9abe4a37,Ea型Ⅱ式,E55_Type
+type_b57e747e,Eb型,E55_Type
+type_543acaed,附流带把鼎,E55_Type
+type_2d2cccee,三角形足鼎,E55_Type
+type_88fcd56a,正装鼎足鼎,E55_Type
+type_fe5fec1d,乳丁足鼎,E55_Type
+type_8fa45c88,带螯鼎,E55_Type
+type_12274cd9,圆锥形鼎足,E55_Type
+type_ea18f518,侧扇形鼎足,E55_Type
+type_c33fddf4,三角形鼎足,E55_Type
+type_97d59bd3,凿形鼎足,E55_Type
+type_dc0882c9,正装鼎足,E55_Type
+type_441129ca,其他鼎足,E55_Type
+type_157a97f7,叉形刻符,E55_Type
+type_0368eb30,"凹旋纹, 凸弦纹, 扁方形镂孔",E55_Type
+type_712c18ba,"旋纹, 凸弦纹, 扁方形镂孔",E55_Type
+type_a3a562cb,"凹旋纹, 镂孔",E55_Type
+type_f1d23053,"凸弦纹, 镂孔",E55_Type
+type_e97aac8b,Ⅲ式,E55_Type
+type_b8faa214,IV式,E55_Type
+type_29a3cadf,陶折腹豆其他类,E55_Type
+type_4380df26,窄梯形弦纹,E55_Type
+type_ce3b578b,陶豆（Ba型）,E55_Type
+type_b9a50752,"凹旋纹, 扁方镂孔",E55_Type
+mat_9dea5488,"泥质灰胎黑皮陶, 带铅光",E57_Material
+type_c355c097,"凹旋纹, 扁圆镂孔",E55_Type
+type_952fc52d,异形豆,E55_Type
+type_49cd398a,"圆形镂孔, 菱形弧线夹圆圈的戳印纹",E55_Type
+type_09d80503,平底罐,E55_Type
+type_b43abadb,细弦纹,E55_Type
+type_ec31d7e0,“3”字形符号,E55_Type
+mat_33073547,泥质红褐陶,E57_Material
+type_275bf2bc,细凸弦纹,E55_Type
+mat_8add2071,夹砂灰褐陶,E57_Material
+type_f4d66865,网格线、禽类的身子,E55_Type
+mat_a8d923de,夹砂夹炭灰陶,E57_Material
+type_c385ee9e,变形鸟纹,E55_Type
+type_a150dfb4,附加堆纹,E55_Type
+mat_a0262c26,夹砂红褐胎黑皮陶,E57_Material
+type_db802e63,三足罐,E55_Type
+type_57d5e8ca,小罐,E55_Type
+type_45d20e57,戳点纹饰和符号,E55_Type
+type_fa7cd28c,"戳点纹, 细弦纹",E55_Type
+type_75c9aef0,"戳点纹, 粗凸弦纹, 细凹旋纹, “T” 字形刻划符号",E55_Type
+type_bc596f37,"截点纹, 凹旋纹",E55_Type
+type_65298dde,"戳点纹, 双细凹旋纹",E55_Type
+type_1bc777a7,"水波纹戳点纹, 凸弦纹, 细密旋纹",E55_Type
+type_2002fdcc,泥质红陶罐,E55_Type
+type_ff7e9485,"戳点纹, 凸弦纹",E55_Type
+type_acb6e8fd,"戳点纹, 附加堆纹",E55_Type
+type_a4554d73,钵形盆,E55_Type
+type_109b7d7b,Aa型,E55_Type
+type_93c053b8,Ab型,E55_Type
+type_170b2a02,D型,E55_Type
+type_e393ef0a,E型,E55_Type
+type_65c096fa,圆孔加同心的4~6个半圆形刻槽,E55_Type
+type_063322e9,细旋纹,E55_Type
+type_78dcbec8,三足盘,E55_Type
+type_9cf8dde1,四足方盘,E55_Type
+type_8620b35d,"螺旋纹填平行之字纹, 凸弦纹, 鸟纹",E55_Type
+type_397b02d2,“十”字刻划符号,E55_Type
+type_54493821,龟纹和带爪动物纹,E55_Type
+type_06b52944,变形网纹或变形网纹加鸟首蛇身纹,E55_Type
+type_a0612d80,"凹旋纹, 刻划符号",E55_Type
+type_b9fc3d10,压点纹,E55_Type
+type_c91bcd26,单把杯,E55_Type
+type_21486dc1,A型,E55_Type
+type_2e677feb,C型,E55_Type
+type_c092b394,B型,E55_Type
+type_19bad6e8,"凹旋纹, 扁方形镂孔",E55_Type
+type_e0e3955f,陶簋（C型）,E55_Type
+type_1403f060,陶缸,E55_Type
+type_e6df7ad2,陶质簸箕,E55_Type
+type_9c603005,袋足,E55_Type
+type_c0e2039a,带有流器,E55_Type
+type_c07b8432,厚胎杯形器,E55_Type
+type_a389dbb6,器流,E55_Type
+type_89a23600,陶质房屋模型,E55_Type
+type_a1c1adee,锯齿形装饰,E55_Type
+type_ebaead0e,猪面泥塑,E55_Type
+type_d1d39bb0,狐狸面泥塑,E55_Type
+type_caca4190,蜥蜴泥塑,E55_Type
+type_b2f822dd,大象泥塑,E55_Type
+type_6b1836dc,支座,E55_Type
+type_1577a542,网坠,E55_Type
+type_94c6e95a,纵向条纹,E55_Type
+type_1b2527d8,球,E55_Type
+mat_e6c287ad,泥质灰黑陶,E57_Material
+type_24c5d360,成排分布的戳点纹,E55_Type
+type_1b5e534d,折角符号,E55_Type
+mat_7cd666ec,泥质灰褐陶,E57_Material
+mat_9cbab9c9,黑皮灰陶,E57_Material
+type_8c0b251c,陶器盖,E55_Type
+type_0d2809c6,陶鼎罐类器盖,E55_Type
+mat_4707c756,夹砂褐胎陶,E57_Material
+type_c0e0c821,Be型,E55_Type
+type_78bbf490,Bc型,E55_Type
+type_0bccba96,异形器盖,E55_Type
+type_852a0582,斜向抹划纹,E55_Type
+type_5c02d56c,花口,E55_Type
+type_79d7fa24,口沿残片,E55_Type
+type_2baa8e60,筒形器,E55_Type
+type_c4acb471,馏,E55_Type
+type_bfe66962,罐圈足护罩,E55_Type
+type_2fa2bdf3,簸箕,E55_Type
+type_f5e6452f,鸟首蛇身纹为主纹，之间刻画以鸟首纹或卷云纹为接点的网纹,E55_Type
+type_2bfdf587,鸟首蛇身纹,E55_Type
+type_47b87d87,多鸟头纹,E55_Type
+type_f622c6ee,鱼鳞纹,E55_Type
+type_21182433,鸟纹,E55_Type
+type_e424130e,"圆形戳孔, 凸弦纹",E55_Type
+type_ac159783,横向水波纹或横向水波纹加鸟首纹图案,E55_Type
+type_447b951d,成组凸弦纹,E55_Type
+type_931cd990,纵向水波纹,E55_Type
+type_21d192c4,鸟头蛇身纹,E55_Type
+type_5e30b592,"变形网纹, 鸟首蛇身纹",E55_Type
+type_4ade7562,"平行线纹, 砖砌纹",E55_Type
+type_ce93d0c9,平行线纹、砖砌纹、鸟首蛇身纹,E55_Type
+type_3f91cd77,叶脉纹,E55_Type
+type_7d5915ab,鸟形主纹、方格状地纹、带状装饰纹,E55_Type
+type_09fa5952,"动物形刻划纹饰, 凹旋纹, 扁方形镂孔",E55_Type
+type_35cc6819,虫虾形,E55_Type
+type_642dd18e,鱼形,E55_Type
+type_e806ed88,连续的刻符,E55_Type
+type_9a457489,"褶棱, 扁圆孔",E55_Type
+type_729d4564,"凸弦纹, 扁圆镂孔",E55_Type
+type_edc5cae8,方框加叉形,E55_Type
+type_23efa4b9,泥质红陶卷沿罐,E55_Type
+type_804cdc3b,木形字符,E55_Type
+type_812a25ff,L形,E55_Type
+type_dbf34697,弧线放射纹,E55_Type
+type_c6bfb1dc,弧形片状陶器,E55_Type
+type_29c24999,"红色宽带和窄带纹, 简化鸟纹",E55_Type
+type_bc4d3f15,梳背,E55_Type
+type_cbb25202,B型镀,E55_Type
+type_0e0ec0e5,隧孔珠,E55_Type
+type_60799028,C型镀,E55_Type
+type_884fe8ee,G型镀,E55_Type
+type_9f4ecf9e,缓\壁,E55_Type
+type_7c9a41bc,A型锥形饰,E55_Type
+type_82ccbd74,B型锥形饰,E55_Type
+type_47261f3a,E型镀,E55_Type
+type_448e390e,镯,E55_Type
+type_b21911be,D型镀,E55_Type
+type_3955f248,F型镀,E55_Type
+type_0146e763,凹弦纹，扁圆穿孔,E55_Type
+type_8fef8347,釉面有细冰裂纹,E55_Type
+type_76581ecc,内底有一圈凹槽及圈足套烧痕,E55_Type
+type_a8d5d3ca,钵,E55_Type
+type_983448e8,盐,E55_Type
+mat_cadd4495,粗泥陶,E57_Material
+type_01a0cbe7,分制后粘接,E55_Type
+type_aef9f365,双鼻壶器盖,E55_Type
+mat_cf0d1559,夹砂褐胎红皮陶,E57_Material
+type_612c78cd,线槽,E55_Type
+type_9b53cbe3,镂空花纹,E55_Type
+type_75a70698,纵向平行的划纹,E55_Type
+type_bcafe9e1,纵向刻槽,E55_Type
+type_d4722a2a,弦纹，纵向直槽,E55_Type
+type_d93820d2,纵向划纹,E55_Type
+mat_f07da4b6,夹砂夹炭灰胎黑皮陶,E57_Material
+type_a0992017,斜向戳点纹,E55_Type
+type_25171ce1,交错刻划纹和零星戳点纹,E55_Type
+type_557695b1,密集的交错刻划纹和零星戳点纹,E55_Type
+type_1bb25342,圆形戳孔,E55_Type
+type_bab2c936,稀疏的戳点纹,E55_Type
+type_c4ce2d44,竖向刻划纹和竖向长戳点纹,E55_Type
+type_3c642132,竖向刻划纹和戳点纹,E55_Type
+type_e7681b21,稀疏的竖向刻划纹,E55_Type
+type_0b1cc15d,竖向刻划纹和长戳点纹,E55_Type
+type_1618a716,戳点纹,E55_Type
+type_475fff1b,戳线纹,E55_Type
+type_1fba230f,刻槽,E55_Type
+type_a5e0514f,截线,E55_Type
+type_72f9cb88,"按窝纹, 刻槽",E55_Type
+type_319c5b16,凹弧正装鼎足,E55_Type
+type_696a0105,"按窝纹, 斜向刻槽",E55_Type
+type_9a56c3b1,竖向平行的刻划纹,E55_Type
+type_56abe62c,间断竖向刻划纹,E55_Type
+type_d87e008e,"凹槽, 按窝",E55_Type
+type_56710f67,“八”字形戳点纹,E55_Type
+type_7a067881,手工捏制,E55_Type
+type_9c442389,交叉的刻划纹,E55_Type
+type_d32869dc,"“八”字形刻划纹, 竖向刻划纹",E55_Type
+type_0a35a2b5,按窝,E55_Type
+type_e5f683b6,竹节形凸棱,E55_Type
+type_94e534d7,填线曲折纹,E55_Type
+mat_c56b07af,泥质灰胎铅光黑皮陶,E57_Material
+type_8f1e3874,"凸弦纹, 交错戳点",E55_Type
+type_f4c56c48,"圆形大镂孔, 压纹",E55_Type
+type_3258af18,"褶棱, 凹旋纹, 扁圆镂孔",E55_Type
+type_06d20384,"折棱, 圆形镂孔",E55_Type
+type_574f9bd6,抹棱,E55_Type
+type_b9e589a7,镂孔豆把,E55_Type
+type_1bf5393f,"圆形镂孔, 三角形镂孔",E55_Type
+type_e21d6c46,圆形镂孔、三角形镂孔,E55_Type
+type_e5fad064,褶棱、凹旋纹,E55_Type
+mat_92943707,粗泥红陶,E57_Material
+type_ad09e2d7,平行线刻纹,E55_Type
+type_b8bd30a4,填线抽象鸟纹,E55_Type
+type_f9978abe,"水波形戳点纹, 细弦纹",E55_Type
+type_95c58958,"凸弦纹, 麻花形堆贴纹, 细旋纹",E55_Type
+mat_973fd882,泥质红褐胎黑皮陶,E57_Material
+type_b8ccf8bc,突脊,E55_Type
+type_6159de65,"凸弦纹, 平行划线",E55_Type
+type_7462b60e,直线划纹,E55_Type
+type_385489ca,"凸弦纹, 扁圆孔",E55_Type
+type_f0655803,凹弦痕,E55_Type
+type_7db59f33,圆角三角形镂孔及错乱抹划纹,E55_Type
+type_eb14c3f8,四道宽凹旋纹,E55_Type
+type_a1549f53,齿划纹,E55_Type
+type_5f42c3f1,竖向阴刻线,E55_Type
+type_3b345563,盗,E55_Type
+type_191f748a,之字形刻划纹,E55_Type
+type_4399ac13,细泥条编织的辫子形纹饰,E55_Type
+mat_ae59b14a,泥质灰褐胎黑皮陶,E57_Material
+type_cde1f780,"细弦纹, 粗凸弦纹",E55_Type
+type_251ab03e,凹旋纹和4个扁方镂孔,E55_Type
+type_c359750d,横向篮纹,E55_Type
+type_c6593fa5,"横向篮纹, 纵向篮纹",E55_Type
+mat_414ae038,夹细砂灰胎黑皮陶,E57_Material
+mat_92cda02c,夹砂黑皮灰陶,E57_Material
+type_9fee9fd3,人形符号,E55_Type
+type_6ec11cea,同心圆凹槽,E55_Type
+mat_a0cf1e6b,泥质黑皮灰陶,E57_Material
+type_4903c97c,斜条形拍印纹,E55_Type
+type_3c39e49a,横向的平行直线纹，两头为纵向的平行直线纹,E55_Type
+mat_dbe9437f,夹砂夹蚌红褐胎黑皮陶,E57_Material
+mat_6e36be54,夹砂夹蚌红褐陶,E57_Material
+type_54cd8f9f,螺旋纹,E55_Type
+mat_25956ad2,泥质白灰陶,E57_Material
+type_13e6ba61,实心宽沿子母口,E55_Type
+type_38aa0025,线切割痕,E55_Type
+type_4e189bee,圆柱形纽,E55_Type
+type_39d153f4,麻布纹,E55_Type
+type_58625f30,子母口,E55_Type
+type_6211ebc0,宽把杯盖,E55_Type
+type_5eda7629,鹰脸造型,E55_Type
+type_ed15e3da,豆盘残片,E55_Type
+type_1d1092a9,螺旋的蛇身点缀众多鸟首纹或卷云纹,E55_Type
+type_33d1a92e,连续的鸟首蛇身纹,E55_Type
+type_bb1931b9,鸟首蛇身之间填以密实的图案化海涛纹,E55_Type
+type_3f42ccca,以旋涡纹为接点的网格纹,E55_Type
+type_32e88485,纵向水波纹或纵向水波纹加鸟首纹图案,E55_Type
+type_4421c04f,篦纹组,E55_Type
+type_0f5039ee,双鸟头纹饰,E55_Type
+type_c3d76fcb,平行线纹、砖砌纹,E55_Type
+type_62b17368,水波形地纹、空心符号、云纹、叉纹,E55_Type
+type_df13dd4e,鸟首蛇身纹、平行线纹、砖砌纹,E55_Type
+type_f76c5a99,抽象刻划符号,E55_Type
+type_9a50625c,圆形凹槽,E55_Type
+type_b65e7836,抽象鸟纹,E55_Type
+type_473b4ac1,鸟首纹、水波地纹,E55_Type
+type_22591be4,凸弦纹、水波纹,E55_Type
+type_4d91cd43,平行线纹、方格纹,E55_Type
+type_12c694cf,钵似盖,E55_Type
+type_79ffa6fc,四头火焰纹,E55_Type
+type_70410662,成组的字符,E55_Type
+type_6fcbb3e3,冠帽和眼鼻形纹饰,E55_Type
+type_95912e49,内有“十”字的三角形、“T”形,E55_Type
+type_0cd56d43,巾形,E55_Type
+type_8dbd9b88,圆角“田”字形,E55_Type
+type_c746cd27,符号拓片,E55_Type
+type_fd799dea,贯耳壶,E55_Type
+type_a44579d2,"朱线纹, 错位弧形尖角填线纹, 纵向平行直线纹",E55_Type
+type_04504cae,大口折沿罐,E55_Type
+type_c396455c,"红彩粗线, 弧形平行线, 'C'形纹",E55_Type
+type_ed2c610d,扁腹壶,E55_Type
+type_c5a90b0c,"暗红色宽带纹, 平行弧线纹, 填彩弧线三角纹",E55_Type
+type_77848ded,深红色禾本植物纹,E55_Type
+type_b2d7475d,直敞口杯,E55_Type
+type_f00ea95f,"朱线纹, 红色弧线纹",E55_Type
+type_4a530029,漩涡纹填水波纹、抽象鸟纹,E55_Type
+type_7d34e73a,平行的直线划纹,E55_Type
+type_6c0ad187,陶簋,E55_Type
+type_32558104,贯耳,E55_Type
+type_d1d3ca8e,鹰脸形器盖,E55_Type
+type_40d81370,鹰脸形,E55_Type
+type_7ac2c595,交叉弧线,E55_Type
+type_0655cfc0,竖条加双圈形,E55_Type
+type_9fda7bfa,尖足形,E55_Type
+type_ff25af08,奔跑的动物,E55_Type
+type_a19768b9,鸟喙状和近圆形结构，波折线,E55_Type
+type_cde2fda0,红衣,E55_Type
+type_f3a2b99d,手制,E55_Type
+type_307fee27,釜口沿,E55_Type
+type_6b3c28a3,凹弦纹和鸡冠状小鉴,E55_Type
+type_9cf6a509,鼎口沿,E55_Type
+type_ff64f3e3,腰沿,E55_Type
+type_58fa97bd,纯口沿,E55_Type
+type_3e8a95c7,双耳罐口沿,E55_Type
+type_cb3fd0e4,异形馨,E55_Type
+mat_ebfd611d,夹砂灰黑陶,E57_Material
+type_a638e152,塞形器,E55_Type
+type_f6b3b831,双线连对角的方格纹、重圈纹和弦纹等组合成的精致刻划图案,E55_Type
+type_9eb39486,鱼在水中畅游的生动、写实图案,E55_Type
+type_2e8ec2f9,组合凹弦纹,E55_Type
+mat_5511b3f9,粗砂灰陶,E57_Material
+mat_a377596a,粗砂红陶,E57_Material
+type_db361962,陶镯形器,E55_Type
+type_5c2da1d8,陶猪形饰,E55_Type
+type_81b70668,铁,E55_Type
+type_5a135a62,歪嘴,E55_Type
+type_829186fa,陶拍,E55_Type
+type_84004ba9,陶饰品,E55_Type
+type_1485f2a6,简单加工,E55_Type
+type_37b28cdb,慢轮修整或轮制,E55_Type
+type_04171a00,盔形器,E55_Type
+type_04906595,凹弧凿形足鼎,E55_Type
+type_c96d4a4c,凸棱带镂孔高把敛口豆,E55_Type
+type_caa37cc3,假圈足盆,E55_Type
+type_834f9866,折腹罐,E55_Type
+type_526ba443,篮,E55_Type
+type_7696a4f7,凸棱纹,E55_Type
+type_0ec41fc8,凹凸弦纹,E55_Type
+type_2a2ff186,锯齿状凸弦纹,E55_Type
+type_df8710ee,"细弦纹, 宽带状附加堆凸弦纹",E55_Type
+mat_640abb9f,夹砂粗红陶,E57_Material
+type_3e7f1a81,绳索状附加堆纹,E55_Type
+type_be23a373,瓦棱纹,E55_Type
+type_c0c07381,B型豆,E55_Type
+type_e9bb5f3c,豆盘片,E55_Type
+type_59df6525,A形豆把,E55_Type
+type_3ac3ab91,刻纹豆把,E55_Type
+mat_012b2aee,泥质黑陶,E57_Material
+type_ae4c9d98,研磨器,E55_Type
+type_0c88bfc8,瓶,E55_Type
+type_17ed54a1,圆形镂孔,E55_Type
+type_d901ece3,澄滤器,E55_Type
+type_568393d2,小镂孔,E55_Type
+type_dc35b083,陶球,E55_Type
+type_80c4c0d3,环,E55_Type
+type_b729c4f4,猪形饰,E55_Type
+type_3574d46b,凹弦纹，长方形镂孔,E55_Type
+mat_ecb3554c,泥质黄胎黑衣陶,E57_Material
+type_daf43d7a,长方形镂空,E55_Type
+type_c49581c9,组合圆圈纹,E55_Type
+type_b495fb3a,点纹,E55_Type
+type_a3c948c8,三鼻篮,E55_Type
+type_d95ddc31,鼎甑,E55_Type
+type_f6a83393,弧边三角形和圆形组合纹,E55_Type
+type_8f00389b,圆形镂空,E55_Type
+type_4fe32219,葫芦腹罐,E55_Type
+type_d9d049be,三角形与小圆点组合纹,E55_Type
+type_70b2e039,挂饰,E55_Type
+type_4df83c1c,管珠,E55_Type
+type_593063fa,圆形和近方形镂孔,E55_Type
+type_7516715a,凹弧折,E55_Type
+type_2db0fcd5,圆形,E55_Type
+mat_7eeace26,泥质黄胎黑皮陶,E57_Material
+type_d60b7d4c,圈足器,E55_Type
+type_9a464b62,镂孔,E55_Type
+mat_626b90cd,泥质红胎灰陶,E57_Material
+mat_bd6d48da,夹砂红陶或灰陶,E57_Material
+type_a3ea6b1f,凹弧三角形刻纹,E55_Type
+type_11bd52a2,泥质罐,E55_Type
+type_5d1354fc,弧边三角形和小镂孔组合纹,E55_Type
+type_f78cb76b,曲折刻纹,E55_Type
+type_3ba82a60,鱼鳍足两侧和腹部,E55_Type
+type_e22e8108,三角形与月牙形组合刻纹,E55_Type
+type_dfb09b4b,三角形或弧边三角形与月牙形刻划组合纹,E55_Type
+type_82d7318e,小圆形纹,E55_Type
+type_bff98e54,弧边三角形和圆形组合刻划纹,E55_Type
+type_c35b49c8,组合锥刺纹,E55_Type
+type_c14bf825,弧边三角形与圆形镂孔组合纹,E55_Type
+type_045240af,三角形与圆点组合纹,E55_Type
+type_e43b05ce,锥刺纹罐,E55_Type
+type_bd680c79,弦纹，间隔三组波浪纹，肩腹部有三组凸弦纹,E55_Type
+mat_942cc1c2,泥质黄陶,E57_Material
+type_8c93b8c8,凸棱，竖向桥形鑾手,E55_Type
+type_91751d6e,凹弧,E55_Type
+type_7c186ec1,葫芦腹壶,E55_Type
+type_6f42d8d4,刻划符号,E55_Type
+type_e67f42e9,碗,E55_Type
+type_ae49bf68,碟,E55_Type
+type_8e0c56aa,陶环,E55_Type
+type_b1ca2ada,陶弹形器,E55_Type
+type_0473491b,埙,E55_Type
+type_24e24dbc,兽面饰陶片,E55_Type
+type_5b82097c,陶瓶,E55_Type
+type_6c9d1a59,陶双鼻壶,E55_Type
+mat_65f1316d,泥质黑皮陶（器身），夹砂红陶（足）,E57_Material
+type_1c65ca4c,鸟首、羽翅及卷曲的蛇身组成的抽象图案,E55_Type
+type_e1e24f37,弦纹壶,E55_Type
+type_050ca6f3,鸟首纹和多道凹凸弦纹,E55_Type
+type_743fdc73,鸟首纹和五周凹凸弦纹,E55_Type
+type_e7d04ad2,肩部四周凹凸弦纹,E55_Type
+type_726d213c,A型尊,E55_Type
+type_930259d0,B型尊,E55_Type
+type_9865cf9e,肩部有一周凸棱,E55_Type
+type_e1189a75,A型圈足盘,E55_Type
+type_41d415aa,B型圈足盘,E55_Type
+type_b49d7d30,水波状刻纹，上下两组间饰多个小镂孔,E55_Type
+type_eb6087fd,C型圈足盘,E55_Type
+type_fdb0eddd,腹部饰四周凹凸弦纹,E55_Type
+type_5c64e11d,盏,E55_Type
+type_012db1c9,口沿外壁及中腹各饰二至三道凹弦纹,E55_Type
+type_a4a97976,腹部有二道凸棱,E55_Type
+type_6e7be137,折腹处有一周凸棱,E55_Type
+type_c971deb5,折腹处有一周凹弦纹,E55_Type
+type_3ca49c91,腹部上下饰七道弧凸棱纹，把手上端饰小镂孔三个，两侧各有竖向凹弦纹二道,E55_Type
+type_173f99e3,A型平底罐,E55_Type
+type_49d76883,中腹饰三周凹弦纹，器内壁可见多道轮制旋纹,E55_Type
+type_f33ae524,中腹饰四周凹弦纹及一圈梅花状戳刻组合纹,E55_Type
+mat_5603db77,夹细砂黑陶,E57_Material
+type_56e144b6,B型I式平底罐,E55_Type
+type_437f1e7b,B型Ⅱ式平底罐,E55_Type
+type_2c21fdd1,下腹部饰八周细刻弦纹,E55_Type
+type_398dad82,瓮,E55_Type
+mat_0ae0442d,泥质灰胎黑陶,E57_Material
+type_b4844fcf,曲腹壶,E55_Type
+type_4201e10d,篮形器,E55_Type
+type_3df58ffd,鹰首饰,E55_Type
+mat_3ff31b42,泥质黑皮陶、黑陶、泥质灰陶、黄陶、夹砂灰陶、黑陶,E57_Material
+type_37dce2b7,直线间或雨点状纹,E55_Type
+type_96565798,直线,E55_Type
+type_dbf2c7a0,短直线,E55_Type
+type_65488aa1,枝权样刻划,E55_Type
+type_378ab94d,凸棱和小圆孔,E55_Type
+mat_039504da,泥质灰黑胎黑皮陶,E57_Material
+mat_a735178d,泥质黑灰胎黑皮陶,E57_Material
+type_47c05244,陀螺,E55_Type
+type_9ab02acd,条形陶响器,E55_Type
+type_18aca087,豆柄,E55_Type
+type_b2c61d35,椭圆形豆盘,E55_Type
+type_fba28bc1,小盆,E55_Type
+type_0d18fc81,刻划符号杯,E55_Type
+type_54a56e5c,陶响器,E55_Type
+mat_340f07a1,夹细砂灰红陶,E57_Material
+mat_a30ed9aa,夹细砂褐陶,E57_Material
+mat_041e821a,夹砂红衣陶,E57_Material
+type_b01b677d,锯齿样,E55_Type
+type_cc158ccb,重圈纹样,E55_Type
+type_a9453a4d,把婆类,E55_Type
+type_7c0be9b7,花瓣样,E55_Type
+type_afe4d8ad,凹弦纹、凸弦纹,E55_Type
+type_87bc735d,凹弦纹，椭圆形镂孔,E55_Type
+type_86a292f4,圆镂空,E55_Type
+type_77e60dca,壶盖,E55_Type
+type_fbaea0b5,黑色圈状线,E55_Type
+type_3832e9aa,腰沿釜,E55_Type
+type_50eb534a,半圆形器,E55_Type
+type_f1621c12,柱形鼎足,E55_Type
+type_b1ddb9b8,釜腰沿片,E55_Type
+mat_b3f8f3b5,夹砂黑胎红衣陶,E57_Material
+type_c7133a27,带嘴蚤,E55_Type
+type_9c418985,金,E55_Type
+mat_f23c60d2,夹碳,E57_Material
+type_da96abc2,异形,E55_Type
+type_e56a8928,灶形器,E55_Type
+type_3ab0aca7,索状线,E55_Type
+mat_c6b66203,夹砂灰黑胎黑陶,E57_Material
+type_f6ee43dd,小圆戳孔,E55_Type
+mat_72b3734a,灰胎黑皮陶,E57_Material
+type_b1e7fc4d,纹饰,E55_Type
+type_948b29c5,圆形样和小尖喙纹饰,E55_Type
+mat_a4a29cae,夹砂黑胎黑陶,E57_Material
+type_050f6057,突弦纹,E55_Type
+type_9dcef4e2,点状纹和凹弦纹,E55_Type
+type_eb967242,内侧套接,E55_Type
+type_53448790,抹泥条加固,E55_Type
+type_a4db950a,图案不明,E55_Type
+type_633b9bae,绞索状纹,E55_Type
+type_846672bf,已字样符号,E55_Type
+type_4dc3d0a7,五角星形、倒“工”字形,E55_Type
+type_eafbece1,粘贴,E55_Type
+type_26d906b4,突起的弦纹,E55_Type
+type_693ad0eb,蚤类,E55_Type
+type_2c1c433e,泥质黑皮陶罐,E55_Type
+type_61e49039,长方形小镂空和弦纹组合,E55_Type
+type_94ef3b5a,圆形镂空和半圆形按捺,E55_Type
+type_53793e30,刻纹陶片,E55_Type
+type_1618f8f0,鸟蛇样纹饰,E55_Type
+type_9e3c0847,月牙形未穿孔,E55_Type
+type_07fc8628,矮圈足盘,E55_Type
+type_d5723298,平底内凹杯,E55_Type
+type_3be897b0,带把杯,E55_Type
+type_e753b06e,其他壶类,E55_Type
+type_82e69e64,斜腹宽唇缸,E55_Type
+type_327c0529,斜向条纹,E55_Type
+mat_8eb06b6c,夹粗砂灰陶,E57_Material
+type_89e0ee3d,簧,E55_Type
+type_61a08755,捏制,E55_Type
+mat_0c777fd6,夹砂灰红陶,E57_Material
+type_3439463f,快轮,E55_Type
+type_89bb1cc0,直线纹,E55_Type
+type_9079472b,雨点纹,E55_Type
+type_330906da,弦纹、斜向条纹,E55_Type
+mat_38d10e3a,夹粗砂褐陶,E57_Material
+type_8e644f09,图案,E55_Type
+type_f1e40199,叶脉样纹饰,E55_Type
+type_90ee753f,不明陶器,E55_Type
+type_353e490b,波折状线,E55_Type
+type_89a01f8e,小孔,E55_Type
+type_b14f9bfe,交叉形线条,E55_Type
+type_86de7f12,短续的短直线,E55_Type
+mat_67766c8e,粗泥褐陶,E57_Material
+type_0ce2a1ba,网格状纹,E55_Type
+type_5fdb748d,波浪状线条、小圆孔、弧边三角状纹饰,E55_Type
+type_15ff0cce,陶豆柄,E55_Type
+type_66399d47,小圆孔和略弧线的组合纹饰,E55_Type
+type_4c2e8717,刻纹陶豆盘片,E55_Type
+type_be0f4622,椭圆形螺旋线和绞索状纹饰组合的纹饰，鸟形的小尖喙图案,E55_Type
+mat_acc50dc7,泥质青灰胎黑皮陶,E57_Material
+type_972f72fa,红陶罐,E55_Type
+type_2eb096a8,飞鸟形图案,E55_Type
+type_764fd904,短线,E55_Type
+type_98faf95a,倒“工”字形图案,E55_Type
+type_6fa82195,周沿点状戳刻,E55_Type
+type_a0278cf3,杯类残片,E55_Type
+type_d4cebd61,弦纹组合的纹饰,E55_Type
+type_48b0eb22,刻纹陶盂把,E55_Type
+type_d6f0611e,“宫”字形结构,E55_Type
+type_6c7426e3,甑底片,E55_Type
+type_6c49468d,平底盆,E55_Type
+type_a4acc201,桥形把,E55_Type
+type_90a67595,圆形和弧边三角组合,E55_Type
+type_f5f046db,器形用途不明,E55_Type
+type_d0c51f72,鸡冠样泥条,E55_Type
+type_dc6acf52,雨点状,E55_Type
+type_5457e487,交叉雨点状,E55_Type
+type_0c0a5fc5,波折样的交叉雨点状,E55_Type
+type_16628d23,直条状,E55_Type
+type_137af04a,小圆孔,E55_Type
+type_a63c5cba,小圆窝,E55_Type
+type_b3a61f8b,交叉符号,E55_Type
+type_20de4040,直线间或雨点状,E55_Type
+type_c40694b1,直线状,E55_Type
+type_19c891fd,交叉状,E55_Type
+type_45824985,交叉刻划,E55_Type
+type_8d50b138,圆点状纹饰、交叉符号,E55_Type
+type_29fde72b,折波浪状纹饰,E55_Type
+type_117b2ec0,盆形鼎,E55_Type
+type_6873da83,三折波浪线“之”字形样纹,E55_Type
+type_43f71152,点状线围绕一圆圈状图案,E55_Type
+type_87032869,飞鸟样图案,E55_Type
+type_4878bef0,斜向纹饰,E55_Type
+type_f42af5d6,点状线和横向的“工”字形图案,E55_Type
+type_6f22a441,星样戳刻,E55_Type
+type_d76a55cf,点状线和星样图案,E55_Type
+type_8424ff24,钩样图案,E55_Type
+type_74ccf373,两孔,E55_Type
+type_e0f46118,双道折波浪线,E55_Type
+type_4db474e2,图符,E55_Type
+type_c8ee52f1,螺旋线和折波浪线组合,E55_Type
+type_588308d7,刻符,E55_Type
+type_227b98bd,平底,E55_Type
+type_1d75b00e,×形刻符,E55_Type
+type_04970004,丁字形刻符,E55_Type
+type_d6c300b8,不明刻符,E55_Type
+type_500cf773,凸棱六周，间或圆形镂孔,E55_Type
+type_c12aa112,凸棱四周，间或圆孔镂刻,E55_Type
+type_7e3b915b,圆孔和弧边三角、斜线的组合图案,E55_Type
+type_1c0daf4f,凹弦纹，间或三个长方形镂孔,E55_Type
+type_9437b975,弦纹上刻划纹饰,E55_Type
+type_a3a62d13,圆形和半圆形印痕,E55_Type
+type_98309ca5,凸棱和圆孔,E55_Type
+type_113522f2,凸棱和三角形,E55_Type
+type_c44b7972,凸弦纹和长方形小镂孔,E55_Type
+type_4f0ae2b0,凸棱和镂孔,E55_Type
+type_53d60f09,凹弦纹和镂孔,E55_Type
+type_6003fb0d,凹弦纹和长方形小镂孔,E55_Type
+type_d0da31f3,圆孔或半圆形,E55_Type
+type_ff128b25,圆形和交叉线,E55_Type
+type_0f4e8eff,小圆孔并呈三角形,E55_Type
+type_b764cc15,圆孔和弧线,E55_Type
+mat_fad30c53,黑胎红陶,E57_Material
+type_074556a5,网格纹,E55_Type
+type_0468fe02,网格、弦线组合纹样，螺旋状鸟蛇样纹饰，圆圈和弧折波浪连线，尾翼状纹样,E55_Type
+mat_88e169be,夹细砂黑皮陶质,E57_Material
+type_ae8d5f40,绞索和辫状,E55_Type
+type_b357168d,鼓腹壶,E55_Type
+type_6504013f,波折线,E55_Type
+type_d07a2c52,鸟形象和圆圈，波折线，螺旋线,E55_Type
+type_14568fb2,波折线，圆圈或鸟形象,E55_Type
+type_a881a40f,蛇样图案，波折线,E55_Type
+type_8853e6ab,飞鸟形象，波折线,E55_Type
+type_3e16ba4a,飞鸟形象,E55_Type
+type_f39a5155,簌,E55_Type
+mat_0276e62d,灰胎褐色夹砂陶,E57_Material
+type_9e50ac37,蚤把,E55_Type
+type_cbb5fdce,横向条纹,E55_Type
+type_0f4c28c3,"波浪纹, 点状刻划",E55_Type
+type_1a9ab0f1,叶脉纹样,E55_Type
+type_6ddad773,算架,E55_Type
+type_913eef7a,绳纹罐,E55_Type
+type_e81e63ec,绳纹,E55_Type
+mat_76d42b26,夹碳褐陶,E57_Material
+type_8f59d281,三足器,E55_Type
+type_e19125a3,交叉形纹饰,E55_Type
+type_6fa361c8,高圈足罐,E55_Type
+type_387a7141,盂把,E55_Type
+type_f96f60ba,彩绘陶片,E55_Type
+type_5adcb393,红彩,E55_Type
+mat_6ac7ec0a,泥质黑胎灰红陶,E57_Material
+type_7ef39d1a,鱼鳍形足印痕,E55_Type
+mat_28de1b3a,微夹砂黑皮陶,E57_Material
+type_aceab8d4,波浪状线,E55_Type
+type_701fa558,三角形镂空,E55_Type
+type_f7a15aba,网格纹、凹弦纹、相对的飞鸟纹,E55_Type
+type_eaa49644,蚤,E55_Type
+type_536df265,网格状的线条,E55_Type
+type_32b7c8cf,雨点状纹,E55_Type
+type_648ec730,竖向的刻划,E55_Type
+type_f5ae3eb3,罐圈足,E55_Type
+mat_40fe3a98,泥质稍夹砂之灰胎黑皮陶,E57_Material
+type_5d4ec0f0,螺旋制作,E55_Type
+type_f7cb34f1,罐平底,E55_Type
+mat_d4dc56a0,泥质黑胎红衣陶,E57_Material
+mat_ac1e567d,夹细砂灰陶,E57_Material
+type_eacbaca3,孟把,E55_Type
+type_5cd3dcb2,馨把,E55_Type
+mat_593ddb0e,泥质（夹细砂）红陶,E57_Material
+type_b465467d,“Z”字形纹,E55_Type
+type_f3620cb2,其他罐类,E55_Type
+type_a195a443,丞,E55_Type
+mat_406f4ebe,黑皮陶,E57_Material
+type_947a8697,动物形陶塑,E55_Type
+type_c74bb36a,纹样,E55_Type
+type_6720b667,'之'字形纹样,E55_Type
+mat_c446a889,黑皮陶，夹极细砂,E57_Material
+type_04664115,相交的'蛇'样纹，网格和短直线刻划,E55_Type
+type_74a2a625,盒把,E55_Type
+type_728d81b6,解,E55_Type
+mat_60ef835b,泥质灰胎褐陶,E57_Material
+type_561e8ec2,交叉网格状线,E55_Type
+mat_608408d3,夹粗砂灰黑陶,E57_Material
+type_5679e0e3,帮,E55_Type
+type_3ab38d04,竖向刻划间或雨点状戳刻,E55_Type
+type_0cd97cc2,圆形内叉形并间或截点,E55_Type
+type_9c1e9a4c,倒叶脉状，内侧两面还竖向刻划线条,E55_Type
+type_0785d47b,粗豆柄,E55_Type
+type_2a20cc61,凹弦纹并三个一组的小凹孔,E55_Type
+type_3b8eea0c,刻纹,E55_Type
+type_1ac45a26,凹弦纹，扁圆形镂孔,E55_Type
+type_09170698,双鼻壶盖,E55_Type
+mat_e97978d1,泥制灰陶,E57_Material
+type_a2453ae8,釜,E55_Type
+type_5a367ce9,凹弦纹、篮纹,E55_Type
+type_e41db814,粗弦纹,E55_Type
+type_85a673d5,泥条,E55_Type
+type_d2d29330,镰刀状刻符,E55_Type
+type_bf059ea1,连续的曲线刻符,E55_Type
+type_a3253807,陶陀螺,E55_Type
+type_60237cb7,烟斗形陶器,E55_Type
+type_0ffa26f7,算,E55_Type
+type_77dd5d3d,雨点状纹饰,E55_Type
+type_d9218ac0,短竖线,E55_Type
+type_5ec94279,角尺纹,E55_Type
+type_8ad10e08,长戳点纹,E55_Type
+type_3a223a66,竖向和斜向刻划纹,E55_Type
+type_d1d03fe4,斜向刻划纹,E55_Type
+type_780564fc,斜向长戳点纹,E55_Type
+type_54c7c3cc,钉形足,E55_Type
+type_3e68e6d3,稀疏的刻划纹,E55_Type
+type_823e2d2e,凸弦纹，扁圆形穿孔,E55_Type
+type_b81d9182,凹弦纹，斜长孔,E55_Type
+type_74ef6167,突棱,E55_Type
+mat_5b8916ab,灰黄色泥质陶,E57_Material
+type_78b93666,凹弦纹和折棱,E55_Type
+type_d8d194d0,豆耙,E55_Type
+type_3745aca4,凹弦纹，圆形及斜扁圆形穿孔,E55_Type
+type_870feffc,圆形和斜扁圆形间隔的穿孔,E55_Type
+mat_6930aef1,夹沙黑陶,E57_Material
+type_d8206a11,丁字形戳点纹，宽扁的凸弦纹,E55_Type
+type_12d9f7b8,三道凸弦纹,E55_Type
+type_d7217a13,盈把,E55_Type
+type_a52b7e81,两个穿孔,E55_Type
+type_a083d65c,细泥条卷成麻花状,E55_Type
+type_ac007746,第,E55_Type
+type_f11ab9ea,凹弦纹（六道），篦纹（两组共六个）,E55_Type
+type_3e807626,斜向平行刻划纹,E55_Type
+type_a99a21f2,网格篦纹,E55_Type
+type_65ad96da,雷,E55_Type
+type_ba863672,按窝堆纹,E55_Type
+type_d4bb1a82,钵形器,E55_Type
+mat_60d21f14,灰褐夹砂厚胎,E57_Material
+type_f9303d2c,凹弦纹，字符,E55_Type
+mat_a545c170,夹砂红陶胎,E57_Material
+type_28af47c9,变形云纹,E55_Type
+type_3c5556ef,填线纹,E55_Type
+type_e293eb83,弧线交叉和直线篦纹,E55_Type
+mat_510953da,泥质灰胎黑衣腹片,E57_Material
+type_0cddf1f1,填线圆圈和弧线,E55_Type
+mat_99bfd908,泥质黑皮陶腹片,E57_Material
+type_6df3d9cd,刻纹豆盘片,E55_Type
+type_661253ed,动物纹,E55_Type
+mat_17bf72e2,泥质灰胎黑衣豆盘残片,E57_Material
+type_adf8fc66,圆圈及射线纹,E55_Type
+mat_8bb4fc33,泥质红陶器底外侧,E57_Material
+type_2ea87777,弧线纹,E55_Type
+type_7b986bac,人字形相交的并行弧线,E55_Type
+mat_b7daee50,泥质陶腹片,E57_Material
+type_61a50e39,方格纹与并行直线组合纹,E55_Type
+type_0d98c747,其他,E55_Type
+type_4e91ac95,簸形器,E55_Type
+type_e7c4263a,陶瓮,E55_Type
+type_717e626f,陶埙,E55_Type
+type_e32c9c69,曲腹陶壶,E55_Type
+type_7a581110,陶鹰首饰,E55_Type
+type_a052a1e4,陶罐口沿,E55_Type
+type_c25e6b13,泥条捏合,E55_Type
+type_06004a9e,高领陶罐,E55_Type
+type_5fcbc99e,圆腹罐,E55_Type
+type_dee8beb0,溜肩弧腹罐,E55_Type
+type_eb5c623c,折沿联档高,E55_Type
+type_dc7fa022,带流壶,E55_Type
+type_8e08d064,双折肩斜腹尊,E55_Type
+type_63ce4a9f,"弦纹, 正方格纹",E55_Type
+type_d2ed0a06,饼,E55_Type
+type_1542236f,卷沿联档高,E55_Type
+type_202d8f5b,锥足鼎,E55_Type
+type_6ffb148f,浅盘豆,E55_Type
+type_4e708481,深盘豆,E55_Type
+type_b44ebc92,粗腰骶,E55_Type
+type_c257669c,瓮口沿,E55_Type
+type_9f84e3b9,爵,E55_Type
+type_7c317414,细线云纹构成的饕餮纹,E55_Type
+type_f7c712de,折肩斜腹罐,E55_Type
+type_98ed8499,圆肩圆腹罐,E55_Type
+type_055bf24b,带把高,E55_Type
+type_154adf9b,竖行粗绳纹,E55_Type
+type_bac37c36,粗绳纹,E55_Type
+type_f61190e6,扁圆腹爵,E55_Type
+type_c3b45032,鬲,E55_Type
+type_93eb04de,"凹弦纹, 斜行绳纹",E55_Type
+mat_e8eb665a,泥质黑衣陶,E57_Material
+type_0a793a48,敛口弧腹盆,E55_Type
+type_c2cdeb7f,举,E55_Type
+type_5206f14b,"凹弦纹, 绳纹, 泥饼乳丁",E55_Type
+type_b9c237f7,折沿分裆高,E55_Type
+type_8dd327e3,饕餮纹,E55_Type
+mat_d0b8a6cc,硬(釉)陶,E57_Material
+type_cffce96c,残陶杯,E55_Type
+type_001e9500,残高,E55_Type
+type_2b69cd2f,残罐,E55_Type
+type_39e7762d,侈口斜腹盆,E55_Type
+type_9aaf7318,圆肩凳,E55_Type
+type_117ecf9b,残饼,E55_Type
+type_a88f3cce,残纺轮,E55_Type
+type_173182e6,坩埚,E55_Type
+type_b8848f07,坎埚,E55_Type
+type_c8b52b8e,残坩埚,E55_Type
+type_680628e4,凹槽，叶脉纹,E55_Type
+mat_7053baa7,硬（釉）陶,E57_Material
+type_1ada546c,窄条状堆纹，方格纹,E55_Type
+type_1646773d,折肩斜腹尊,E55_Type
+type_30076a40,方格纹,E55_Type
+type_cb8d31ff,瓮残片,E55_Type
+type_c7dcbaa2,凸棱，附加堆纹，网状细绳纹,E55_Type
+type_4499f90d,小口瓮,E55_Type
+type_76a4a96b,侈口盏,E55_Type
+type_11dc3324,折肩能,E55_Type
+type_930d1375,残增埚,E55_Type
+type_4296d7d2,高,E55_Type
+type_753bdac7,细绳纹,E55_Type
+type_a10c0c0f,竖行绳纹,E55_Type
+type_dca34bc0,折沿平档高,E55_Type
+mat_ca69b3ea,砂质黑陶,E57_Material
+type_75e9f9be,侈口晕,E55_Type
+type_2e2b4d11,三周凹弦纹,E55_Type
+mat_3a7ca0da,砂质灰陶,E57_Material
+type_ba46aefb,"模制, 上部经轮转",E55_Type
+type_7b857dc6,"凹弦纹, 绳纹",E55_Type
+type_b9991f15,"二周弦纹, 素面",E55_Type
+type_b1f8701d,斜行中粗绳纹,E55_Type
+type_8e10c99d,侈口弧腹盆,E55_Type
+type_b6009f2f,侈口斜腹缸,E55_Type
+type_dd7bc29f,小口能,E55_Type
+type_a272c010,敛口联裆罪,E55_Type
+type_b9fe99bc,唇下有二道凹弦纹,E55_Type
+type_2ad404cc,折肩弧腹罐,E55_Type
+type_f690ba7a,凹弦纹，中粗绳纹,E55_Type
+type_39ef7ee9,带耳壶,E55_Type
+type_1c5df53e,"凸弦纹, 绳纹经手抹",E55_Type
+type_df24721b,敛口联裆晕,E55_Type
+type_e9300c86,弦纹，圆饼乳钉,E55_Type
+mat_7379ca2c,夹砂灰陶，足红黄色,E57_Material
+type_171b3daa,中粗绳纹,E55_Type
+type_be550f86,浅盘高圈足豆,E55_Type
+type_093fa2e2,盒圈足,E55_Type
+type_87327a20,餅,E55_Type
+type_a6eeac7e,觚,E55_Type
+type_6b5a2a87,曲折纹,E55_Type
+type_29ac2f50,细方格纹,E55_Type
+type_7fb3d63d,残爵腹,E55_Type
+type_6fba1e8a,素面盘,E55_Type
+type_5c328f23,暈,E55_Type
+type_84f67355,暈腿,E55_Type
+type_22c79904,容器,E55_Type
+type_1cb0db91,暈腹,E55_Type
+type_dd8fb662,暈足,E55_Type
+type_6ecbf13c,瓮腹,E55_Type
+type_3f684d16,孟,E55_Type
+type_80170f0c,觚残片,E55_Type
+type_07dc2b1d,容器口,E55_Type
+type_4195c849,饕餮纹，夔纹，圆窝纹,E55_Type
+type_289165b2,弧腹爵,E55_Type
+type_789a99bc,折腹爵,E55_Type
+type_d9e3c2eb,凸弦纹、夔纹、兽面、联珠状圆圈纹、方框形镂孔,E55_Type
+type_128accd8,叠,E55_Type
+type_16d6b5ca,弧腹學,E55_Type
+type_5d5b48e8,弧腹,E55_Type
+mat_547097fc,夹砂黄陶,E57_Material
+type_8b496d08,附加堆纹、绳纹,E55_Type
+type_ee93c211,带状堆纹，椭圆形凹槽，方格纹,E55_Type
+type_32a7a99b,"纽状堆纹, 斜行绳纹",E55_Type
+mat_5e8af44c,夹砂砖红陶,E57_Material
+type_2b5bb71b,"条状堆纹, 竖行绳纹",E55_Type
+type_78237a59,"口沿下和圈足处各饰二条平行堆纹, 腹饰中粗横行条纹",E55_Type
+mat_4dd4f9bc,夹砂橙红陶,E57_Material
+type_2c53fd77,直口斜腹缸,E55_Type
+type_ef4ff0d0,横行条纹,E55_Type
+type_48531f90,颈肩部饰一周花边堆纹，口沿内侧饰一周凹弦纹，腹部饰细绳纹，上压有宽条凹弦纹,E55_Type
+mat_559d8f11,细砂灰黑陶,E57_Material
+type_7a3d18e5,大口尊,E55_Type
+type_a37dda0c,研磨盆,E55_Type
+type_a9ce8daf,"交错中粗绳纹, 竖行与斜行交错刻槽",E55_Type
+type_7feb17c8,印纹硬陶腹片,E55_Type
+type_23c378f0,编织纹(或称席纹),E55_Type
+mat_91f81dcd,泥质灰白陶,E57_Material
+type_584f10ce,陶高足,E55_Type
+mat_e34aa2e8,夹砂灰黄陶,E57_Material
+mat_3744a067,夹砂黄红陶,E57_Material
+type_fd2b2003,陶坩埚,E55_Type
+type_f9ed8dd6,"脊状堆纹, 圆络堆纹, 交错绳纹",E55_Type
+type_ebf22a6e,"堆纹, 斜行细绳纹",E55_Type
+type_4abc4cbc,缸底,E55_Type
+type_5bc22130,腹饰绳纹,E55_Type
+type_2e2fddba,饼足缸底,E55_Type
+type_a238220c,竖行间断细绳纹,E55_Type
+type_8881a1ef,竖绳纹,E55_Type
+type_6a34de98,倒筑圈筑法,E55_Type
+type_975b2516,"绳纽状堆纹, 方格纹",E55_Type
+type_bf28ae68,缸口沿,E55_Type
+type_8f40a44a,泥条圈筑,E55_Type
+type_cd619ccd,壶形器,E55_Type
+type_617812fd,厚胎尊,E55_Type
+type_98ad4846,模制,E55_Type
+type_e366eaa2,陶大口尊,E55_Type
+type_907a9e5c,"肩饰纽状堆纹, 上腹饰平行凹弦纹, 下腹饰交错绳纹",E55_Type
+mat_1469f547,泥质黑陶红胎,E57_Material
+type_531954ea,长颈无肩大口尊,E55_Type
+type_0eb9230a,交错绳纹,E55_Type
+type_f05ec1c7,溜肩瓮,E55_Type
+type_d445478a,"凹弦纹, 斜行中粗绳纹",E55_Type
+type_b11d35c4,轮、模合制,E55_Type
+type_bfbfa670,硬陶瓮,E55_Type
+type_705852fd,叶脉纹、雷纹,E55_Type
+mat_409b603f,泥质灰色硬陶,E57_Material
+type_8fd28b35,圈筑,E55_Type
+type_d55d9eb6,臂,E55_Type
+type_b1651294,朱绘带，凹弦纹，刻划纹，凹点纹,E55_Type
+mat_c231e21a,磨光黑陶,E57_Material
+type_cd87d68e,直口弧腹盆,E55_Type
+type_0f703810,"带状圆涡纹, 横行中粗绳纹",E55_Type
+type_6433cb87,盉,E55_Type
+type_eb18fcd3,折沿平裆高,E55_Type
+type_37fff9a6,斜行绳纹,E55_Type
+type_35bb4c12,圆圈纹，中粗绳纹,E55_Type
+type_8e98f49b,折沿分档高,E55_Type
+type_9f3d029a,细腰赢,E55_Type
+type_d2d79d69,竖行较粗绳纹,E55_Type
+type_9d88b25b,轮制弦纹,E55_Type
+mat_a13f13a5,夹砂棕红陶,E57_Material
+type_32aed1ea,硬陶鼓腹尊,E55_Type
+type_cf03e80f,雷纹,E55_Type
+type_08b795a3,"平行弦纹, 雷纹",E55_Type
+type_9b7a2b3c,釉陶双折肩斜腹尊,E55_Type
+type_319f5d58,斜方格纹、编织纹,E55_Type
+mat_589134b8,泥质灰胎釉陶,E57_Material
+type_1cf21fde,鼓腹尊,E55_Type
+type_61116fcd,凹弦纹，轮制平行弦纹，小环纽，叶脉纹，凸弦纹,E55_Type
+mat_9bd9a641,灰砂红陶,E57_Material
+type_6a147240,正筑圈筑法,E55_Type
+mat_f47dddd3,夹砂灰胎黑衣陶,E57_Material
+type_d6b58e29,正筑法,E55_Type
+type_829f1aa2,模制法,E55_Type
+type_b6384d80,轮制法,E55_Type
+type_3593d3e4,"凸弦纹, 凹弦纹, 细绳纹",E55_Type
+type_66a25557,"颈部有二周凸弦纹, 腹上部饰宽带云雷纹, 下腹饰横竖交错绳纹, 圈足上有一个椭圆形镂孔",E55_Type
+type_2cda4da9,细腰肌,E55_Type
+type_353df332,扁足鼎,E55_Type
+type_c8ef9093,"绳索状堆纹, 小方格纹",E55_Type
+type_0166c98c,"凸弦纹, 叶脉纹",E55_Type
+type_fbac36bb,弊,E55_Type
+type_4c886ef7,"凸弦纹, 竖横交错绳纹, 凹弦纹",E55_Type
+type_7a3dd1a9,陶杯,E55_Type
+type_fec94bdb,纹样带饰变宽,E55_Type
+type_60658605,折肩瓮,E55_Type
+type_9860c7bf,"凹弦纹, 凸弦纹, 网格纹",E55_Type
+type_3d0c7339,陶器,E55_Type
+type_3b39f613,鼓腹罐,E55_Type
+type_f3837693,短颈有肩大口尊,E55_Type
+type_07497e7b,器身模制，口颈部轮制,E55_Type
+type_d4b945bd,锯齿状堆纹，中粗绳纹，圆窝,E55_Type
+mat_885e9716,泥质黄红陶,E57_Material
+type_022894ac,"沿面有二道凹弦纹, 颈腹部饰绳纹, 足外侧作仿夔体装饰",E55_Type
+mat_4d7d8126,夹砂灰陶红胎,E57_Material
+type_67e13287,罐形鼎,E55_Type
+mat_b34706ac,夹砂黑灰陶,E57_Material
+type_8e923ac7,卷沿平档高,E55_Type
+type_6b0e9493,腹饰细绳纹,E55_Type
+mat_1aee2304,夹砂黑灰陶红胎,E57_Material
+type_eb1c8fce,"沿面外侧有一凹弦纹, 腹饰中粗绳纹, 足根满饰绳纹",E55_Type
+type_a3552eab,"沿面内侧饰有一凹弦纹, 腹饰细绳纹",E55_Type
+mat_7553863c,夹砂黑灰陶，胎红色,E57_Material
+type_a27b0b78,卷沿分档高,E55_Type
+type_98604b92,"沿内侧有一凹弦纹, 腹饰绳纹",E55_Type
+type_1f9ef97f,"凹弦纹, 细绳纹",E55_Type
+mat_8936b76d,砂质黑陶红胎,E57_Material
+type_f1df3853,學,E55_Type
+type_0c2b2bc7,缀,E55_Type
+mat_edeac846,砂质红陶,E57_Material
+type_7f84faa9,"凹弦纹, 云雷纹, 细绳纹",E55_Type
+mat_02e3e42a,泥质黑陶灰胎,E57_Material
+type_f1d6776d,"凹弦纹, 中粗绳纹",E55_Type
+type_0a24b134,"模制, 口颈部轮制",E55_Type
+type_05e0abe1,锯齿状花边,E55_Type
+mat_70343f7f,泥质黑灰陶,E57_Material
+type_9c9437e9,交错细绳纹,E55_Type
+type_56e028fa,"颈饰二周凸弦纹, 下腹饰横行细绳纹",E55_Type
+mat_e4343430,"泥质黑陶, 红胎",E57_Material
+type_7e880ba5,"模制, 上部经轮制",E55_Type
+type_1a1480c4,浅盘细柄豆,E55_Type
+type_49d77803,"柄部及座均饰凸凹弦纹及不规则状镂孔装饰, 盘腹部刻有叶脉纹",E55_Type
+type_6c28ab17,"模制, 器身轮制",E55_Type
+type_219ddd91,长颈壶,E55_Type
+type_911143aa,"颈部有一周凸弦纹, 肩部有凹弦纹及斜行刻划纹",E55_Type
+type_05f8c1f7,肩部有乳钉装饰，腹部饰斜行绳纹，上压三道平行锯齿状堆纹,E55_Type
+type_fbde588c,连索块状堆纹，细方格纹,E55_Type
+type_e749470b,轮修痕,E55_Type
+type_3b98d441,卷沿,E55_Type
+mat_08fa9a45,红胎黑衣陶,E57_Material
+type_d8fc8c31,竖行细绳纹,E55_Type
+type_46819eda,乳钉、平行凹弦纹、小方格纹,E55_Type
+type_648a6a5e,折沿联裆高,E55_Type
+mat_2ade7093,夹砂红灰陶红胎,E57_Material
+mat_1da7ec1d,砂质灰黑陶红胎,E57_Material
+type_497bbdb9,模、轮合制,E55_Type
+type_79a6623b,粗腰赢,E55_Type
+type_5707cd13,斜行粗绳纹,E55_Type
+type_4951431f,交错粗绳纹,E55_Type
+type_6426d214,喇叭形器,E55_Type
+type_abe6d9b1,圆圈纹,E55_Type
+type_9be90ce2,"凹槽, 绳纹",E55_Type
+type_ef82a14d,"凹弦纹, 乳钉纹",E55_Type
+type_085c9ce6,模制，口部经轮转,E55_Type
+type_0b552e07,"深凹弦纹, 圆饼状乳钉纹, 浅凹弦纹, 绳纹",E55_Type
+type_d0860c6e,"上部轮制, 下部模制, 磨、足手制",E55_Type
+type_bbe97cfc,"颈、腹间有一凸弦纹, 口沿处有一凹弦纹",E55_Type
+type_79fb5754,"肩附一周堆纹, 腹以下饰竖绳纹",E55_Type
+mat_f951d114,夹砂褐灰陶,E57_Material
+type_7eb3ffa0,弧腹臥,E55_Type
+type_7f46e499,铸,E55_Type
+type_1f917494,"带状方格纹, 凹弦纹, 绳纹",E55_Type
+type_f48502bd,凹弦纹、细绳纹,E55_Type
+mat_6c1e264d,夹砂黑陶红胎,E57_Material
+mat_7e319dee,砂质黄陶,E57_Material
+type_684a5a8f,"锯齿状堆纹, 绳纹",E55_Type
+type_c84c270f,斜行细绳纹,E55_Type
+type_af2232eb,分档高,E55_Type
+type_49399730,斜行细条纹,E55_Type
+type_90d14120,"凹弦纹, 竖行绳纹",E55_Type
+type_86e2a733,平行凸弦纹,E55_Type
+type_8403defa,盘腹有二道凹弦纹,E55_Type
+mat_e2949081,泥质红胎黑陶,E57_Material
+type_e01f4741,轮模合制,E55_Type
+type_1638a698,瓿,E55_Type
+type_bacfa141,"蛙状突泥, 圆饼状乳钉, 凹弦纹",E55_Type
+mat_3f8caaba,泥质黄灰陶,E57_Material
+type_4b1e9909,桥形纽器盖,E55_Type
+type_94ba7299,硬(釉)陶折肩斜腹尊,E55_Type
+type_57251e6e,颈部纹样拓本,E55_Type
+type_2546da46,提梁自,E55_Type
+type_241e595d,"曲折纹, 粗绳纹",E55_Type
+type_b4a07cf7,敛口斜腹盆,E55_Type
+type_2c3e52b7,直口斜腹盆,E55_Type
+type_6916ab8f,圆肩瓮,E55_Type
+mat_489c6b75,"泥质黑陶, 灰胎",E57_Material
+type_27c471da,杯形器,E55_Type
+type_af03da96,"堆纹, 绳纹",E55_Type
+type_2990dde6,"平行凹弦纹, 叶脉纹",E55_Type
+type_e06293c3,"绳纹, 凹弦纹, 联珠纹",E55_Type
+type_e1bff6b2,"凹弦纹, 分段交错细绳纹",E55_Type
+type_ebf8bf4c,侈口联档罪,E55_Type
+type_591234af,斜方格纹，中粗竖行绳纹,E55_Type
+mat_76af0b4b,夹砂黑灰陶，红胎,E57_Material
+type_c1847cf3,"凹弦纹, 斜行细绳纹",E55_Type
+type_e8d5368b,"凹弦纹, 宽带泥条",E55_Type
+type_d71312eb,长颈有肩大口尊,E55_Type
+type_ac9c4a13,"凹弦纹, 中粗竖绳纹",E55_Type
+type_4f28471f,"竖绳纹状堆纹, 粗绳纹",E55_Type
+type_7c86ff85,增蜗,E55_Type
+type_695d8081,坍埚,E55_Type
+type_81b14e66,粗腰肌,E55_Type
+type_d19021b4,弧爱学,E55_Type
+type_974899ef,电,E55_Type
+type_81d9aade,"弦纹, 绳纹",E55_Type
+type_b16894ee,"竖行粗绳纹, 横绳纹",E55_Type
+mat_61718142,夹砂红胎黑陶,E57_Material
+type_716313e8,"凹弦纹, 较粗交错绳纹",E55_Type
+type_8d5d694e,粗腰瓶,E55_Type
+type_2da9c8fb,绳纹略变细,E55_Type
+type_58fa0ea6,罪,E55_Type
+type_8e9002ad,椭圆乳钉,E55_Type
+type_5ed646d6,"凹弦纹, 方格纹",E55_Type
+type_bc8f3580,豫,E55_Type
+type_e6aa8381,"雷纹, 叶脉纹",E55_Type
+mat_d27fa77a,红陶,E57_Material
+type_39f3f6d6,粗线饕餮纹,E55_Type
+type_a03de0d0,毕,E55_Type
+type_010dd76c,饕餮纹，夔纹,E55_Type
+type_e72f837c,凸弦纹、联珠纹、T形镂孔,E55_Type
+type_f1c10976,联珠纹带饰、椭圆形镂孔,E55_Type
+type_4dff778e,斯,E55_Type
+type_a04a00e4,签,E55_Type
+type_883c5bd6,蓬,E55_Type
+type_e12b77b6,"凹弦纹, 带状斜方格, 交错绳纹",E55_Type
+type_9f9b75a1,带鳖鼎,E55_Type
+type_8237b1be,"绳纽状堆纹, 细绳纹偏粗",E55_Type
+type_5103e79e,细腰瓶,E55_Type
+type_d5ba7f1a,"堆纹, 绳纹和条纹",E55_Type
+type_58aacb0e,"纽状堆纹, 方格纹",E55_Type
+type_b92434a4,菌形纽器盖,E55_Type
+mat_c6998a0f,砂质灰黑陶,E57_Material
+type_f688a9e8,"手制, 口沿轮制",E55_Type
+type_3c925347,弧腹罐,E55_Type
+type_2b5ee6a1,横行和竖行叶脉纹，间饰雷纹,E55_Type
+type_14dc1b43,一周凸弦纹,E55_Type
+type_03728c8f,沿面内侧有一凹弦纹，腹饰竖行绳纹,E55_Type
+type_65f27a24,学,E55_Type
+type_5c63b117,敛口联档暈,E55_Type
+type_dfb4f104,上腹饰涡体雷纹,E55_Type
+type_d6ea2b4a,"平行堆纹, 贝状凹槽, 方格纹",E55_Type
+type_962ceb9a,"带状堆纹, 竖行凹槽, 叶脉纹, 方格纹",E55_Type
+mat_4196238c,夹砂橙黄陶,E57_Material
+type_c4371996,算珠形纺轮,E55_Type
+type_5bd76573,溜肩斜腹罐,E55_Type
+type_879f711c,弦纹和方格纹，腹饰细绳纹,E55_Type
+type_31a90aae,凹弦纹，连锁状堆纹，粗绳纹,E55_Type
+type_e3398618,带状方格纹和凹弦纹，细绳纹和凹弦纹,E55_Type
+mat_c59d6d26,泥质黑陶，灰胎,E57_Material
+type_7b06ce9d,"纽状堆纹, 凸弦纹",E55_Type
+type_33302ce5,方格纹，四周平行堆纹,E55_Type
+type_6d148c16,大口瓮,E55_Type
+type_0d90c8d1,"平行凹弦纹, 细密雷纹, 凹弦纹",E55_Type
+type_f16afa58,子口器盖,E55_Type
+type_b5e77107,溜肩圆腹罐,E55_Type
+type_5096f604,"堆纹, 隐约绳纹",E55_Type
+type_a8f16120,"中粗方格, 雷纹",E55_Type
+type_53ef3834,"线纹, 篮纹, 平行凹弦纹",E55_Type
+type_03f9fc0a,"平行凸弦纹, 叶脉纹, 雷纹",E55_Type
+type_ba36b46c,"云雷纹, 细方格纹",E55_Type
+type_d1992ebf,硬（釉）陶鼓腹尊,E55_Type
+type_78b5a331,斜腹爵,E55_Type
+type_2d65ebb5,"平行竖行划纹, 上端加饰一圆乳钉",E55_Type
+type_c03fe9bd,"锯齿状堆纹, 一周凸弦纹, 竖行绳纹",E55_Type
+type_3cca3ee9,轮转,E55_Type
+type_7a4e7d5b,唇部外缘附花边装饰,E55_Type
+type_a2108901,"九周平行凹弦纹, 交错细绳纹",E55_Type
+mat_b7ca3936,"夹砂黑陶, 红胎",E57_Material
+type_3a75e69e,"二组凹弦纹, 每组 2~3 根",E55_Type
+type_56ba56ba,竖行中粗绳纹,E55_Type
+type_d0c2c20e,竖行线纹,E55_Type
+type_49a16143,二道凸弦纹,E55_Type
+type_ca3588fa,口沿下及腰部各有一周凹弦纹,E55_Type
+type_2f13d214,短颈无肩大口尊,E55_Type
+type_ceee3bc7,口唇内侧有一周凹弦纹，颈饰三周纽状堆纹，下腹饰交错绳纹，底部划一圆圈，口颈部内侧有刻划符号“区”,E55_Type
+type_6695411e,"中腹部饰宽带雷纹, 下腹饰凹弦纹和斜行细绳纹",E55_Type
+type_b47bb939,绳纽状堆纹、竖行中粗条纹,E55_Type
+type_64ef332d,纽状堆纹、斜行绳纹、细绳纹已抹、凹齿纹,E55_Type
+type_21b14cc6,正方格纹,E55_Type
+type_1d3c27b4,菱状方格纹,E55_Type
+type_6a21b0ef,陶圆肩弧腹罐,E55_Type
+type_d3896e7f,隐暗粗绳纹,E55_Type
+mat_7215dc0c,夹砂黄灰陶,E57_Material
+type_78914ea1,直口篮,E55_Type
+type_8b138fc8,高形學,E55_Type
+type_444d8ac0,高形,E55_Type
+type_9b5fa530,镀,E55_Type
+type_134f2bbd,凿,E55_Type
+type_ce292585,直内戈,E55_Type
+type_703c001e,载,E55_Type
+type_b939f6ae,铲,E55_Type
+type_a31aaa6b,蜀,E55_Type
+type_6108a1a7,镰,E55_Type
+type_83f6c0da,刀,E55_Type
+type_5e354568,杆,E55_Type
+type_20919108,刀形饰,E55_Type
+type_9db9c305,残戈援,E55_Type
+type_3433d3db,绿松石,E55_Type
+type_992b4cfc,饰件,E55_Type
+type_5861e67a,绿松石管状饰,E55_Type
+type_a068168d,斜刃柄形器,E55_Type
+type_e48b7750,尖刃柄形器,E55_Type
+type_48d5d808,平刃柄形器,E55_Type
+type_8a28f121,琼,E55_Type
+type_5bf6e64b,瑣,E55_Type
+type_1fde3c1c,毅,E55_Type
+type_0c2de712,折腹學鑑,E55_Type
+type_2c635f07,"斜行绳纹, 凹弦纹, 按窝",E55_Type
+mat_61474c02,夹砂褐黄陶,E57_Material
+type_a8f0a065,条状划纹,E55_Type
+type_b747976d,"花边, 斜绳纹",E55_Type
+type_f3b4a894,壶口沿,E55_Type
+type_c2bfd3a6,"斜绳纹间压弦纹, 凹弦纹",E55_Type
+type_dc56c152,大口尊口沿,E55_Type
+type_22cca42d,链条状附加堆纹,E55_Type
+mat_6b100226,灰褐色陶,E57_Material
+type_89e0367a,隔口沿,E55_Type
+mat_388a0c19,夹砂灰陶或灰黑陶,E57_Material
+mat_2ed28656,灰陶,E57_Material
+mat_d901e4a6,灰黑陶,E57_Material
+type_7196c072,"凸弦纹, 粗斜绳纹",E55_Type
+type_c074b2df,高足,E55_Type
+mat_050c2155,细砂灰陶,E57_Material
+type_eb33e0ea,甑残片,E55_Type
+type_d202189f,爵玺,E55_Type
+mat_68ebb53c,粗泥黄陶,E57_Material
+mat_66afdc84,粗泥黑皮陶,E57_Material
+type_f8416fe8,蚤螯,E55_Type
+type_c5656769,口沿下有三周凹弦纹,E55_Type
+mat_1e4bcb13,泥质褐红陶,E57_Material
+type_62f69c28,篋圈足,E55_Type
+type_8bf15770,盆口沿,E55_Type
+type_50d694f7,沿上有一周凹槽，腹部饰斜绳纹,E55_Type
+type_b18eefbe,盆底,E55_Type
+type_a3c94038,表饰斜绳纹,E55_Type
+type_e62976ad,豆圈足,E55_Type
+mat_9ff948a2,黑皮陶红胎,E57_Material
+type_a3d01e91,上饰凸弦纹一周,E55_Type
+mat_8993fed4,泥质黑皮陶红胎,E57_Material
+type_9dd8b998,勺,E55_Type
+type_b9a64124,高口沿,E55_Type
+type_58a83a1f,腹表饰竖绳纹,E55_Type
+type_688af4b2,颈下饰竖绳纹,E55_Type
+type_b054b1a8,肩以下饰间断竖绳纹,E55_Type
+mat_8004701d,黑皮陶褐红胎,E57_Material
+type_7256acd8,瓶口沿,E55_Type
+type_d551bcad,腹饰竖绳纹,E55_Type
+mat_3db26f3f,黑皮红胎陶,E57_Material
+type_da849f16,上腹饰一周绳索状附加堆纹，堆纹下为竖绳纹,E55_Type
+type_567bfd28,大口尊肩部残片,E55_Type
+type_f41de2a3,肩饰一周链条状堆纹，上下各有一周凹弦纹,E55_Type
+type_0623de48,上压一周绳索状附加堆纹,E55_Type
+type_1116a230,硬（釉）陶小口瓮,E55_Type
+type_476c625c,颈部饰一周纽状凸弦纹,E55_Type
+type_93f4f642,腹部有两周宽带状附加堆纹，堆纹上压印有成排的斜行条纹，腹饰绳纹,E55_Type
+type_65a96d57,饼形缸底,E55_Type
+type_11ba82b1,饰间断条纹,E55_Type
+type_e71780d9,饰粗绳纹,E55_Type
+type_1dfd7014,细腰瓶残片,E55_Type
+type_06e5d956,腰饰细绳纹,E55_Type
+type_ff8774bb,高残片,E55_Type
+mat_ed6dcf27,夹砂灰白陶,E57_Material
+type_effcaae8,"凹弦纹, 绳纹, 方格纹",E55_Type
+type_506693f1,"弦纹, 方格纹",E55_Type
+type_24c4e79a,大口尊残片,E55_Type
+type_3df7600b,"链条状附加堆纹, 竖条窗根纹",E55_Type
+type_fd837fe6,缸残片,E55_Type
+type_c5d48f88,"细绳纹, 窄带附加堆纹, 篦点纹",E55_Type
+type_f968159c,泥条堆纹,E55_Type
+type_622ccf1a,"泥条堆纹, 绳纹",E55_Type
+type_3f16a837,"斜方格纹, 链条状附加堆纹",E55_Type
+type_d76b97b4,"泥条堆纹, 细绳纹",E55_Type
+type_41c8fe67,圈足缸底,E55_Type
+type_8699bce2,残器盖,E55_Type
+type_002297be,平行凹弦纹,E55_Type
+type_a08d35f3,罪口沿,E55_Type
+type_3756dfba,爵足,E55_Type
+type_ea3ae4cf,乳钉纹,E55_Type
+type_4847e69c,"泥条堆纹, 方格纹",E55_Type
+type_7ad66769,残器座,E55_Type
+type_f53fb0bb,"圆形大镂孔, 平行细线状凹弦纹",E55_Type
+type_c7269797,残篮,E55_Type
+type_ae831b2e,鼻口腹部残片,E55_Type
+type_0ed2aa9f,"连锁方块状附加堆纹, 方格纹",E55_Type
+type_a94fa1fc,残高足,E55_Type
+mat_765ef44d,夹砂褐红陶,E57_Material
+type_8d96cec5,"凹弦纹, 截印小窝纹",E55_Type
+type_593a4a8d,"绳纹, 附加堆纹",E55_Type
+type_b2702ee5,硬（釉）陶瓷残片,E55_Type
+type_79eec3a0,波折纹,E55_Type
+mat_fca97e78,灰色,E57_Material
+type_fad5ae34,舉足,E55_Type
+mat_dbd80429,夹砂紅陶,E57_Material
+type_80e459d1,硬（釉）陶瓮残片,E55_Type
+type_f9382189,竖行刻划纹,E55_Type
+type_f8250349,"纹索状附加堆纹, 斜行绳纹",E55_Type
+type_6125311a,"链锁状附加堆纹, 方格纹",E55_Type
+type_be6235c1,"竖行绳纹, 链条状附加堆纹",E55_Type
+type_d3636ddf,"方格纹, 附加堆纹",E55_Type
+mat_c89e5ec4,黄陶,E57_Material
+type_9b8c51bc,"绳纹, 链条状附加堆纹",E55_Type
+type_ec672424,"网格纹, 宽带状附加堆纹",E55_Type
+type_b50eeecf,"绳索状附加堆纹, 竖行粗绳纹",E55_Type
+type_49c204ea,残磊,E55_Type
+type_ff13476a,"附加堆纹, 竖行绳纹",E55_Type
+type_0392ad3a,"泥条堆纹, 粗绳纹",E55_Type
+type_2bcb3ccb,泥条附加堆纹,E55_Type
+type_8f94fff7,"宽带状附加堆纹, 方格纹",E55_Type
+type_1918ccae,口沿,E55_Type
+type_73835712,尊残片,E55_Type
+mat_41b28106,泥质白陶,E57_Material
+type_c28c4f8b,叠残片,E55_Type
+type_426caa74,泥条盘筑，手制,E55_Type
+type_3eaf0981,坩埚底,E55_Type
+type_638b3d94,器盖残片,E55_Type
+type_c9fc2418,硬（釉）陶尊残片,E55_Type
+type_809853be,细斜方格纹,E55_Type
+mat_9df19315,灰白色,E57_Material
+type_bf95aff5,硬（釉）陶壺殘片,E55_Type
+mat_ddb86dd3,黄色,E57_Material
+type_a7dc280d,人字纹,E55_Type
+type_09ce5241,细绳纹，上压凹弦纹,E55_Type
+type_d4957fbb,口颈部轮制,E55_Type
+mat_fb61e6a6,细砂红胎陶,E57_Material
+type_3f588411,细柄豆,E55_Type
+type_0d5ae21c,细绳纹，平行堆纹,E55_Type
+type_dae6e737,细绳纹，堆纹,E55_Type
+type_30d11a6b,"领肩部附纽状堆纹, 腹饰斜向绳纹",E55_Type
+type_516b4115,溜肩罐,E55_Type
+type_7bee0301,"口沿内侧有一凹弦纹, 颈腹饰细绳纹",E55_Type
+mat_86ebbb59,砂黑灰陶，足呈黄灰色,E57_Material
+type_bcda7261,小高,E55_Type
+type_4b9c163e,腹饰粗绳纹,E55_Type
+type_e2799740,细腰,E55_Type
+type_c0271657,服饰细绳纹,E55_Type
+type_dfa6e861,粗腰,E55_Type
+type_e2efe458,服饰中粗绳纹,E55_Type
+mat_263446b7,"砂质黑陶, 灰胎",E57_Material
+type_acad3c3b,盎,E55_Type
+type_3e3ced41,"乳钉纹, 凹弦纹",E55_Type
+type_2d3e20f5,柄部有弦纹,E55_Type
+type_360df8d8,豆残柄,E55_Type
+type_9df10d57,饰三周凹弦纹,E55_Type
+type_b88e5dc9,"颈部有三周凹弦纹, 肩部有二排人字纹",E55_Type
+type_31f5b990,"颈饰一周凸弦纹, 肩腹部饰一周人字纹, 底饰中粗绳纹",E55_Type
+type_b0fdfc7a,小壶,E55_Type
+type_39598b97,腹饰七周平行划纹,E55_Type
+type_5acb774e,肩部饰二周人字纹和凹弦纹,E55_Type
+type_e5941990,口部上压凹弦纹,E55_Type
+type_878c7cb3,"肩附一绳纽状堆纹, 腹部饰交错拍印纹",E55_Type
+type_853bb053,"沿面两侧起棱, 颈部有凸弦纹",E55_Type
+type_84cc7df0,口沿下饰堆纹,E55_Type
+type_934ff1a1,菌形器盖,E55_Type
+type_56909aa4,"细绳纹, 肩部饰堆纹状鳖",E55_Type
+type_499e7085,"凸弦纹, 凹弦纹",E55_Type
+type_b735c29d,凹弦纹、粗绳纹,E55_Type
+type_9fd572f5,宽带雷纹,E55_Type
+type_08448949,浅盘粗柄豆,E55_Type
+mat_0bd350cf,泥质黑皮红胎陶,E57_Material
+type_26fd930b,锯齿状堆纹，粗绳纹,E55_Type
+type_02a668ee,堆纹,E55_Type
+type_4bc90f3b,较粗绳纹，纽状堆纹,E55_Type
+type_ae87acf9,纽状堆纹，绳纹,E55_Type
+type_11676257,块状堆纹，方格纹,E55_Type
+type_83212659,堆纹，细线纹，方格纹,E55_Type
+type_0580234a,堆纹，绳纹,E55_Type
+type_bc20e9a7,绳纽状堆纹，交错绳纹,E55_Type
+type_9fc20af7,纽状堆纹，斜行条纹,E55_Type
+type_70211f66,绳纽状堆纹，斜行细绳纹,E55_Type
+type_d19b887f,堆纹，交错绳纹,E55_Type
+type_3c973571,堆纹，竖行凹槽，雷纹,E55_Type
+type_0a9fc708,条纹,E55_Type
+mat_cee2b4d8,泥质红黑陶,E57_Material
+type_84b442ea,器座,E55_Type
+type_4169f339,"方格纹, 绳纹",E55_Type
+mat_c07d4b41,砂质灰红陶,E57_Material
+type_516b05ca,尊圈足,E55_Type
+type_c2952c96,"凸弦纹, 雷纹",E55_Type
+type_f399d70e,"轮旋凸纹, 云雷纹",E55_Type
+type_175ef1b7,"云雷纹, 叶脉纹",E55_Type
+type_9e8e424f,舉,E55_Type
+type_c2baa5b8,爵竖残片,E55_Type
+type_050a49dd,横斜交错绳纹,E55_Type
+type_8d9a6b87,"竖行绳纹, 弦纹, 交错绳纹",E55_Type
+type_0482a8e6,"模制, 口颈部经轮转",E55_Type
+type_9300a795,"宽带方格纹, 凹弦纹, 绳纹",E55_Type
+type_a2758755,"竖行绳纹, 横行绳纹",E55_Type
+type_ce007ec9,"竖行绳纹, 竖行刻槽",E55_Type
+type_cf6a07e8,残瓮,E55_Type
+type_65298da3,纽状堆纹,E55_Type
+type_1a48f5ea,"锯齿状堆纹, 隐约绳纹",E55_Type
+type_c4008a7d,"凹弦纹, 凸棱",E55_Type
+type_d06a5f88,"纽状堆纹, 绳纹",E55_Type
+type_584024d9,"细绳纹, 鸡冠状装饰",E55_Type
+mat_109ad6ca,泥质灰红陶,E57_Material
+type_3efb2138,"锯齿状堆纹, 竖行绳纹, 条纹",E55_Type
+type_ebb2619a,"绳纽状堆纹, 交错绳纹",E55_Type
+type_399c2878,"纽状堆纹, 隐方格纹, 条纹",E55_Type
+mat_c1dc8407,粗砂黄陶,E57_Material
+type_5d10f175,"细绳纹, 平行堆纹",E55_Type
+type_b17c7a02,"平行带条, 竖槽, 方形凸块",E55_Type
+type_9ffccb40,"钮状堆纹, 方格纹",E55_Type
+type_daf31711,二道凸凹弦纹,E55_Type
+type_098bbd58,"凹弦纹, 粗绳纹",E55_Type
+mat_c3dfc41c,砂质黑灰陶红胎,E57_Material
+type_38c14a3a,腹饰斜行绳纹,E55_Type
+type_689136f7,肩饰凹弦纹，弦纹内饰方格，腹饰中粗绳纹,E55_Type
+type_fa22d02f,"肩饰一周纽状堆纹, 上腹饰凹弦纹",E55_Type
+type_8ee0f30f,"口沿下饰堆纹, 腹饰方格纹",E55_Type
+type_f9463f93,口沿下饰堆纹，腹饰方格纹,E55_Type
+mat_d9d0b48d,泥质灰陶红胎,E57_Material
+type_10aa2f83,"方格纹, 细绳纹",E55_Type
+type_c1b89f74,"凹弦纹, 方格纹, 绳纹",E55_Type
+type_04fba235,横行绳纹,E55_Type
+type_dfa5e783,"纽状堆纹, 乳钉, 凸弦纹, 方格纹",E55_Type
+type_3b0c6e39,"附加堆纹, 方格纹",E55_Type
+type_871e96a7,凹弦纹和方格纹，腹饰绳纹和凹弦纹,E55_Type
+type_a2735652,腹饰绳纹，上压二周凹弦纹,E55_Type
+type_01b3f1a7,肩部饰方格纹和凹弦纹，下腹饰竖行绳纹,E55_Type
+type_a380a342,颈饰一周凹弦纹，腹饰绳纹,E55_Type
+type_40c29d38,腹饰绳纹，肩饰一周连锁状堆纹，堆纹上加饰斜行绳纹,E55_Type
+type_47cb23ab,颈部饰连锁状堆纹，腹饰竖绳纹,E55_Type
+type_a48c9b9b,腹饰粗绳纹已抹,E55_Type
+mat_08b52d8e,夹砂灰黑陶红胎,E57_Material
+type_418575d7,腹饰中粗绳纹经手抹而不清晰,E55_Type
+type_94841840,腹部饰粗绳纹，经手抹而不显,E55_Type
+type_8834c8fa,模制，口、颈部经轮制,E55_Type
+type_e1a8aee2,腹饰中粗绳纹,E55_Type
+mat_265e33da,砂质黑灰陶,E57_Material
+type_a3380db1,猩猩及腹残片,E55_Type
+type_5f928f26,扁圆腹爵残片,E55_Type
+type_35e39ffa,"沿面饰凹弦纹, 素面",E55_Type
+type_69adbd8c,"腹上下各饰一组凹弦纹, 下腹饰绳纹",E55_Type
+type_ecf0b284,肩饰细绳纹和凹弦纹,E55_Type
+type_81ba3035,"腹饰斜行中粗绳纹, 肩饰二周凹弦纹",E55_Type
+type_808401e8,"肩部饰二周凹弦纹, 腹饰绳纹",E55_Type
+type_19b4a6ca,"肩部饰一凹弦纹, 腹饰绳纹",E55_Type
+type_04961056,"肩、上腹和下腹各饰一周凹弦纹, 腹饰细绳纹",E55_Type
+type_69800b2d,"肩饰方格纹, 腹饰绳纹",E55_Type
+type_fef2c4f8,"纽索状附加堆纹, 绳纹",E55_Type
+type_8584588c,大口尊底残片,E55_Type
+type_e821f0e7,"交错拍印绳纹, 已抹",E55_Type
+mat_c91a2344,泥质黄陶红胎,E57_Material
+type_a8238671,缸残件,E55_Type
+type_e733d848,"附加堆纹, 小方格纹",E55_Type
+type_0ea61861,"斜行绳纹, 凹弦纹",E55_Type
+type_9fea6367,"凸弦纹, 平行凹弦纹, 圆形镂孔",E55_Type
+type_671df06f,绳纹痕,E55_Type
+type_f0391d25,用陶片磨成,E55_Type
+type_24b94107,颈部带饰分为三组，正面为一餐餐，其它二组各饰一菱纹,E55_Type
+type_6bd38c59,弧腹晕,E55_Type
+type_e2980212,腹部纹样拓本,E55_Type
+type_870b9209,粗绳纹，外附堆纹,E55_Type
+type_9f0268ff,模制，口、颈轮制,E55_Type
+type_2be3925d,泥条带状堆纹，绳纹，竖行堆纹，条纹,E55_Type
+type_87df19de,"模制, 口颈部轮制, 足为手制",E55_Type
+type_390a4c0a,甗,E55_Type
+type_db201f93,直口篇,E55_Type
+type_17f62c7f,宽带“T”状雷纹，凸弦纹，凹弦纹,E55_Type
+type_441fde34,"方格纹, 凹弦纹, 绳纹",E55_Type
+type_5f72f4c0,"中粗绳纹, 凹弦纹",E55_Type
+type_6a8cc554,锯齿状堆纹,E55_Type
+type_61c62353,罍,E55_Type
+type_544ca976,"堆纹, 方格纹",E55_Type
+type_ebde27fd,饼形纺轮,E55_Type
+mat_8429af14,夹砂灰黑陶，红胎,E57_Material
+type_4c038cb2,圆肩罐,E55_Type
+type_bd6b077e,卷沿联裆高,E55_Type
+type_154fbeee,盆残片,E55_Type
+type_9f32fd6d,"竖行划纹, 乳丁",E55_Type
+type_31d41761,残鬲,E55_Type
+type_bca3d579,堆纹，堆纹上压印斜行绳纹,E55_Type
+type_693d145e,宽带起棱堆纹，粗方格纹经手抹,E55_Type
+type_0afc8d87,"附加堆纹, 竖行细绳纹",E55_Type
+mat_48b455f2,泥质红胎磨光黑陶,E57_Material
+type_cfd977f5,"泥条堆纹, 斜行细绳纹",E55_Type
+type_180b8456,"平行窄条堆纹, 斜行细条纹",E55_Type
+type_f0df7497,敛口晕,E55_Type
+type_6922ce54,敛口,E55_Type
+type_7c0ebcc5,籟,E55_Type
+type_a32bdad7,粗凸弦纹,E55_Type
+type_df948883,"凹弦纹, 窗模纹, 细绳纹",E55_Type
+type_28c8ef52,"凹弦纹, 圆窝块状方格纹",E55_Type
+type_8caa9085,"堆纹, 拍印方格纹",E55_Type
+type_e2540877,"宽带堆纹, 粗绳纹",E55_Type
+type_cc414c3d,"附加堆纹, 绳纹",E55_Type
+type_5bccd6a9,"绳状堆纹, 斜方格纹, 纽状绳纹",E55_Type
+type_156c1416,"中粗绳状堆纹, 粗绳纹",E55_Type
+type_f9233890,"宽带纽状绳纹, 竖行较粗绳纹, 波浪式凹槽",E55_Type
+type_54ff6f82,"绳索纽状堆纹, 竖行中粗绳纹",E55_Type
+type_81f39454,"竹节状附加堆纹, 叶脉纹, 方格纹",E55_Type
+type_5ae253c3,拍印方格纹,E55_Type
+type_f9942007,平行堆纹,E55_Type
+type_6e4196a4,平底缸,E55_Type
+type_eacb555c,绳索状堆纹，竖行细绳纹,E55_Type
+mat_059619d5,泥质砖红陶,E57_Material
+type_29db5c28,花瓣状纹,E55_Type
+type_2e3d0497,凹弦纹，小方格纹,E55_Type
+type_36f3d959,小方格纹,E55_Type
+type_e9035ddc,细密平行凹弦纹，方格纹,E55_Type
+type_d6816ce0,凸弦纹，斜行叶脉纹,E55_Type
+type_67e7fb0f,"弦纹, 蝶状鼻纽, 雷纹",E55_Type
+type_a5a4f9c5,残陶器,E55_Type
+type_280d22e5,陶饼,E55_Type
+type_e63ef504,陶折沿平档高,E55_Type
+type_dc59d548,陶折沿分档高,E55_Type
+type_2e250796,陶侈口盖,E55_Type
+type_d8433881,陶粗腰瓶,E55_Type
+type_1a245d2d,陶折肩罐,E55_Type
+type_8909da06,"方形雷纹, 弦纹, 竖绳纹",E55_Type
+type_f5238ecd,"圆涡纹, 凹弦纹, 凸弦纹",E55_Type
+type_6ce9f249,"小方格纹, 凹弦纹",E55_Type
+type_9a632765,浅盘矮圈足豆,E55_Type
+type_78066910,"凹弦纹, 云雷纹, 粗绳纹",E55_Type
+type_88fd199b,"凹弦纹, 环状纹, 粗绳纹",E55_Type
+type_3c853a27,"凸弦纹, 细绳纹, 雷纹",E55_Type
+type_f76ff109,"圆圈纹, 凸弦纹, 凹弦纹",E55_Type
+type_5c07f47c,"绳纽状附加堆纹, 竖行细绳纹, 索状绳纹",E55_Type
+type_19762dae,"竖绳纹状堆纹, 斜行细绳纹",E55_Type
+type_00c19d64,"纽状附加堆纹, 横条纹, 竖绳纹",E55_Type
+type_740b24b8,"连索状堆纹, 粗条纹",E55_Type
+type_52dfc149,齿状装饰,E55_Type
+type_513e49ab,隐约绳纹,E55_Type
+mat_d81f3106,细砂红陶,E57_Material
+type_11964163,十字纹,E55_Type
+type_dbd25d60,斜行叶脉纹,E55_Type
+mat_0eadc3e7,棕灰色,E57_Material
+type_27b6ac52,中粗竖行间断绳纹，中粗斜行绳纹,E55_Type
+type_a6d9c5f8,细绳纹已抹,E55_Type
+type_f0e0bfa7,粗竖行绳纹,E55_Type
+type_75688660,"手制, 口部轮制",E55_Type
+type_38e81d28,篇圈足,E55_Type
+type_e7cc0a24,残浅盘豆,E55_Type
+type_18383816,"锯齿状堆纹, 中粗绳纹",E55_Type
+type_f6e0e05a,"平行轮转旋纹, 雷纹",E55_Type
+type_a76bffe3,"纽状堆纹, 交错细绳纹",E55_Type
+type_148e941e,"手制, 口沿经轮转",E55_Type
+type_9c1d40f3,凹弦纹，细绳纹,E55_Type
+type_65c4563e,中粗绳纹，同心圆装饰,E55_Type
+type_d0892484,凹弦纹，粗绳纹,E55_Type
+type_0d312e30,隔残件,E55_Type
+type_ed767982,上腹饰中粗绳纹,E55_Type
+type_5c20710a,"肩腹部饰堆纹一周, 肩部堆纹凹槽内条纹草率, 腹饰中粗绳纹",E55_Type
+type_8772fcb4,"肩部有一周斜行堆纹, 堆纹间以模糊条纹",E55_Type
+type_90155866,"腹饰中粗绳纹, 上腹为交错绳纹",E55_Type
+mat_d397b704,夹砂红灰陶,E57_Material
+type_12dec5bf,上下部分别手制后再接合,E55_Type
+type_a8525a2d,侈口分裆晕,E55_Type
+type_93883430,颈部有两周凸弦纹,E55_Type
+type_7dfd5dcf,模制，颈部经轮转，玺手制后附,E55_Type
+type_cc252d06,敛口分裆罪,E55_Type
+type_66ad6392,"口沿上有凹弦纹, 腹饰绳纹, 醋的一侧作绳纽状",E55_Type
+type_f15da0f7,"口缘上有二道浅凹弦纹, 弦纹间凸棱微起, 肩下有一模糊凹弦纹, 下腹饰中粗绳纹",E55_Type
+type_a1cda5dd,直腹爵,E55_Type
+type_5262d508,直口篆,E55_Type
+type_b8a0538a,"凸弦纹, 凹弦纹, 交错细绳纹",E55_Type
+type_54d20be4,"带状雷纹, 凹弦纹, 交错中粗绳纹",E55_Type
+type_ecb6c509,深盘矮圈足豆,E55_Type
+type_98f50937,"方格纹, 斜行绳纹",E55_Type
+type_17f49d6a,瓮底,E55_Type
+type_5d9beb25,"纽状绳纹, 乳钉纹, 弦纹",E55_Type
+type_1d84890d,"堆纹, 锯齿状堆纹",E55_Type
+type_065277f5,"纽状堆纹, 平行凹弦纹, 中粗绳纹",E55_Type
+mat_a8175e7e,"砂质黄陶, 红胎",E57_Material
+type_428b4251,"纽状堆纹, 素面",E55_Type
+type_be9e41b5,"云纹, 凸弦纹",E55_Type
+type_1932a753,"纽状堆纹, 交错绳纹",E55_Type
+type_e77bd347,"方块状堆纹, 方格纹, 斜行条纹",E55_Type
+type_6e2e3a70,"纽状堆纹, 斜行细绳纹",E55_Type
+type_06cd7399,"纽状堆纹, 斜行绳纹, 纽状凹槽, 条纹",E55_Type
+type_17b04aac,"斜行绳纹, 细条堆纹",E55_Type
+type_085a5767,"纽状堆纹, 绳纽状花边",E55_Type
+type_bb1d9f87,小坩埚,E55_Type
+type_9ad7ce5c,"叠折式堆纹, 绳纹",E55_Type
+type_db26acb5,盖身上饰凹弦纹,E55_Type
+mat_f6dc1ad0,细砂质黑陶,E57_Material
+mat_eb16cc18,细砂黑陶,E57_Material
+type_60b85f1d,肩腹部拍印细方格纹,E55_Type
+type_6960e844,弧腹尊,E55_Type
+type_d50fbae9,腹部饰菱形纹，肩部饰席纹，颈部饰平行凹弦纹,E55_Type
+type_f2888ba4,尊口沿,E55_Type
+type_02efbe0d,"雷纹, 平行弦纹",E55_Type
+type_8f078d50,"凹弦纹, 凸弦纹, 叶脉纹",E55_Type
+type_661141ea,罐底,E55_Type
+type_875baeba,高残件,E55_Type
+type_b2f5fbbd,凸弦纹，模糊粗绳纹,E55_Type
+mat_d317ba73,砂质灰陶，红胎,E57_Material
+type_1cfcc808,连锁状堆纹，粗绳纹,E55_Type
+type_f2112f6c,扁圆度韵,E55_Type
+type_83434355,"带状雷纹, 斜行绳纹, 宽条凹弦纹",E55_Type
+mat_e9f88040,"泥质灰陶, 黄胎",E57_Material
+type_6d48ea56,"鸡冠耳, 凹弦纹",E55_Type
+type_98ff0637,"弦纹, 凸弦纹",E55_Type
+type_4e6f4207,花边装饰，点状圆圈纹,E55_Type
+type_53ae139c,堆纹，斜行绳纹，叶脉纹,E55_Type
+type_a7486f02,方状泥条堆纹，竖行粗绳纹,E55_Type
+type_86a3c767,"竖行划纹, 凹弦纹, 雷纹, 人字纹",E55_Type
+type_da56b8a3,"乳钉纹, 竖行划纹, 平行凹弦纹",E55_Type
+type_bc6722d0,"绳纹, 纽状堆纹",E55_Type
+type_c699e693,细方格,E55_Type
+type_c8f7c119,篮纹，局部间饰细方格,E55_Type
+type_4281fd19,"方格纹, 中粗绳纹",E55_Type
+type_717edd5c,不规则方格纹,E55_Type
+mat_31475d4b,细泥灰陶,E57_Material
+mat_c8e1a771,褐色陶,E57_Material
+type_18499ab9,拍,E55_Type
+type_d7003087,横行人字纹,E55_Type
+type_fb8fa13a,"S 纹, 弦纹",E55_Type
+mat_9f6e09b6,"泥质黑陶, 黄胎",E57_Material
+type_a26cdcbe,"交错中粗绳纹, 足根外侧饰二个对称的圆窝",E55_Type
+mat_8fdd00b5,"砂质灰黑陶, 足为红陶",E57_Material
+type_0c7f5065,交错中粗绳纹，上腹加饰三周凹弦纹，下腹饰一周凹弦纹,E55_Type
+mat_8f8ec3e1,夹砂灰陶，红胎,E57_Material
+type_b5408fe0,近底部饰斜行绳纹,E55_Type
+type_9166aea7,平行锯齿状堆纹、竖线相连、斜行或横行条纹,E55_Type
+type_c6043f87,带状泥条堆纹、竖槽、横行条纹、斜行菱格纹、细绳纹,E55_Type
+type_bdb790a5,云纹,E55_Type
+type_6b5b9c7e,陶小坩埚,E55_Type
+type_397cea55,陶菌形纽器盖,E55_Type
+type_2f26001d,陶算珠形纺轮,E55_Type
+mat_288ffba4,泥质黑陶，红胎,E57_Material
+type_17537373,硬（釉）陶双折肩斜腹尊,E55_Type
+type_c57f54ea,网状细方格纹,E55_Type
+type_3fdcab2d,短颈壶,E55_Type
+type_2722b9a6,"纽状堆纹, 竖行绳纹",E55_Type
+type_95b55a2e,斜行条纹,E55_Type
+type_33897e51,横行交错条纹,E55_Type
+type_825bf669,中粗方格纹,E55_Type
+mat_5ab61cce,砂质红灰陶,E57_Material
+type_a7339060,卷云纹,E55_Type
+type_6f057053,"间断粗绳纹, 凹弦纹",E55_Type
+type_e135a864,"纽状堆纹, 凹弦纹",E55_Type
+type_54aeee96,方块状堆纹,E55_Type
+type_dacb4c46,凹弦纹二组,E55_Type
+type_4591f813,鹰首,E55_Type
+type_aeaeaf22,连索状堆纹，绳纹,E55_Type
+type_244d30f5,粗线云纹构成的饕餮纹,E55_Type
+type_36fab5c8,圆涡纹,E55_Type
+type_b091fdcd,晕,E55_Type
+type_1ac149fc,直口盏,E55_Type
+type_0a05d8cc,敞口类,E55_Type
+type_319e6e40,束腰类,E55_Type
+type_ba820a2e,敛口分档举,E55_Type
+type_2eea97c7,侈口篇,E55_Type
+type_1dd8fc8f,颈部饰凸弦纹,E55_Type
+type_72e1cf92,腹部饰雷纹,E55_Type
+type_3bf1378a,上腹部饰雷纹,E55_Type
+type_49687a59,上腹部加饰雷纹二列,E55_Type
+type_6facdf2d,叶脉纹、凹凸弦纹,E55_Type
+type_a1064c17,单孔相对称的镂孔,E55_Type
+type_422b6c97,A型陶筒形器,E55_Type
+type_d63dda0f,B型陶筒形器,E55_Type
+type_cd486ab2,圆形镂孔、乳钉、附加堆纹,E55_Type
+type_07f164b0,C型陶筒形器,E55_Type
+type_79f26b04,Aa型陶缸,E55_Type
+type_706d8aad,细长封顶筒形器,E55_Type
+type_02d608e3,子母口筒形器,E55_Type
+type_c490513a,粗壮封顶中腹呈球状筒形器,E55_Type
+type_833a26e2,横篮纹,E55_Type
+mat_91e729c0,夹砂深灰陶,E57_Material
+type_d16aed00,戳印点纹,E55_Type
+type_d8a33bcc,指窝纹,E55_Type
+type_b5d58af7,网格纹黑彩,E55_Type
+type_a67d9a46,盖,E55_Type
+type_5a15951e,红衣黑彩,E55_Type
+mat_391f1f6d,泥质灰胎橙黄陶,E57_Material
+type_8526b408,椭圆形戳印纹,E55_Type
+mat_4bc41fb9,夹砂红陶，红衣,E57_Material
+mat_c7292e27,泥质磨光黑陶,E57_Material
+type_5f7fe506,圆点，弧线三角纹黑彩,E55_Type
+mat_41c005fa,夹炭褐陶,E57_Material
+type_0f68ce8e,按窝纹,E55_Type
+mat_12c50790,泥质灰胎红陶,E57_Material
+mat_4b0c2553,泥质黑胎灰黄陶,E57_Material
+type_e9068568,条带及网格纹，黑彩,E55_Type
+type_41663af8,凸弦纹，圆形镂孔,E55_Type
+type_d4041520,褐色宽带彩,E55_Type
+mat_14407306,泥质橙黄陶,E57_Material
+type_f708702f,三周凸弦纹,E55_Type
+type_df62c905,条带纹组成的黑彩图案,E55_Type
+mat_237fac79,泥质黄陶，红衣,E57_Material
+type_46708620,弧线黑彩,E55_Type
+type_b5216652,黑彩,E55_Type
+type_67c0164a,水波纹和网格纹黑彩,E55_Type
+type_1abd132e,条带和网格纹黑彩,E55_Type
+type_540caf57,壶形器残片,E55_Type
+type_0be6fd77,条带和弧线褐彩,E55_Type
+mat_6578389e,泥质黑胎红陶,E57_Material
+type_a60ca680,圆点、弧线之角和条带纹组成的黑彩图案,E55_Type
+type_930cabe5,条带及十字纹黑彩,E55_Type
+type_25c47d5d,条带及弧线之角纹黑彩,E55_Type
+type_7b76ace3,条带、弧线及弧线之角纹黑彩,E55_Type
+type_6d9c05e4,红衣黑条带纹彩,E55_Type
+type_66f2f9ec,黑彩，口沿内壁有条带和弧线之角纹彩,E55_Type
+type_234d1b30,内饰黑彩,E55_Type
+type_9ebd5ca4,器表施黑衣,E55_Type
+type_d3ffbaa0,内涂灰彩,E55_Type
+type_711f5909,器表上部及口沿内涂黑衣,E55_Type
+type_98658ce2,陶模,E55_Type
+type_d8f04676,内壁饰条带及弧线纹黑彩,E55_Type
+type_6beaafe0,器表及口沿内壁饰红衣,E55_Type
+type_ece15068,宽带黑彩,E55_Type
+type_22215099,五个不规则形镂孔,E55_Type
+mat_bf6eea1a,泥质深灰陶,E57_Material
+type_694ef405,五个三角形镂孔,E55_Type
+type_a954a757,平行弦纹和戳印纹,E55_Type
+type_12c94cc9,彩陶碗圈足,E55_Type
+type_a05f9e17,条带菱形纹黑彩,E55_Type
+type_022fcf61,黑彩碗片,E55_Type
+type_e0634e08,方格纹彩,E55_Type
+mat_de219f38,泥质灰胎黄陶,E57_Material
+type_1868d045,圆点方格纹彩,E55_Type
+type_07ff0ff5,圆形镂孔和盲孔,E55_Type
+type_4b0116e7,陶碗,E55_Type
+type_21f61dba,圆形镂孔，指甲形戳印纹,E55_Type
+type_d80af12a,圆形镂孔和“V”形划纹,E55_Type
+type_96ae8f93,"圆形镂孔, 月牙形戳印纹",E55_Type
+type_05c9e54a,"圆形镂孔, 戳印纹",E55_Type
+type_1f43aee2,长条形戳印纹,E55_Type
+type_86fd5a05,乳钉、附加堆纹、圆形镂孔,E55_Type
+mat_61d1f45b,泥质红黄陶,E57_Material
+type_6812c7f7,E型筒形器,E55_Type
+type_c18772f1,不明器,E55_Type
+type_998bd8cf,附加堆纹、圆形镂孔,E55_Type
+type_162fdc9c,陶铃,E55_Type
+type_addefae6,方格纹、凹弦纹和斜篮纹,E55_Type
+mat_3c65454d,夹砂黑胎红陶,E57_Material
+mat_7ebd37af,夹砂黑红陶,E57_Material
+type_a31a7e94,斜篮纹,E55_Type
+type_f718ed0c,黑点及条带纹,E55_Type
+type_5a0d8074,弧线及条带纹,E55_Type
+type_6036fcb4,条带纹及半圆形,E55_Type
+type_170ba48e,条带纹,E55_Type
+type_6f18062a,条带形及扇形,E55_Type
+type_5e346f40,戳印圆点纹,E55_Type
+type_dff710ed,太极纹红彩,E55_Type
+type_333c172d,弧线红彩,E55_Type
+type_e5cb36b4,黑点纹红彩,E55_Type
+type_b1b332bf,弧线纹红彩,E55_Type
+type_19c5a16f,条带纹红彩,E55_Type
+type_31f5d010,条带纹和弧线纹红彩,E55_Type
+type_e11d6108,黑衣,E55_Type
+type_95f5f920,陶祖,E55_Type
+type_fab637cb,陶舟形器,E55_Type
+type_731a97c5,舟形器,E55_Type
+type_ca6b249d,陶锤形器,E55_Type
+type_c9a7936e,G型 I式,E55_Type
+type_ddc3475b,凸弦,E55_Type
+type_ba8ceeb7,盂,E55_Type
+type_ca3f72f8,F型,E55_Type
+type_6cd3b76a,浅回弦纹,E55_Type
+type_520a8acf,红陶杯,E55_Type
+type_14b29efa,红彩带,E55_Type
+type_c2d06f7b,E型 III式,E55_Type
+type_693d78b9,不规则凸弦纹,E55_Type
+type_22c05c9b,E型 II式,E55_Type
+type_998402c8,不规则凸弦纹，零星篮纹,E55_Type
+mat_d8f7e7e8,泥质灰胎灰黑陶,E57_Material
+type_230e7845,一组不规则划纹,E55_Type
+type_4e4ac959,斜篮纹，一周附加堆纹,E55_Type
+type_04f7525d,一组凸弦纹，零星斜篮纹,E55_Type
+type_23cd3e15,J型 II式,E55_Type
+mat_ac3dc28c,夹细砂灰胎黑陶,E57_Material
+type_e34b7cce,两道红衣彩带,E55_Type
+type_7eab940d,一组不规则凹弦纹,E55_Type
+type_989f47d5,凸弦纹，编织纹,E55_Type
+type_9c07c83f,不规则划纹,E55_Type
+type_fb7dcae8,一组细密的凸弦纹，零星斜篮纹,E55_Type
+type_126dfd2a,两组不规则划纹,E55_Type
+type_c55281b0,一组细浅的凸弦纹,E55_Type
+type_ba05c5a0,Cb型 I式,E55_Type
+type_a07d6ef4,一组凸弦纹,E55_Type
+type_26cb345f,H型 III式,E55_Type
+type_159c67d3,J型 I式,E55_Type
+type_5933c7ae,Ka型,E55_Type
+type_562fca60,圆弧形黑彩,E55_Type
+type_c8b0a98d,横条带及弧线红彩,E55_Type
+mat_c1d4ed01,泥质灰黄陶，红衣,E57_Material
+type_0fbce737,两道凸弦纹,E55_Type
+type_464e502e,篮纹，附加堆纹,E55_Type
+type_47d85008,圆形镂孔、凸弦纹,E55_Type
+type_039406fc,凹弦纹、圆形镂孔,E55_Type
+type_08987c8e,篮纹，凸弦纹,E55_Type
+type_635e828d,凸弦纹，戳印纹,E55_Type
+type_9b4654d4,凸弦纹，附加堆纹,E55_Type
+type_e86df491,凸弦纹，附加堆纹，戳印纹,E55_Type
+mat_058f84b2,泥质黄褐陶,E57_Material
+mat_632e5fcb,泥质红胎灰黑陶,E57_Material
+type_e1cd08a0,浅篮纹,E55_Type
+type_343a14bd,交错篮纹,E55_Type
+type_e3bedd30,乱篮纹,E55_Type
+type_a46f10c7,浅横篮纹，刻划符号，三道凸弦纹,E55_Type
+type_9579edd8,四道凹弦纹，三道凹弦纹,E55_Type
+type_18b186c2,横篮纹，三道附加堆纹，刻划符号,E55_Type
+type_26d4659d,横篮纹，三道凹弦纹，刻划符号,E55_Type
+type_d77b8bc6,套缸,E55_Type
+type_357db1e6,横篮纹，两道凹弦纹，刻划符号,E55_Type
+type_996c25fc,三道凹弦纹,E55_Type
+type_3797f3f5,由两条直线和两条弧线组成与D种符号近似的图形,E55_Type
+type_169dc067,横篮纹，三道附加堆纹,E55_Type
+type_f7a71586,横篮纹，两道附加堆纹，刻划符号,E55_Type
+type_b968ede9,斜篮纹，三道凹弦纹，刻划符号,E55_Type
+type_96c17bb9,斜绳纹，两组凹弦纹，每组两条，三道凸弦纹,E55_Type
+type_550db0ee,斜绳纹，三道凸弦纹,E55_Type
+type_cb94ce3c,斜绳纹,E55_Type
+type_e5d1d64f,横篮纹，附加堆纹,E55_Type
+type_4a26335c,交错细篮纹,E55_Type
+mat_d26a0522,夹砂红胎灰陶,E57_Material
+type_281893f0,斜绳纹，凹弦纹,E55_Type
+type_e08fe594,宽带纹，凸弦纹,E55_Type
+type_cad47461,斜方格纹,E55_Type
+type_1f036d5c,旋痕,E55_Type
+type_49310cac,分叉长尾鸟,E55_Type
+type_009c136d,Ca型杯,E55_Type
+type_28b58558,Cb型杯,E55_Type
+type_fd1cd1f4,Cc型杯,E55_Type
+type_c008d451,竖条纹,E55_Type
+type_26ee275f,Cd型杯,E55_Type
+type_9d7b29b2,D型杯,E55_Type
+type_c236e5e5,细弦纹和圆形镂孔,E55_Type
+type_65244958,A型I式壶形器,E55_Type
+type_fb1f17e4,A型Ⅱ式壶形器,E55_Type
+type_a929bd43,B型I式壶形器,E55_Type
+type_1def828e,B型Ⅱ式壶形器,E55_Type
+type_eb138549,B型Ⅲ式壶形器,E55_Type
+type_cef54237,B型IV式壶形器,E55_Type
+type_5b8594ca,擂钵,E55_Type
+type_475d78ee,网状刻槽,E55_Type
+type_e7f28e26,鸡形壶,E55_Type
+type_1f518741,鸭形壶,E55_Type
+type_c5c4520d,鸟形勺,E55_Type
+type_4a809fed,鸟形器盖,E55_Type
+type_89722f14,鸡首形器盖,E55_Type
+type_329c7aeb,坐式陶偶,E55_Type
+type_960133ed,跪踞式陶偶,E55_Type
+type_678aca2e,抱鱼偶,E55_Type
+type_6ced31b9,背物偶,E55_Type
+type_959d9267,抱物偶,E55_Type
+type_8a120733,抱狗偶,E55_Type
+type_caf61a3f,残偶头,E55_Type
+type_fe935464,陶短尾鸟,E55_Type
+type_881d68bb,残偶身,E55_Type
+type_e2b72eca,附件鱼,E55_Type
+type_5685bc15,立狗,E55_Type
+type_8b10e2b3,陶立狗,E55_Type
+type_52451d0d,抱物狗,E55_Type
+type_a4fa016b,陶卧狗,E55_Type
+type_ee136ead,陶含物狗,E55_Type
+type_ab1e5ec8,陶吠狗,E55_Type
+type_3423bd42,宽长尾鸟,E55_Type
+type_8575343d,驮物狗,E55_Type
+type_4b09923e,驴物狗,E55_Type
+type_e8bc2616,采集,E55_Type
+type_45aca72f,柱状器,E55_Type
+type_cd131bf3,山羊,E55_Type
+type_ff5e0a15,兔,E55_Type
+type_b5a23372,陶异形鸡,E55_Type
+type_b0262143,雄鸡,E55_Type
+type_6bbc149b,抱肢猴,E55_Type
+type_89510ab4,猴,E55_Type
+type_6ed9a9e1,抱物猴,E55_Type
+type_af900f79,坐猴,E55_Type
+type_175141b4,象,E55_Type
+type_919ec9c3,摸,E55_Type
+type_f8b9f2fa,狐,E55_Type
+type_b1540a78,陶塑动物,E55_Type
+type_1aba19ef,雌鸡,E55_Type
+type_30a23716,小鸡,E55_Type
+type_93fed18f,异形鸡,E55_Type
+type_d6901d20,陶宽长尾鸟,E55_Type
+type_42d843e1,窄长尾鸟,E55_Type
+type_d6f06a00,连体鸟,E55_Type
+type_9f2cf04a,含物鸟,E55_Type
+type_2814ba87,猫头鹰,E55_Type
+type_b3d6272f,龟鳖,E55_Type
+type_0857fa4e,鱼,E55_Type
+type_d9720436,陶器座,E55_Type
+type_ff6a6926,粗短篮纹,E55_Type
+type_90f7656c,太极图案,E55_Type
+type_b278fb17,四分横线图案,E55_Type
+type_7eab639d,同心圆纹,E55_Type
+type_08975445,二分点状和二分弧块状组成图案,E55_Type
+type_d7e51438,二分横线、二分弧块状组成图案,E55_Type
+type_0a4134e9,二分横线、二分弧块状,E55_Type
+type_fef90250,四分弧线间圆点图案,E55_Type
+type_e0a4bfdb,点形与弧块形各四分组合而成的图案,E55_Type
+type_616748c6,长方块与短条纹相间的四分图案,E55_Type
+type_53741fe9,圆点与横线相间的对称四分图案,E55_Type
+type_86f48858,四分彩带图案,E55_Type
+type_bb73d938,模,E55_Type
+type_8ea70a46,陶坠形器,E55_Type
+type_4425ec3f,坠形器,E55_Type
+type_0d142bdf,管状器,E55_Type
+type_c5c927ff,角状器,E55_Type
+type_05ff552d,由三条直线和两条弧线组成，整个符号酷似觚的正视图,E55_Type
+type_b12fcb06,A型陶缸,E55_Type
+type_f8b81b9e,由六条弧线、四条曲线、二条直线和一个圆点组成一个张开大嘴的凤鸟形,E55_Type
+type_e5494307,仅剩头、颈部。颈部单线,E55_Type
+type_5ca079fb,钵、杯,E55_Type
+type_5133ad54,罐、碗、甑片、缸片,E55_Type
+type_7b35107d,杯、纺轮、陶片,E55_Type
+type_bc89aae9,罐、碗、鼎、器盖,E55_Type
+type_b79d72df,不规则弦纹，稀疏的篮纹,E55_Type
+type_ad5d403e,小鼎,E55_Type
+type_9e3dde6f,鍾,E55_Type
+type_beeae212,暉,E55_Type
+mat_36f548f4,夹少量细砂，灰陶,E57_Material
+mat_74a23c41,夹少量细砂，灰色,E57_Material
+type_9322128b,横篮纹，交错篮纹,E55_Type
+type_bc9d986f,横、斜交错浅篮纹,E55_Type
+type_d756dc49,横篮纹，不规则篮纹,E55_Type
+type_3a5fe154,斜篮纹，底部饰交错篮纹,E55_Type
+type_c0edca89,横篮纹，斜篮纹，交错篮纹,E55_Type
+type_0dcf3523,斜方格纹，浅方格纹,E55_Type
+type_c9bfc566,不规则篮纹,E55_Type
+type_370ed668,横篮纹，①形刻划符号,E55_Type
+type_3195a247,横、斜篮纹,E55_Type
+type_e8849b5c,少量篮纹,E55_Type
+type_8e150552,"斜篮纹, 附加堆纹",E55_Type
+type_df61298c,"横篮纹, 附加堆纹",E55_Type
+type_a99d8629,"篮纹, 附加堆纹",E55_Type
+mat_1e21785c,泥质浅灰陶,E57_Material
+type_4764e5e7,罄,E55_Type
+type_eee182d6,领与腹分别制作，然后套接,E55_Type
+type_8dd6b304,扇形纹间斜条纹,E55_Type
+type_a13566f5,陶塑狗,E55_Type
+type_366e1b30,铃,E55_Type
+type_0529a67b,鬻,E55_Type
+type_bcca3e1c,单偶,E55_Type
+type_e4dc9ec1,猪,E55_Type
+type_78a256aa,T28,E55_Type
+type_e2c85d54,琮筒类 (Cong/Tube),E55_Type
+type_6b91eb23,神人兽面纹、鸟纹,E55_Type
+mat_a5a29951,透闪石软玉,E57_Material
+type_c03f2c6a,切割与成型、钻孔技术、雕刻技法,E55_Type
+type_93d7302f,神人兽面纹,E55_Type
+type_3a260f9f,佩饰类,E55_Type
+type_7ee092ea,切割与成型、钻孔技术,E55_Type
+type_36fd6b02,雕刻技法,E55_Type
+type_d81bb206,无,E55_Type
+type_5121a9ac,双面钻孔准确，未留任何痕迹,E55_Type
+type_5d622d06,雕刻技法、装饰工艺,E55_Type
+type_ef3a8775,切割与成型、雕刻技法、装饰工艺,E55_Type
+type_8d97701c,兽面纹各部位以浅浮雕凸起，重圈为眼，椭圆形眼睑，冠顶与双眼紧贴，眉心作云雷纹，宽鼻，阔嘴,E55_Type
+type_8913af19,钻孔技术,E55_Type
+type_b1c772c8,片切割,E55_Type
+type_dc42276e,钻孔技术、雕刻技法,E55_Type
+type_6a5784ad,简化神人兽面纹,E55_Type
+type_0186ed0d,切割与成型,E55_Type
+type_1d6ac8b8,雕琢细如毫发的纹饰和图案,E55_Type
+type_53654881,琮筒类,E55_Type
+type_e2d29d1c,兵器仪仗类,E55_Type
+type_5e1c8900,变体鸟纹,E55_Type
+type_a7f1c088,神人兽面,E55_Type
+type_eed60326,璧环类,E55_Type
+type_aa371045,切割与成型、钻孔技术、打磨,E55_Type
+type_878ad4c4,光素,E55_Type
+mat_57b1d240,透闪石一阳起石系列软玉,E57_Material
+type_0bef830d,切割与成型、钻孔技术、雕刻技法、装饰工艺,E55_Type
+type_cb2b54ea,双面横钻,E55_Type
+type_9e350512,无孔眼，弧凸面，短茎，便于嵌入,E55_Type
+type_507aa435,嵌玉漆器,E55_Type
+type_4dd49be0,光芒状,E55_Type
+type_64dfadf0,三节简化的神人兽面纹,E55_Type
+type_162f0c83,切割与成型、雕刻技法,E55_Type
+type_99efde39,玉器,E55_Type
+type_fb93737d,神人神兽纹饰,E55_Type
+mat_d746f3d8,南瓜黄软玉,E57_Material
+type_cc96a787,双面钻孔，外大内小，多数错缝相通,E55_Type
+type_7941652e,简化的神人兽面纹,E55_Type
+mat_5ad19882,南瓜黄，夹青斑,E57_Material
+type_0500cc36,以四角展开雕琢三节简化的神人兽面纹，每节两组弦纹，重圈眼，有眼角。直槽为片切割，一面尚留有楔形状,E55_Type
+mat_3f0461ae,南瓜黄,E57_Material
+type_816508b7,以四角展开雕琢三节简化的神人兽面纹，每节两组弦纹，单圈眼，有眼角,E55_Type
+type_c68790bd,对钻孔,E55_Type
+type_7bd2c354,龙首纹,E55_Type
+mat_6a4ca204,南瓜黄，夹褐斑,E57_Material
+type_d7ff3419,对钻孔，中部以凹槽分为上、下两节，均以浅浮雕和线刻雕琢龙首纹饰，每节雕刻两个椭圆形眼部，以微拱弧线相连，两眼之间为垂帘状线刻，下部为椭圆形纹饰以代表鼻部，上、下节相交错位,E55_Type
+type_3c284baf,对钻孔，一些端面上或外壁留有切割痕迹,E55_Type
+type_67fada9b,"切割, 双面钻孔",E55_Type
+type_603d2dcb,对钻孔，一些留有切割痕迹,E55_Type
+mat_337893cb,南瓜黄，或沁蚀,E57_Material
+type_dc45b4de,单面钻孔，对钻孔,E55_Type
+type_51a44f2e,对钻孔，单面钻孔,E55_Type
+type_bbb3b7d4,单面钻，对钻孔,E55_Type
+mat_e8378a4c,南瓜黄玉,E57_Material
+type_7d304ed6,简化“神徽”，兽面纹和蹲踞状的下肢组成，兽面上方刻冠顶外缘。两边叉上端阴线细刻一对神鸟。纹饰内均以卷云纹弧线、短直线填满。背面四个凸块上也用阴线细刻出两只圆眼和卷云纹等繁细纹饰,E55_Type
+type_acf8bb1e,神人图像，宝盖头冠帽，倒梯形脸部，单圈眼，宽嘴，鸟形象,E55_Type
+mat_5861f30e,南瓜黄，夹茶褐色块斑,E57_Material
+type_848653d2,透雕和阴线刻划相结合的技法,E55_Type
+mat_dd57852b,青绿色,E57_Material
+mat_b6025da3,青绿色，夹深褐色斑,E57_Material
+type_9c385f69,片切割痕迹,E55_Type
+mat_908647ae,黄褐色,E57_Material
+type_7b308dcf,简化“神徽”，神人脸面，单圈为眼，两侧短线为眼角，阔嘴，嘴角用圆弧线勾出,E55_Type
+type_c8f6502f,雕琢一节神人兽面纹,E55_Type
+mat_5608fbe8,南瓜黄，夹透光的黄褐色斑,E57_Material
+type_6999bbbd,外壁略内凹,E55_Type
+type_af5d7ac9,璧环类 (Bi/Huan),E55_Type
+mat_0540d7b9,黄褐色，夹白筋条状斑,E57_Material
+type_5107a6a9,双面管钻，孔壁保留有台痕,E55_Type
+type_b3708d80,简化的神人兽面纹，弦纹,E55_Type
+mat_a79ac048,南瓜黄，夹黄褐斑，光泽感好,E57_Material
+type_22e0747e,以四角展开雕琢一节简化的神人兽面纹,E55_Type
+type_27e7beb5,肖生类 (Zoomorphic),E55_Type
+mat_9b91ef75,南瓜黄，局部夹褐斑,E57_Material
+type_0330ebed,鸟嘴以及鸟眼以切磨方式表示。鸟背切磨成蒜头形，近鸟头部位切磨痕迹明显。一侧鸟翼与鸟尾之间尚留有线切割痕迹。背面钻有基本横向的一对隧孔。,E55_Type
+type_c1cf7556,神人神兽纹饰单元,E55_Type
+type_ba7d4f02,透雕和阴线细刻相结合的手法,E55_Type
+type_ed07aec0,局部沁蚀,E55_Type
+type_1f5286de,局部沁蚀，端部有对钻小孔,E55_Type
+type_43dd90c3,简化“神徽”，三节，刻三组纹饰，神人脸面，单圈为眼，两侧短线为眼角，阔嘴，嘴角用圆弧线勾出,E55_Type
+type_07c776f3,榫部对钻孔，不与对角相交,E55_Type
+type_e70e59f6,对钻孔，柱体外壁雕琢龙首纹,E55_Type
+mat_c219e6e7,南瓜黄，夹白色晶体,E57_Material
+type_9fa3b93f,有隧孔的一面留有线切割痕迹,E55_Type
+type_d578585b,一面弧凸，另面平整，钻有一对隧孔，留有线切割痕迹，至少三个切割方向,E55_Type
+type_8d9771f8,对钻孔，切割面虽经打磨，局部仍留有切割痕迹,E55_Type
+mat_35c31195,南瓜黄，夹红褐斑,E57_Material
+type_e3eefffc,双面管钻孔，孔内壁尚留有管钻的台痕,E55_Type
+mat_b3dccc3d,南瓜黄，表面沁蚀,E57_Material
+type_1834e875,对钻孔，孔内壁除留有对钻痕迹外，还留有竖向的擦痕。一端面还留有线切割痕迹,E55_Type
+type_f4385305,对钻孔，孔内壁除留有对钻痕迹外，还留有竖向的擦痕,E55_Type
+mat_c0d73244,南瓜黄，偏青色,E57_Material
+type_0ac92d3a,柱形器外壁留有横向的旋纹，是以管钻芯制作而成的，一端面上还留有线切割痕迹。双面钻孔,E55_Type
+mat_d0104505,南瓜黄，偏青色，光泽感好,E57_Material
+type_054dd350,柱形器外壁微外凸，双面管钻孔,E55_Type
+mat_ea492df5,南瓜黄，微沁蚀,E57_Material
+type_87dea800,双面管钻孔，一面还留有两次的管钻痕迹，钻孔内壁留有竖向的擦痕,E55_Type
+mat_b3e23f62,南瓜黄，表面略有沁蚀,E57_Material
+type_70dfe89a,对钻孔，孔内壁尚留有台痕。玉璧表面以及孔内壁均可观察到杂乱的擦痕，其中孔内壁的摩擦痕迹多为竖向,E55_Type
+mat_d25a9b0e,南瓜黄，局部沁蚀，夹条状晶体,E57_Material
+mat_dc7ed39e,南瓜黄，表面沁蚀甚，仅孔内壁局部尚存“皮”,E57_Material
+type_7de62e82,雕琢一节简化的神人兽面纹，两组弦纹内填刻线条4~5条，刻划较粗，而且两组弦纹之间的“分界”也不是很清楚。眼为刻划或管钻的圆圈，外圈上下再以弧线勾勒。纹饰两侧下角以弧线勾出“脸庞”。鼻部减地凸出而未呈凸块状，但以勾勒刻划鼻翼表示鼻部,E55_Type
+mat_9b276b90,南瓜黄，局部沁蚀,E57_Material
+type_4ddc2833,钻孔两侧及上部有划痕，另面因为沁蚀而不辨,E55_Type
+mat_f874abf5,南瓜黄，夹黄色斑块,E57_Material
+type_5c36cb62,整体横截面呈椭圆形，端面切割成椭圆形的凸块，榫头状的安插面钻有三个卯孔，其中中间的一个直径较大，约1厘米，两侧各有一小卯孔，并有竖向隧孔，隧孔的性质尚不明,E55_Type
+mat_045297af,南瓜黄，夹透光青斑，光泽感好,E57_Material
+type_e76444c7,边缘略薄，两面以透雕和线刻的技法雕刻,E55_Type
+mat_987e5757,南瓜黄，局部沁蚀呈粉白状,E57_Material
+type_e9edef2f,整体呈条形,E55_Type
+mat_6ee09ec6,浅黄玉,E57_Material
+type_e206e0c0,双面钻孔,E55_Type
+mat_e6c5f941,"南瓜黄, 夹黄褐斑",E57_Material
+type_c7edfd26,以四角展开雕琢三节简化的神人兽面纹,E55_Type
+type_f08ea1a0,龙首纹饰,E55_Type
+mat_897c527e,"南瓜黄, 夹米黄色透光晶体",E57_Material
+type_bbf7a66a,"对钻孔, 上端比下端略大。雕刻有两组相连的龙首纹饰, 眼部减地凸出, 眼部内再刻划椭圆形线条, 眼部之间为刻划的连线, 两眼之间的下部为垂帘状刻划线条。下为减地的鼻部",E55_Type
+type_5a0065f9,对钻孔，上端比下端略大。雕刻有两组相连的龙首纹饰，眼部减地凸出，眼部内再刻划椭圆形线条，眼部之间为刻划的连线，两眼之间的下部为垂帘状刻划线条。下为减地的鼻部。上端面留有相向的线切割痕迹,E55_Type
+mat_645678ed,"南瓜黄, 夹浅蓝色斑",E57_Material
+type_8778130a,鸟形平展，尖喙，短尾，两翼外张，作振翅奋飞状，鸟头与鸟尾微上翘，双眼减地凸起，背部也凸起。背面钻有两对横向的隧孔。其中一鸟翅边缘残留有片切割痕迹,E55_Type
+mat_6126961f,深黄褐色,E57_Material
+type_670d1d83,直径大的一面微微弧凸，另一面平整。对钻孔。外壁内凹,E55_Type
+mat_fb012c93,"南瓜黄, 夹黄斑和透光的青斑",E57_Material
+type_b7be71ea,端面弧凸，外壁内凹呈蘑菇状,E55_Type
+type_10d3506a,椭圆形，正面弧凸，背面较平整，两端的背面与正面的上端边缘钻有隧孔。其中1件背面有线切割痕迹,E55_Type
+type_198d0cae,椭圆形，正面弧凸，背面较平整，两端的背面与正面的上端边缘钻有隧孔,E55_Type
+type_18d63f7e,背面有线切割痕迹,E55_Type
+type_a941b6f1,椭圆形，正面弧凸，背面较平整，两端的背面与正面的上端边缘钻有隧孔。两侧均留有线切割痕迹,E55_Type
+type_0aeb3923,几何纹饰,E55_Type
+type_7e8b344a,对钻孔，孔壁打磨精细；外壁切磨呈竹节状,E55_Type
+type_8a38c143,线切割痕迹,E55_Type
+type_383470b1,神人和兽面组合,E55_Type
+type_48c1f27e,雕琢两节神人兽面纹，下端为小短榫，并对钻小孔,E55_Type
+type_8ff9c1ed,兽面纹、鸟纹,E55_Type
+type_91b290ee,肖生类,E55_Type
+type_926174c9,横截面呈梯形，是用管钻芯制作而成。双面钻孔,E55_Type
+type_5768eb37,双面管钻孔，孔内壁经过打磨，但仍留有对钻之台痕,E55_Type
+type_e9254c92,整器比较平整。单面钻孔，孔另一面稍加修整，孔内壁依稀留有钻痕,E55_Type
+type_63183a0e,孔内壁打磨得较好。一面保留有线切割痕迹,E55_Type
+type_d6f3f0e4,对钻孔。边缘尚留有线切割和片切割痕迹,E55_Type
+type_4f81be65,对钻孔，片状工具切磨,E55_Type
+type_17045b00,腹下双面钻两个小孔,E55_Type
+type_c35c1536,卵孔内尚留有象牙质物件,E55_Type
+type_884a19d2,卵孔为两次实心钻形成，所以卵孔呈椭圆形,E55_Type
+type_a72d8a4c,工具类,E55_Type
+type_9eb75b79,未提及,E55_Type
+mat_2b406f87,南瓜黄，局部夹棕色斑,E57_Material
+mat_50c732f6,墨绿色玉,E57_Material
+type_5a7f5a5e,对钻孔，台痕明显，且有错位,E55_Type
+mat_9b43eb2c,墨绿色玉，夹浅绿色透光晶体,E57_Material
+type_5248c7db,对钻孔，孔内壁留有明显的台痕，一面管钻时还曾有'滑管'的现象,E55_Type
+mat_1495bb0b,墨绿色软玉,E57_Material
+type_4ec1d151,单面钻，孔内壁留有钻痕,E55_Type
+type_ae68c3cb,对钻孔，孔内壁留有台痕,E55_Type
+type_c4e7426b,对钻孔，一侧边缘留有片切割痕迹，但呈斜向,E55_Type
+mat_58aae946,浅绿色软玉,E57_Material
+mat_b3b6aaaa,墨绿色软玉，局部夹暗红色斑及透光的浅蓝色斑,E57_Material
+type_aa269aca,对钻孔，孔内壁留有钻痕，边缘有斜向的摩擦痕迹,E55_Type
+mat_e2306c83,浅褐色软玉，沁蚀,E57_Material
+type_d0f29853,单面钻，但钻孔内壁所留痕迹为斜向的擦痕，可能为打磨痕迹,E55_Type
+type_277c0ddd,对钻孔，孔内壁留有明显的台痕，管钻壁厚约1毫米,E55_Type
+mat_3db135af,绿色软玉，夹浅绿色透光晶体,E57_Material
+type_18e7628c,单面钻，孔内依稀可见钻痕，两处侧缘留有单向的片切割痕迹,E55_Type
+mat_dd5869bd,墨绿色软玉，夹浅绿色的透光晶体,E57_Material
+type_d5f95e45,对钻孔，孔内壁留有钻痕，边缘局部平直，还可见擦痕,E55_Type
+mat_30c07583,墨绿色软玉，夹暗红色筋斑,E57_Material
+type_07d7ef4a,对钻孔，一面管钻时至少已存在过一次，可能是“滑管”的缘故，孔内壁台痕明显，且有错位，边缘留有摩擦痕迹,E55_Type
+mat_e061efec,墨绿偏青色软玉,E57_Material
+mat_9eb75b79,未提及,E57_Material
+type_df425ba0,双面钻孔，孔壁光滑,E55_Type
+mat_29e62e7e,青绿色，夹灰白色斑,E57_Material
+type_7ec13950,孔内壁管钻错位较严重，依管钻对称以及半节复原,E55_Type
+type_f3b2fa80,一面有制作时的弧线切割痕，可能套于某一实体上,E55_Type
+type_ded94be4,相对钻孔,E55_Type
+type_ebe032cf,神人兽面像,E55_Type
+type_f87e3d23,鸟蛇样刻划或玉器地纹的螺旋线,E55_Type
+type_2089ecb1,漆壶的胎骨雕琢呈浅浮雕的图样，再上漆、嵌玉,E55_Type
+mat_3a918848,玉片、玉粒,E57_Material
+mat_e13b43a6,浅蓝色玉,E57_Material
+type_601f572c,抛光精美,E55_Type
+type_9c030bed,神人脸面,E55_Type
+mat_11de285c,白玉,E57_Material
+mat_4550410e,透闪石,E57_Material
+type_328890a5,对钻孔，孔内壁台痕明显，且有错位，管钻壁厚约1毫米,E55_Type
+type_967c9f13,对钻孔，孔内壁留有钻痕,E55_Type
+type_ff1d7169,对钻孔，经过打磨,E55_Type
+type_4f29ee35,单面钻孔，只是在另一面的钻孔边缘稍加修整,E55_Type
+type_f759d693,对钻孔，孔内壁留有台痕，管钻壁厚约1毫米,E55_Type
+type_446c289d,单面钻孔,E55_Type
+type_412e3621,钻孔内壁保留有台痕，管钻壁厚约1毫米,E55_Type
+type_a802bc44,钻孔内壁留有台痕，管钻壁痕厚约1毫米,E55_Type
+type_0bb1950a,单面钻,E55_Type
+type_ec24916e,对钻孔，留有台痕,E55_Type
+type_95292e5a,对钻孔，留有台痕，钻孔略有错位,E55_Type
+type_9383fe6e,对钻孔，依稀可见台痕,E55_Type
+type_566c00f8,"钻孔台痕明显, 且有错位, 管钻壁痕厚 1 毫米",E55_Type
+type_3e95dcf6,对钻孔，依稀可见钻痕,E55_Type
+type_2df48528,对钻孔，孔内壁台痕明显，且有错位，管钻壁痕厚约1毫米,E55_Type
+type_e59203f0,钻孔内壁有台痕，管钻壁痕厚1毫米,E55_Type
+type_83444b9c,对钻孔，孔内壁留有台痕，对钻略有错位，钻孔内壁一面局部还留有内凹的钻痕，可能与解玉砂的摩擦有关。壁局部边缘边壁较直，当与成型时的片切割有关,E55_Type
+type_9f3cbeb9,"钻孔内壁留有台痕, 管钻壁厚约 1 毫米",E55_Type
+type_b16da1c5,"对钻孔, 线切割, 雕刻",E55_Type
+type_2cf430fc,端饰,E55_Type
+type_9e50831e,杖端饰,E55_Type
+type_388ec141,管钻,E55_Type
+type_ff09e45f,切割,E55_Type
+type_85054922,一端大一端略小，大的一端边缘还经过切磨，对钻孔,E55_Type
+type_0cf96423,一端大另一端小，大的一端边缘还经过修整，端面微弧凸，另一面较为平整。外壁微内凹，对钻孔,E55_Type
+type_f737f473,双面管钻，孔内壁尚留有台痕,E55_Type
+type_5ff5635f,上射面留有线切割痕迹。以四角展开雕琢两节简化的神人兽面纹，每节两组弦纹，重圈眼，有眼角，眼部的线条为断续的刻划线，鼻端部位填刻鼻翼。无直槽。,E55_Type
+type_5f8914df,镶插端饰,E55_Type
+type_5592c940,"侧视呈长方形, 横截面呈椭圆形。上端掏膛钻有椭圆形卵孔, 卵孔底部经过打磨呈凹弧状, 下端割琢一圆形凹缺",E55_Type
+mat_e82aec86,鸡骨白,E57_Material
+type_33aba02f,上射面留有线切割痕迹。以四角展开雕琢两节简化的神人兽面纹，每节两组弦纹，弦纹约5条，重圈眼，有眼角。无直槽。,E55_Type
+type_231c8f6b,以四角展开雕琢三节简化的神人兽面纹，每节两组弦纹，单圈眼，有眼角。可能因为眼部为两侧共用，所以直槽仅局限于弦纹之间的分割。对钻孔，略有错位。,E55_Type
+type_5daf5f6d,构图同M14：168，唯直槽并不在同一纵向上，说明分割弦纹的直槽是每段分别切磨的。,E55_Type
+type_acc1513c,以四角展开雕琢三节简化的神人兽面纹，每节两组弦纹，重圈眼，有眼角。直槽为切磨而成，对钻孔，略有错位。,E55_Type
+type_c3e7f6dc,以四角展开雕琢三节简化的神人兽面纹，每节两组弦纹，弦纹3~6条。单圈刻划眼，无眼角。直槽为切磨而成。对钻孔，钻痕明显，且有错位。,E55_Type
+type_e5f8e136,以四角展开雕琢三节简化的神人兽面纹，每节两组弦纹，弦纹3~4条。重圈眼，有眼角。无直槽。由于取料上端一侧凹缺，另外柱体上还留有片切割痕迹。,E55_Type
+type_111bf1af,直槽为两侧切磨而成,E55_Type
+type_f160db95,以四角展开雕琢五节简化的神人兽面纹，每节两组弦纹，弦纹4~5条，弦纹不连贯或互相叠压。每节未切割分节线，无眼部。对钻孔，其中一端还曾经两次钻孔，使射孔呈椭圆形。,E55_Type
+type_0617cf79,背面钻有一对横向的隧孔,E55_Type
+type_00aae481,背面平整，有切割痕，钻一对小隧孔,E55_Type
+type_9d6d85b7,隧孔部位经过磨平,E55_Type
+type_b8832699,隧孔部位经过打磨呈尖状,E55_Type
+type_a9e99ebb,对钻孔，单面钻，线切割,E55_Type
+mat_978efc60,南瓜黄，偏黄褐色,E57_Material
+type_be2afe71,对钻孔。一些管的横截面呈椭圆形。一些管的端面上留有切割痕迹，有线切割和片切割两种。一些管的外壁留有切割痕迹。,E55_Type
+type_309352e0,对钻孔。其中1件的外壁留有片切割痕迹，2件的端面上留有线切割痕迹。,E55_Type
+type_7a1bb726,从大端单面钻孔,E55_Type
+mat_260d955a,南瓜黄，光泽感好,E57_Material
+type_dbd92e4e,对钻孔。一些珠的横截面呈椭圆形。一件珠留有线切割痕迹。,E55_Type
+type_68da830f,对钻孔。一些珠的外壁留有线切割痕迹，方向有横向和竖向。,E55_Type
+type_34ff3e77,对钻孔。一些珠的外壁留有线切割痕迹。一些珠的横截面呈椭圆形。其中一件珠对钻孔时钻了三次。,E55_Type
+type_b7f66a71,局部透光，端部出榫,E55_Type
+type_73292125,"线切割痕迹, 钻孔后再切割",E55_Type
+type_7a52a4d2,切割痕迹,E55_Type
+type_55e18104,正面雕琢简化'神徽'，背面光素，短榫上有双面钻成的四个小圆孔，有横道锯割痕,E55_Type
+type_fd5b2bb6,雕琢三节简化的神人兽面纹，未切割直槽，每组弦纹类填刻线条约5条，单圈眼，有眼角，鼻部为减地凸块，凸块填刻纹饰。另一侧还留有纵向的片切割痕迹,E55_Type
+type_6df67f85,雕琢两节简化的神人兽面纹，弦纹分两组，单圈眼，刻划眼角，眼睛对角共用，鼻部为减地凸块，填刻线条中没有横连线。榫部留有切割痕迹,E55_Type
+type_227e981f,一端有穿孔的小榫,E55_Type
+type_8f4b6db8,雕琢一节完整的神人兽面纹，神人部分两组弦纹，每组填刻线条约7条，线条或有呈弧状的，管钻重圈眼，外圈径5、内圈径3毫米，刻划有眼角。兽面纹以重圈为眼，大小与神人一致，外框以椭圆形眼睑，其间有桥梁形眼梁相连。两者鼻部均为减地凸块，凸块内填刻纹饰，鼻翼纹饰之间的连接以小尖喙分为两个层次,E55_Type
+type_42599dab,"神人,兽面纹",E55_Type
+type_0d5c0eb6,雕琢一节半神人兽面纹，即神人+兽面纹+神人。神人部分弦纹内填刻的线条较细密，多达9~10条，上下两节神人重圈眼的外圈均为管钻，上节神人眼内圈均为刻划，下节神人眼内圈有两只眼为两次管钻，余均为刻划。兽面纹以管钻重圈为眼，斜上下两侧刻划有小尖喙，再雕琢椭圆形眼睑。神人和兽面纹鼻部均为减地凸块，凸块内填刻纹饰,E55_Type
+type_52c052ff,上端面留有打制痕迹，除一双面管钻孔外，顶部还有一残的对钻孔。钻孔两侧以及上部残留有朱痕，朱痕延及钻孔内壁。钺的刃部较为锋利。钺一面留有弧状的线切割痕迹，另一面留有竖向的片切割痕迹,E55_Type
+type_5de4c8e4,鸟形平展，尖喙，短尾，两翼外张，作振翅奋飞状，鸟头与鸟尾微上翘。鸟嘴与鸟眼以切磨方式表示。鸟背切磨呈蒜头形，与鸟头相接。背面钻有基本横向的两对隧孔,E55_Type
+type_5c36bb2d,头颈前伸，中部有一道折脊线，四爪短小，作爬行状，背上有纵向脊线。腹部平整，有一对横向的隧孔,E55_Type
+type_7418b604,以四角展开雕琢三节简化的神人兽面纹，每节一组弦纹，弦纹内仅刻划较粗的两道线条。无眼部。直槽仅是两侧进行斜向的切磨而成，以至于直槽中间呈圆弧状。每节神人兽面纹之间的分割是经过两次切磨而成的。对钻孔,E55_Type
+type_fac640d0,以四角展开雕琢两节简化的神人兽面纹，每节两组弦纹，弦纹一般填刻3~4条线条。单圈眼，无眼角。直槽为直接切磨。对钻孔,E55_Type
+type_9bc7c387,简化的神人兽面纹，重圈眼，有眼角,E55_Type
+type_eee56bdb,雕刻技法、钻孔技术,E55_Type
+type_0e7e0e57,背面靠平直一端有一对小孔,E55_Type
+type_8aa17c66,钻孔技术、切割与成型,E55_Type
+type_9b1887dc,背面正中有一对小孔,E55_Type
+mat_afa9175a,南瓜黄，偏绿色,E57_Material
+mat_8a8dcca9,墨绿色,E57_Material
+type_3350bff1,弧状切割痕迹，磨痕,E55_Type
+type_e4756f02,钻有卵眼,E55_Type
+type_6856df2a,兽面,E55_Type
+mat_6cc662c9,南瓜黄，稍有沁蚀,E57_Material
+type_93c5646c,钻有小孔，雕刻有兽面纹,E55_Type
+mat_878bbdad,南瓜黄，夹翠绿色斑，局部沁蚀,E57_Material
+type_2777aa88,两端雕琢成扁祖样,E55_Type
+type_b9de395e,对钻孔，孔内壁经过打磨,E55_Type
+type_fe52c8fb,先钻孔后再线切割,E55_Type
+mat_ddae6dc0,鸡骨白，带翠绿色,E57_Material
+type_e419e642,对钻孔，留有切割痕迹,E55_Type
+type_4d21c3e1,钻隧孔的部位局部稍磨平,E55_Type
+mat_04bc0e2b,鸡骨白，带翠色,E57_Material
+type_ed7c1e50,钻隧孔的部位留有线切割痕迹,E55_Type
+type_047acb5c,对钻孔，两对称面留有同一方向的线切割痕迹,E55_Type
+type_6f30c585,对钻孔，一端面留有线切割痕迹,E55_Type
+type_293798a2,有的珠留有线切割痕迹,E55_Type
+mat_9694f996,南瓜黄透闪石软玉,E57_Material
+mat_6b014257,青色透闪石软玉,E57_Material
+mat_dd718aa9,墨绿色透闪石软玉,E57_Material
+type_f7d2172c,对钻孔，孔内壁打磨得较为精细。一侧边缘尚留有片切割痕迹,E55_Type
+type_5fc62650,同心圆旋纹,E55_Type
+mat_3fb8357d,南瓜黄透闪石软玉夹青、黄褐斑,E57_Material
+type_46cee37c,整器横截面呈梯形。外缘留有旋线，上壁面留有细密近同心圆线，下端面光滑平整，当为一大钻芯制作而成,E55_Type
+type_fa112ca9,正面略弧凸，背面切割为上、下两部分凸块，上部分至叉部，下部分仅留有与中叉垂直的长方形凸块。左、右两叉为双面钻孔，中叉上、下均相向单面钻。中叉孔与其下孔可以垂直贯通,E55_Type
+type_65616ff2,素面，两面均留有弧线切割痕迹。冠顶切割成宝盖头结构，其下未有镂孔，两侧略斜向内收。短榫内收，对钻有5孔，短榫一面留有片切割痕迹,E55_Type
+type_2342411b,一侧留有纵向的片切割痕迹,E55_Type
+type_f26196bc,一侧留有片切割痕迹,E55_Type
+type_7cfd46b4,两侧均留有片切割痕迹,E55_Type
+type_f7aad58e,留有纵向片切割痕迹,E55_Type
+type_292b3389,背面于两侧钻有竖向的一对隧孔，半圆上端以及两侧尚留有片切割痕迹，另外下端面上有相向的片切割痕迹，并留有一对钻孔残痕,E55_Type
+type_16031954,背面钻有一对竖向的隧孔。下端面留有一道片切割痕迹,E55_Type
+type_3d590c80,背面下端两侧各钻有一对隧孔。正面留有线切割痕迹,E55_Type
+type_9190d605,背面钻有一对竖向的隧孔,E55_Type
+type_c692d02b,简化“神徽”，四节，刻两组纹饰。神人脸面以重圈为眼，阔嘴。兽面纹以单圈为眼，椭圆形凸块为眼睑，桥形相连，阔嘴。神人脸面四，兽面仅二,E55_Type
+type_e36ca5b6,一面略弧凸并有脊线，且留有线切割痕迹；另一面平整，对钻有隧孔,E55_Type
+type_950ed7f5,"一面留有切割痕迹。对钻孔, 但是两面的对钻深度不一, 浅的一面还经过两次实心钻",E55_Type
+type_d6577e2b,双面实心钻，一面还经过两次实心钻，另一面仅修整,E55_Type
+type_b680e5f9,线切割,E55_Type
+type_981a54e5,单面钻孔。一面留有线切割痕迹,E55_Type
+type_e77a407e,神人、鸟形象,E55_Type
+mat_7661f597,南瓜黄，局部夹青斑，或透光,E57_Material
+type_2c283b47,以四角展开雕琢一节简化的神人兽面纹，每组弦纹填刻4~5条，局部还刻划成斜线状。单圈管钻眼，有眼角，其中一面的眼角的管钻深度两边不一，说明钻时是歪斜的,E55_Type
+mat_bdc11d97,"青白玉, 夹青斑, 透光",E57_Material
+type_b47cb2c3,"以四角展开雕琢一节神人兽面纹, 纹饰繁縡细密。神人的弦纹组比兽面的弦纹组稍宽, 前者一般填刻8条, 后者一般填刻6条, 其间再填以螺旋线加小尖喙的纹饰, 至转角处均为椭圆形线向两侧展开。神人眼睛为重圈管钻, 刻划眼角。兽面纹为重圈管钻眼睛, 兽面纹眼睑内填刻纹饰。鼻梁部位刻划多重圈椭圆形结构。神人和兽面纹的鼻部均为减地凸块, 填刻纹饰一致, 鼻翼之间的纹饰为重圈椭圆形结构。琮下部尚保留有片切割痕迹",E55_Type
+mat_90a18686,南瓜黄，夹翠斑，透光,E57_Material
+type_e558a7a9,雕琢一节简化的神人兽面纹，弦纹每组7~8条，神人兽面纹两下角刻弧形“脸庞”样线条。重圈眼，管钻，外圈直径7.5、内圈直径4.5毫米，从重圈眼观察，为管钻后再打磨,E55_Type
+type_c64d4277,以四角展开雕琢两节神人兽面纹。神人弦纹两组，每组6~7条，其中一面因为玉料的关系有凹缺，但两侧的弦纹并不连贯，说明刻划弦纹的工具刃部较短。神人单圈管钻眼，刻划有眼角，鼻部为减地凸块，填刻线条比较简单。兽面纹之两侧还雕琢有鸟形象，周缘可见明显的磨蹭痕迹,E55_Type
+type_f0040456,实心钻掏膛、线切割、片切割,E55_Type
+type_5af46711,实心钻掏膛、对钻孔,E55_Type
+type_5ab105c8,片切割、钻孔,E55_Type
+type_96bdd5c3,线切割、单面钻,E55_Type
+type_ed3d2332,线切割、单面钻、打磨,E55_Type
+type_0f61bb2c,对钻孔，孔内壁打磨得较为精细,E55_Type
+type_e458c0cb,对钻孔，孔内壁尚可见钻痕,E55_Type
+type_8f04b164,对钻孔，但另一面的管钻较浅，深仅0.2厘米,E55_Type
+type_6c1d3426,孔因为修整显得不圆,E55_Type
+type_dc1d2147,切割与成型、钻孔技术、装饰工艺,E55_Type
+type_ea77e4fb,榫头以片切割制成,E55_Type
+mat_3fc375e9,南瓜黄，偏灰黄色,E57_Material
+type_a1c604b0,榫头面上以及边缘留有朱痕,E55_Type
+type_011e2007,榫头较短，近端部有一穿孔,E55_Type
+type_c3ca7586,榫头残,E55_Type
+type_252140e8,安插面尚保留有线切割痕迹，端面有一道深约1毫米的凹槽,E55_Type
+type_f92ed96e,两面均较平整，但一面小，小的一面边缘经过修整。对钻孔,E55_Type
+type_5a9c7bdf,小的一面较为平整，另一面（端面）略弧凸。单面钻，孔内壁留有明显的钻痕,E55_Type
+mat_ac6e74ab,南瓜黄，夹透光的米黄色斑,E57_Material
+type_5ea4e2dd,整器横截面呈弧弯状的弓形，其中弧凸部位磨刻有兽面纹，管钻眼，直径约4毫米，有鼻部。榫头上钻有两小孔,E55_Type
+type_0d84dcd5,"整器横截面呈一面平整、另面弧凸的弓形, 中间先钻一孔, 然后依孔进行线割而成",E55_Type
+mat_04ee7677,"南瓜黄, 夹透光的青黄斑",E57_Material
+type_4b3a9ef7,"整器横截面呈甚扁的椭圆形, 安插面钻有两卯孔, 端面有弧状凹缺",E55_Type
+mat_9a50b12f,南瓜黄，夹透光的凝脂般的米黄色晶体,E57_Material
+type_250f15a0,正面弧凹，两端微凹。一端对钻孔，孔内壁光泽感好，另一端线切割呈钩状，切割的时候因为收线范围狭窄，使得线切割痕迹呈双向。带钩两侧尚留有片切割痕迹,E55_Type
+type_7f635e0f,龙首,E55_Type
+type_1a5ce0c5,减地雕琢,E55_Type
+type_a748cff6,减地雕琢，实心钻,E55_Type
+mat_ca01cab7,南瓜黄，夹深黄斑,E57_Material
+mat_d392ce1e,南瓜黄，偏灰白色，夹条状白色晶体,E57_Material
+mat_1d4e5f61,南瓜黄，局部夹米黄色斑,E57_Material
+mat_b2d768e2,南瓜黄，偏灰褐色,E57_Material
+mat_c7a487c6,粉白色,E57_Material
+mat_3eeb4e7b,南瓜黄，夹深黄褐色斑,E57_Material
+mat_f6c333c6,红褐色，夹灰绿色斑,E57_Material
+mat_620e6933,南瓜黄，偏深黄色,E57_Material
+type_1e22505c,两节神人兽面纹，弦纹两组,E55_Type
+type_6ec53063,管钻眼,E55_Type
+type_0897e49f,一节简化的神人兽面纹,E55_Type
+type_a7ee22dd,片切割，双面管钻,E55_Type
+type_43f0c636,一节简化的神人兽面纹，两组弦纹,E55_Type
+type_9a274556,片切割，管钻，刻划,E55_Type
+type_9e38f0d6,素面无纹,E55_Type
+type_854fd88a,神人兽面纹，鸟形象,E55_Type
+type_2f286190,对钻，减地浅浮雕,E55_Type
+type_31342e97,线切割、管钻,E55_Type
+type_42277485,榫头端饰,E55_Type
+mat_4acba09d,粉白状,E57_Material
+type_ef205585,端面略弧凸,E55_Type
+mat_cba084c8,灰白色，夹绿色斑,E57_Material
+mat_6820c0b5,南瓜黄，偏暗绿色,E57_Material
+type_ff1d9cf7,卵孔端饰,E55_Type
+mat_9080582e,浅黄色,E57_Material
+type_acb58831,端面弧凸，卯孔边缘切割成榫头状。外壁有两周凹旋纹,E55_Type
+type_98604705,端面弧凸。外壁有两周凹旋纹,E55_Type
+type_03e62e9a,卯孔面平整，端面弧凸。外壁有一周凹旋纹,E55_Type
+mat_48c42f14,南瓜黄，夹红斑,E57_Material
+type_d9087d14,两面均较平整，剖面略呈梯形,E55_Type
+type_3cb86c4f,有卯孔的一面较平整，另一面稍弧凸，剖面略呈梯形,E55_Type
+type_657873bc,整器侧视呈平行四边形，钻有卯孔，深约0.65厘米,E55_Type
+type_1fd4938f,留有卵孔,E55_Type
+type_f305d68f,上端钻扁卯眼，下端割琢一方形凹缺,E55_Type
+mat_70208b91,南瓜黄，夹浅黄色斑,E57_Material
+type_3eabf592,由可以拼合的两块组合为一件，拼合处错缝相扣。下侧中部琢成长方形小凹缺。上端各钻一小卯眼,E55_Type
+type_91b60897,同M23:151,E55_Type
+type_72d6c046,外形如圆拱样，卵孔一侧尚留有一未成实心钻痕,E55_Type
+type_0eb0b022,同M23:153,E55_Type
+type_a8ecf839,外形如长方形，一面平整，另一面弧凸，钻有两个卵眼,E55_Type
+type_14eff712,同M23:155，但相配套的两件的卵眼并不对称,E55_Type
+mat_4405b538,浅黄色，夹透光的米黄色晶体,E57_Material
+type_02d499bb,一面较平整，另一面留有线切割痕迹。对钻孔，孔内局部留有钻痕,E55_Type
+mat_cd54d67c,南瓜黄，夹米黄色透光晶体,E57_Material
+type_4361708a,整器显得较规整。对钻孔，孔内局部留有台痕,E55_Type
+type_61343dcc,一面较平整，另一面仅存凹弧样的切割痕迹，一侧边缘留有片切割痕迹。单面钻,E55_Type
+mat_51e33587,"浅黄色, 夹透光的凝脂般的浅绿色、暗红色晶体",E57_Material
+type_b8ee19f1,"两面均不见切割痕迹。对钻孔, 孔内壁打磨得较好。边缘有横向的摩擦痕迹",E55_Type
+mat_74b7eb4d,黄褐色，夹浅黄色透光晶体,E57_Material
+type_5637c3b2,两面虽不见线切割痕迹，但截面呈波浪状，应是线切割所致，只是打磨得较好，将细部的线切割痕迹磨掉了。单面钻，仅于另一边稍加修磨,E55_Type
+type_9e85cc19,"对钻孔, 孔内壁留有钻痕",E55_Type
+type_131afa58,单面钻，孔内壁经修磨，钻痕几乎不见,E55_Type
+type_6ac1ac70,"对钻孔,孔内壁留有钻痕,但台痕歪斜",E55_Type
+type_3d5c350e,对钻孔，孔内壁留有依稀的钻痕,E55_Type
+type_26f42f00,"对钻孔,孔内壁留有钻痕",E55_Type
+type_ad65942c,对钻孔，孔内壁留有明显的台痕，且对钻错位,E55_Type
+mat_c3ae524c,浅绿色玉,E57_Material
+type_04e8c885,单面钻，仅于另一边稍加修磨,E55_Type
+mat_c8e9bd23,灰绿色玉,E57_Material
+type_16adcf6a,对钻孔，孔内壁打磨得较精细,E55_Type
+type_7b98610a,对钻孔，但孔内钻痕仅存局部,E55_Type
+mat_1d434fa3,浅墨绿色玉,E57_Material
+type_6f5adf92,"对钻孔, 台痕明显",E55_Type
+mat_3433d3db,绿松石,E57_Material
+mat_0486d6c5,蛇纹石、滑石,E57_Material
+type_f18d03f3,显微纤状变晶结构、显微鳞片变晶结构,E55_Type
+mat_835e721c,灰绿等杂色闪玉,E57_Material
+mat_6232c09e,浅黄绿色闪玉,E57_Material
+type_5b968370,"圆柱形体, 尾部凸榫残",E55_Type
+mat_7f61517d,南瓜黄闪玉,E57_Material
+type_df07c95c,"片状,倒梯形,一面有线切割凹痕,顶端中央凹缺,缺口内作“弓”字形凸起,凸块下方有穿孔,双面钻,两侧边斜直,两下角弧切,底端有较宽的凸榫,榫上无穿孔",E55_Type
+mat_7a2aa8da,蛇纹石或滑石,E57_Material
+type_0d9597c2,圆柱体较粗,E55_Type
+type_bd6ff96a,有一道纵向凹槽,E55_Type
+type_0bc6f8e5,"柱形,截面扁圆,穿孔较大",E55_Type
+mat_76439617,浅灰紫色安山(玢)岩,E57_Material
+mat_c4e5a8e2,灰绿色硅质粉砂质泥岩,E57_Material
+mat_50d45cdc,紫灰色弱熔结角砾凝灰岩,E57_Material
+type_7abd8446,一端残,E55_Type
+mat_547a02c6,灰白色细砂岩,E57_Material
+type_0c9ad5d2,磨制,E55_Type
+type_4d2af9d8,制作规整，磨制光亮,E55_Type
+mat_c8592eaa,弱风化透闪石,E57_Material
+type_009d1c0b,外壁平直，内壁略鼓,E55_Type
+type_83e2fdb1,"柱形,截面扁圆,穿孔较小,一端切面略斜",E55_Type
+type_305c79dc,一侧削平，其余部分为不规则的磨削面，棱角分明,E55_Type
+type_f9023b2a,不规则柱形，一侧削平，一端略残,E55_Type
+type_7cb98a9f,磨制较精,E55_Type
+type_2f10f445,磨制规整光亮,E55_Type
+mat_5ab8bd3c,乳白色闪玉,E57_Material
+type_40b2c67d,磨制光亮,E55_Type
+mat_ffa010c4,灰白色闪玉,E57_Material
+type_5d42e743,平面钻有一对隧孔,E55_Type
+mat_44ecb4a8,白色闪玉,E57_Material
+mat_3489b424,浅灰色闪玉,E57_Material
+type_6a391f9a,"制作规整, 磨制光亮",E55_Type
+mat_e57f2b09,叶蜡石,E57_Material
+mat_cd87b10c,闪玉,E57_Material
+type_4eb42651,球面钻有一对隧孔,E55_Type
+mat_b423e5dc,白色浅灰斑闪玉,E57_Material
+type_99c09c33,制作不甚规整,E55_Type
+type_1ddac2de,制作规整,E55_Type
+mat_5d0522cc,肉黄色叶蜡石,E57_Material
+type_b335b19f,外侧有锯割痕,E55_Type
+type_51aef700,制作精良,E55_Type
+type_e2acf1c2,穿孔错位,E55_Type
+type_7df3483b,截面呈圆角三角形,E55_Type
+type_3de3c6ac,制作规整，截面呈圆形，尾部扁平穿孔,E55_Type
+type_eeb723e2,制作规整精良，穿孔错位,E55_Type
+type_dee7d6b3,制作规整精良,E55_Type
+type_0f54c96f,制作精、抛光好,E55_Type
+type_32131b78,有瓷光,E55_Type
+type_43033960,制作精良，抛光好,E55_Type
+type_d6aab4d3,半透明，光泽好,E55_Type
+type_2bc5c194,制作佳，尾部有凸榫，榫上有穿孔,E55_Type
+mat_b7d752bd,白色闪玉，局部受沁,E57_Material
+type_a55c4333,两端对角削去一角,E55_Type
+type_265bab0e,一端破损,E55_Type
+type_2b1feeae,碎裂，外形不正圆，外壁内凹,E55_Type
+type_b5dd1a50,稍有破损,E55_Type
+mat_08bfc44c,白色带细灰斑闪玉,E57_Material
+type_6140d1ca,制作精良，尾部有短棒，棒上有穿孔,E55_Type
+type_d1001051,制作规整，榫部细长，榫中部穿孔,E55_Type
+type_8079ca0f,破损,E55_Type
+type_0454e470,截面扁圆,E55_Type
+mat_3756cfd8,浅绿色叶蜡石,E57_Material
+mat_09e65e50,浅黄绿色叶蜡石,E57_Material
+mat_50ce185c,乳白色叶蜡石,E57_Material
+type_c2325929,纵向锯割痕，尾部扁平穿孔,E55_Type
+type_ff47ec68,制作规整，两端稍有破损,E55_Type
+type_1bb6eddb,穿孔倾斜,E55_Type
+type_433db8aa,穿孔一头大一头小,E55_Type
+type_876f7549,尾部磨扁穿孔,E55_Type
+mat_288dba42,棕褐色叶蜡石,E57_Material
+type_424b826f,穿孔陡直,E55_Type
+mat_e20cc6d7,浅褐色叶蜡石,E57_Material
+type_f37a7e55,有切割痕,E55_Type
+mat_901028b8,青绿色闪玉,E57_Material
+type_a4eab108,两面均有线切割痕，外棱有玉料缺陷但经磨光,E55_Type
+type_6b3f996c,尾部扁薄穿孔，一面有纵向划痕,E55_Type
+type_a3c60bce,两端稍残,E55_Type
+type_9ed6f0ab,尾部扁薄穿孔，一面尾部有锯割痕,E55_Type
+type_68006395,腰鼓形,E55_Type
+type_0fdecd56,尾部扁薄穿孔,E55_Type
+type_3678d4a8,两侧均有线切割痕，顶端中央凹缺，缺口内有方块状凸起，凸块下方有一个穿孔，两侧边斜直，底端有较窄的凸榫，榫上饰3个穿孔,E55_Type
+type_433d09ea,扁鼓形,E55_Type
+type_77c576df,圆柱形,E55_Type
+type_97466ebe,尾部有凸榫和穿孔,E55_Type
+type_4faab917,有纵向切割痕,E55_Type
+mat_2587627a,棕红色叶蜡石,E57_Material
+mat_f3a06329,浅灰绿色叶蜡石,E57_Material
+mat_3de43f5c,粉砂岩,E57_Material
+mat_2f53d220,闪石玉,E57_Material
+type_9680866d,突起的鼻翼和细刻的眼圈,E55_Type
+mat_d436329a,阳起石闪玉,E57_Material
+type_36afafac,穿孔未打磨，孔壁留有细密的旋痕，1毫米约4根,E55_Type
+type_b22abc3e,凸榫钻孔,E55_Type
+type_3ad6f12b,受沁凹缺,E55_Type
+type_445d4839,局部受沁剥蚀,E55_Type
+type_4f46afa2,局部受沁剥落，一侧有纵向锯割痕,E55_Type
+type_e2d4eeee,受沁且破碎,E55_Type
+type_d5aaf5f4,残,E55_Type
+type_bd00dd2e,局部受沁凹缺,E55_Type
+type_1dc40cb3,略残,E55_Type
+type_b7ceba64,一端侧边被削,E55_Type
+type_346806af,残玉器,E55_Type
+type_556d86fa,三边经打磨,E55_Type
+mat_c78dc3cf,南瓜黄一类,E57_Material
+mat_9b204a10,次风化鸡骨白,E57_Material
+mat_159b0521,灰紫色晶屑凝灰岩,E57_Material
+mat_2aa30888,灰绿色粉砂质泥岩,E57_Material
+mat_bc3d0846,灰绿色弱熔结角砾凝灰岩,E57_Material
+mat_6779686d,强风化鸡骨白,E57_Material
+mat_74becb23,次风化鸡骨白闪玉,E57_Material
+mat_2fc96b27,白色,E57_Material
+mat_7e7df19b,浅黄绿色,E57_Material
+type_2b655ae2,细长，规整，截面呈圆形，凸榫较长有钻孔,E55_Type
+type_8dfdc4c1,受沁严重，表皮尽失，露粗涩残体，有无凸榫不明,E55_Type
+type_9dcb9ebd,一端较圆略斜，一端稍呈圆角三角形，旁有一段线切割痕，钻孔错位,E55_Type
+type_3f8df468,不规整球形，稍鼓突处有一对隧孔,E55_Type
+type_6f0d4a90,圆柱形，制作较规整,E55_Type
+type_dc1ffe13,制作规整，截面呈圆形，凸榫较长有穿孔，榫部稍有材料缺陷,E55_Type
+type_97ba0cec,制作规整，截面呈圆形，器身有锯割痕，有凸榫和穿孔，穿孔一侧顶部有系线磨痕,E55_Type
+type_f89adea6,受沁严重,E55_Type
+type_ae14aa50,未描述,E55_Type
+mat_df747fe3,蛇纹石（利蛇纹石）,E57_Material
+mat_e78ccb23,蛇纹石（利蛇纹石）和滑石,E57_Material
+mat_285220c1,滑石和蛇纹石,E57_Material
+mat_fa332881,滑石玉,E57_Material
+mat_e08afeba,蛇纹石玉,E57_Material
+mat_d0279632,滑石或蛇纹石,E57_Material
+type_f32f6152,受沁呈粉末状,E55_Type
+type_b6afc6ac,沁甚,E55_Type
+mat_270b81f4,浅黄绿色软玉,E57_Material
+type_71ad8b61,制作规整，穿孔居凸榫中央,E55_Type
+type_76d27d93,制作精良，凸榫斜穿孔,E55_Type
+type_2c4e6272,"制作规整, 凸榫呈短圆柱形",E55_Type
+type_110b9a67,扁圆柱形，凸榫也修扁,E55_Type
+mat_85720e5c,灰绿色软玉,E57_Material
+type_a45312bf,制作规整，尾部修成凸榫,E55_Type
+mat_713f7493,灰绿色带紫褐斑软玉,E57_Material
+type_924bcbe8,制作精良，凸榫较长，穿孔靠近端部，端部磨平,E55_Type
+type_3d295a46,底面平且留有线切割痕，还有一对隧孔,E55_Type
+type_75069ce3,器身有多道切割痕，穿孔一头大一头小，穿孔较小的一端不规整,E55_Type
+type_244b1769,凸榫较粗短，尖部及器身稍损,E55_Type
+type_5d042b79,中部略鼓，器身有两道纵向切割痕，尾部扁收带穿孔,E55_Type
+mat_0e7813f6,白色含青紫碎斑软玉,E57_Material
+type_586669f8,凸榫修成薄尖,E55_Type
+mat_a4163dcd,软玉,E57_Material
+mat_ae14aa50,未描述,E57_Material
+type_bb376a40,略扁，一侧有较浅的纵向切割痕，尾部收小，顶端磨平,E55_Type
+type_bb147a7e,纵向切割痕，尾部扁收，顶端磨平,E55_Type
+type_c43e3ed7,一侧有纵向切割痕，尾部扁收，顶端磨平,E55_Type
+mat_8074f4b4,浅黄绿软玉,E57_Material
+type_b1ac264c,圆柱形，较粗大，一端不圆整,E55_Type
+type_3d22a74a,"圆柱形, 制作较规整, 穿孔一头大一头小",E55_Type
+type_1c7e8529,鼓腰，保存较好,E55_Type
+type_17bf9d30,鼓腰，一头残,E55_Type
+type_db23caf6,扁圆柱鼓腰，不甚规则,E55_Type
+type_235aaa40,鼓腰，受沁，碎裂,E55_Type
+type_bd2b63a2,鼓腰，微损,E55_Type
+mat_a917cb38,浅灰绿软玉,E57_Material
+type_aebe2dd1,穿孔靠近凸榫根部,E55_Type
+type_bb67cd40,穿孔靠近端部,E55_Type
+type_f243467e,制作较规整，凸榫较粗大,E55_Type
+mat_154a4507,黄绿色软玉,E57_Material
+type_b127fe64,装饰工艺,E55_Type
+mat_ab70c750,褐色叶蜡石,E57_Material
+mat_e08ffc4e,浅黄色叶蜡石,E57_Material
+mat_dc0d2770,灰浅绿色叶蜡石,E57_Material
+type_767fb78a,扁圆柱形,E55_Type
+type_0d344544,矮圆柱形,E55_Type
+type_dbd536d2,强风化鸡骨白，沁甚,E55_Type
+mat_9a993a14,深褐色叶蜡石,E57_Material
+mat_174d4a08,黑褐色叶蜡石,E57_Material
+type_e0f42d0f,半球形，平面有一对隧孔,E55_Type
+type_b5f9cb71,略呈圆角方柱形，一端穿孔不规则,E55_Type
+type_496003ed,器身不太规整，尖部稍残，尾部扁收，顶部磨平,E55_Type
+type_81ad436e,穿孔技术,E55_Type
+mat_a98c89aa,浅灰绿色软玉,E57_Material
+type_c27e8516,钝尖，尖部不规则但经打磨,E55_Type
+type_a0729545,尾部磨扁钻孔,E55_Type
+type_8ab6153c,尾部修薄钻孔,E55_Type
+type_4131d163,器身有凹陷和纵向切割痕,E55_Type
+type_d682a195,穿孔歪斜,E55_Type
+type_0b430435,稍残,E55_Type
+mat_94b743b3,黄褐色叶蜡石,E57_Material
+type_1105633d,残半,E55_Type
+type_9562cb01,穿孔工艺,E55_Type
+type_b259e3f9,尖部微损，尾部扁收，项端部磨成斜边,E55_Type
+type_f9c480d1,一端有线切割弧形凹痕,E55_Type
+type_8be7534b,穿孔经修磨呈椭圆形,E55_Type
+mat_d2046329,绿色叶蜡石,E57_Material
+type_799526ce,两端侧边经打磨,E55_Type
+type_00c38811,受沁，凸榫残缺，尖部残损,E55_Type
+type_07170035,粗大，穿孔不居中，沁甚,E55_Type
+type_06f2dd07,鼓腰，受沁，残,E55_Type
+type_63372065,圆柱形略鼓，一面稍斜,E55_Type
+type_71f6e898,"鼓腰, 沁甚, 残",E55_Type
+type_d3c50e17,"球形, 有一对隧孔, 受沁",E55_Type
+type_3ef74f88,矮圆柱形，外壁直，内壁略鼓,E55_Type
+mat_24ff1d21,浅灰色粉砂岩,E57_Material
+type_88a586ff,凹槽中部凸起，有穿孔，侧边略内弧，短边两角修成内凹，凸榫有2个穿孔,E55_Type
+type_ccbefd4b,圆柱形，转角圆润,E55_Type
+type_b50c8992,器身及凸榫皆呈扁圆形，铤部较短，顶端磨平,E55_Type
+mat_39c851a0,萤石,E57_Material
+type_36ae6449,圆柱形，一端稍斜,E55_Type
+type_4ef79efa,粗短，凸榫呈细柱形，无穿孔,E55_Type
+type_3ee2f3f1,制作较规整，器身有三道纵向切割痕,E55_Type
+mat_f664d45a,玉髓,E57_Material
+type_f4523322,器身截面不圆整，凸榫稍残,E55_Type
+type_c1baf9f1,圆柱形，圆润,E55_Type
+type_9887126d,圆柱形，略受沁,E55_Type
+type_a9e16f64,扁圆柱形，凸榫不明显,E55_Type
+type_28d61e4f,鼓腰,E55_Type
+mat_0262ff41,乳白色半透明软玉,E57_Material
+type_08447760,制作精良，凸榫较细,E55_Type
+type_059ea970,制作精良，凸榫稍残,E55_Type
+type_c2b69f51,多处断裂粘接,E55_Type
+type_4d7f7e25,器身断成三截，凸榫残缺,E55_Type
+type_1d153d52,圆柱形，一端边缘有削痕,E55_Type
+mat_663f00a3,浅灰绿闪玉,E57_Material
+type_ed148840,"圆柱形, 尖部呈锥形, 尾部残缺",E55_Type
+type_a558c54a,对钻,E55_Type
+type_dff07364,琢刻、浅浮雕、阴刻,E55_Type
+type_0906c1e2,对钻、切割,E55_Type
+type_71fe5425,双向对钻孔,E55_Type
+type_35d15d06,双向钻孔、切割,E55_Type
+type_ea227588,单向钻孔,E55_Type
+type_996a2d6c,"单向钻孔, 直线状切割痕",E55_Type
+type_b6ead43a,"双向对钻孔, 孔壁有旋痕",E55_Type
+type_915a9988,"对钻孔, 弧线状切割痕",E55_Type
+type_90e9ebd6,"对钻孔, 切割痕",E55_Type
+type_b4339640,"双向钻孔后切割断, 弧线状切割痕",E55_Type
+type_15161fc2,"对钻孔, 凹陷的切割痕",E55_Type
+type_e85b8e35,"隧孔, 弧线状切割痕",E55_Type
+type_d5a5e0fa,隧孔,E55_Type
+type_1bebb040,阴线琢刻,E55_Type
+type_47eb6ea5,弧线状切割,E55_Type
+mat_be91b3ae,青绿色瑕疵,E57_Material
+mat_1601c746,黄白玉,E57_Material
+type_f44b4f39,浅浮雕并阴线刻,E55_Type
+mat_bfcc737f,褐色瑕疵,E57_Material
+type_3936f2a1,双向钻孔,E55_Type
+type_d236a0cb,兽面图案,E55_Type
+type_c4c8ff83,神兽纹,E55_Type
+type_28261718,一面弧凸，另一面平整,E55_Type
+mat_ea160559,青玉,E57_Material
+mat_328de579,青白玉,E57_Material
+mat_b4f96568,玉,E57_Material
+type_f77558d4,平面钻有隧孔,E55_Type
+type_163518c9,中间均对钻孔,E55_Type
+type_30decb61,弧线状切割痕,E55_Type
+type_e86bc9a1,冠形器,E55_Type
+type_0b17f13c,带盖柱形器,E55_Type
+mat_096971cc,淡黄色玉,E57_Material
+type_d5d150e5,成组锥形器,E55_Type
+type_28d1ddcb,直向切割,E55_Type
+type_9a18d596,对钻、折断痕、细刻线,E55_Type
+type_a711935a,双向钻孔、阴线刻,E55_Type
+type_77f081e6,一端有开料遗留的凹缺，略经打磨后还残留弧线状痕迹,E55_Type
+type_db794b3f,内壁可见少量切割旋线,E55_Type
+type_8b3d4a67,对钻一孔,E55_Type
+type_ffffa689,对钻小孔,E55_Type
+type_a24be262,中间对钻孔,E55_Type
+type_b3ce5185,中间钻孔多为对钻,E55_Type
+type_5a9ce4b3,中间穿孔，孔壁弧凸。一端孔口有台阶状旋痕，另一端面有弧线状切割痕。,E55_Type
+type_fa56d78f,中间钻孔呈现单面钻形态。一端是线切割末程折断部分的碴口，留有凹面，未经琢磨，线形切割由不同方向往内芯切割。另一端亦留有弧线状切割痕。,E55_Type
+type_43cbef3f,钻孔后切割断，从而形成单向钻孔形态。切断面留有弧线状切割痕。,E55_Type
+type_89805895,器表有切割痕，一端有弧线状切割痕。,E55_Type
+type_db174c56,断成两截,E55_Type
+type_d8b1eb0e,一端残，另一端留有钻孔后切割断的台痕以及弧线状切割痕。,E55_Type
+type_8449bbf0,一端有直向的槽口，槽口的壁面上可见向内的同等弧度的弧线状切割痕，管孔内壁残留钻孔旋痕。,E55_Type
+type_6bc7a8a9,钻孔后切割断，从而形成单向钻孔形态。切断面有弧线状切割痕。,E55_Type
+type_028cbb3f,器表有两道短的切割痕。,E55_Type
+type_09a45fd3,钻孔后切割断，从而形成单向钻孔形态。,E55_Type
+type_6a0b6213,钻孔后切割断，从而形成单向钻孔形态。切断面留有较大面的弧线状切割痕,E55_Type
+type_d00bd89a,一端有细线切割痕,E55_Type
+type_46c046d2,双向钻孔后切割断而成，一端恰好处在双向钻孔的交接处,E55_Type
+type_84950987,一端有切割痕,E55_Type
+type_f621902b,器形不规整,E55_Type
+type_f9ee3f6f,钻孔后切割断，从而形成单向钻孔形态。切断面有弧线状切割痕，表面亦留有切割碴口,E55_Type
+type_069a6da3,钻孔后切割断，从而形成单向钻孔形态。切断面有弧线状切割痕,E55_Type
+type_26231bed,器表有两道切割痕,E55_Type
+type_33ac3892,制作不甚规整，一端有一道切割痕,E55_Type
+type_0a13b50a,钻孔后切割断，中间钻孔呈现单向钻形态，与M3:11为同一件整体。线切割末程折断部分留有凸面，并经琢磨,E55_Type
+type_0851f623,钻一对隧孔,E55_Type
+type_252ea909,素面，对钻小孔,E55_Type
+type_c5df3f66,单面钻孔，对钻小孔，打磨钻孔旋痕，开料切割痕,E55_Type
+type_bc1cb318,阴刻神兽纹，镂孔，打磨痕迹,E55_Type
+type_e0ec4e93,线切割开缺口，对钻小孔，双向钻孔后切割,E55_Type
+type_80d2caa2,对钻一孔，弧线状切割痕,E55_Type
+type_5c0e9ab7,对钻一孔，弧线状切割痕，细线状切割痕,E55_Type
+type_8034e7e2,器表有一道直向的切割痕,E55_Type
+type_bf8e739d,器表有切入的切割碴口，另有一道直向的切割痕,E55_Type
+type_4fb2b071,一面弧凸，另一面平整并钻一对隧孔,E55_Type
+type_0c3ba396,对钻小圆孔,E55_Type
+type_0582a528,对钻孔，弧线状切割痕,E55_Type
+type_bf7ffe20,线切割痕迹，对钻小圆孔，弧线状切割痕,E55_Type
+type_9828e1db,钻孔技术、装饰工艺,E55_Type
+type_c3ae5669,内壁略弧凸，并留有钻孔的台痕,E55_Type
+type_8584ecd3,一面弧凸，另一面平,E55_Type
+type_eee4a2bd,简化的神兽纹,E55_Type
+type_0c3d8ea3,神人头像、兽面图案,E55_Type
+type_95a8e98a,内壁弧凸，外壁凸圆,E55_Type
+type_7f4b0dbe,羽状纹和卷云纹,E55_Type
+type_64d111dd,神兽图纹,E55_Type
+type_6081c3f0,双向钻1个小孔,E55_Type
+type_8b761b5c,中间对钻圆孔,E55_Type
+type_92b93bd2,简化神兽纹,E55_Type
+type_a3e59b45,眼睛和鼻子,E55_Type
+type_dbe840c2,腰鼓形，中间对钻孔,E55_Type
+type_ee2dba1b,中间对钻孔错位,E55_Type
+type_f9884de0,中间对钻圆孔，孔壁经打磨,E55_Type
+type_d9406baa,镯形器,E55_Type
+type_bbcc0f0a,内壁弧凸，外壁内凹弧,E55_Type
+type_67800619,内壁略弧凸，外壁平直,E55_Type
+type_342b4d53,内壁稍微弧凸，外壁较直,E55_Type
+type_76cd49e4,内壁略弧凸，外壁直,E55_Type
+type_f6224832,内壁略直，外壁弧凸,E55_Type
+type_9a6666a6,旋线纹,E55_Type
+type_de387017,对钻孔，个别管端有弧线状切割痕,E55_Type
+type_072f5967,对钻孔，M7:148-4的管面有切割痕,E55_Type
+type_5fa1ce0c,端侧面向内单向钻孔,E55_Type
+type_9bb53469,腰鼓形，对钻孔,E55_Type
+type_d62b0bb6,"圆柱形, 外壁圆弧, 中段刻凹槽一周, 槽底边呈弧凸形",E55_Type
+type_188d58bd,孔壁有旋痕,E55_Type
+type_33664750,一端侧面向内单向钻孔,E55_Type
+type_698d9974,有一对隧孔,E55_Type
+type_891f0b24,平面有一对隧孔,E55_Type
+type_5b1140f4,一面平，另一面弧凸,E55_Type
+mat_09224424,黑褐色,E57_Material
+type_2b9e4ad4,钻孔技术、切割与成型、装饰工艺,E55_Type
+type_0807cc42,孔壁略弧凸,E55_Type
+mat_67e46303,可能不属软玉,E57_Material
+type_685e48ab,对钻孔。器表留有线形切割痕,E55_Type
+type_9f417105,对钻孔。部分玉珠器表留有切割痕,E55_Type
+type_814f0e55,对钻孔。两端呈斜面,E55_Type
+type_0469e837,对钻孔后切割，因而表现为单面钻形态。一端有弧线状切割痕,E55_Type
+type_9fa9b958,对钻圆孔,E55_Type
+type_e2f4f92b,器形不规整，对钻孔,E55_Type
+type_2b046567,平面钻隧孔,E55_Type
+type_e2b3420d,平面呈椭圆形，一面弧凸，另一面平,E55_Type
+mat_518808cb,砂岩质,E57_Material
+type_2f6d18fb,有钻孔旋痕,E55_Type
+type_2be59836,上部对钻孔，孔壁有旋痕,E55_Type
+type_ab766068,神兽纹、羽纹、卷云纹,E55_Type
+type_dd22a64e,羽纹、神兽纹、卷云纹,E55_Type
+type_494854ca,羽状纹,E55_Type
+type_ef4fc0a5,弦纹带,E55_Type
+type_6fc1ccc8,横向切割线，半个钻孔痕,E55_Type
+type_31569c0b,对钻孔，切割后的台痕,E55_Type
+type_3abc9d53,"对钻孔, 一端面有弧线状切割痕",E55_Type
+type_b71d14a1,对钻孔，器表有切割痕,E55_Type
+type_f3a3e9fe,双向钻孔后切割，仅见单向钻孔形态,E55_Type
+type_aa908c83,双向钻孔后切割，因而表现为单向钻孔形态,E55_Type
+type_9879e8a9,对钻孔，器表有弧线状切割痕,E55_Type
+type_9a29c30e,对钻孔，外壁内凹，经过打磨,E55_Type
+type_29bb350f,龙首纹简化形态,E55_Type
+type_99419b38,神人头像、兽面图形,E55_Type
+type_ec9d6a55,正面以浅浮雕和阴刻线琢出神兽图案。背面平直，有斜向钻成的4对小隧孔,E55_Type
+type_d26d34df,羽状纹、兽面,E55_Type
+type_9dcf5aac,无纹饰,E55_Type
+type_2e23cf93,一端面留有开料缺损,E55_Type
+type_8528e41e,对钻孔，个别钻孔后被切割断,E55_Type
+type_9943d509,中间对钻孔，不规则，一端面有弧线状切割痕,E55_Type
+type_1bf14833,对钻孔，孔壁有台痕,E55_Type
+type_5d82fce0,中间对钻大孔，孔壁经过打磨，浅浮雕，阴线刻,E55_Type
+type_433d01df,中孔较大，孔壁中间有一道横向的切割凹痕，浅浮雕，阴线刻,E55_Type
+type_b07abc9b,中间钻孔，孔壁经过打磨，浅浮雕，阴线刻,E55_Type
+type_f1eda7f2,无描述,E55_Type
+type_fb00777c,上端两角各对钻一小孔，其中一角还与顶端对钻孔，另一角则是与背面对钻孔。底缘对钻孔,E55_Type
+type_238ab6eb,顶端有横向切割痕,E55_Type
+type_dc05583e,底缘与背面也有对钻孔，背面有一未钻透孔痕。顶端有切割痕,E55_Type
+type_9ab61dbb,中孔多为对钻，也有钻孔后被切割断，从而显现单面钻孔形态,E55_Type
+type_070ef072,对钻孔，下端留有直向的切割痕,E55_Type
+type_c0780472,中间对钻孔，孔壁略弧凸，一端面有弧线状切割痕,E55_Type
+type_e0a4250e,中间对钻孔，孔壁经打磨,E55_Type
+type_ac78d7e3,中间对钻孔，并留有台痕，两端面有弧线状切割痕，中孔壁有不甚明显的直向线痕,E55_Type
+type_40571aa8,中间对钻一小孔，孔内经打磨，外壁微内凹，一端面有弧线状切割痕,E55_Type
+type_c0fee102,中间对钻圆孔，外壁略内凹，两端面有弧线状切割痕,E55_Type
+type_b4c5c2bc,中间对钻孔，孔壁留有旋痕,E55_Type
+type_00ebd65a,对钻孔，孔略偏。器表有开料留下的缺损，但经过打磨,E55_Type
+type_3ef90986,对钻孔。两端面有弧线状切割痕,E55_Type
+type_de854b81,器体扁薄，外壁直，内孔壁微凸。制作较为精致,E55_Type
+type_781219fe,内孔壁弧凸，外壁微内凹,E55_Type
+type_aeb2557c,内孔壁弧凸，有横向的切割线痕,E55_Type
+type_71ece054,"内孔壁微弧凸, 外壁圆凸",E55_Type
+type_0a4fa354,内孔壁略弧凸，外壁微内凹,E55_Type
+type_208faf02,对钻孔而使内壁尖凸,E55_Type
+type_adde5f9d,槽内用2个实心钻钻孔形成椭圆形孔，孔内壁留有旋痕，槽口内有横向与直向的线痕,E55_Type
+type_edb6d48a,弧凸面端的中孔填一小圆片，厚约0.4厘米。平端面有弧线状切割痕,E55_Type
+type_0eb49802,顶端有切割痕,E55_Type
+type_85be620e,对钻孔经过打磨，两端孔壁斜向并内凹,E55_Type
+type_a57cdd7c,对钻孔。器表有2道弧线状切割痕,E55_Type
+type_86ec70bb,对钻孔。器表有切割痕,E55_Type
+type_26f981e2,对钻孔。其中一件的器表及端面上有弧线状切割痕,E55_Type
+type_7abf7efb,对钻孔，孔内留有钻孔台痕,E55_Type
+type_34f2a27e,对钻圆孔，孔内留有钻孔台痕,E55_Type
+type_20d197b5,对钻孔。器形不规整,E55_Type
+type_273d136d,对钻孔。器表及端面有切割线痕,E55_Type
+type_2261ac6c,对钻孔，一端从外壁钻一孔,E55_Type
+type_06f4bb78,对钻孔。一端面有直线形切割痕,E55_Type
+type_017e0416,对钻孔。器表有弧线状切割痕,E55_Type
+type_90f3bac5,其中一件的一端面开有槽口,E55_Type
+type_e8fa7d68,阴线刻,E55_Type
+type_47ae2a12,兽面纹,E55_Type
+type_31d1b706,透雕、阴线刻、管钻法、线切割,E55_Type
+type_a7568031,浅浮雕、阴线刻、圆雕,E55_Type
+type_5c58c10c,龙首图案,E55_Type
+type_c3b617b0,中间钻孔留有台痕。器表留有弧线形切割痕。,E55_Type
+type_fddb0821,单向钻孔。器表不平整，有自外向里的弧线状切割痕。,E55_Type
+type_3be62bab,环形，外壁浑圆，内壁弧凸。,E55_Type
+type_d324f450,圆台形，中间穿孔，外壁斜直，内壁微弧。,E55_Type
+type_beee7cfc,环形，外壁弧凸。,E55_Type
+type_ea1531c6,宽环形，外壁圆弧，内壁微凸。,E55_Type
+type_e4f30892,圆筒形，外壁微内凹，内壁弧凸。,E55_Type
+type_82221fa5,斜向凸棱纹,E55_Type
+type_98a69011,宽环带状，内壁平直。外壁琢一周平行的斜向凸棱，为绞丝纹。,E55_Type
+type_0e9cb330,环形，外壁浑圆，内壁微弧凸。,E55_Type
+type_179a92d8,环形，外壁圆弧，内壁微凸。,E55_Type
+type_16cf8196,环形，内、外壁均弧凸。器形不规整。,E55_Type
+type_e31c7ab2,圆柱形，中间对钻孔，留有钻孔台痕。,E55_Type
+type_9d6b23c3,圆柱形，器表有3个弧凸，每个凸面用浅浮雕和阴线琢刻神兽纹。,E55_Type
+type_9d6f8543,圆柱形，中间穿孔。,E55_Type
+type_81878c9a,对钻孔并经打磨,E55_Type
+type_8b8e084b,锥形器,E55_Type
+type_67b065cb,钻孔未透,E55_Type
+type_6f95903e,手柄,E55_Type
+type_88414c1a,实心钻琢出椭圆形卯孔,E55_Type
+type_bdb660ec,对钻，孔壁经过打磨,E55_Type
+type_51dcc4bd,弹形饰,E55_Type
+type_c8748f5d,中孔壁有旋痕,E55_Type
+type_5ba952e9,刻纹管,E55_Type
+type_303f9fcb,器表琢刻一周纹带,E55_Type
+type_5d80691d,器表纹饰与上件近同,E55_Type
+type_a9325623,管串,E55_Type
+type_48b84906,对钻孔，部分玉管器表及端面有弧线状切割痕,E55_Type
+type_260a4d8d,大多对钻孔，少数钻孔后切割断，从而呈现单向钻孔。部分玉管器表及端面有弧线状切割痕,E55_Type
+type_ebdef8d9,大多对钻孔，少数钻孔后切割断，从而呈现单向钻孔。部分玉管端面及器表有弧线状切割痕,E55_Type
+type_06208133,大多对钻孔，少数钻孔后切割断，从而呈现单向钻孔。此类玉管端面常留有弧线状切割痕，个别器表也有切割痕,E55_Type
+type_5c55d0e2,对钻孔或单向钻孔。部分玉珠端面有弧线状切割痕,E55_Type
+type_623aa380,两端各钻1个小孔。部分平面有弧线状切割痕,E55_Type
+type_7c04f628,两端钻隧孔，其中3件平面钻隧孔,E55_Type
+type_69ae980b,对钻孔。端面有弧线状切割痕,E55_Type
+type_a20221cc,对钻孔后切割断，断面上有弧线状切割凹痕。器表有斜向切割痕,E55_Type
+type_2b5d5dac,对钻孔，一端开一槽口,E55_Type
+type_a68e5b8b,对钻孔后切割断，断面有弧线状切割凹痕,E55_Type
+type_d4f7eff9,对钻孔，并留有钻孔台痕,E55_Type
+type_9d1e5730,对钻圆孔。其中一件的端面有弧线状切割痕,E55_Type
+type_64a4b1d5,单向钻孔，对钻孔后切割断，割断面留有弧线状切割痕,E55_Type
+type_509d1a58,平面钻凹孔，凸面钻2个小孔,E55_Type
+type_cb676d75,1件大者平面有自外向里的弧线状切割痕,E55_Type
+type_2a96a3ef,线切割，实心钻,E55_Type
+type_11fd61b9,三叉形器,E55_Type
+type_2f077f44,切割，打磨,E55_Type
+type_39489b5f,半圆形饰,E55_Type
+type_a9afdeca,神兽,E55_Type
+type_de032c28,琢刻，减地,E55_Type
+type_47c94c3d,钻孔、琢刻,E55_Type
+type_cf9c729b,钻孔、琢刻、打磨,E55_Type
+type_ef8c3668,神兽纹、卷云纹,E55_Type
+type_edc6f996,神人、兽面,E55_Type
+type_4f76dc38,钻孔、琢刻、阴刻,E55_Type
+type_8a47376a,钻孔、琢刻、阴刻、打磨,E55_Type
+type_b95ec0ae,神人、兽面、卷云纹,E55_Type
+mat_fbc6b3d9,灰白色玉,E57_Material
+type_80f79cf4,中穿孔。孔内壁有直向的弧线状切割痕，微切入器内壁面,E55_Type
+type_20e83ab7,"中间孔较大, 留有少许对钻孔的台痕, 孔壁有旋痕线。器表有半周管钻孔痕, 可知此器是利用琮孔钻芯改制而成",E55_Type
+type_639a159c,中穿孔,E55_Type
+type_51caf6cd,中间对钻孔。器表浅浮雕加阴线刻神兽纹,E55_Type
+type_2018aaf2,器表打磨过甚,E55_Type
+type_16156374,丧葬类,E55_Type
+type_c539739b,"钻孔技术, 切割与成型",E55_Type
+type_0463764b,"钻孔技术, 雕刻技法, 切割与成型",E55_Type
+type_4d0148bc,"钻孔技术, 雕刻技法",E55_Type
+mat_1aa63256,黄色为主，有褐绿色玉质，部分呈白色,E57_Material
+mat_9e892305,白玉，有较多的灰色瑕疵,E57_Material
+mat_b5d96492,白玉，有灰色筋斑,E57_Material
+mat_490be996,白玉，偏黄,E57_Material
+mat_36733dc4,白玉，有灰色瑕斑,E57_Material
+mat_d02b4e52,非软玉系列,E57_Material
+type_2070dcbf,中间穿孔,E55_Type
+type_132d9a00,横断面呈圆形,E55_Type
+type_b4dec16e,体扁平，内侧厚于外侧,E55_Type
+type_0e5a6ff4,神人、兽面纹,E55_Type
+type_a144d5ca,神人神兽纹,E55_Type
+type_a695be96,刻简化兽面纹和繁兽面图像,E55_Type
+type_33d10b41,浅浮雕法琢出兽面的鼻、目、嘴、额，再以阴线勾画眼珠、鼻孔和嘴内的两上两下獠牙,E55_Type
+mat_d6967df8,白色带浅黄,E57_Material
+type_7c4ab133,二端钻孔贯通，分二节，上下各相背精刻兽面纹二组,E55_Type
+type_e563852b,浅浮雕技法刻出眼睑、额、鼻，用线刻卷云纹作底，重圈为睛,E55_Type
+type_a801f210,刻简化兽面纹,E55_Type
+type_aa98dc78,切割与成型、钻孔技术、打磨抛光,E55_Type
+type_a3aa33e7,打磨抛光,E55_Type
+type_f1eb3c8a,兽面纹、云纹,E55_Type
+mat_f082c6c0,白色玉,E57_Material
+type_2fa6b439,柱体中间一侧有一道长5.5厘米的线割横痕,E55_Type
+mat_79587a53,白玉带黄褐斑,E57_Material
+type_313044b8,二端对钻贯通,E55_Type
+type_016abceb,斜向对钻隧孔一对,E55_Type
+type_74558d11,二端对钻一孔贯通,E55_Type
+type_5068cc98,镶嵌件,E55_Type
+type_4731eed2,通体磨光,E55_Type
+type_a58aeb54,偏下宽处刻出二节简化兽面纹,E55_Type
+type_5c3818f7,刻出三节简化兽面纹,E55_Type
+type_7ee7c950,刻二节简化兽面纹,E55_Type
+type_28fb1632,椁部对钻一小孔，近椁处四角刻一节简化兽面纹,E55_Type
+mat_84795971,白色带筋络状青灰色,E57_Material
+type_2a75fee8,"中间钻0.7厘米小孔, 孔深1.5厘米作为卯眼",E55_Type
+type_a11bb0a2,二边钻0.4厘米，小孔再琢成长2.2、深1厘米的卯槽,E55_Type
+mat_63805a53,色洁白,E57_Material
+type_511806e8,中心透钻小圆孔，底部正中斜向对钻隧孔一 对,E55_Type
+mat_77389079,带青灰斑纹,E57_Material
+type_a10d4945,孔内留有弧线6条,E55_Type
+mat_a841883c,略有黄斑,E57_Material
+mat_815a7f42,略带青斑,E57_Material
+type_20443b61,中孔对钻贯通,E55_Type
+type_2fc6aff8,缺口的线切割痕,E55_Type
+type_15f406c1,端面线切割截断,E55_Type
+type_564c3829,顶部锯切割痕,E55_Type
+type_34ff8193,龙纹,E55_Type
+type_cfd90bf1,变体鸟纹、神人兽面纹、螺旋线条,E55_Type
+type_3a2936dd,管钻单圈眼，有眼角，鼻部仅是小凸块，弦纹细密难以辨认，直槽以片切而成，呈楔形,E55_Type
+type_a0bd5ddf,无眼部，第一节弦纹几乎没有分组，粗刻划4~6条，第二、三节弦纹分组，4~6条,E55_Type
+type_b3fdcf7b,管钻单圈眼，弦纹约4条,E55_Type
+type_6b26a94a,单面钻，小孔的一端面留有线切割痕迹，可能是对钻孔后再进行切割的,E55_Type
+type_9900a9e2,外壁留有片切割痕迹，一件的端面上留有线切割痕迹,E55_Type
+type_2778bca6,其中一件留有线切割痕迹,E55_Type
+type_6f65e941,一端孔内壁有竖向擦痕,E55_Type
+type_fc004f0c,一面弧凸，另面平整，钻有隧孔,E55_Type
+type_1d54f247,横截面呈椭圆形,E55_Type
+type_0bc80852,镶嵌玉粒,E55_Type
+type_32bf3f3b,留有切割痕迹,E55_Type
+type_58530832,无孔眼，正面弧鼓，背面平整,E55_Type
+type_711b54be,以管钻芯制作而成,E55_Type
+type_9743cce6,取玉料时所产生的凹缺,E55_Type
+type_2a7e93af,双面钻,E55_Type
+type_6a17705d,钻隧孔,E55_Type
+type_51c6c7b0,"切割与成型, 钻孔技术",E55_Type
+type_36d70ce5,切磨,E55_Type
+type_ec20232b,横截面呈半椭圆形,E55_Type
+type_ac2ee697,对钻孔，其中一面钻孔较浅，两端孔沿均有系穿的痕迹,E55_Type
+type_4513a1c8,对钻孔后再切割而成，呈单面钻孔状,E55_Type
+type_290d625b,钻孔偏于一侧,E55_Type
+type_47fc2152,上端留有切割痕迹，对钻孔,E55_Type
+type_f64902ad,其中一面两次钻孔,E55_Type
+type_bda99181,一面留有线切割痕迹,E55_Type
+type_a47ef1ee,"单面钻孔, 其中一面留有线切割痕迹",E55_Type
+type_e873e8ba,外壁留有弧状切割痕迹,E55_Type
+type_bb29adea,外壁一侧留有凹弧状切割痕迹,E55_Type
+type_de5b90e1,其中一面还留有两次的钻痕,E55_Type
+type_e1223aea,外壁留有竖向的擦痕,E55_Type
+type_3edbed22,外壁留有片切割痕迹,E55_Type
+type_6d19a312,对钻孔，中间切磨一周凹弦纹,E55_Type
+type_1e3ffb7c,一面弧凸，另面呈微弧状，并钻有隧孔，边缘还留有切磨痕迹,E55_Type
+type_13825e20,一面弧凸，另面稍弧凸，并钻有隧孔，与球形隧孔珠略有区别,E55_Type
+type_6b0dd2d7,单面钻，线切割,E55_Type
+mat_bff125fa,南瓜黄，多附着朱痕,E57_Material
+mat_154e4aac,紫灰色透闪石软玉，夹黄斑,E57_Material
+type_604bf18b,顶端面经过打磨，对钻孔,E55_Type
+mat_d46d8670,灰绿色透闪石软玉,E57_Material
+type_18280b64,顶端面经过打磨，刃部一侧开刃，另一侧没有,E55_Type
+type_cec6fa7e,顶端面经过打磨，对钻孔，其中一面可见明显的两个台痕,E55_Type
+mat_cd60095d,紫灰色透闪石软玉，夹黄褐斑点,E57_Material
+type_3bb61f53,顶端面也经过打磨。对钻孔,E55_Type
+mat_e4726cf5,紫灰色透闪石软玉，夹黄褐斑,E57_Material
+type_cfd62cf8,顶端面经过打磨。对钻孔，但从痕迹分析有过多次管钻,E55_Type
+type_63c9691e,顶端面略打磨。对钻孔,E55_Type
+type_d53cf02c,上端一侧有凹缺，顶端面打磨。对钻孔，孔内壁台痕明显，抛光,E55_Type
+mat_d565d71b,紫灰色透闪石软玉，夹灰白、暗红斑,E57_Material
+type_0e27b675,顶端面经过琢打，稍打磨。仅对钻孔内壁局部残留有朱痕,E55_Type
+mat_7ac2ccc0,灰紫色透闪石软玉，夹纵向的黄褐大斑，有气孔,E57_Material
+type_2e9b07b5,顶端打磨成倒“V”字形。对钻孔,E55_Type
+type_5c277666,顶端面经过打磨。对钻孔,E55_Type
+mat_e5edfc2c,紫灰色透闪石软玉，夹大块的黄斑,E57_Material
+type_37cc874a,顶端面经过打磨，上部一角打缺。对钻孔,E55_Type
+type_87831d76,射孔两端有明显的穿系痕迹,E55_Type
+type_3282675b,榫头面一周留有朱痕,E55_Type
+type_7fe574db,对钻孔，其中一侧外壁留有相向的片切割痕迹,E55_Type
+mat_187f4114,南瓜黄夹红褐斑,E57_Material
+mat_a62af852,南瓜黄，其中1件偏红褐色,E57_Material
+mat_62a319c8,南瓜黄夹深绿色斑,E57_Material
+mat_703d5d1f,灰白色夹红斑,E57_Material
+mat_3dbc584a,红褐色,E57_Material
+type_14dce3aa,在一侧斜向钻一对隧孔,E55_Type
+type_7e51aa7e,对钻孔，外壁留有切割痕迹,E55_Type
+mat_22c94e8c,南瓜黄，其中1件夹深绿色斑,E57_Material
+type_324b67c1,对钻孔，2件有切割痕迹,E55_Type
+mat_8984ed9f,浅蓝色,E57_Material
+type_5cb7fe3f,无孔眼,E55_Type
+type_cca00a1f,透雕和线刻的技法雕刻,E55_Type
+type_e26ca948,双面管钻孔，线切割弯钩,E55_Type
+type_357b88df,以四角展开雕琢两组简化的神人兽面纹,E55_Type
+type_4e2ec27a,对钻孔，其中一端钻孔内留有竖向的擦痕,E55_Type
+type_5a4b7816,对钻孔。外壁留有切割痕迹,E55_Type
+type_1582c3a2,一面钻孔较浅，且有线切割痕迹，可能是钻孔后再切割,E55_Type
+mat_100dba97,深蓝色,E57_Material
+mat_ac44ebcc,翠色,E57_Material
+type_e3baf3ac,一端面有线切割痕迹。对钻孔，其中钻孔的两面同一方向均有竖向的擦痕，擦痕明显内凹，应是系挂的痕迹,E55_Type
+type_93b108fa,单面钻，其中一侧另有一小钻孔与管钻孔通透,E55_Type
+type_cb796a8b,对钻孔，孔壁打磨精细,E55_Type
+type_e800803e,钻有隧孔,E55_Type
+type_2586147c,钻隧孔部位稍磨平,E55_Type
+type_53914e09,"对钻孔, 线切割一道凹槽",E55_Type
+type_05013379,"切割痕迹, 对钻孔, 横截面呈瓜棱状",E55_Type
+type_a05a58e1,"对钻孔, 切割痕迹",E55_Type
+type_bd768c7c,柱体截面略呈梯形，应是用管钻芯制作而成。从柱形器以及柱形器盖的质地分析，盖体很可能是从柱体上切割下来的。柱形器为对钻孔，端面小的一端尚留有两次实心钻的痕迹,E55_Type
+type_17917e40,一面平整，另一面弧凸。单面钻孔,E55_Type
+mat_3c91a6e0,鸡骨白，沁蚀,E57_Material
+type_b1a43ab9,对钻孔，外壁留有线切割痕迹,E55_Type
+type_08e4d72d,对钻孔，钻孔偏于一侧,E55_Type
+type_19b2dc9f,对钻孔，一端面留有切割痕迹,E55_Type
+type_51fdf370,对钻孔，外壁留有片切割和线切割痕迹,E55_Type
+type_e023e8c7,对钻孔，其中一面钻了两次,E55_Type
+type_13d143f9,在平整的一面斜向钻一对隧孔,E55_Type
+type_dc18dc8c,正面一侧留有弧状的线切割痕迹,E55_Type
+type_c15a2721,对钻孔，其中1件的横截面呈椭圆形,E55_Type
+type_11369e70,均对钻孔，有的管留有切割痕迹,E55_Type
+type_40cd2400,均对钻孔，外壁或留有切割痕迹,E55_Type
+type_2486ca05,均呈一面平整的米粒状,E55_Type
+type_4ea5426d,9件呈一面平整的米粒状，2件呈一面平整的圆形，1件留有实心钻痕迹,E55_Type
+type_12075e1a,整体呈椭圆形，一面弧凸，一面平整,E55_Type
+type_8832bd3a,外壁切磨有3周凹弦纹,E55_Type
+type_46cbdfaa,凹槽为两面斜向片切割而成，外壁另有3周凹弦纹,E55_Type
+type_cb5ca7ef,榫头上对钻一小孔，外壁另有3周凹弦纹,E55_Type
+type_4675e1b4,外壁有4周凹弦纹,E55_Type
+type_650d0c2d,外壁有3周凹弦纹,E55_Type
+type_eae047df,外壁另有3周凹弦纹。端面切磨一道凹槽，但比较浅，约1毫米,E55_Type
+type_bb624fcd,两端钻孔缘均向同一方向凸弧，且有竖向的磨痕,E55_Type
+type_7796c61a,钻孔两端缘甚平整,E55_Type
+type_a410b72f,双面对钻的深度不对称,E55_Type
+type_9d379a30,对钻孔，中部切磨一周凹弦纹,E55_Type
+type_761eb9b0,线切割痕迹，少量可见片切割痕迹,E55_Type
+type_e3317008,对钻孔。有的管外壁经磨制呈瓜棱状，有的管外壁和端面有线切割或片切割痕迹,E55_Type
+type_ad2ff331,1件的端面有片切割痕迹，1件的外壁有纵向磨痕,E55_Type
+type_e945641e,双面钻孔较细长,E55_Type
+type_3115d899,两端磨成弧状,E55_Type
+type_753ae2d2,一面弧凸，一面平整，且有一对隧孔,E55_Type
+type_1c8e36c7,矮柱体，对钻孔,E55_Type
+type_dc2b2ea2,神人由宝盖头结构、倒梯形脸以及上臂组成，省略神人的手腕部位。神人的脸部为重圈眼，有眼角，蒜头形鼻部，嘴部刻划牙齿。兽面纹为重圈眼，椭圆形眼睑，拱形眼梁，椭圆形刻划獠牙的嘴部,E55_Type
+type_30ea6473,上端齐平无凹缺，正面微弧凸，背面较为平整，留有线切割痕迹。两角各对钻一小系挂孔,E55_Type
+type_3ff1b0cc,对钻孔，线切割或片切割痕迹,E55_Type
+type_72e3912d,对钻孔，留有片切割痕迹,E55_Type
+type_40c91fd2,一面钻有一对隧孔,E55_Type
+type_745b8247,以管钻芯制作而成，一侧外壁尚留有管钻旋痕,E55_Type
+type_885b95c5,M22：47的背面留有线切割痕迹,E55_Type
+mat_f1eda7f2,无描述,E57_Material
+mat_4cc23231,灰紫色,E57_Material
+mat_5046a1df,南瓜黄、浅蓝色、黄褐色,E57_Material
+mat_11658182,黄褐色玉,E57_Material
+mat_1d39c662,青白色,E57_Material
+type_d659a1e5,两端钻孔部位均有另一钻孔痕,E55_Type
+type_866e403f,神人兽面纹和鸟形象,E55_Type
+type_5e8f7869,低浮雕与线刻技术,E55_Type
+type_78ca908d,玉礼器,E55_Type
+type_2b055f1e,几何纹,E55_Type
+type_d7ae2f4e,豪华玉钺,E55_Type
+type_08efbeb3,玉钺,E55_Type
+type_276c1e22,竖向锯割,E55_Type
+type_f6e6b17e,一对浅浮雕龙首。龙首高角，圆眼，阔嘴，均凸起；鼻作复线菱形，两侧刻卷云纹，均为阴线刻,E55_Type
+type_e12e9d6f,"双面钻孔, 浅浮雕, 阴线刻",E55_Type
+type_0f9d4639,"沁甚, 残半",E55_Type
+type_67ebe368,沁甚呈粉末状,E55_Type
+type_f6463e86,残甚呈粉末状,E55_Type
+mat_a15261ce,浅绿色萤石,E57_Material
+type_9dbcbe5d,碎裂不堪,E55_Type
+mat_e081ff24,灰绿色叶蜡石,E57_Material
+mat_11c880af,粉末状,E57_Material
+type_8508a3df,沁甚，重残,E55_Type
+type_091fc64f,"鼓腰, 近球形, 稍残",E55_Type
+type_92ae5c2e,残甚,E55_Type
+type_fe38f25a,重残,E55_Type
+type_1643a6ba,"鼓腰, 受沁, 残",E55_Type
+type_d0edb3f2,鼓腰，受沁，纵向残半,E55_Type
+type_5cd82b7c,腰鼓形，受沁，一面斜,E55_Type
+type_f7d8f32b,"圆柱形, 重残",E55_Type
+type_86f5a476,仅存器身一段,E55_Type
+type_fcc65ca9,强风化,E55_Type
+type_9239f1cb,圆柱形，头部呈锥形，凸榫磨扁，残,E55_Type
+type_7d49ae44,"圆柱形, 两端残",E55_Type
+type_88ef293b,"圆柱形, 尖部呈锥形, 凸榫残",E55_Type
+type_6af5fcbb,圆柱形，头部残缺，凸榫残,E55_Type
+mat_7715c2d5,米黄色闪玉,E57_Material
+type_3f0ed090,扁方柱形，头部呈锥形，凸榫扁圆无穿孔,E55_Type
+mat_d18a4635,墨绿色闪玉,E57_Material
+type_2cf4cd03,"扁方柱形, 尖部呈锥形。尾部稍大, 凸榫微残无穿孔",E55_Type
+type_4aed3f9f,"扁方柱形, 中部略鼓, 尖部呈锥形, 凸榫残",E55_Type
+type_00154f29,"束腰扁圆柱形, 头部呈圆锥形, 尾部磨圆无穿孔",E55_Type
+mat_ee90ad0f,灰黑色软玉,E57_Material
+type_ad98b242,环形，一面磨平、孔径较大，一面圆弧、孔径较小，孔壁斜直,E55_Type
+mat_21f9865f,浅黄绿闪玉,E57_Material
+type_eef31225,"圆弧形, 截面扁圆。一端磨平, 另一端有尖状小凸榫, 凸榫上有小穿孔",E55_Type
+type_8b40a443,圆柱形，制作规整,E55_Type
+mat_d14046a7,淡绿色玉,E57_Material
+mat_f73ca53e,暗绿色玉,E57_Material
+mat_99e7e58b,黄色玉,E57_Material
+mat_3405b411,紫褐色玉,E57_Material
+mat_d81bb206,无,E57_Material
+type_1622dc9b,未知,E55_Type
+type_fc594910,横截面呈圆形，有榫部,E55_Type
+type_8d12d786,截面略呈梯形，双面钻,E55_Type
+mat_e7c6318b,灰白色夹褐斑,E57_Material
+type_a870a6b0,条形，截面略呈不规则方形,E55_Type
+type_5ed8056a,无榫部，横截面呈弧边正方形,E55_Type
+type_774fd9fe,截面三角形，单面钻,E55_Type
+mat_fe80471b,翠绿色夹白斑,E57_Material
+type_553190e6,扁平半壁形，上端半圆形凹缺的两侧各有一对钻小孔。一侧有两处切割痕,E55_Type
+mat_0810c67f,青灰色夹花白斑,E57_Material
+type_bd9befde,长条形，截面圆形，上端一对钻小孔，下端磨成尖锥状,E55_Type
+mat_54a92697,浅绿色,E57_Material
+type_80bda4d2,半环形，两侧有对钻穿系小孔,E55_Type
+mat_2a45d1a8,墨绿色夹白斑,E57_Material
+type_e41a5fa3,两侧有对钻小孔,E55_Type
+mat_fde51592,淡黄色,E57_Material
+type_8b2066c0,单钻孔,E55_Type
+type_b46d9197,鼠形,E55_Type
+mat_426618a8,浅绿色夹白斑,E57_Material
+type_aea38ccc,不规则半月形，上端略尖。一侧有对钻小孔,E55_Type
+mat_784fe5c8,褐、绿、白夹杂色,E57_Material
+type_0176440f,两侧均有一对钻小孔，一侧小孔边另残留一管钻痕迹,E55_Type
+type_739b003f,条形，截面菱形,E55_Type
+mat_5e03cf8d,青灰色,E57_Material
+type_ab35b75d,截面为不规则四边形,E55_Type
+mat_92c47ebc,黄色夹花白斑,E57_Material
+type_ee0a7a56,扁薄片状的长方形。一面略凸弧，一面平，中间留有竖向切割痕迹,E55_Type
+type_bdfad6ad,应是利用环类器残段加工而成。一端有一对钻小孔。中间略厚，两侧较薄。一面留有切割痕迹,E55_Type
+type_b22e1362,形态与上件同,E55_Type
+mat_dfd3b290,黄绿色,E57_Material
+type_80c6af6d,均有一对钻小孔以穿系,E55_Type
+mat_cfe7a9a4,白色夹黄斑,E57_Material
+mat_84643c73,淡绿色夹白斑,E57_Material
+type_064bb8d2,不规则形，有二个对钻小孔,E55_Type
+mat_2272760d,墨绿色夹花白斑,E57_Material
+type_76a0a409,双面钻，个体较长，外表有一道切割痕迹,E55_Type
+mat_7de7fdab,黄绿色夹花白斑,E57_Material
+type_331cbdb8,长管，双面钻,E55_Type
+type_790afe62,腰鼓形，个体较粗，单面钻,E55_Type
+mat_c8a94169,灰白色夹浅绿斑,E57_Material
+type_2b53a996,单面钻，一端残留有“帽状”横向切割痕,E55_Type
+mat_ac6901de,灰色夹花白斑,E57_Material
+type_d4918073,个体较短，截面圆角方形，双面钻,E55_Type
+mat_b0062c5d,白色夹绿斑,E57_Material
+mat_e48e1a0f,灰黄色,E57_Material
+type_c8365d7a,单面钻孔，一端截面留有切割和管钻台面痕迹,E55_Type
+mat_1622dc9b,未知,E57_Material
+mat_184373cd,水晶,E57_Material
+type_35763148,加工粗糙,E55_Type
+type_4e0b3a7c,对边角料的利用和对残损器的重复利用,E55_Type
+mat_be37c2e3,未知（朽烂）,E57_Material
+type_b93f2a84,隧孔工艺,E55_Type
+type_4cd4a887,对钻孔工艺,E55_Type
+type_885243fc,磨制工艺,E55_Type
+mat_5fc8a2ee,淡墨绿色玉,E57_Material
+mat_f70a340f,翠绿色玉,E57_Material
+type_70a27771,两面均留有线切割痕迹,E55_Type
+mat_a8f33c85,绿色玉,E57_Material
+type_551ae098,对钻孔，一端侧有切割痕,E55_Type
+type_55247589,顶部圆钝，有榫部，横截面呈圆形,E55_Type
+mat_3f38eac3,棕褐色玉,E57_Material
+mat_4c316ffa,翠湖色玉,E57_Material
+mat_f30125ac,灰蓝色,E57_Material
+type_22279ce2,凸起部位对钻孔，其中一面钻痕较弧浅，当是实心钻而就的,E55_Type
+type_eeb0cc5c,双面管钻孔，一面留有甚明显的线切割痕迹，另一面打磨稍平整,E55_Type
+type_84652f26,锥形玉器,E55_Type
+type_e808db51,两侧有片切割痕迹,E55_Type
+mat_ec3accba,白色夹灰绿晶体,E57_Material
+type_4a4f3b4a,磨制精良,E55_Type
+type_c79932d6,中部穿孔,E55_Type
+mat_2605466f,牙黄色玉,E57_Material
+mat_912584a8,青黄色玉,E57_Material
+type_6086d77e,玉管切割成的片料,E55_Type
+mat_04ed3c39,白絮斑青褐色玉,E57_Material
+type_37099e0b,磨削,E55_Type
+type_d7c3e601,玉珠,E55_Type
+mat_745f1eb1,蛇纹石,E57_Material
+type_e3f65d77,"作双蛇盘绕状, 两端为蛇头, 圆眼, 扁嘴, 颈向前伸, 作相互摆脱状, 身呈绳纽状",E55_Type
+type_b06ec9de,玉平刃柄形器,E55_Type
+type_040ead88,二合范,E55_Type
+type_28f24de3,强沁蚀,E55_Type
+type_b9d71749,弱沁蚀,E55_Type
+type_4795db44,中度沁蚀,E55_Type
+type_717aed63,通体雕成夔龙形，微曲，张口，尖尾。身有四个长方孔和一条弧线，上下作云纹扉牙装饰,E55_Type
+type_acf59f82,圆雕，作昂首站立状，长鼻下勾如鹰鼻，两侧各有一小孔，双眼略鼓。器身一面刻出胸脊。突出一面为背，用对称卷云纹刻作双翼并拢状，翼下短尾下垂，胸脊下添足作弯曲蹲立状,E55_Type
+type_ea884aae,半圆槽,E55_Type
+type_f6769fd4,几何纹饰单元,E55_Type
+type_94ca1df1,弦纹和刻线,E55_Type
+type_38666363,宗教符号单元,E55_Type
+type_55f26ec3,扉牙射出,E55_Type
+type_b65a1fbb,一面凸起作弧状,E55_Type
+type_e8fbb7df,"柄内收, 柄首略作弧形",E55_Type
+type_fcd8516b,刻有二个长方形双线方框，小方框内加饰双线菱格纹,E55_Type
+type_d4e3757c,"纵剖面一侧作楔形, 一侧作棱脊状",E55_Type
+mat_d1151b64,砂金石,E57_Material
+type_7da5146c,头、嘴、眼、鳍线条可辨,E55_Type
+type_edca111f,"正面双眼鼓起, 双翼并扰, 貌似昆虫, 头与身有凸带分界, 器身前后各有一相通小孔",E55_Type
+type_20dce2c6,工具,E55_Type
+type_0c943e0a,强沁蚀，有打制痕,E55_Type
+type_e16d6253,中沁蚀，通体磨光,E55_Type
+type_a2b63216,强沁蚀，周边作突棱状,E55_Type
+type_0466a2d8,饕餮纹、夔纹,E55_Type
+type_50c22969,生活用具,E55_Type
+type_5a6224fe,弦纹、绳纹,E55_Type
+type_6aae3d4a,"肩、腹部有二道弦纹, 肩饰二组竖行粗绳纹, 腹饰横行粗绳纹, 下腹饰竖行粗绳纹",E55_Type
+type_3738c460,脊状堆纹、圆络堆纹、绳纹,E55_Type
+type_b160a2a6,颈肩饰一条脊状堆纹，腹饰圆络堆纹直至足尖，圆络纹间饰交错绳纹,E55_Type
+type_958de680,凹槽、绳纹,E55_Type
+type_6eccb6e0,口沿上有一凹槽，腹饰竖行粗绳纹，下腹与裆部饰横绳纹,E55_Type
+type_d8f8509f,颈饰二周凹弦纹,E55_Type
+type_e5d523e2,凹弦纹、绳纹,E55_Type
+type_ad726d9b,颈饰三周凹弦纹，腹通体饰较粗交错绳纹,E55_Type
+type_ae7dc814,腹饰斜行粗绳纹,E55_Type
+type_1ee5ac45,"沿面上有二道浅凹槽, 腹和底部满饰粗绳纹",E55_Type
+type_8b546489,乳钉,E55_Type
+type_9bba4f5d,肩部饰有椭圆乳钉,E55_Type
+type_0ceabd2e,颈部饰四周凹弦纹,E55_Type
+type_ca2e026f,凹弦纹、凸弦纹、方格纹,E55_Type
+type_70d646c3,肩与上腹饰三道凹弦纹，圈足上有一道凸弦纹，腹饰方格纹经手抹,E55_Type
+type_57434deb,雷纹、弦纹、绳纹,E55_Type
+type_4c0209fd,腹中部拍印二行方形雷纹，上下饰二道弦纹，圈足内侧饰竖绳纹,E55_Type
+type_eca47b20,圆涡纹、凹弦纹、凸弦纹,E55_Type
+type_8eab3415,"腹饰二道圆涡纹, 上下饰二道凹弦纹, 圈足上饰二周凸弦纹",E55_Type
+type_244af513,绿松石镶嵌,E55_Type
+mat_66ecda27,玉料,E57_Material
+type_d85bdc30,制作光滑，技术娴熟，镶嵌技术,E55_Type
+type_5c38d5db,未明确描述,E55_Type
+type_d5246bee,制作光滑，技术娴熟,E55_Type
+type_da2fb492,柄、首与身各有二条凹弦纹为界,E55_Type
+type_3633dc60,中穿一孔,E55_Type
