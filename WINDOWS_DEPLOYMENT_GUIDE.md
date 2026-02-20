@@ -103,6 +103,7 @@ cd C:\Projects\yuki-cidoc-proj
 .\venv\Scripts\Activate.ps1
 
 # 启动后端服务 (生产环境建议不加 --reload)
+set PYTHONUTF8=1
 uvicorn src.main:app --host 0.0.0.0 --port 8000
 ```
 
@@ -135,13 +136,13 @@ streamlit run gui/app.py --server.port 8501
 cd /d %~dp0
 
 echo Starting Backend API...
-start "Backend API" cmd /k "venv\Scripts\activate.bat && uvicorn src.main:app --host 0.0.0.0 --port 8000"
+start "Backend API" cmd /k "venv\Scripts\activate.bat && set PYTHONUTF8=1 && uvicorn src.main:app --host 0.0.0.0 --port 8000"
 
 echo Waiting for Backend to initialize...
 timeout /t 5
 
 echo Starting Frontend GUI...
-start "Frontend GUI" cmd /k "venv\Scripts\activate.bat && streamlit run gui/app.py --server.port 8501"
+start "Frontend GUI" cmd /k "venv\Scripts\activate.bat && set PYTHONUTF8=1 && streamlit run gui/app.py --server.port 8501"
 
 echo System Started!
 ```

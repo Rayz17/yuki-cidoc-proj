@@ -65,12 +65,12 @@ class SchemaParser:
         try:
             # Try reading with header on line 2 (index 1) which is common in these files
             try:
-                df = pd.read_csv(path, header=1)
+                df = pd.read_csv(path, header=1, encoding='utf-8')
                 # Verify if critical columns exist, if not try header=0
                 if "CAU ID" not in df.columns and "一级指标" not in df.columns:
-                     df = pd.read_csv(path, header=0)
+                     df = pd.read_csv(path, header=0, encoding='utf-8')
             except:
-                df = pd.read_csv(path, header=0)
+                df = pd.read_csv(path, header=0, encoding='utf-8')
 
             # Normalize column names to handle potential variations
             df.columns = [str(c).strip() for c in df.columns]
