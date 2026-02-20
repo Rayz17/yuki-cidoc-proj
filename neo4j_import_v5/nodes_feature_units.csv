@@ -1,0 +1,30 @@
+id,name,domain,LABEL,cidoc_domain,cidoc_property,cidoc_intermediate,cidoc_range
+fu_03a77eaa,基本器型,E22,FeatureUnit,E22,P2 has type (是类型),,E55 Type (类型)
+fu_30cf29d5,原始出土地点,E22,FeatureUnit,E22,P53 has former or current location,,E25 Man-Made Feature(墓葬/灰坑/地层/堆积)
+fu_3a0dab02,陶土种类,E22,FeatureUnit,E22,P45 consists of (由...组成),E57 Material (材料),E55 Type
+fu_8ab873fb,颜色,E22,FeatureUnit,,,,
+fu_06415dec,器型部位特征,E22,FeatureUnit,E22,P46 is composed of (由...构成),E26 Physical Feature (物理部件),E55 Type (类型)
+fu_dd40824a,基本尺寸,E22,FeatureUnit,E22,P43 has dimension (具有量度),E54 Dimension (维度),E55 Type (类型)
+fu_ba68aef9,量度信息,E22,FeatureUnit,E22,P43 has dimension (具有量度),,E54 量度
+fu_88f8f98c,纹饰类型,E22,FeatureUnit,E22,P65 shows visual item (展示视觉项),E36 Visual Item (视觉项),E55 Type (类型)
+fu_31e2ead4,装饰手法,E22,FeatureUnit,E22,P108 was produced by (已产出),E12 Production (生产),E55 Type (类型)
+fu_d11bc61c,器物组合,E22,FeatureUnit,E22,P46 is composed of (或者反向 P46),E19 Physical Object (器物组合),E55 Type (类型)
+fu_e2c97fd0,器物功能,E22,FeatureUnit,E22,P103 was intended for (被意图用于),,E55 Type (类型)器物功能
+fu_d02d5643,修整技术,E22,FeatureUnit,E22,P108 was produced by (已产出),E12 Production (生产),E55 Type (类型)
+fu_1b0fd44a,掺杂物,E22,FeatureUnit,E22,P45 consists of (由...组成),,E57 Material (材料)
+fu_99d5b00e,陶土细腻程度,E22,FeatureUnit,E22,E55 Type,,E55 Type
+fu_9ea8642a,制作年代,E22,FeatureUnit,E22,P4 has time-span,,E52 时间跨度
+fu_faab700f,成型工艺,E22,FeatureUnit,E22,P108 was produced by (已产出),E12 Production (生产),E55 Type (类型)
+fu_7c7435ae,制作者,E22,FeatureUnit,E22,P14  carried out by,,E39 行为者
+fu_6f1c6aa8,制作地点,E22,FeatureUnit,E22,P7 took place at,,E53 地点
+fu_e2758fd3,烧成温度,E22,FeatureUnit,E22,P108 was produced by (已产出),E12 Production (生产),E55 Type
+fu_8b7c2a77,硬度,E22,FeatureUnit,E22,P43 has dimension (具有量度),,E54 Dimension (维度)
+fu_c0012502,陶土纯洁程度,E22,FeatureUnit,E22,P2 has type,,E55 Type
+fu_3353fb9d,器型单元,E22,FeatureUnit,E22,P2 has type(有类型),,E55 Type(器型类型)
+fu_5ad2eecc,材质单元,E22,FeatureUnit,E22,P45 consists o(由...构成)f,,E57 Material(材质)
+fu_994c422d,沁色单元,E22,FeatureUnit,E22,P44 has condition(有状态),E3 Condition State(生存状态/条件),E55 Type(沁色类型)
+fu_42fb590c,整体形态描述,E22,FeatureUnit,E22,P46 is composed of,E26 物理特征(器身/整体),E55 形态类型
+fu_c917557f,纹饰单元,E22,FeatureUnit,,,,
+fu_5c3c141d,工艺特征单元,E22,FeatureUnit,,,,
+fu_c55f6f9a,发掘活动,E22,FeatureUnit,E22,P106 was found by,,E7 活动
+fu_299875b2,制作活动,E22,FeatureUnit,E22,P108 was produced by (已产出),,E12 Production (生产)
