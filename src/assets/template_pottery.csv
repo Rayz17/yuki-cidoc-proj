@@ -1,0 +1,681 @@
+﻿文物类型,"文化特征单元 CAU
+（Culture Attributes Unit）",CAU ID,文化特征单元定义（CAU Definition）,一级指标,二级指标,三级指标,值类型,索引/主键,抽取值字典/定义,原文描述/术语示例,原文描述转写示例,同义词示例,,,,
+陶器 pottery,人工物品编号,ObjectIdentifier,记录其唯一的编号。,人工物品编号,\,\,文本,是,"原文描述，形如：M4:17，或M5:20-3
+*此项必须具备值",,,,,,,
+,器物名称,PotteryName,记录对某一具体陶器个体所使用的名称或称谓。该名称作为识别性标签，用于指代该陶器本身，而不等同于其器型分类、功能类别或文化属性。,器物名称,\,\,文本,,描述原文，如无相关内容则为null,,,,,,,
+,子区域编号或名称,SubAreaIdentifier,区域的编号或名称,子区域名称,\,\,文本,是,出土的遗址中的子区域名称，如无则为null,,,,,,,
+,,,,子区域编号,\,\,文本,是,出土的遗址中的子区域编号，如无则为null,,,,,,,
+,原位遗迹实体,HumanMadeFeature,人类活动形成、并且不可在不破坏其整体性的情况下被移动的空间性特征,遗址名称,\,\,文本,是,"出土的遗址名称
+*此项必须具备值",盘龙山一期、反山遗址,,,,,,
+,,,,出土人造单元,\,\,文本,是,"出土的人造单元名称或编号
+*此项必须具备值","M12,、十二号墓",,,,,,
+,陶土种类,ClayFabricType,胎土整体材质特征，陶土的基本类型,胎土结构（Paste structure）,\,\,唯一值,,"PS1：Fine clay ware	泥质陶：以细泥为主，少或无明显夹杂
+PS2：Sand-tempered ware	夹砂陶	：明显加入砂质颗粒
+PS3：Fine-sand ware 细砂陶：夹杂以细砂为主
+PS4：Grit-tempered ware 粗砂/碎屑夹杂陶：粗颗粒明显
+其他：填入实际值
+未知：null",,,,,,,
+,,,,胎色与烧成表观（Body color & effect）,\,\,唯一值,,"BC1：Red ware 红陶：氧化焰烧成，胎色偏红
+BC2：Grey ware 灰陶：还原或不完全氧化
+BC3：Black ware 黑陶：强还原或渗碳
+BC4：White ware 白陶：高岭质或脱铁明显
+BC5：Buff/light-colored ware 淡色陶：浅黄、浅褐
+其他：填入实际值
+未知：null",,,例如：灰陶 = 灰白陶；,,,,
+,,,,技术结果（Technical outcome）,\,\,唯一值,,"TC1：Hard ware 硬陶：高温烧成，胎体致密
+TC2：Soft ware 软陶	：低温烧成，胎体疏松
+TC3：Black-skinned ware 黑皮陶：表层发黑、内胎非黑
+TC4：Burnished black ware	 磨光黑陶：黑陶+高磨光
+其他：填入实际值
+未知：null",,,,,,,
+,,,,胎色亚型（Body color subtype）,\,\,唯一值,,"BS1：Red body 红胎
+BS2：Grey body 灰胎
+BS3：Black core 黑心
+BS4：White core 白胎
+其他：填入实际值
+未知：null",,,,,,,
+,,,,工艺/结构亚型（Technique & Structure）,\,\,唯一值,,"TS1：Fine-textured 质地细腻
+TS2：Coarse-textured 质地粗
+TS3：Compact 致密
+TS4：Porous 多孔
+其他：填入实际值
+未知：null",,,,,,,
+,陶土细腻程度 ,Clay Fineness,胎土颗粒大小及均匀度,陶土细腻程度,\,\,唯一值,,"CF1：Very coarse 极粗：颗粒明显粗大，杂质清晰可见，常为未淘洗自然泥
+CF2：Coarse 粗：可见较多粗颗粒，均匀性差
+CF3：Medium 中等：颗粒可见但较均匀
+CF4：Fine 细：颗粒细小，肉眼难辨，淘洗较充分
+CF5：Very fine 极细：颗粒极细，质地致密，常与高技术投入相关
+其他：填入实际值
+未知：null",极细、细、中等、粗、极粗等,"“粗胎”“胎质粗糙” → CF2-2
+
+“胎质较细”“细腻” → CF2-4
+
+“胎质极细”“如泥浆状” → CF2-5
+
+“夹砂较多” → CF2-2 或 CF2-3（结合掺杂模块）",,,,,
+,保存状况,PreservationState,器物本体的保存完整性。,本体完整性评价 PreservationState Dimension,\,\,属性族,,"PSD1：Completeness 完整性：是否完整、残缺程度
+PSD2：Fragmentation 碎裂程度：是否破碎、多片
+PSD3：Structural integrity 结构稳定性：是否变形、断裂
+PSD4：Surface preservation 表面保存：是否剥蚀、脱落
+PSD5：Edge condition 断口状况：新断/旧断、磨损
+PSD6：Restoration presence 修复情况：是否拼对、修复
+PSD7：其他
+PSD8：未知
+*分支除未知外，为复选",完好、残缺、破碎、烧裂、蚀损、基本完整、风化等,,,,,,
+,,,,,PSD1：Completeness 完整性：是否完整、残缺程度,\,数量值,,"完整：1
+残缺：fragment_count 残片数量（＞1的整数）
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,PSD2：Fragmentation 碎裂程度：是否破碎、多片,\,唯一值,,"PSD2-1：Very poor 极差：严重破碎，仅存少量残片
+PSD2-2：Poor 较差：多片残破，难以复原整体
+PSD2-3：Fair 一般：残缺但可识别形态
+PSD2-4：Good 较好：基本完整，局部破损
+PSD2-5：Excellent 极好：完整或近完整
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,PSD3：Structural integrity 结构稳定性：是否变形、断裂,\,唯一值,,待补充,,,,,,,
+,,,,,PSD4：Surface preservation 表面保存：是否剥蚀、脱落,\,唯一值,,待补充,,,,,,,
+,,,,,PSD5：Edge condition 断口状况：新断/旧断、磨损,\,唯一值,,待补充,,,,,,,
+,,,,,PSD6：Restoration presence 修复情况：是否拼对、修复,\,二值化,,"refit_success	可拼对：1；不可拼对：0",,,,,,,
+,,,,,PSD7：其他,\,文本,,填写描述原文,,,,,,,
+,,,,,PSD8：未知,\,文本,,null,,,,,,,
+,完整程度,CompletenessDegree,器物结构部件的保留程度,结构部件完整程度,\,\,唯一值,,"CPD1：Extremely fragmentary：极不完整，少量残片，难以识别器型
+CPD2：Fragmentary	残缺：多片残存，器型可辨但严重缺失
+CPD3：Partially complete 部分完整：主要结构在，局部缺失
+CPD4：Nearly complete 基本完整：少量缺失，不影响整体
+CPD5：：Complete 完整：无明显缺失
+其他：填入实际值
+未知：null",全器、半器、局部残片、不可判类型、壁片、足片等,"“残片”“碎片” → CPD1
+“残存”“缺口明显” → CPD2
+“残缺但可复原” → CPD3
+“基本完整”“缺一小部” → CPD4
+“完整器” → CPD5",,,,,
+,掺杂物,TemperType,胎土中掺入的非塑性物质，包含矿物质和有机物等,"掺杂策略（Temper Strategy, ）",\,\,唯一值,,"TS0：无掺杂（自然胎）No temper
+TS1：单一掺杂Single temper
+TS2：多重掺杂Multiple temper
+TS3：系统性配比掺杂（明确、稳定比例）Systematic mixed temper
+其他：填入实际值
+未知：null","细砂、粗砂、云母、贝壳、炭粒、有机物、壳质、稻壳、植物纤维、骨粉、旧陶片草茎、矿物质、石英砂、长石、无掺杂物等
+
+
+
+
+",,,,,,
+,,,,材料来源（Material Origin）,\,\,属性族,,"MO1 ： 矿物质掺杂（Mineral temper）
+MO2 ：生物质掺杂（植物/动物）（Biogenic temper）
+MO3 ：人工再生掺杂（Artificial/recycled temper）
+MO4 ：混合来源（Mixed origin）
+MO0 ：无掺杂（No temper）
+MO5：其他 other
+MO6：未知 unknown
+*分支为单选填写，所以每个分支不需要单独“未知”选项",,,,,,,
+,,,,,MO0：无掺杂,\,文本,,如果进入MO0分支，直接填写“无掺杂”,,,,,,,
+,,,,,"
+MO1：矿物质",\,多值,,"MO1.1 ：石英类（Quartz-based minerals）：a、石英砂 Quartz sand；b、细砂 Fine sand；c、粗砂 Coarse sand
+MO1.2 ：长石类（Feldspar-based minerals）：a、长石 Feldspar
+MO1.3 ： 云母类（Mica-based minerals）：a、云母
+MO1.4 ： 其他矿物（Other minerals）
+MO1.9 ：矿物质（未细分）（Mineral (unspecified)）
+其他：填入实际值",,,,,,,
+,,,,,MO2：生物质,\,多值,,"MO2.1 ： 植物性（Plant-based temper）：a、稻壳 Rice husk；b、植物纤维 Plant fiber；c、草茎 Grass stem；z、有机物 Organic matter (unspecified)
+MO2.2 ： 动物性（Animal-based temper）：a、贝壳 Shell；b、壳质 Shell-derived material；c、骨粉 Bone powder
+MO2.3 ： 生物质（未细分）(Biogenic temper)
+其他：填入实际值",,,,,,,
+,,,,,MO3：人工再生,\,多值,,"MO3.1 ： 旧陶片（grog）(Ceramic-derived temper (grog)）
+MO3.2 ： 燃烧副产物（Combustion by-products）：a、炭粒 Charcoal temper
+MO3.3 ：人工掺杂（未细分）（Artificial temper (unspecified)）
+其他：填入实际值",,,,,,,
+,,,,,MO4：混合来源（Mixed origin）,\,文本,,填写描述原文,,,,,,,
+,,,,,MO5：其他 other,\,文本,,填写描述原文,,,,,,,
+,,,,,MO6：未知 unknown,\,文本,,null,,,,,,,
+,,,,颗粒度,\,\,唯一值,,"GP1 ： 细粒
+GP2 ：中粒
+GP3 ：粗粒
+GP9 ：未说明",,,,,,,
+,硬度,Hardness,用于物理检测，并可辅助推理烧成温度。,硬度,\,\,唯一值,,"HD1：Very soft 极软：易刻划，胎体疏松
+HD2：Soft 较软：可刻划，敲击无清音
+HD3：Medium 中等：不易刻划，声音一般
+HD4：Hard 较硬：难刻划，敲击清脆
+HD5：Very hard 极硬：极难刻划，近似瓷化
+其他：填入实际值
+未知：null",,"“胎质疏松”“质软” → HD1 / HD2
+“质较坚”“较硬” → HD3 / HD4
+“坚硬”“敲击有金属声” → HD5",,,,,
+,烧成温度,FiringTemperatureType,记录生产该陶器时的窑温数据。低温、中温、高温陶的技术类型,烧成温度,\,\,唯一值,,"FTT1：Very low-fired 极低温烧成：<600 摄氏度
+FTT2：	Low-fired 低温烧成：600–800
+FTT3：Medium-fired 中温烧成：800–950
+FTT4：High-fired 高温烧成：950–1100
+FTT5：Very high-fired 极高温烧成：>1100
+其他：填入实际值
+未知：null",低温、中温、高温、还原气氛、氧化气氛等,"“火候不足”“低温烧成” → FTT1 / FTT2
+“烧成较高”“胎质坚硬” → FTT3 / FTT4
+“接近瓷化”“高温釉陶” → FTT5",,,,,
+,基本器型,BasicVesselClass,器物大类，陶器的分类名称（鼎、罐、盆、豆、尊等），是类型体系的上位结构，用来集合同类形制的所有子型。,器皿类（Vessel）,\,\,唯一值,,"VT101：罐 Jar
+VT102：瓮 Urn
+VT103：瓿 Small jar / Pot
+VT104：壶 Ewer
+VT105：瓶 Bottle
+VT106：盆 Basin
+VT107：碗 Bowl
+VT108：杯 Cup
+VT109：豆 Dou (stemmed dish)
+VT110：尊 Zun
+VT111：簋 Gui
+VT112：鼎 Ding (tripod cauldron)
+VT113：鬲 Li (tripod cooking vessel)
+VT114：釜 Fu (cooking pot)
+VT115：甑 Zeng (steamer)
+VT116：盘 Plate
+VT117：盂 Yu (deep bowl)
+VT118：钵Bo
+VT119：匜 Yi (pouring vessel)
+VT120：盉 He (mixing/pouring vessel)
+其他：填入实际值
+未知：null",罐类、壶类、瓶类、鼎类、鬲类、豆类、盆类、碗类、杯类、甑类、瓮类、尊类、簋类、釜类、灶类、井类、仓类、屋类、俑类、瓿类、附件（耳、鋬、流、足、盖类）等,,,,,,
+,,,,设施/构件（Installation/Fixture）,\,\,唯一值,,"VT201：灶 Stove
+VT202：井 Well lining
+VT203：仓 Storage facility
+VT204：屋 Architectural model / House
+VT205：窑具 Kiln furniture
+其他：填入实际值
+未知：null",,,,,,,
+,,,,俑与模型（Figurine/Model）,\,\,唯一值,,"VT301：俑 Figurine
+VT302：器物模型 Object model
+其他：填入实际值
+未知：null",,,,,,,
+,,,,附件类型 Appendage Type,\,\,唯一值,,"AP01：耳 Lug / Ear
+AP02：鋬 Handle
+AP03：流 Spout
+AP04：足 Foot
+AP05：盖 Lid
+AP06：圈足 Ring foot
+AP07：三足 Tripod feet
+AP08：假足 Pseudo-foot
+其他：填入实际值
+未知：null",,,,,,,
+,器型部位特征,VesselMorphologicalFeature,"描述器物形体局部构造和具体部位形态，如口沿、腹部、底足、附加构件的形态特征，和特征描述
+
+部位层级（Part) 包括：
+P1 ：口沿（Rim / Mouth）
+P2 ：颈（Neck）
+P3 ：肩（Shoulder）
+P4 ：腹（Body / Belly）
+P5 ：底（Base / Bottom）
+P6 ：足（ Foot / Support）
+P7 ：器壁（Wall / Thickness）
+P8 ：附件区（Appendage zone）
+P9：其他（other)
+P10：未知（NULL)",部位层级（Part) ,\,\,属性族,,"P1 ：口沿（Rim / Mouth）
+P2 ：颈（Neck）
+P3 ：肩（Shoulder）
+P4 ：腹（Body / Belly）
+P5 ：底（Base / Bottom）
+P6 ：足（ Foot / Support）
+P7 ：器壁（Wall / Thickness）
+P8 ：附件区（Appendage zone）
+P9：其他
+P10：未知
+*分支除未知外，皆为复选","口沿特征：敞口、斜束口、折沿口、侈口、喇叭口、卷沿、直口、外撇口、内收口、折沿口、侈口、喇叭口、卷沿、加厚口、扁平口沿、宽口、小口、内折口、外撇口等
+腹部特征：鼓腹、鼓棱腹、深腹、浅腹、收腹、直腹、斜腹、扁腹、长腹、球腹、矮腹、卵形腹等
+底足特征：圜底、平底、圈足、高圈足、矮圈足、三棱足、鱼鳍足、三角足、低圈足、平折足、锥形足等
+附件特征:附耳、系钮、鋬手（把手）、扁耳、立耳、侧耳、钮、鋬、附加塑饰、突棱
+器壁特征",,,,,,
+,,,,,P1 口沿特征（Rim / Mouth Attributes）,\,属性族,,"P1F1：敞收程度（Opening degree）
+P1F2：口沿剖面（Rim profile）
+P1F3：口沿方向(Rim direction）
+P1F4：口沿处理（Rim modification）
+P1F5：口径尺度（Rim size）",,,,,,,
+,,,,,,P1F1：敞收程度（Opening degree）,唯一值,,"P1A101：敞口 Open mouth
+P1A102：小口 Narrow mouth
+P1A103：宽口 Wide mouth
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,,P1F2：口沿剖面（Rim profile）,唯一值,,"P1A201：直口 Straight rim
+P1A202：折沿口 Folded rim
+P1A203：内折口 Inward folded rim
+P1A204：卷沿 Rolled rim
+P1A205：扁平口沿 Flattened rim
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,,P1F3：口沿方向(Rim direction）,唯一值,,"P1A301：外撇口 Everted rim
+P1A302：内收口 Inverted rim
+P1A303：喇叭口 Trumpet-shaped rim
+P1A304：侈口 Flaring rim
+P1A305：斜束口 Obliquely constricted rim
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,,P1F4：口沿处理（Rim modification）,唯一值,,"P1A401：加厚口Thickened rim
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,,P1F5：口径尺度（Rim size）,数量值,,填入数量（单位：mm），没有提及就写入null,,,,,,,
+,,,,,P2 颈部特征（Neck Attributes）,\,属性族,,待补充,,,,,,,
+,,,,,,P2 颈部特征（Neck Attributes）的字典相关,待补充,,待补充,,,,,,,
+,,,,,P3 肩部特征（Shoulder Attributes）,\,属性族,,待补充,,,,,,,
+,,,,,,P3 肩部特征（Shoulder Attributes）的字典相关,待补充,,待补充,,,,,,,
+,,,,,P4 腹部特征（Body / Belly Attributes）,\,属性族,,"P4F1	：丰满度Body fullness
+P4F2	：轮廓Body profile
+P4F3	：比例Vertical proportion",,,,,,,
+,,,,,,P4F1：丰满度,唯一值,,"P4F101：鼓腹	Globular belly
+P4F102：球腹 Spherical belly
+P4F103：卵形腹 Ovoid belly
+P4F104：扁腹 Flattened belly
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,,P4F2：轮廓,唯一值,,"P4F201：直腹	Straight-sided body
+P4F202：斜腹	Slanted body
+P4F203：收腹	Contracting body
+P4F204：鼓棱腹 Ribbed belly
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,,P4F3： 比例,唯一值,,"P4F301：深腹 Deep body
+P4F302：浅腹	Shallow body
+P4F303：长腹	Elongated body
+P4F304：矮腹	Short body
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,P5 底型（Base type）,\,唯一值,,"P5F101：圜底 Rounded base
+P5F102：平底 Flat base
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,P6 足型（Foot / Support）,\,唯一值,,"P6F101：圈足 Ring foot
+P6F102：高圈足 High ring foot
+P6F103：低圈足 Low ring foot
+P6F104：平折足 Folded flat foot
+P6F105：三角足 Triangular foot
+P6F106：三棱足 Trilateral foot
+P6F107：鱼鳍足 Fin-shaped foot
+P6F108：锥形足 Conical foot
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,P7 器壁特征（Wall / Thickness）,\,唯一值,,"P7F101：厚壁 Thick wall
+P7F102：薄壁 Thin wall
+P7F103：均匀壁 Uniform wall
+P7F104：不均匀壁 Uneven wall
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,P8 附件特征（Appendage Attributes）,\,唯一值,,"P8F101：附耳	Applied ear
+P8F102：扁耳	Flat ear
+P8F103：立耳	Vertical ear
+P8F104：侧耳	Lateral ear
+P8F105：系钮	Suspension knob
+P8F106：钮 Knob
+P8F107：鋬手/把手 Handle
+P8F108：附加塑饰 Applied plastic decoration
+P8F109：突棱 Raised ridge
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,P9 其他,\,文本,,原文描述,,,,,,,
+,,,,,P10 未知,\,文本,,如果没有相关描述即为：无相关内容,,,,,,,
+,器物组合,VesselAssemblageType,"同一出土单位内共存器物的模式，陶器所属的组合类型，其差异可反映时间分期。器物组合可以是归纳后的组合，也可以是客观的器物和器物的组合，例如杯盘组合。
+Scope note：器物组合常用于构建配套组（assemblage group）并指示生活方式变化。",组合情境 Context Domain,\,\,属性族,,"CD1	：炊煮系统	
+CD2	：礼制系统	
+CD3	：饮食系统	
+CD4	：储藏系统	
+CD5	：墓葬系统	
+CD6	：生产设施
+CD7：其他（other)
+CD8：未知（NULL)	
+*分支除未知外，皆为复选",炊煮组合、礼仪组合、储藏组合、随葬组合、饮食组合、水器组合、生产工具组合、家庭组合、鼎簋组合、杯盘组合等,,,,,,
+,,,,,CD1 炊煮系统,\,唯一值,,"CD101	：炊煮组合Cooking set	
+CD102：蒸煮组合（甑-釜）	Steaming set	
+CD103：炊食一体组合 Cooking–serving set
+其他：填入实际值
+未知：null	",,,,,,,
+,,,,,CD2 礼制系统,\,唯一值,,"CD201：鼎簋组合 Ding–Gui set	
+CD202	：礼仪食器组合Ritual food set	
+CD203	：礼仪饮酒组合Ritual drinking set	
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,CD3 饮食系统,\,唯一值,,"CD301	：杯盘组合Cup–Plate set	
+CD302：注饮组合（壶-杯）	Pouring–drinking set
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,CD4 储藏系统,\,唯一值,,"CD401	：储藏组合Storage jar set	
+CD402	：家庭组合Household mixed set	
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,CD5 墓葬系统,\,唯一值,,"CD501	：随葬组合Funerary provision set	
+CD502	：明器/模型组合Model-based funerary set
+其他：填入实际值
+未知：null	",,,,,,,
+,,,,,CD6 生产设施,\,唯一值,,"CD601：生产工具组合 Production tool set	
+CD602：水器/井具组合 Water facility set	
+CD603：灶—炊器组合 Kitchen installation set	
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,CD7 其他,\,文本,,原文描述,,,,,,,
+,,,,,CD8 未知,\,文本,,如果没有相关描述即为：无相关内容,,,,,,,
+,量度信息,MetricInformation,器物的尺寸结构化数据，用于定量研究,量度分类,\,\,属性族,,"MT1：高度类
+MT2：直径类
+MT3：容积体积
+MT4：质量/重量
+MT5：壁厚类
+MT6：比例与指数",,,,,,,
+,,,,,高度类（mm）,\,属性族,,"MT101：vessel_height 器高（完整器）
+MT102：rim_to_shoulder_h 口至肩高度
+MT103：shoulder_to_base_h 肩至底高度",,,,,,,
+,,,,,,MT101：vessel_height 器高（完整器）,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT102：rim_to_shoulder_h 口至肩高度,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT103：shoulder_to_base_h 肩至底高度,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,直径类（mm）,\,属性族,,"MT201	：	口径Rim diameter (RD)
+MT202	：颈径Neck diameter	
+MT203	：肩径Shoulder diameter	
+MT204	：最大腹径Maximum body diameter (BDmax)	
+MT205	：腹径（未说明最大/最小）Body diameter (BD)	
+MT206	：底径Base diameter	
+MT207	：	足径Foot diameter (FD)
+MT208	：内口径（若报告出现）Inner rim diameter	",高度、口径、腹径、足径、厚度、比例、容积、重量、长度、宽度等,,,,,,
+,,,,,,"MT201	：	口径Rim diameter (RD)",数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,"MT202	：颈径Neck diameter	",数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,"MT203	：肩径Shoulder diameter",数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,"MT204	：最大腹径Maximum body diameter (BDmax)",数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,"MT205	：腹径（未说明最大/最小）Body diameter (BD)",数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,"	MT206	：底径Base diameter	",数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,"MT207	：	足径Foot diameter (FD)",数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,"MT208	：内口径（若报告出现）Inner rim diameter	",数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,容积体积,\,属性族,,"MT301	：容积/容量Capacity (Vcap)	
+MT302	：体积（计算/复原）Volume (V)	",,,,,,,
+,,,,,,MT301：容积/容量Capacity (Vcap),数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT302：体积（计算/复原）Volume (V),数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,质量/重量（Mass）,\,属性族,,MT401：Mass/Weight重量,,,,,,,
+,,,,,,MT401：Mass/Weight重量,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,壁厚类（mm）,\,属性族,,"MT501	：器壁厚（平均）Wall thickness (avg)	
+MT502	：口沿厚Rim thickness	
+MT503	：底厚Base thickness	
+MT504	：最小厚度Min thickness	
+MT505	：最大厚度Max thickness	",,,,,,,
+,,,,,,MT501：器壁厚（平均）Wall thickness (avg),数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT502：口沿厚Rim thickness,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT503：底厚Base thickness,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT504：最小厚度Min thickness,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT505：最大厚度Max thickness,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,比例与指数,\,属性族,,"MT601：Height-to-rim ratio (H/RD)	高口比
+MT602	：高腹比Height-to-body ratio (H/BDmax)	
+MT603	：口腹比Rim-to-body ratio (RD/BDmax)
+MT604	：修长指数（一般指 H/BDmax）Slenderness index
+MT605	：薄胎指数（与厚度相关的标准化指标）Wall thinness index	",,,,,,,
+,,,,,,MT601：Height-to-rim ratio (H/RD) 高口比,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT602：高腹比Height-to-body ratio (H/BDmax),数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT603：口腹比Rim-to-body ratio (RD/BDmax),数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT604：修长指数（一般指 H/BDmax）Slenderness index,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,,,,,,MT605：薄胎指数（与厚度相关的标准化指标）Wall thinness index,数量值,,根据描述填入数值，缺失则为null,,,,,,,
+,器物功能,FunctionalType,"按器物用途进行分类，陶器制造时的预设用途。
+Scope note：功能判断常用于识别相同器型在不同时期的用途变化。",器物功能,\,\,属性族,,"FT1：日常与生计
+FT2：生产
+FT3：礼仪与信仰
+FT4：丧葬与象征
+FT5：建筑与设施
+FT6：社会与娱乐
+FT7：其他
+FT8：未知
+*分支除未知外，皆为复选",,,,,,,
+,,,,,FT1：日常与生计,\,多值,,"
+FT101	：炊煮	Cooking
+FT102	：蒸煮	Steaming
+FT103	：盛食	Serving food
+FT104	：储藏	Storage
+FT105	：盛水	Water holding
+FT106	：注水	Pouring water
+FT107	：过滤	Filtering
+其他：填入实际值
+未知：null","炊煮类、盛储类、水器类、过滤器类、纺织工具、生产工具、礼器、冥器、模型明器、俑及偶像、建筑材料、娱乐与玩具等
+
+炊煮用器：鼎、甑、锅、鬲、灶具
+盛储用器：罐、缸、壶、盆、盒
+饮食器：杯、豆、盘、碗
+水器：壶、罐、瓿
+生产工具：纺轮、纺锤、磨盘、坩埚
+礼仪器：尊、觚、鼎（礼儀用）、豆（礼儀用）
+冥器/随葬器：明器、模型器
+俑及偶像：人物俑、动物俑、神怪俑等
+模型明器	陶屋、陶仓、陶灶、陶井、陶磨等。",,,,,,
+,,,,,FT2：生产,\,多值,,"FT201：纺织 Textile production
+FT202：农业 Agricultural processing
+FT203：手工业 Craft production
+FT204：制陶 Pottery production
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,FT3：礼仪与信仰,\,多值,,"FT301：礼仪盛食 Ritual food service
+FT302：礼仪饮酒 Ritual drinking
+FT303：供献 Offering
+FT304：信仰象征 Religious symbolism
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,FT4：丧葬与象征,\,多值,,"FT401	：随葬使用	Funerary use
+FT402	：明器象征	Mingqi symbolism
+FT403	：人像/偶像	Figurine / idol
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,FT5：建筑与设施,\,多值,,"FT501	：建筑构件	Architectural component
+FT502	：生活设施	Domestic installation
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,FT6：社会与娱乐,\,多值,,"FT601	：玩具	Toy
+FT602	：乐器	Musical instrument
+FT603	：娱乐	Leisure object
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,FT7：其他,\,文本,,原文描述,,,,,,,
+,,,,,FT8：未知,\,文本,,如果没有相关描述即为：无相关内容,,,,,,,
+,成型工艺,Forming Technique,成型阶段的技术路线或基础技术,动力系统（power_system）,\,\,唯一值,,"P0：无轮/无持续旋转（Hand-powered）--手制
+P1：慢轮/转盘（Tournette / slow wheel）-慢轮/慢轮修正
+P2：快轮拉坯（Fast wheel throwing）-轮制/快轮拉胚
+其他：填入实际值
+未知：null",手制、轮制、泥条盘筑、模制、复合成型、倒筑/圈筑、捏塑、盘筑法、泥片拼接法、捏塑法、拍打法、慢轮修整、快轮拉坯、轮制＋手工修整等,,,,,,
+,,,,主成型方式（primary_forming）,\,\,唯一值,,"F10：捏塑（Pinching / modeling as primary）
+F20：泥条盘筑/盘筑（Coiling as primary）
+F21：倒筑/圈筑（Coiling variant / ring-building）
+F30：泥片拼接/泥板成型（Slab-building as primary）
+F40：模制（Molding as primary）
+F50：轮制拉坯为主（Wheel-throwing as primary）
+其他：填入实际值
+未知：null",手制、轮制、泥条盘筑、模制、复合成型、倒筑/圈筑、捏塑、盘筑法、泥片拼接法、捏塑法、拍打法、慢轮修整、快轮拉坯、轮制＋手工修整等,,,,,,
+,,,,辅助成型（secondary_ops）,\,\,多值,,"S10：拍打法/拍打（Paddle-and-anvil / paddling）
+S20：慢轮修整（Wheel-finishing on slow wheel）
+S21：轮上修整（Wheel-finishing, speed unknown）
+S30：手工修整（Hand finishing / trimming without wheel）
+S40：附件加制（Applied features: 耳、鋬、足、流等）
+S50：复合成型标记（Composite forming flag）——仅作为标记，不当作工艺本体
+其他：填入实际值
+未知：null",手制、轮制、泥条盘筑、模制、复合成型、倒筑/圈筑、捏塑、盘筑法、泥片拼接法、捏塑法、拍打法、慢轮修整、快轮拉坯、轮制＋手工修整等,拍打砧垫-S10,,,,,
+,,,,组合链operation_chain,\,\,文本,,根据动力系统、主成型方式、辅助成型的类型进行组合填写；示例（盘筑→拍打→慢轮修整）：1，F20 primary  2，S10 secondary  3，S20 secondary；没有相关描述则填写“无相关内容”,,,,,,,
+,修整技术,Finishing Technique,成型后对表面或局部的修整方法,形态校正与表面平整（Morphological Correction）,\,\,唯一值,,"FTQ101：刮削整形（Abrasive removal）：a、刮削
+FTQ102： 抹平整形（Plastic smoothing）：a、 抹光；b、细整抹平
+FTQ103： 拍压整形（Percussive compression）：a、 抛压
+FTQ104： 减材整形（Material removal shaping）：a、 修坯 / 车削（Trimming / turning）；b、 系统性减薄（Systematic thinning）
+FTQ105： 接合修正（Joint correction）：a、拼接/接合修正
+FTQ106：其他（other)
+FTQ107：未知（NULL)
+
+说明：抛压既可服务于 FTQ1（形态）也可服务于 FTQ2（光泽），以功能主导判定。",磨光、抹光、刮削、拍印、抛压、刻划修整、细整抹平、涂泥衣、施釉（晚期）等,手工抹平,,,,,
+,,,,表面致密与光泽提升（Surface Compaction & Luster）,\,\,唯一值,,"FTQ201：磨光（Abrasive polishing）：a、磨光
+FTQ202： 抛光/压光（Burnishing）：a、抛压（若以光泽为主；与 FTQ103-a共享方法，功能不同）
+
+说明：抛压既可服务于 FTQ1（形态）也可服务于 FTQ2（光泽），以功能主导判定。",,,,,,,
+,,,,表面纹饰与信息添加（Surface Marking & Decoration）,\,\,唯一值,,"FTQ301： 拍印（Impressed decoration）：a、拍印
+FTQ302： 刻划（Incision & engraving）：a、刻划修整
+",,,,,,,
+,,,,表面覆层与质地改性（Surface Coating & Texture Modification）,\,\,唯一值,,"FTQ401： 涂覆泥衣（Slip coating）：a、涂泥衣
+待补充
+",,,,,,,
+,,,,烧成相关表面处理（Firing-related Surface Treatment）,\,\,唯一值,,"FTQ501： 施釉（Glazing）：a、施釉
+",,,,,,,
+,,,,缺陷修复与容错（Pre-firing repair & defect management）,\,\,唯一值,,"FTQ601： 烧前修补：a、 烧前修补（Pre-firing repair）
+",,,,,,,
+,,,,修正强度（post_forming_intensity）,\,\,唯一值,,"I1：局部/轻微（low）
+I2：系统但不完全（medium）
+I3：全器系统修正（high）
+I4：其他
+I5：未知（unknown)",,,,,,,
+,装饰手法,Decoration Technique,施加纹饰的动作或技术方式,装饰阶段 Decorative Stage,\,\,唯一值,,"DS1	：塑性阶段装饰（未完全干燥）Plastic-stage decoration	
+DS2	：半干阶段装饰Leather-hard decoration	
+DS3	：干燥阶段装饰Dry-stage decoration	
+DS4	：烧前表面处理Pre-firing surface treatment	
+DS5	：烧后装饰Post-firing decoration
+D36：其他（other)
+DS7：未知（NULL)	",刻划、拍印、戳点、彩绘、贴饰、镂空、堆纹、压印、刺戳、绳纹等,,,,,,
+,,,,装饰机理大类 Decorative Mechanism,\,\,属性族,,"DM1	：减材型Subtractive (incised)	
+DM2	：加材型Additive (applied)	
+DM3	：压印型Impressed	
+DM4	：表面涂覆与着色Surface coating & coloring	
+DM5	：表面物理改性Surface modification	
+DM6	：穿孔型Perforation	
+DM7：其他（other)
+DM8：未知（NULL)	",,,,,,,
+,,,,,DM1 减材型（Subtractive）,\,多值,,"DF101：刻划	Incising	
+DF102	：梳划Combing	
+DF103	：刮削装饰Scraping	
+其他：填入实际值
+未知：null	",,,,,,,
+,,,,,DM2 加材型（Additive）,\,多值,,"DF201	：贴塑 / 堆贴Appliqué	
+DF202：模印浮雕	Molded relief
+其他：填入实际值
+未知：null	",,,,,,,
+,,,,,DM3 压印型（Impressed）,\,多值,,"DF301：戳印 / 压印	Stamping	
+DF302：拍印Paddle-impressed	
+DF303	：绳纹Cord-marking	
+DF304	：编织物印痕Textile impression	
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,DM4 涂覆与着色,\,多值,,"DF401	：施化妆土 / 涂层Slip coating	
+DF402：彩绘 / 涂绘	Painting	
+DF403	：涂染Wash / coating	
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,DM5 表面物理改性（Surface modification）,\,多值,,"DF501：磨光	Burnishing	
+DF502：抛光	Polishing	
+DF503：表面整饰	Texturing	
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,DM6 穿孔型（Perforation）,\,多值,,"DF601：点刺	Punctation	
+DF602	：穿孔Piercing	
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,DM7：其他（other),\,文本,,原文描述,,,,,,,
+,,,,,DM8：未知（NULL),\,文本,,填入无相关内容,,,,,,,
+,纹饰类型,DecorativeMotifType,纹样样式的分类体系和具体团，是形态识别与文化分析关键,纹饰呈现方式Motif Medium,\,\,多值,,"MM1：立体/塑性纹（凸起、贴饰、浮雕）Plastic relief (3D)
+MM2：线刻/凹刻纹（刻划、雀刻、划纹）Incised/engraved (2D)
+MM3：压印/拍印纹（印纹、绳纹、篮纹）Impressed (2D/low relief)	
+MM4：彩绘纹Painted (color)	
+MM5：镂孔/透孔纹Pierced (perforated)
+其他：填入实际值
+未知：null",弦纹、篮纹、旋纹、符号纹、镂孔纹、附加纹、绳纹、划纹、印纹、彩绘纹（几何、人物、动物）、浮雕纹、刻划纹、雀刻纹、凹弦纹、凸弦纹、贴饰纹、复合纹样、菱形纹、平行线纹、交叉线纹、网纹、云雷纹、圆圈纹、点纹、附加纹、旋涡纹、锯齿纹、锁口纹、连珠纹、带状纹带等。,,,,,,
+,,,,图形语法 Motif Grammar,\,\,多值,,"MG1	：线性/带状语法Linear bands	
+MG2	：几何重复语法Geometric repeated	
+MG3	：曲线/旋涡语法Curvilinear/spiral	
+MG4	：符号/记号语法Symbolic marks	
+MG5	：具象图像语法（人/兽/鸟等）Figural	
+MG6	：质感铺地语法（篮纹、绳纹、网纹）Texture fields
+其他：填入实际值
+未知：null",,,,,,,
+,,,,纹饰大类 Motif Class,\,\,属性族,,"MC10	：绳拍系Corded/rope-related	
+MC11	：编织/篮纹系Basket/weave-related	
+MC12	：弦纹/凸起线系String/raised line	
+MC13	：刻划线系Incised line patterns	
+MC14	：压印几何系Impression patterns	
+MC15	：旋涡/旋纹系Spiral/whorl patterns	
+MC16	：云雷/回纹系Thunder/cloud meander	
+MC17	：点纹/连珠系Dot & bead	
+MC18	：锯齿/折线系Zigzag & sawtooth	
+MC19	：镂孔/透孔系Openwork/perforation	
+MC20	：贴饰/浮雕系Applied/relief	
+MC21	：彩绘系Painted motifs	
+MC22	：符号纹系Symbolic marks	
+MC23：其他
+MC24：未知
+*分支为单选，填写选中的分支，其他留空",,,,,,,
+,,,,,MC10 绳拍系,\,唯一值,,"MTF1001：绳纹Cord-mark pattern
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC11 编织/篮纹系,\,唯一值,,"MTF1101	：篮纹	Basket-impressed pattern
+MTF1102	：网纹	Net pattern
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC13 刻划线系（含雀刻）,\,唯一值,,"MTF1301	：刻划纹	Incised pattern
+MTF1302	：划纹	Scratched line pattern
+MTF1303	：雀刻纹	Notched/incised “sparrow-peck” pattern
+MTF1304	：平行线纹	Parallel lines
+MTF1305	：交叉线纹	Cross-hatched lines
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC14 压印几何系（印纹/拍印）,\,唯一值,,"MTF1401	：印纹	Impressed pattern
+MTF1402	：菱形纹	Diamond/lozenge pattern
+MTF1403	：圆圈纹	Circle pattern
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC15 旋涡/旋纹系,\,唯一值,,"MTF1501	：旋纹	Spiral pattern
+MTF1502	：旋涡纹	Whorl pattern
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC16 云雷/回纹系,\,唯一值,,"MTF1601	：云雷纹	Cloud-and-thunder pattern
+MTF1602	：回纹	Meander pattern
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC17 点纹/连珠系,\,唯一值,,"MTF1701	：点纹	Dot pattern
+MTF1702	：连珠纹	Bead-chain pattern
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC18 锯齿/折线系,\,唯一值,,"MTF1801	：锯齿纹	Sawtooth pattern
+MTF1802	：折线纹/曲折纹（补充）	Zigzag pattern
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC19 镂孔/透孔系,\,唯一值,,"MTF1901	：镂孔纹	Openwork pattern
+MTF1902	：镂孔纹（锁口）	Keyhole/openwork “suokou” pattern
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC20 贴饰/浮雕系,\,唯一值,,"MTF2001	：贴饰纹	Applied ornament pattern
+MTF2002	：浮雕纹	Relief pattern
+MTF2003	：附加纹	Added band/added ornament
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC21 彩绘系（可加题材参数）,\,唯一值,,"PT1 Geometric（几何）
+PT2 Human figure（人物）
+PT3 Animal（动物）
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC22 符号纹系,\,唯一值,,"MTF2201：符号纹Symbol mark motif
+其他：填入实际值
+未知：null",,,,,,,
+,,,,,MC23 其他,\,文本,,原文描述,,,,,,,
+,,,,,MC24 未知,\,文本,,如果没有相关描述即为：无相关内容,,,,,,,
+,,,,布局方式,\,\,唯一值,,"LY1	：水平分带Horizontal bands	
+LY2	：竖向分区Vertical panels	
+LY3	：满铺All-over	
+LY4	：分区（口/肩/腹）Zoned (rim/shoulder/body)	
+LY5	：中心徽章式Central medallion
+其他：填入实际值
+未知：null",,,,,,,
+,制作者,ProductionActor,记录制造该文物的人或群体。,制作者,\,\,唯一值,,"M1：个体制作者	Individual potter
+M2：家庭/作坊单位	Household / Workshop
+M3：社群制作者	Community group
+M4：专业工匠群体	Specialized craftsmen
+M5：区域生产体系	Regional production system
+其他：填入实际值
+未知：null",,,,,,,
+,制作年代,ProductionDate,器物的制作时期；所处的文化时期和文化期别，或朝代及朝代的期别；以及更细节的遗址分期,年代类型（Chronology Type）,\,\,属性族,,"C1：绝对年代 Absolute date
+C2：相对年代 Relative date
+C3：年代区段 Chronological phase",事物对应的制作时间跨度、绝对年代、相对年代、年代区段、,,,,,,
+,,,,,C1：绝对年代 Absolute date,\,文本,,"该期别的绝对年代范围，描述可为“公元xxx；距今xxx”；包括：
+date_value	数值（整数）
+date_unit BCE / CE / BP
+date_calibration Cal / Uncal
+date_error ± 年数
+如果没有相关描述即为：null","2800 BCE ± 50
+4300±40 BP (Cal)
+",,,,,,
+,,,,,C2：相对年代 Relative date,\,文本,,"文化时期/期别和朝代/朝代期别，是同级别的概念，在夏朝之前没有朝代的命名，可能使用文化指称；夏朝之后用朝代指称，e.g.在夏朝之前的龙山文化，处于新石器时代晚期，用龙山文化指称。填写时可包括下述信息：
+ultural_period 考古学文化（e.g. 龙山文化）
+phase	期别（e.g. 龙山文化晚期）
+如果没有相关描述即为：null","仰韶文化中期
+龙山文化晚期
+夏朝、商朝",,,,,,
+,,,,,C3：年代区段 Chronological phase,\,文本,,"填写遗址分期，遗址分期为人工划定，分期的依据主要是以器物相似性等划分。例如盘龙城遗址有多期，单一期数可能对应不同文化/朝代（C2：相对年代），也可能不一定能找到对应文化/朝代信息。填写时可包括下述信息：
+chronological_label，如：“盘龙城一期”
+如果没有相关描述即为：null",,,,,,,
+,制作地点,ProductionPlace,器物被制造的地点，如窑址或作坊,制作地点类型（Location Type）,\,\,唯一值,,"L1	窑址	Kiln site
+L2	作坊	Workshop
+L3	居址内生产区	Household production area
+L4	综合生产区	Integrated production zone
+L5	区域生产中心	Regional production center
+L6	其他推定来源区	Inferred source area（需要填写推断值）
+L7	不明	Unknown",窑址、作坊、村落生产点、手工业聚落区域性生产中心等,,,,,,

@@ -1,0 +1,59 @@
+﻿文物类型,"文化特征单元 CAU
+（Culture Attributes Unit）",CAU ID,文化特征单元定义（CAU Definition）,一级指标,二级指标,三级指标,值类型,索引/主键,抽取值字典/定义,原文描述/术语示例,原文描述转写示例,同义词示例
+遗址,遗址名称,SiteName,遗址的标准名称、别名,遗址唯一标识符site_id,\,\,文本,,原文内容抽取，如无相关内容填入null,CN-SC-0007,"CN-SC-0007（中国·四川·第7号遗址）中的CN-SC-0007
+原则：Site ID 与名称分离",
+,,,,遗址学术名称（原文或规范）site_real_name,\,\,文本,,原文内容抽取，如无相关内容填入null,中国·四川·第7号遗址,,
+,,,,文献或报告位置 source_reference,\,\,文本,,原文内容抽取，如无相关内容填入null,,,
+,,,,遗址名称 site_name,\,\,文本,是,"原文内容抽取
+*此项必须具备值",例如：三星堆遗址、盘龙城遗址，一定要加上“遗址”二字,,
+,遗址类型,SiteType,遗址类型,遗址类型主类（Site Type Category）,\,\,多值,,"ST1	：聚落遗址	Settlement site
+ST2	：城址	Walled city site
+ST3	：墓地	Cemetery
+ST4	：祭祀 / 宗教遗址	Ritual / religious site
+ST5	：手工业遗址	Craft / production site
+ST6	：防御设施	Defensive site
+ST7	：交通 / 工程遗址	Infrastructure site
+ST8	：复合型遗址	Multi-functional site
+其他：填入实际值
+未知：null",例如：聚落址、墓地、城址、祭祀坑,,
+,遗址当前位置,SiteLocation,遗址所在的行政区划、地理单元,遗址当前位置,\,\,文本,,"包括但不仅限下列要素，尽可能填写：
+administrative_location现代行政区
+country	中国
+province	四川省
+prefecture	成都市
+county	新津区
+township	宝墩镇（如有）
+village	××村（如有）",例如：四川省广汉市鸭子河南岸,,
+,遗址空间数据,SiteSpatialData,具体的经纬度坐标、海拔高度数据。如果抽取不到，需要通过LLM基于当前位置进行推理标注,遗址空间数据,\,\,文本,,"包括但不仅限下列要素，尽可能填写：
+coordinate经纬度
+latitude	十进制度
+longitude	十进制度
+coordinate_system	WGS84 / CGCS2000
+coordinate_precision	精确 / 估计",,,
+,遗址描述,SiteDescription,遗址的自然环境描述、发掘历史综述、保存状况等非结构化文本。,遗址原文描述,\,\,文本,,"采用原文描述内容，可能包括不仅限下列地理描述：
+河流（如：岷江）
+河谷（如：××河谷）
+台地（如：河漫台地）
+平原（如：成都平原）
+盆地（如：四川盆地）
+山地（如：低山丘陵）",,,
+,制作年代,ProductionDate,器物的制作时期；所处的文化时期和文化期别，或朝代及朝代的期别；以及更细节的遗址分期,年代类型（Chronology Type）,\,\,属性族,,"C1：绝对年代 Absolute date
+C2：相对年代 Relative date
+C3：年代区段 Chronological phase",事物对应的制作时间跨度、绝对年代、相对年代、年代区段、,,
+,,,,,C1：绝对年代 Absolute date,\,文本,,"该期别的绝对年代范围，描述可为“公元xxx；距今xxx”；包括：
+date_value	数值（整数）
+date_unit BCE / CE / BP
+date_calibration Cal / Uncal
+date_error ± 年数
+如果没有相关描述即为：null","2800 BCE ± 50
+4300±40 BP (Cal)
+",,
+,,,,,C2：相对年代 Relative date,\,文本,,"文化时期/期别和朝代/朝代期别，是同级别的概念，在夏朝之前没有朝代的命名，可能使用文化指称；夏朝之后用朝代指称，e.g.在夏朝之前的龙山文化，处于新石器时代晚期，用龙山文化指称。填写时可包括下述信息：
+ultural_period 考古学文化（e.g. 龙山文化）
+phase	期别（e.g. 龙山文化晚期）
+如果没有相关描述即为：null","仰韶文化中期
+龙山文化晚期
+夏朝、商朝",,
+,,,,,C3：年代区段 Chronological phase,\,文本,,"填写遗址分期，遗址分期为人工划定，分期的依据主要是以器物相似性等划分。例如盘龙城遗址有多期，单一期数可能对应不同文化/朝代（C2：相对年代），也可能不一定能找到对应文化/朝代信息。填写时可包括下述信息：
+chronological_label，如：“盘龙城一期”
+如果没有相关描述即为：null",,,

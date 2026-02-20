@@ -1,0 +1,1457 @@
+﻿事物类型,"文化特征单元 CAU
+（Culture Attributes Unit）",CAU ID,文化特征单元定义（CAU Definition）,一级指标,二级指标,三级指标,值类型,索引/主键,抽取值字典/定义,原文描述/术语示例,原文描述转写示例,同义词示例
+玉器 jade,人工物品编号,ObjectIdentifier,记录其唯一的编号。,人工物品编号,\,\,文本,是,"原文描述，形如：M4:17，或M5:20-3
+*此项必须具备值",,,
+玉器 jade,器物名称,JadeName,记录对某一具体陶器个体所使用的名称或称谓。该名称作为识别性标签，用于指代该陶器本身，而不等同于其器型分类、功能类别或文化属性。,器物名称,\,\,文本,,描述原文，如无相关内容则为null,,提取原文描述,
+玉器 jade,子区域编号或名称,SubAreaIdentifier,区域的编号或名称,子区域名称,\,\,文本,是,出土的遗址中的子区域名称，如无则为null,,提取原文描述,
+玉器 jade,,,,子区域编号,\,\,文本,是,出土的遗址中的子区域编号，如无则为null,,提取原文描述,
+玉器 jade,出土遗址,FromSite,记录文物出土的遗址名称,遗址名称,\,\,文本,是,"出土的遗址名称
+*此项必须具备值",盘龙山一期、反山遗址,提取原文描述,
+玉器 jade,原位遗迹实体,HumanMadeFeature,人类活动形成、并且不可在不破坏其整体性的情况下被移动的空间性特征,出土人造单元,\,\,文本,是,"出土的人造单元名称或编号
+*此项必须具备值","M12,、十二号墓",提取原文描述,
+玉器 jade,玉器类别,JadeObjectType,"按玉器的整体功能、形制传统和使用情境，对单件或一组玉器进行的上位分类体系，包括礼器类、佩饰类、兵器仪仗类、工具类、端饰类等。
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",类别族 Category Family,\,\,属性族,,"JCF01：Personal ornaments 佩饰类
+JCF02：Ritual jades 玉礼器
+JCF03：Weapons & insignia 兵器仪仗类
+JCF04：Tools & implements 工具类
+JCF05：Decorative fittings	端饰类（器物端部/构件装饰）
+JCF06：Inlay & composite parts 镶嵌件/嵌玉漆器部件
+JCF07：Funerary objects 丧葬类
+JCF08：Domestic utensils 生活用具
+JCF09：Status & authority symbols 身份象征
+JCF10：Other 其他
+JC11：Unknown 未知","佩饰类、兵器仪仗类、
+玉礼器、工具类、端饰类、镶嵌件 / 嵌玉漆器、丧葬类、生活用具、身份象征、其他 / 未知",丧葬类 -> JCF07; 佩饰类 -> JCF01; 兵器仪仗类 -> JCF03; 其他 / 未知 -> JCF10; 工具类 -> JCF04; 玉礼器 -> JCF02; 生活用具 -> JCF08; 端饰类 -> JCF05; 身份象征 -> JCF09; 镶嵌件 / 嵌玉漆器 -> JCF06; 佩饰->JCF01; 佩饰类->JCF01; 玉礼器->JCF02; 兵器仪仗->JCF03; 兵器仪仗类->JCF03; 工具->JCF04; 工具类->JCF04; 端饰->JCF05; 端饰类->JCF05; 构件装饰->JCF05,"端饰类: 构件装饰; 镶嵌件: 嵌玉漆器部件, 镶嵌件 / 嵌玉漆器; 其他: 其他 / 未知; 未知: 其他 / 未知; 佩饰类: Personal ornaments; 玉礼器: Ritual jades; 兵器仪仗类: Weapons & insignia; 工具类: Tools & implements; 端饰类: Decorative fittings （/）; 镶嵌件: Inlay & composite parts /; 丧葬类: Funerary objects; 生活用具: Domestic utensils; 身份象征: Status & authority symbols; 其他: Other; 未知: Unknown; 佩饰: 佩饰类; 兵器仪仗: 兵器仪仗类; 工具: 工具类; 端饰: 端饰类, 构件装饰"
+玉器 jade,,,,,JCF01：Personal ornaments 佩饰类,\,唯一值,,"JCT0101	：玉璜	Jade huang (arc pendant)
+JCT0102	：玉佩/坠饰	Pendant
+JCT0103	：玉管	Tube bead
+JCT0104	：玉珠	Bead
+JCT0105	：玉环	Ring
+JCT0106	：玉镯	Bracelet/bangle
+JCT0107	：玉耳饰	Earring
+JCT0108	：玉饰片	Ornament plaque
+其他：填入实际值
+未知：null",,玉璜->JCT0101; 坠饰->JCT0102; 玉佩->JCT0102; 玉管->JCT0103; 玉珠->JCT0104; 玉环->JCT0105; 玉镯->JCT0106; 玉耳饰->JCT0107; 玉饰片->JCT0108,玉佩: 坠饰; 玉璜: Jade huang (arc pendant); 玉佩: / Pendant; 玉管: Tube bead; 玉珠: Bead; 玉环: Ring; 玉镯: Bracelet/bangle; 玉耳饰: Earring; 玉饰片: Ornament plaque; 坠饰: 玉佩
+玉器 jade,,,,,JCF02：Ritual jades 玉礼器,\,唯一值,,"JCT0201	：璧	Bi disc
+JCT0202	：琮	Cong tube
+JCT0203	：圭	Gui tablet
+JCT0204	：璋	Zhang blade-tablet
+JCT0205	：琥	Hu tiger-shaped tablet
+JCT0206	：璜（礼制类）	Huang (ritual form)
+JCT0207	：礼仪组合件	Ritual set component
+其他：填入实际值
+未知：null",,礼制->JCT0206; 礼制类->JCT0206; 礼仪组合件->JCT0207,礼制: 礼制类; 璧: Bi disc; 琮: Cong tube; 圭: Gui tablet; 璋: Zhang blade-tablet; 琥: Hu tiger-shaped tablet; 璜: （） Huang (ritual form); 礼仪组合件: Ritual set component
+玉器 jade,,,,,JCF03：Weapons & insignia 兵器仪仗类,\,唯一值,,"JCT0301	：玉戈	Jade ge (dagger-axe)
+JCT0302	：玉钺	Jade yue (axe)
+JCT0303	：玉刀	Jade knife
+JCT0304	：玉剑饰/剑首	Sword fitting
+JCT0305	：玉矛/枪饰	Spear fitting
+JCT0306	：仪仗端饰	Insignia finial
+其他：填入实际值
+未知：null",,玉戈->JCT0301; 玉钺->JCT0302; 玉刀->JCT0303; 剑首->JCT0304; 玉剑饰->JCT0304; 玉矛->JCT0305; 枪饰->JCT0305; 仪仗端饰->JCT0306,玉剑饰: 剑首; 玉矛: 枪饰; 玉戈: Jade ge (dagger-axe); 玉钺: Jade yue (axe); 玉刀: Jade knife; 玉剑饰: / Sword fitting; 玉矛: / Spear fitting; 仪仗端饰: Insignia finial; 剑首: 玉剑饰; 枪饰: 玉矛
+玉器 jade,,,,,JCF04：Tools & implements 工具类,\,唯一值,,"JCT0401	：玉凿	Chisel
+JCT0402	：玉斧	Axe
+JCT0403	：玉铲	Spade
+JCT0404	：玉锛	Adze
+JCT0405	：玉磨石/砥石	Whetstone/abrader
+其他：填入实际值
+未知：null",,玉凿->JCT0401; 玉斧->JCT0402; 玉铲->JCT0403; 玉锛->JCT0404; 砥石->JCT0405; 玉磨石->JCT0405,玉磨石: 砥石; 玉凿: Chisel; 玉斧: Axe; 玉铲: Spade; 玉锛: Adze; 玉磨石: / Whetstone/abrader; 砥石: 玉磨石
+玉器 jade,,,,,JCF05：Decorative fittings 端饰类（器物端部/构件装饰）,\,唯一值,,"JCT0501	：端饰/套筒饰	Terminal fitting
+JCT0502	：带扣/带饰	Belt hook/ornament
+JCT0503	：冠饰/帽饰	Headdress ornament
+JCT0504	：车马器饰	Chariot/horse gear ornament
+其他：填入实际值
+未知：null",,端饰->JCT0501; 套筒饰->JCT0501; 带扣->JCT0502; 带饰->JCT0502; 冠饰->JCT0503; 帽饰->JCT0503; 车马器饰->JCT0504,端饰: 套筒饰; 带扣: 带饰; 冠饰: 帽饰; 端饰: / Terminal fitting; 带扣: / Belt hook/ornament; 冠饰: / Headdress ornament; 车马器饰: Chariot/horse gear ornament; 带饰: 带扣
+玉器 jade,,,,,JCF06：Inlay & composite parts 镶嵌件/嵌玉漆器部件,\,唯一值,,"JCT0601	：镶嵌片	Inlay plaque
+JCT0602	：嵌饰条	Inlay strip
+JCT0603	：嵌玉漆器构件	Lacquer-inlay component
+JCT0604	：镶嵌残片	Inlay fragment
+其他：填入实际值
+未知：null",,镶嵌片->JCT0601; 嵌饰条->JCT0602; 嵌玉漆器构件->JCT0603; 镶嵌残片->JCT0604,镶嵌片: Inlay plaque; 嵌饰条: Inlay strip; 嵌玉漆器构件: Lacquer-inlay component; 镶嵌残片: Inlay fragment
+玉器 jade,,,,,JCF07：Funerary objects 丧葬类,\,唯一值,,"JCT0701	：玉塞（口/鼻/耳）	Jade plug (orifice plug)
+JCT0702	：玉握	Jade hand-held (mortuary)
+JCT0703	：玉覆面/面罩片	Jade mask piece
+JCT0704	：玉衣片	Jade suit plaque
+JCT0705	：殓具嵌玉件	Coffin/cover inlay
+其他：填入实际值
+未知：null",,玉塞->JCT0701; 玉握->JCT0702; 面罩片->JCT0703; 玉覆面->JCT0703; 玉衣片->JCT0704; 殓具嵌玉件->JCT0705,"玉塞: 鼻, 耳; 玉覆面: 面罩片; 玉塞: （//） Jade plug (orifice plug); 玉握: Jade hand-held (mortuary); 玉覆面: / Jade mask piece; 玉衣片: Jade suit plaque; 殓具嵌玉件: Coffin/cover inlay; 面罩片: 玉覆面"
+玉器 jade,,,,,JCF08：Domestic utensils 生活用具,\,唯一值,,"JCT0801	：玉杯	Jade cup
+JCT0802	：玉勺	Jade spoon
+JCT0803	：玉盘	Jade plate
+JCT0804	：玉盒	Jade box
+其他：填入实际值
+未知：null",,玉杯->JCT0801; 玉勺->JCT0802; 玉盘->JCT0803; 玉盒->JCT0804,玉杯: Jade cup; 玉勺: Jade spoon; 玉盘: Jade plate; 玉盒: Jade box
+玉器 jade,,,,,JCF09：Status & authority symbols 身份象征,\,唯一值,,"JCT0901	：权杖/权力象征器	Scepter / authority emblem
+JCT0902	：组佩（身份套组）	Composite pendant set
+JCT0903	：铭刻身份器	Inscribed status object
+其他：填入实际值
+未知：null",,权杖->JCT0901; 权力象征器->JCT0901; 组佩->JCT0902; 身份套组->JCT0902; 铭刻身份器->JCT0903,权杖: 权力象征器; 组佩: 身份套组; 权杖: / Scepter / authority emblem; 组佩: （） Composite pendant set; 铭刻身份器: Inscribed status object
+玉器 jade,,,,,JCF10：Other 其他,\,文本,,如果无法归到任何一类，直接填写相关原文描述,,提取原文描述,
+玉器 jade,,,,,JC11：Unknown 未知,\,文本,,如果完全没有相关信息，填写“无相关内容”,,提取原文描述,
+玉器 jade,器型单元,JadeFormType,(按形制分类)直接将器物形态定义为类型概念，,对象域 Object Domain,\,\,唯一值,,"JFD1	：Jade object (independent)	独立玉器
+JFD2	：Jade component/fitting	构件/端饰/镶插件
+JFD3：Jade Set 组件
+其他：填入实际值
+未知：null",玉琮、玉璧、玉璜、玉环、玉管 / 琮式管 / 长管、冠状器、三叉形器、特殊长管、柱形器 / 矮柱形器 / 高柱形器 / 带盖柱形器、锥形器 / 锥形器类 / 锥形玉器、杖端饰 / 榫头端饰 / 镶插端饰 / 卵孔端饰、玉珠 / 大珠 / 小玉珠 / 鼓形珠 / 腰鼓形珠、玉坠 / 锥形坠饰 / 簇形坠饰、龙纹管 / 龙首圆牌形饰 、斧、钺、锛、璧、琮、璜、璋、管、珠、佩、动物形、人形玉器等,独立玉器->JFD1; 端饰->JFD2; 构件->JFD2; 镶插件->JFD2; 组件->JFD3,"构件: 端饰, 镶插件; 独立玉器: Jade object (independent); 构件: Jade component/fitting //; 组件: Jade Set; 端饰: 构件, 镶插件"
+玉器 jade,,,,情景域 Context Domain,\,\,多值,,"JCD1	：Domestic context	居址 / 日常生活
+JCD2	：Funerary context	墓葬情境
+JCD3	：Ritual context	礼仪 / 祭祀情境
+JCD4	：Production context	作坊 / 制作情境
+JCD5	：Cache / hoard	窖藏 / 收藏
+JCD6	：Secondary deposition	二次埋藏
+JCD9	：Unknown context	不明情境
+其他：填入实际值
+未知：null",,居址->JCD1; 日常生活->JCD1; 墓葬情境->JCD2; 礼仪->JCD3; 祭祀情境->JCD3; 作坊->JCD4; 制作情境->JCD4; 收藏->JCD5; 窖藏->JCD5; 二次埋藏->JCD6; 不明情境->JCD9,居址: 日常生活; 礼仪: 祭祀情境; 作坊: 制作情境; 窖藏: 收藏; 居址: Domestic context /; 墓葬情境: Funerary context; 礼仪: Ritual context /; 作坊: Production context /; 窖藏: Cache / hoard /; 二次埋藏: Secondary deposition; 不明情境: Unknown context; 收藏: 窖藏
+玉器 jade,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),器型主类（JFS）,\,\,属性族,,"JFS01：圆盘 / 环形系统
+JFS02：管形 / 琮形系统
+JFS03：弧形 / 坠饰系统
+JFS04：工具 / 兵器形系统
+JFS05：冠状 / 仪式特种形
+JFS06：柱形 / 锥形系统
+JFS07：杖端 / 端饰系统
+JFS08：珠饰系统
+JFS09：人形 / 动物形系统
+JFS10：牌饰 / 圆牌系统
+JFS11：片状 / 板状系统
+JFS12：组合 / 套组单元
+JFS13：其他
+JFS14：未知",,圆盘->JFS01; 环形系统->JFS01; 管形->JFS02; 琮形系统->JFS02; 弧形->JFS03; 坠饰系统->JFS03; 工具->JFS04; 兵器形系统->JFS04; 冠状->JFS05; 仪式特种形->JFS05; 柱形->JFS06; 锥形系统->JFS06; 杖端->JFS07; 端饰系统->JFS07; 珠饰系统->JFS08; 人形->JFS09; 动物形系统->JFS09; 牌饰->JFS10; 圆牌系统->JFS10; 片状->JFS11; 板状系统->JFS11; 组合->JFS12; 套组单元->JFS12,圆盘: 环形系统; 管形: 琮形系统; 弧形: 坠饰系统; 工具: 兵器形系统; 冠状: 仪式特种形; 柱形: 锥形系统; 杖端: 端饰系统; 人形: 动物形系统; 牌饰: 圆牌系统; 片状: 板状系统; 组合: 套组单元
+玉器 jade,,,,,JFS01：圆盘 / 环形系统,\,唯一值,,"JFU0101	：玉璧	Bi disc
+JFU0102	：玉环	Ring
+JFU0103	：玉玦	Slit ring (Jue)
+JFU0104	：双联璧	Double bi
+JFU0105	：小型圆牌	Small disc
+其他：填入实际值
+未知：null",,玉璧->JFU0101; 玉环->JFU0102; 玉玦->JFU0103; 双联璧->JFU0104; 小型圆牌->JFU0105,玉璧: Bi disc; 玉环: Ring; 玉玦: Slit ring (Jue); 双联璧: Double bi; 小型圆牌: Small disc
+玉器 jade,,,,,JFS02：管形 / 琮形系统,\,唯一值,,"JFU0201	：玉琮	Cong
+JFU0202	：玉管	Tube
+JFU0203	：长管	Long tube
+JFU0204	：琮式管	Cong-style tube
+其他：填入实际值
+未知：null",,玉琮->JFU0201; 玉管->JFU0202; 长管->JFU0203; 琮式管->JFU0204,玉琮: Cong; 玉管: Tube; 长管: Long tube; 琮式管: Cong-style tube
+玉器 jade,,,,,JFS03：弧形 / 坠饰系统,\,唯一值,,"JFU0301	：玉璜	Huang
+JFU0302	：玉坠	Pendant
+JFU0303	：牙形坠	Tusk-shaped pendant
+JFU0304	：弯月形坠	Crescent pendant
+其他：填入实际值
+未知：null",,玉璜->JFU0301; 玉坠->JFU0302; 牙形坠->JFU0303; 弯月形坠->JFU0304,玉璜: Huang; 玉坠: Pendant; 牙形坠: Tusk-shaped pendant; 弯月形坠: Crescent pendant
+玉器 jade,,,,,JFS04：工具 / 兵器形系统,\,唯一值,,"JFU0401	：玉斧	Axe
+JFU0402	：玉钺	Yue axe
+JFU0403	：玉锛	Adze
+JFU0404	：玉刀	Knife
+JFU0405	：玉戈	Dagger-axe
+JFU0406	：玉矛	Spearhead
+JFU0407	：玉凿/凿形器
+JFU0408	：玉剑
+其他：填入实际值
+未知：null",,玉斧->JFU0401; 玉钺->JFU0402; 玉锛->JFU0403; 玉刀->JFU0404; 玉戈->JFU0405; 玉矛->JFU0406,玉斧: Axe; 玉钺: Yue axe; 玉锛: Adze; 玉刀: Knife; 玉戈: Dagger-axe; 玉矛: Spearhead
+玉器 jade,,,,,JFS05：冠状 / 仪式特种形,\,唯一值,,"JFU0501	：冠状器	Crown-shaped object
+JFU0502	：三叉形器	Trident-shaped object
+JFU0503	：权杖形器	Scepter-like object
+JFU0504	：仪式柱	Ritual pillar
+其他：填入实际值
+未知：null",,冠状器->JFU0501; 三叉形器->JFU0502; 权杖形器->JFU0503; 仪式柱->JFU0504,冠状器: Crown-shaped object; 三叉形器: Trident-shaped object; 权杖形器: Scepter-like object; 仪式柱: Ritual pillar
+玉器 jade,,,,,JFS06：柱形 / 锥形系统,\,唯一值,,"JFU0601	：柱形器	Columnar object
+JFU0602	：锥形器	Conical object
+JFU0603	：带盖柱形器	Lidded column
+JFU0604	：多棱柱形器	Polygonal column
+其他：填入实际值
+未知：null",,柱形器->JFU0601; 锥形器->JFU0602; 带盖柱形器->JFU0603; 多棱柱形器->JFU0604,柱形器: Columnar object; 锥形器: Conical object; 带盖柱形器: Lidded column; 多棱柱形器: Polygonal column
+玉器 jade,,,,,JFS07：杖端 / 端饰系统,\,唯一值,,"JFU0701	：杖端饰	Staff terminal
+JFU0702	：榫头端饰	Tenoned terminal
+JFU0703	：镶插端饰	Insert terminal
+JFU0704	：卵孔端饰	Ovoid-perforated terminal
+JFU0705	：车马器端饰	Chariot fitting
+其他：填入实际值
+未知：null",,杖端饰->JFU0701; 榫头端饰->JFU0702; 镶插端饰->JFU0703; 卵孔端饰->JFU0704; 车马器端饰->JFU0705,杖端饰: Staff terminal; 榫头端饰: Tenoned terminal; 镶插端饰: Insert terminal; 卵孔端饰: Ovoid-perforated terminal; 车马器端饰: Chariot fitting
+玉器 jade,,,,,JFS08：珠饰系统,\,唯一值,,"JFU0801	：玉珠	Bead
+JFU0802	：管珠	Tubular bead
+JFU0803	：鼓形珠	Drum-shaped bead
+JFU0804	：腰鼓形珠	Waist-drum bead
+JFU0805	：串珠单元	Bead element
+其他：填入实际值
+未知：null",,玉珠->JFU0801; 管珠->JFU0802; 鼓形珠->JFU0803; 腰鼓形珠->JFU0804; 串珠单元->JFU0805,玉珠: Bead; 管珠: Tubular bead; 鼓形珠: Drum-shaped bead; 腰鼓形珠: Waist-drum bead; 串珠单元: Bead element
+玉器 jade,,,,,JFS09：人形 / 动物形系统,\,唯一值,,"JFU0901	：动物形玉器	Zoomorphic jade
+JFU0902	：人形玉器	Anthropomorphic jade
+JFU0903	：神人兽面	Deity-beast mask
+JFU0904	：龙形玉器	Dragon-shaped jade
+其他：填入实际值
+未知：null",,动物形玉器->JFU0901; 人形玉器->JFU0902; 神人兽面->JFU0903; 龙形玉器->JFU0904,动物形玉器: Zoomorphic jade; 人形玉器: Anthropomorphic jade; 神人兽面: Deity-beast mask; 龙形玉器: Dragon-shaped jade
+玉器 jade,,,,,JFS10：牌饰 / 圆牌系统,\,唯一值,,"JFU1001	：圆牌形饰	Round plaque
+JFU1002	：牌饰	Plaque ornament
+JFU1003	：龙首圆牌形饰	Dragon-head badge
+JFU1004	：龙纹管	Dragon-motif tube
+JFU1005	：带孔牌饰	Perforated plaque
+其他：填入实际值
+未知：null",,圆牌形饰->JFU1001; 牌饰->JFU1002; 龙首圆牌形饰->JFU1003; 龙纹管->JFU1004; 带孔牌饰->JFU1005,圆牌形饰: Round plaque; 牌饰: Plaque ornament; 龙首圆牌形饰: Dragon-head badge; 龙纹管: Dragon-motif tube; 带孔牌饰: Perforated plaque
+玉器 jade,,,,,JFS11：片状 / 板状系统,\,唯一值,,"JFU1101	：玉片	Jade plaque
+JFU1102	：玉板	Jade plate
+JFU1103	：面罩片	Mask plaque
+JFU1104	：玉衣片	Jade suit plaque
+JFU1106：圭
+JFU1107：璋
+其他：填入实际值
+未知：null",,玉片->JFU1101; 玉板->JFU1102; 面罩片->JFU1103; 玉衣片->JFU1104,玉片: Jade plaque; 玉板: Jade plate; 面罩片: Mask plaque; 玉衣片: Jade suit plaque
+玉器 jade,,,,,JFS12：组合 / 套组单元,\,唯一值,,"FU1201	：组佩单元	Composite pendant unit
+JFU1202	：礼玉组合单元	Ritual jade set
+JFU1203	：丧葬玉组合	Funerary jade set
+其他：填入实际值
+未知：null",,组佩单元->FU1201; 礼玉组合单元->JFU1202; 丧葬玉组合->JFU1203,组佩单元: Composite pendant unit; 礼玉组合单元: Ritual jade set; 丧葬玉组合: Funerary jade set
+玉器 jade,,,,,JFS13：其他,\,文本,,如果无法归到任何一类，直接填写相关原文描述,,提取原文描述,
+玉器 jade,,,,,JFS14：未知,\,文本,,如果完全没有相关信息，填写“无相关内容”,,提取原文描述,
+玉器 jade,整体形态描述,OverallShapeType,描述玉器整体或局部形体，用于拆解和描述器型,型态主类(SC）,\,\,唯一值,,"SC01：规则几何 geometric_regular
+SC02：不规则几何 geometric_irregular
+SC03：曲线主导 curvilinear
+SC04：折线/棱角 angular
+SC05：形象抽象 figurative_abstract
+其他：填入实际值
+未知：null",,规则几何->SC01; 不规则几何->SC02; 曲线主导->SC03; 棱角->SC04; 折线->SC04; 形象抽象->SC05,折线: 棱角; 规则几何: geometric_regular; 不规则几何: geometric_irregular; 曲线主导: curvilinear; 折线: / angular; 形象抽象: figurative_abstract; 棱角: 折线
+玉器 jade,,,,主几何体Primary Geometry,\,\,唯一值,,"PG01	：柱形Columnar	
+PG02：锥形	Conical	
+PG03	：圆盘形Disc-like	
+PG04	：片形Plaque-like	
+PG05	：环形Ring-like	
+PG06	：鼓形/腰鼓形Barrel/drum-like	
+PG07	：南瓜形Gourd-like	
+PG08	：扁长形Elongated-flat	
+PG09：方柱形
+PG10：多棱柱形
+PG11：不规则形
+PG12：动物形
+PG13：人形
+PG14：方形
+其他：填入实际值
+未知：null",柱形 / 圆柱形 / 扁圆柱形 / 微鼓形 / 竹节形、锥形 / 南瓜形 / 扁长形、圆盘形 / 片形 / 环形、矮柱形 / 高柱形 / 矮腰鼓形 / 腰鼓形、卵孔 / 隧孔 / 圆孔 / 不正圆孔,圆盘形 / 片形 / 环形 -> PG03; 柱形 / 圆柱形 / 扁圆柱形 / 微鼓形 / 竹节形 -> PG01; 矮柱形 / 高柱形 / 矮腰鼓形 / 腰鼓形 -> PG01; 锥形 / 南瓜形 / 扁长形 -> PG02; 柱形->PG01; 锥形->PG02; 圆盘形->PG03; 片形->PG04; 环形->PG05; 鼓形->PG06; 腰鼓形->PG06; 南瓜形->PG07; 扁长形->PG08,"柱形: 矮柱形 / 高柱形 / 矮腰鼓形 / 腰鼓形, 柱形 / 圆柱形 / 扁圆柱形 / 微鼓形 / 竹节形; 锥形: 锥形 / 南瓜形 / 扁长形; 圆盘形: 圆盘形 / 片形 / 环形; 片形: 圆盘形 / 片形 / 环形; 环形: 圆盘形 / 片形 / 环形; 鼓形: 腰鼓形, 矮柱形 / 高柱形 / 矮腰鼓形 / 腰鼓形, 柱形 / 圆柱形 / 扁圆柱形 / 微鼓形 / 竹节形; 南瓜形: 锥形 / 南瓜形 / 扁长形; 扁长形: 锥形 / 南瓜形 / 扁长形; 柱形: Columnar; 锥形: Conical; 圆盘形: Disc-like; 片形: Plaque-like; 环形: Ring-like; 鼓形: /Barrel/drum-like; 南瓜形: Gourd-like; 扁长形: Elongated-flat; 鼓形: 腰鼓形"
+玉器 jade,,,,孔道系统Perforation System,孔型Hole shape，,\,唯一值,,"PF1-1	：卵孔Ovoid hole	
+PF1-2	：隧孔Tunnel hole	
+PF1-3	：圆孔Circular hole	
+PF1-4：不正圆孔	Irregular round hole	
+PF1-5	：狭孔/缺口孔Slit/perforation	
+PF1-0	：无孔No perforation	
+PF1-6：双孔
+PF1-7：多孔
+PF1-8：对钻孔	
+其他：填入实际值
+未知：null",,卵孔->PF1-1; 隧孔->PF1-2; 圆孔->PF1-3; 不正圆孔->PF1-4; 狭孔->PF1-5; 缺口孔->PF1-5; 无孔->PF1-0,狭孔: 缺口孔; 卵孔: Ovoid hole; 隧孔: Tunnel hole; 圆孔: Circular hole; 不正圆孔: Irregular round hole; 狭孔: /Slit/perforation; 无孔: No perforation
+玉器 jade,,,,,孔道方向Bore orientation,\,唯一值,,"PF2-1：纵向贯穿	Longitudinal bore	
+PF2-2	：横向穿孔Transverse bore	
+PF2-3	：多方向孔道Multiple-direction bores	
+PF2-4	：斜向穿孔
+PF2-5	：交叉孔道
+其他：填入实际值
+未知：null",,纵向贯穿->PF2-1; 横向穿孔->PF2-2; 多方向孔道->PF2-3,纵向贯穿: Longitudinal bore; 横向穿孔: Transverse bore; 多方向孔道: Multiple-direction bores
+玉器 jade,纹饰单元(按图案题材分类),JadeDecorationType,"玉器表面所呈现的图像或符号主题，如神徽、神人兽面、龙纹、鸟纹等。Scope note：在文化因素分析中，对应“宗教观念与象征体系”维度，与礼制等级有密切关系。
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",题材大类 Iconographic Family,\,\,属性族,,"JMF01：神徽类Divine emblems	
+JMF02：神人兽面类Deity–human–beast composites	
+JMF03：龙纹类Dragon-related motifs	
+JMF04：鸟纹类Avian motifs	
+JMF05：动物纹类Zoomorphic motifs (non-dragon)	
+JMF06：人形纹类Anthropomorphic motifs	
+JMF07：抽象符号纹Abstract symbolic motifs	
+JMF08：几何纹带 Geometric band motifs	
+JMF09：复合纹饰Hybrid / composite motifs	
+JMF10：其他Other
+JMF11：未知 unknown	",神徽 / 简化神徽、神人兽面纹、龙纹 / 龙首纹、鸟纹、抽象符号纹（符号纹带）、几何纹带（弦纹带、段状纹带等）,几何纹带（弦纹带 -> JMF08; 抽象符号纹（符号纹带） -> JMF07; 鸟纹 -> JMF04; 神徽->JMF01; 神徽类->JMF01; 神人兽面->JMF02; 神人兽面类->JMF02; 龙纹->JMF03; 龙纹类->JMF03; 鸟纹->JMF04; 鸟纹类->JMF04; 动物纹->JMF05; 动物纹类->JMF05; 人形纹->JMF06; 人形纹类->JMF06; 抽象符号纹->JMF07; 几何纹带->JMF08; 复合纹饰->JMF09,几何纹带: 几何纹带（弦纹带; 抽象符号纹: 抽象符号纹（符号纹带）; 鸟纹: 鸟纹类; 神徽: 神徽类; 神人兽面: 神人兽面类; 龙纹: 龙纹类; 动物纹: 动物纹类; 人形纹: 人形纹类; 神徽类: Divine emblems; 神人兽面类: Deity–human–beast composites; 龙纹类: Dragon-related motifs; 鸟纹类: Avian motifs; 动物纹类: Zoomorphic motifs (non-dragon); 人形纹类: Anthropomorphic motifs; 抽象符号纹: Abstract symbolic motifs; 几何纹带: Geometric band motifs; 复合纹饰: Hybrid / composite motifs; 其他: Other; 未知: unknown
+玉器 jade,,,,,JMF01：神徽类Divine emblems,\,唯一值,,"JMU0101	：神徽	Divine emblem
+JMU0102	：简化神徽	Simplified divine emblem
+JMU0103	：神徽变体	Variant divine emblem
+其他：填入实际值
+未知：null",,神徽->JMU0101; 简化神徽->JMU0102; 神徽变体->JMU0103,神徽: Divine emblem; 简化神徽: Simplified divine emblem; 神徽变体: Variant divine emblem
+玉器 jade,,,,,JMF02：神人兽面类Deity–human–beast composites,\,唯一值,,"JMU0201	：神人兽面纹	Deity–human–beast mask
+JMU0202	：神兽面纹	Divine beast mask
+JMU0203	：人兽合体纹	Human–beast composite
+其他：填入实际值
+未知：null",,神人兽面纹->JMU0201; 神兽面纹->JMU0202; 人兽合体纹->JMU0203,神人兽面纹: Deity–human–beast mask; 神兽面纹: Divine beast mask; 人兽合体纹: Human–beast composite
+玉器 jade,,,,,JMF03：龙纹类Dragon-related motifs,\,唯一值,,"JMU0301	：龙纹	Dragon motif
+JMU0302	：龙首纹	Dragon-head motif
+JMU0303	：蟠龙纹	Coiled dragon
+JMU0304	：简化龙纹	Simplified dragon
+JMU0305	：夔龙纹（建议增补）	Kui-dragon motif
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,龙纹->JMU0301; 龙首纹->JMU0302; 蟠龙纹->JMU0303; 简化龙纹->JMU0304; 夔龙纹->JMU0305; 建议增补->JMU0305,夔龙纹: 建议增补; 龙纹: Dragon motif; 龙首纹: Dragon-head motif; 蟠龙纹: Coiled dragon; 简化龙纹: Simplified dragon; 夔龙纹: （） Kui-dragon motif
+玉器 jade,,,,,JMF04：鸟纹类Avian motifs,\,唯一值,,"JMU0401	：鸟纹	Bird motif
+JMU0402	：神鸟纹	Sacred bird
+JMU0403	：展翅鸟纹	Spread-wing bird
+JMU0404：凤纹
+JMU0405：鹰纹
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,鸟纹->JMU0401; 神鸟纹->JMU0402; 展翅鸟纹->JMU0403,鸟纹: Bird motif; 神鸟纹: Sacred bird; 展翅鸟纹: Spread-wing bird
+玉器 jade,,,,,JMF05：动物纹类Zoomorphic motifs (non-dragon),\,唯一值,,"JMU0501	：兽面纹	Beast mask
+JMU0502	：虎纹	Tiger motif
+JMU0503	：鳄/蛇纹	Crocodilian/serpent motif
+JMU0504	：鱼纹	Fish motif
+JMU0505	：多兽组合	Multiple animals
+JMU0506	：龟纹
+JMU0507	：蟾蜍纹
+JMU0508	：蛙纹
+JMU0509	：蝉纹
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,兽面纹->JMU0501; 虎纹->JMU0502; 蛇纹->JMU0503; 鱼纹->JMU0504; 多兽组合->JMU0505,鳄: 蛇纹; 兽面纹: Beast mask; 虎纹: Tiger motif; 鳄: / Crocodilian/serpent motif; 鱼纹: Fish motif; 多兽组合: Multiple animals
+玉器 jade,,,,,JMF06：人形纹类Anthropomorphic motifs,\,唯一值,,"JMU0601	：人形纹	Human figure
+JMU0602	：跪坐人形	Kneeling figure
+JMU0603	：仪式人形	Ritual figure
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,人形纹->JMU0601; 跪坐人形->JMU0602; 仪式人形->JMU0603,人形纹: Human figure; 跪坐人形: Kneeling figure; 仪式人形: Ritual figure
+玉器 jade,,,,,JMF07：抽象符号纹Abstract symbolic motifs,\,唯一值,,"JMU0701	：抽象符号纹	Abstract symbol
+JMU0702	：符号纹带	Symbolic band
+JMU0703	：刻符/记号	Incised marks
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,抽象符号纹->JMU0701; 符号纹带->JMU0702; 刻符->JMU0703; 记号->JMU0703,刻符: 记号; 抽象符号纹: Abstract symbol; 符号纹带: Symbolic band; 刻符: / Incised marks; 记号: 刻符
+玉器 jade,,,,,JMF08：几何纹带 Geometric band motifs,\,唯一值,,"JMU0801	：几何纹带	Geometric band
+JMU0802	：弦纹带	String-line band
+JMU0803	：段状纹带	Segmented band
+JMU0804	：平行线纹带	Parallel-line band
+JMU0805	：菱形/折线带	Lozenge/zigzag band
+JMU0806	：云雷纹
+JMU0807	：涡纹
+JMU0808	：网格纹
+JMU0809	：谷纹
+JMU0810	：蒲纹
+JMU0811：乳钉纹
+JMU0812：绞索纹
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,几何纹带->JMU0801; 弦纹带->JMU0802; 段状纹带->JMU0803; 平行线纹带->JMU0804; 菱形->JMU0805; 折线带->JMU0805,菱形: 折线带; 几何纹带: Geometric band; 弦纹带: String-line band; 段状纹带: Segmented band; 平行线纹带: Parallel-line band; 菱形: / Lozenge/zigzag band
+玉器 jade,,,,,JMF09：复合纹饰Hybrid / composite motifs,\,文本,,填入原文描述,方格、云雷、三角、水波、叶脉、乳钉,提取原文描述,
+玉器 jade,,,,,JMF10：其他Other,\,文本,,如果无法归到任何一类，直接填写相关原文描述,,提取原文描述,
+玉器 jade,,,,,JMF11：未知 unknown,\,文本,,如果完全没有相关信息，填写“无相关内容”,,提取原文描述,
+玉器 jade,,,,构图语法 Layout Grammar,\,\,唯一值,,"JML1	：中央徽章式Central emblem	
+JML2	：纹带式Band layout	
+JML3：满布	All-over	
+JML4	：轴线对称Axial symmetry	
+JML5：分区构图	Panelled zones	
+其他：填入实际值
+未知：null",,中央徽章式->JML1; 纹带式->JML2; 满布->JML3; 轴线对称->JML4; 分区构图->JML5,中央徽章式: Central emblem; 纹带式: Band layout; 满布: All-over; 轴线对称: Axial symmetry; 分区构图: Panelled zones
+玉器 jade,工艺特征单元(按制作痕迹分类),JadeCraftTechniqueType,"概括玉器制作过程中主要技术环节和工艺路线的术语，包括雕刻、切割、钻孔、磨抛、装饰工艺等。Scope note：用于将多个技术字段（carving_technique, cutting_technique, drilling_technique, decoration_craft）统一纳入同一 Facet。
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",工艺大类 Technique Family,\,\,属性族,,"GTF01：雕刻/雕琢技法Carving & relief	
+GTF02：切割/锯切技法Cutting & sawing	
+GTF03：钻孔技法Drilling & perforation	
+GTF04：装饰工艺Decorative processes	
+GTF05：磨制/抛光Grinding & polishing	
+GTF06：复合工艺Composite processes	
+GTF07：其他Other
+GTF08：未知NULL","雕刻技法、切割技法、钻孔技法、装饰工艺、
+磨抛工艺砍削
+、单面、双面",切割技法 -> GTF02; 装饰工艺 -> GTF04; 钻孔技法 -> GTF03; 雕刻技法 -> GTF01; 雕刻->GTF01; 雕琢技法->GTF01; 切割->GTF02; 锯切技法->GTF02; 钻孔技法->GTF03; 装饰工艺->GTF04; 磨制->GTF05; 抛光->GTF05; 复合工艺->GTF06,"雕刻: 雕刻技法, 雕琢技法; 切割: 锯切技法, 切割技法; 磨制: 抛光; 雕刻: /Carving & relief; 切割: /Cutting & sawing; 钻孔技法: Drilling & perforation; 装饰工艺: Decorative processes; 磨制: /Grinding & polishing; 复合工艺: Composite processes; 其他: Other; 未知: NULL"
+玉器 jade,,,,,GTF01：雕刻/雕琢技法Carving & relief,\,唯一值,,"GTU0101	：减地浅浮雕	Low relief by ground removal
+GTU0102	：减地凸出	Raised relief by ground removal
+GTU0103	：浅浮雕	Low relief
+GTU0104	：凸起雕刻	Raised carving
+GTU0105	：阴刻	Incised carving
+GTU0106	：阴刻细线 / 阴线细刻	Fine-line incision
+GTU0107	：弦纹刻划	Cordon/arc line carving
+GTU0108	：浅浮雕与线刻结合	Combined relief and incision
+GTU0109	：微雕	Micro-carving
+GTU0110	：雕琢（泛称）	General carving
+GTU0111	：镂空	Openwork carving
+其他：填入实际值
+未知：null",,减地浅浮雕->GTU0101; 减地凸出->GTU0102; 浅浮雕->GTU0103; 凸起雕刻->GTU0104; 阴刻->GTU0105; 阴线细刻->GTU0106; 阴刻细线->GTU0106; 弦纹刻划->GTU0107; 浅浮雕与线刻结合->GTU0108; 微雕->GTU0109; 泛称->GTU0110; 雕琢->GTU0110; 镂空->GTU0111,阴刻细线: 阴线细刻; 泛称: 雕琢; 减地浅浮雕: Low relief by ground removal; 减地凸出: Raised relief by ground removal; 浅浮雕: Low relief; 凸起雕刻: Raised carving; 阴刻: Incised carving; 阴刻细线: / Fine-line incision; 弦纹刻划: Cordon/arc line carving; 浅浮雕与线刻结合: Combined relief and incision; 微雕: Micro-carving; 雕琢: （） General carving; 镂空: Openwork carving
+玉器 jade,,,,,GTF02：切割/锯切技法Cutting & sawing,\,唯一值,,"GTU0201	：锯切	Sawing
+GTU0202	：切磨	Cut-and-grind
+GTU0203	：管切割	Tubular cutting
+GTU0204	：片料切割	Slab cutting
+GTU0205	：分段切割	Segment cutting
+其他：填入实际值
+未知：null",,锯切->GTU0201; 切磨->GTU0202; 管切割->GTU0203; 片料切割->GTU0204; 分段切割->GTU0205,锯切: Sawing; 切磨: Cut-and-grind; 管切割: Tubular cutting; 片料切割: Slab cutting; 分段切割: Segment cutting
+玉器 jade,,,,,GTF03：钻孔技法Drilling & perforation,\,唯一值,,"GTU0301	：单向钻孔	Unidirectional drilling
+GTU0302	：对钻孔	Bidirectional drilling
+GTU0303	：隧道式钻孔（隧孔）	Tunnel drilling
+GTU0304	：管钻	Tubular drilling
+GTU0305	：实钻	Solid drill
+GTU0306	：多孔钻制	Multiple perforations
+其他：填入实际值
+未知：null",单面、双面,单向钻孔->GTU0301; 对钻孔->GTU0302; 隧孔->GTU0303; 隧道式钻孔->GTU0303; 管钻->GTU0304; 实钻->GTU0305; 多孔钻制->GTU0306,隧孔: 隧道式钻孔; 单向钻孔: Unidirectional drilling; 对钻孔: Bidirectional drilling; 隧道式钻孔: （） Tunnel drilling; 管钻: Tubular drilling; 实钻: Solid drill; 多孔钻制: Multiple perforations
+玉器 jade,,,,,GTF04：装饰工艺Decorative processes,\,唯一值,,"GTU0401	：彩绘（若有）	Painting (if present)
+GTU0402	：镶嵌（嵌玉漆器）	Inlay in lacquer
+GTU0403	：镶嵌玉粒	Jade-grain inlay
+GTU0404	：线刻装饰	Incised decoration
+GTU0405	：减地浮雕装饰	Ground-relief decoration
+GTU0406	：复合装饰工艺	Composite decorative process
+其他：填入实际值
+未知：null",单面、双面,若有->GTU0401; 彩绘->GTU0401; 镶嵌->GTU0402; 嵌玉漆器->GTU0402; 镶嵌玉粒->GTU0403; 线刻装饰->GTU0404; 减地浮雕装饰->GTU0405; 复合装饰工艺->GTU0406,若有: 彩绘; 镶嵌: 嵌玉漆器; 彩绘: （） Painting (if present); 镶嵌: （） Inlay in lacquer; 镶嵌玉粒: Jade-grain inlay; 线刻装饰: Incised decoration; 减地浮雕装饰: Ground-relief decoration; 复合装饰工艺: Composite decorative process
+玉器 jade,,,,,GTF05：磨制/抛光Grinding & polishing,\,唯一值,,"GTU0501：	磨制	Grinding
+GTU0502：	抛光	Polishing
+GTU0503	：高度抛光	High polishing
+GTU0504	：局部抛光	Localized polishing
+其他：填入实际值
+未知：null",单面、双面,磨制->GTU0501; 抛光->GTU0502; 高度抛光->GTU0503; 局部抛光->GTU0504,磨制: Grinding; 抛光: Polishing; 高度抛光: High polishing; 局部抛光: Localized polishing
+玉器 jade,,,,,GTF06：复合工艺Composite processes,\,文本,,填入原文描述,单面、双面,提取原文描述,
+玉器 jade,,,,,GTF07：其他Other,\,文本,,如果无法归到任何一类，直接填写相关原文描述,,提取原文描述,
+玉器 jade,,,,,GTF08：未知NULL,\,文本,,如果完全没有相关信息，填写“无相关内容”,,提取原文描述,
+玉器 jade,材质单元,JadeMaterialType,"按矿物组合与材质特征对玉料进行分类，如透闪石软玉、南瓜黄软玉、叶蜡石、闪玉等。Scope note：用于从矿物学角度和工艺传统角度刻画玉料谱系。
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",材质大类 Material Family,\,\,属性族,,"MUF01：软玉类（透闪石—阳起石）Nephrite (tremolite–actinolite)	
+MUF02：硬玉类（翡翠系，先秦罕见）Jadeite-related
+MUF03：其他玉石类Other jade-like minerals	
+MUF04：类石玉Stone-like jade substitutes	
+MUF05：有机/次生变质（罕见）Organic/altered materials
+MUF98：其他 others
+MUF99：Unknown不明",软玉类、硬玉类、其他玉石类、复合 / 未明等、透闪石,其他玉石类 -> MUF03; 硬玉类 -> MUF02; 软玉类 -> MUF01; 软玉->MUF01; 阳起石->MUF01; 透闪石->MUF01; 硬玉->MUF02; 硬玉类->MUF02; 翡翠系->MUF02; 其他玉石->MUF03; 其他玉石类->MUF03; 类石玉->MUF04; 罕见->MUF05; 有机->MUF05; 次生变质->MUF05; 不明->MUF99,"其他玉石: 其他玉石类; 硬玉: 翡翠系, 硬玉类; 软玉: 透闪石, 阳起石, 软玉类; 罕见: 有机, 次生变质; 软玉类: （—）Nephrite (tremolite–actinolite); 硬玉类: （，）Jadeite-related; 其他玉石类: Other jade-like minerals; 类石玉: Stone-like jade substitutes; 有机: /（）Organic/altered materials; 其他: others; 不明: Unknown; 软玉: 软玉类, 阳起石, 透闪石"
+玉器 jade,,,,,MUF01：软玉类（透闪石—阳起石）Nephrite (tremolite–actinolite),\,唯一值,,"MUU0101	：透闪石软玉	Tremolite nephrite
+MUU0102	：透闪石—阳起石系列软玉	Tremolite–actinolite nephrite
+MUU0103	：阳起石富集软玉	Actinolite-rich nephrite
+MUU0104	：南瓜黄软玉	Yellow nephrite (pumpkin-yellow)
+MUU0105	：白玉/青白玉软玉	White/pale nephrite
+MUU0106	：青玉软玉	Green nephrite
+MUU0107	：和田玉
+其他：填入实际值
+未知：null",,透闪石软玉->MUU0101; 透闪石->MUU0102; 阳起石系列软玉->MUU0102; 阳起石富集软玉->MUU0103; 南瓜黄软玉->MUU0104; 白玉->MUU0105; 青白玉软玉->MUU0105; 青玉软玉->MUU0106,透闪石: 阳起石系列软玉; 白玉: 青白玉软玉; 透闪石软玉: Tremolite nephrite; 透闪石: — Tremolite–actinolite nephrite; 阳起石富集软玉: Actinolite-rich nephrite; 南瓜黄软玉: Yellow nephrite (pumpkin-yellow); 白玉: / White/pale nephrite; 青玉软玉: Green nephrite
+玉器 jade,,,,,MUF02：硬玉类（翡翠系，先秦罕见）Jadeite-related,\,唯一值,,"MUU0201	：硬玉（翡翠）	Jadeite
+MUU0202	：钠铝硅酸盐玉	Sodium-aluminum jade
+其他：填入实际值
+未知：null",,硬玉->MUU0201; 翡翠->MUU0201; 钠铝硅酸盐玉->MUU0202,硬玉: 翡翠; 硬玉: （） Jadeite; 钠铝硅酸盐玉: Sodium-aluminum jade
+玉器 jade,,,,,MUF03：其他玉石类Other jade-like minerals,\,唯一值,,"MUU0301	：叶蜡石	Pyrophyllite
+MUU0302	：闪玉（闪石类）	Amphibole jade
+MUU0303	：绿泥石质玉	Chlorite-rich jade
+MUU0304	：方解石质玉	Calcite jade
+MUU0305	：滑石质玉	Talc-rich stone
+其他：填入实际值
+未知：null",,叶蜡石->MUU0301; 闪玉->MUU0302; 闪石->MUU0302; 闪石类->MUU0302; 绿泥石质玉->MUU0303; 方解石质玉->MUU0304; 滑石质玉->MUU0305,"闪石: 闪玉, 闪石类; 叶蜡石: Pyrophyllite; 闪玉: （） Amphibole jade; 绿泥石质玉: Chlorite-rich jade; 方解石质玉: Calcite jade; 滑石质玉: Talc-rich stone"
+玉器 jade,,,,,MUF04：类石玉Stone-like jade substitutes,\,唯一值,,"MUU0401	：石英岩	Quartzite
+MUU0402	：蛇纹石	Serpentinite
+MUU0403	：大理岩	Marble
+MUU0404	：硅质岩	Siliceous rock
+MUU0405	：板岩	Slate
+MUU0406	：砂岩	Sandstone
+MUU0407：玛瑙	
+其他：填入实际值
+未知：null",,石英岩->MUU0401; 蛇纹石->MUU0402; 大理岩->MUU0403; 硅质岩->MUU0404; 板岩->MUU0405; 砂岩->MUU0406,石英岩: Quartzite; 蛇纹石: Serpentinite; 大理岩: Marble; 硅质岩: Siliceous rock; 板岩: Slate; 砂岩: Sandstone
+玉器 jade,,,,,MUF05：有机/次生变质（罕见）Organic/altered materials,\,待补充,,"MUU0501：Calcified/Chicken-bone white 钙化/鸡骨白
+MUU0502：Burnt Jade 火烧玉
+MUU0503：Degraded/Altered 严重蚀变（无法辨识原质）
+其他：填入实际值
+未知：null",鸡骨白、受沁钙化、火烧白、通体钙化,通体鸡骨白 -> MUU0501; 受沁钙化 -> MUU0501; 通体钙化 -> MUU0501; 钙化->MUU0501; 鸡骨白->MUU0501; 火烧玉->MUU0502; 严重蚀变->MUU0503; 无法辨识原质->MUU0503,"钙化: 鸡骨白, 通体钙化, 受沁钙化, 通体鸡骨白; 严重蚀变: 无法辨识原质; 钙化: Calcified/Chicken-bone white /; 火烧玉: Burnt Jade; 严重蚀变: Degraded/Altered （）; 钙化: 鸡骨白, 受沁钙化, 通体钙化, 通体鸡骨白"
+玉器 jade,,,,,MUF98：其他 others,\,文本,,如果无法归到任何一类，直接填写相关原文描述,,提取原文描述,
+玉器 jade,,,,,MUF99：Unknown不明,\,文本,,如果完全没有相关信息，填写“无相关内容”,,提取原文描述,
+玉器 jade,玉料颜色与透明度,JadeColorTransparency,"描述玉料主体颜色、色调组合及透光性的术语体系，如南瓜黄、青绿色、灰白色，配合“具有透光性”“管壁甚薄，器体透光”等描述。
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",属性维度,\,\,属性族,,"CTD1.1：主色Primary color	
+CTD1.2：色斑/杂色Secondary color / mottling	
+CTD1.3：透明度Transparency	
+CTD1.4：光泽/质感Surface luster	
+CTD1.5：裂痕/结构缺陷Structural defects	
+CTD1.6：其他 other
+CTD1.7：未知 null",颜色主类、色斑与杂色、透明度、裂痕等,色斑与杂色 -> CTD1.2; 裂痕等 -> CTD1.5; 透明度 -> CTD1.3; 主色->CTD1.1; 杂色->CTD1.2; 色斑->CTD1.2; 透明度->CTD1.3; 光泽->CTD1.4; 质感->CTD1.4; 裂痕->CTD1.5; 结构缺陷->CTD1.5,"色斑: 杂色, 色斑与杂色; 光泽: 质感; 裂痕: 裂痕等, 结构缺陷; 主色: Primary color; 色斑: /Secondary color / mottling; 透明度: Transparency; 光泽: /Surface luster; 裂痕: /Structural defects; 其他: other; 未知: null; 质感: 光泽"
+玉器 jade,,,,,CTD1.1：主色Primary color,\,唯一值,,"PC01	：南瓜黄Pumpkin yellow	
+PC02	：青绿色Green	
+PC03：浅绿色	Light green	
+PC04	：浅灰绿Grey-green	
+PC05	：灰白色Grey-white	
+PC06	：米黄色Off-white / rice yellow	
+PC07	：黄褐色Yellow-brown	
+PC08	：灰紫色Grey-purple	
+PC09	：褐色Brown	
+PC10	：	白色White
+PC11	：深绿色Dark green	
+PC12	：深灰/近黑Blackish
+PC13	：青灰色
+PC14	：	青白色
+PC15	：灰色
+PC16	：浅黄色
+PC17	：黄绿色
+PC18：深青色	：
+其他：填入实际值
+未知：null",,南瓜黄->PC01; 青绿色->PC02; 浅绿色->PC03; 浅灰绿->PC04; 灰白色->PC05; 米黄色->PC06; 黄褐色->PC07; 灰紫色->PC08; 褐色->PC09; 白色->PC10; 深绿色->PC11; 近黑->PC12; 深灰->PC12,深灰: 近黑; 南瓜黄: Pumpkin yellow; 青绿色: Green; 浅绿色: Light green; 浅灰绿: Grey-green; 灰白色: Grey-white; 米黄色: Off-white / rice yellow; 黄褐色: Yellow-brown; 灰紫色: Grey-purple; 褐色: Brown; 白色: White; 深绿色: Dark green; 深灰: /Blackish
+玉器 jade,,,,,CTD1.2：色斑/杂色Secondary color / mottling,\,唯一值,,"SP01	：夹青斑Green patches	
+SP02	：夹褐斑Brown patches	
+SP03	：夹茶褐斑Tea-brown patches	
+SP04	：夹深黄斑Dark yellow patches	
+SP05	：灰白色斑点Grey-white spots	
+SP06	：灰色瑕疵Grey blemishes	
+SP07	：灰褐色瑕疵Grey-brown blemishes	
+SP08	：杂色斑驳Mixed mottling	
+SP09	：无明显色斑No visible inclusions	
+其他：填入实际值
+未知：null",,夹青斑->SP01; 夹褐斑->SP02; 夹茶褐斑->SP03; 夹深黄斑->SP04; 灰白色斑点->SP05; 灰色瑕疵->SP06; 灰褐色瑕疵->SP07; 杂色斑驳->SP08; 无明显色斑->SP09,夹青斑: Green patches; 夹褐斑: Brown patches; 夹茶褐斑: Tea-brown patches; 夹深黄斑: Dark yellow patches; 灰白色斑点: Grey-white spots; 灰色瑕疵: Grey blemishes; 灰褐色瑕疵: Grey-brown blemishes; 杂色斑驳: Mixed mottling; 无明显色斑: No visible inclusions
+玉器 jade,,,,,CTD1.3：透明度Transparency,\,唯一值,,"TR1	:具有透光性Translucent	
+TR2	:半透明Semi-translucent	
+TR3	:不透明Opaque
+TR4	:	透明
+其他：填入实际值
+未知：null",,具有透光性->TR1; 半透明->TR2; 不透明->TR3,具有透光性: Translucent; 半透明: Semi-translucent; 不透明: Opaque
+玉器 jade,,,,,CTD1.4：光泽/质感Surface luster,\,唯一值,,"LU1	：质地温润Warm, oily luster	
+LU2	：光泽柔和Soft luster	
+LU3	：光泽暗淡Dull	
+LU4	：强光泽
+其他：填入实际值
+未知：null",,质地温润->LU1; 光泽柔和->LU2; 光泽暗淡->LU3,"质地温润: Warm, oily luster; 光泽柔和: Soft luster; 光泽暗淡: Dull"
+玉器 jade,,,,,CTD1.5：裂痕/结构缺陷Structural defects,\,唯一值,,"CR01	：无明显裂痕No visible cracks	
+CR02	：有裂痕Cracks present	
+CR03	：短裂纹Short cracks	
+CR04	：细裂纹Hairline cracks	
+CR05	：结构性裂隙Structural fissures	
+其他：填入实际值
+未知：null",,无明显裂痕->CR01; 有裂痕->CR02; 短裂纹->CR03; 细裂纹->CR04; 结构性裂隙->CR05,无明显裂痕: No visible cracks; 有裂痕: Cracks present; 短裂纹: Short cracks; 细裂纹: Hairline cracks; 结构性裂隙: Structural fissures
+玉器 jade,,,,,CTD1.6：其他 other,\,文本,,如果无法归到任何一类，直接填写相关原文描述,,提取原文描述,
+玉器 jade,,,,,CTD1.7：未知 null,\,文本,,如果完全没有相关信息，填写“无相关内容”,,提取原文描述,
+玉器 jade,沁色单元,JadeSurfaceCondition,"描述玉器表面在出土时的保存状态和风化 / 沁蚀特征，如“沁蚀较重”“强风化，大部分受沁变白色”“受沁粉末状”“灰白色斑点”等。Scope note：既与环境有关，也与玉料类型相关，可以作为“后期历史”的重要线索。
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",作用机制 Alteration Mechanism,\,\,属性族,,"PAM01：风化Weathering	
+PAM02：沁蚀Chemical leaching	
+PAM03：矿物浸染Mineral infiltration	
+PAM04：其他 other
+PAM05：未知 unknown",风化相关、沁蚀相关,沁蚀相关 -> PAM02; 风化相关 -> PAM01; 风化->PAM01; 沁蚀->PAM02; 矿物浸染->PAM03,风化: 风化相关; 沁蚀: 沁蚀相关; 风化: Weathering; 沁蚀: Chemical leaching; 矿物浸染: Mineral infiltration; 其他: other; 未知: unknown
+玉器 jade,,,,,PAM01：风化Weathering,\,唯一值,,"PAT0101	：弱风化Weak weathering	
+PAT0102	：风化明显Moderate weathering	
+PAT0103	：强风化Strong weathering	
+PAT0104	：表面粉化Powdery surface	
+PAT0105	：结构松散Structural disintegration
+其他：填入实际值
+未知：null	",,弱风化->PAT0101; 风化明显->PAT0102; 强风化->PAT0103; 表面粉化->PAT0104; 结构松散->PAT0105,弱风化: Weak weathering; 风化明显: Moderate weathering; 强风化: Strong weathering; 表面粉化: Powdery surface; 结构松散: Structural disintegration
+玉器 jade,,,,,PAM02：沁蚀Chemical leaching,\,唯一值,,"PAT0201	：沁蚀轻微Slight leaching	
+PAT0202	：沁蚀较甚Moderate leaching	
+PAT0203	：沁蚀甚Severe leaching	
+PAT0204	：受沁粉末状Powdery leaching	
+PAT0205	：局部钙化Partial decalcification	
+PAT0206	：通体钙化Full decalcification
+其他：填入实际值
+未知：null",,沁蚀轻微->PAT0201; 沁蚀较甚->PAT0202; 沁蚀甚->PAT0203; 受沁粉末状->PAT0204; 局部钙化->PAT0205; 通体钙化->PAT0206,沁蚀轻微: Slight leaching; 沁蚀较甚: Moderate leaching; 沁蚀甚: Severe leaching; 受沁粉末状: Powdery leaching; 局部钙化: Partial decalcification; 通体钙化: Full decalcification
+玉器 jade,,,,,PAM03：矿物浸染Mineral infiltration,\,唯一值,,"PAT0301	：铁沁Iron patina	
+PAT0302	：水银沁Mercury patina	
+PAT0303	：铜沁Copper patina	
+PAT0304	：土沁Soil patina	
+PAT0305	：钙化沁Calcium patina	
+PAT0306	：复合矿物沁Mixed mineral patina
+PAT0307	：沁斑分布
+其他：填入实际值
+未知：null",,铁沁->PAT0301; 水银沁->PAT0302; 铜沁->PAT0303; 土沁->PAT0304; 钙化沁->PAT0305; 复合矿物沁->PAT0306,铁沁: Iron patina; 水银沁: Mercury patina; 铜沁: Copper patina; 土沁: Soil patina; 钙化沁: Calcium patina; 复合矿物沁: Mixed mineral patina
+玉器 jade,,,,,PAM04：其他 other,\,文本,,如果无法归到任何一类，直接填写相关原文描述,,提取原文描述,
+玉器 jade,,,,,PAM05：未知 unknown,\,文本,,如果完全没有相关信息，填写“无相关内容”,,提取原文描述,
+玉器 jade,,,,传统命名沁色（Traditional Chinese terms）,\,\,多值,,"PAT0401	：鸡骨白Chicken-bone white patina	
+PAT0402	：乳白沁Milky white patina	
+PAT0403	：灰沁Grayish alteration	
+PAT0404	：黄沁Yellowish alteration	
+PAT0405	：黑沁Darkened alteration
+其他：填入实际值
+未知：null	",,鸡骨白->PAT0401; 乳白沁->PAT0402; 灰沁->PAT0403; 黄沁->PAT0404; 黑沁->PAT0405,鸡骨白: Chicken-bone white patina; 乳白沁: Milky white patina; 灰沁: Grayish alteration; 黄沁: Yellowish alteration; 黑沁: Darkened alteration
+玉器 jade,量度信息,MetricInformation,"器物的尺寸结构化数据，用于类型学定量研究
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",量度分类,\,\,属性族,,"MIF1：线性尺寸 Linear dimensions (mm)
+MIF2：直径类 Diameters (mm)
+MIF3：厚度类 Thickness (mm)
+MIF4：质量/重量 Mass (g)",高度、口径、腹径、足径、厚度、比例、容积、重量、长度、宽度等,厚度 -> MIF3; 线性尺寸->MIF1; 直径->MIF2; 直径类->MIF2; 厚度->MIF3; 厚度类->MIF3; 质量->MIF4; 重量->MIF4,厚度: 厚度类; 直径: 直径类; 质量: 重量; 线性尺寸: Linear dimensions (mm); 直径类: Diameters (mm); 厚度类: Thickness (mm); 质量: / Mass (g); 重量: 质量
+玉器 jade,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,MIF1：线性尺寸 Linear dimensions,\,属性族,,"MTR0101：高度 Height
+MTR0102：总长度 Total length
+MTR0103：最大长度	Maximum length
+MTR0104：宽度 Width
+MTR0105：最大宽度 Maximum width",,高度->MTR0101; 总长度->MTR0102; 最大长度->MTR0103; 宽度->MTR0104; 最大宽度->MTR0105,高度: Height; 总长度: Total length; 最大长度: Maximum length; 宽度: Width; 最大宽度: Maximum width
+玉器 jade,,,,,,MTR0101：高度 Height,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,,MTR0102：总长度 Total length,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,,MTR0103：最大长度 Maximum length,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,,MTR0104：宽度 Width,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,,MTR0105：最大宽度 Maximum width,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,MIF2：直径类 Diameters,\,属性族,,"MTR0201：口径 Aperture diameter
+MTR0202：腹径 Belly diameter
+MTR0203：足径 Foot diameter
+MTR0204：外径 Outer diameter
+MTR0205：内径 Inner diameter",,口径->MTR0201; 腹径->MTR0202; 足径->MTR0203; 外径->MTR0204; 内径->MTR0205,口径: Aperture diameter; 腹径: Belly diameter; 足径: Foot diameter; 外径: Outer diameter; 内径: Inner diameter
+玉器 jade,,,,,,MTR0201：口径 Aperture diameter,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,,MTR0202：腹径 Belly diameter,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,,MTR0203：足径 Foot diameter,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,,MTR0204：外径 Outer diameter,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,,MTR0205：内径 Inner diameter,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,MIF3：厚度类 Thickness,\,\,,"MTR0301：壁厚/厚度 Thickness
+MTR0302：最大厚度	Maximum thickness
+MTR0303：最小厚度	Minimum thickness",,厚度->MTR0301; 壁厚->MTR0301; 最大厚度->MTR0302; 最小厚度->MTR0303,壁厚: 厚度; 壁厚: / Thickness; 最大厚度: Maximum thickness; 最小厚度: Minimum thickness
+玉器 jade,,,,,,MTR0301：壁厚/厚度 Thickness,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,,MTR0302：最大厚度 Maximum thickness,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,,MTR0303：最小厚度 Minimum thickness,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,,,,,MIF4：质量/重量（Mass）,\,\,,MTR0401：重量Weight,,重量->MTR0401,重量: Weight
+玉器 jade,,,,,,MTR0401：重量Weight,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+玉器 jade,器物功能,JadeFunctionalType,此物件使用的场合、作用、使用者和目的等等,功能大类,\,\,多值,,"JFF01	：礼仪/祭祀功能Ritual/ceremonial	
+JFF02	：军事/武器相关Military/weapon-related	
+JFF03	：装饰/审美功能Adornment/aesthetic	
+JFF04	：身份/权力象征Status/authority symbolism	
+JFF05	：随葬/丧葬功能Funerary/mortuary	
+JFF06：实用工具功能	Practical tools	
+JFF07	：护身/辟邪（信仰性）Protective/amuletic	
+JFF08	：交换/财富储藏（经济性）Economic/exchange	
+其他：填入实际值
+未知：null",礼仪功能、军事功能 / 仪式性武器、装饰功能、身份象征、随葬功能、实用工具功能、等,军事功能 / 仪式性武器 -> JFF02; 实用工具功能 -> JFF06; 礼仪功能 -> JFF01; 装饰功能 -> JFF03; 身份象征 -> JFF04; 随葬功能 -> JFF05; 礼仪->JFF01; 祭祀功能->JFF01; 军事->JFF02; 武器相关->JFF02; 装饰->JFF03; 审美功能->JFF03; 身份->JFF04; 权力象征->JFF04; 随葬->JFF05; 丧葬功能->JFF05; 实用工具功能->JFF06; 护身->JFF07; 辟邪->JFF07; 信仰性->JFF07,"礼仪: 礼仪功能, 祭祀功能; 军事: 武器相关, 军事功能 / 仪式性武器; 装饰: 审美功能, 装饰功能; 身份: 权力象征, 身份象征; 随葬: 随葬功能, 丧葬功能; 护身: 辟邪; 交换: 财富储藏; 礼仪: /Ritual/ceremonial; 军事: /Military/weapon-related; 装饰: /Adornment/aesthetic; 身份: /Status/authority symbolism; 随葬: /Funerary/mortuary; 实用工具功能: Practical tools; 护身: /（）Protective/amuletic; 交换: /（）Economic/exchange; 礼仪: 祭祀功能, 礼仪功能; 装饰: 装饰功能, 审美功能; 身份: 身份象征, 权力象征; 辟邪: 护身, 信仰性"
+玉器 jade,制作者,ProductionActor,记录制造该文物的人或群体。,制作者,\,\,唯一值,,"M1：个体制作者	Individual potter
+M2：家庭/作坊单位	Household / Workshop
+M3：社群制作者	Community group
+M4：专业工匠群体	Specialized craftsmen
+M5：区域生产体系	Regional production system
+其他：填入实际值
+未知：null",,个体制作者->M1; 家庭->M2; 作坊单位->M2; 社群制作者->M3; 专业工匠群体->M4; 区域生产体系->M5,家庭: 作坊单位; 个体制作者: Individual potter; 家庭: / Household / Workshop; 社群制作者: Community group; 专业工匠群体: Specialized craftsmen; 区域生产体系: Regional production system
+玉器 jade,制作绝对年代,ProductionAbsoluteDate,器物的制作绝对时期,C1：绝对年代 Absolute date,\,\,文本,,"该期别的绝对年代范围，描述可为“公元xxx；距今xxx”；包括：
+date_value	数值（整数）
+date_unit BCE / CE / BP
+date_calibration Cal / Uncal
+date_error ± 年数
+如果没有相关描述即为：null","2800 BCE ± 50
+4300±40 BP (Cal)
+",,
+玉器 jade,制作相对年代,ProductionRelativeDate,所处的文化时期和文化期别，或朝代及朝代的期别；以及更细节的遗址分期,C2：相对年代 Relative date,\,\,文本,,"文化时期/期别和朝代/朝代期别，是同级别的概念，在夏朝之前没有朝代的命名，可能使用文化指称；夏朝之后用朝代指称，e.g.在夏朝之前的龙山文化，处于新石器时代晚期，用龙山文化指称。填写时可包括下述信息：
+cultural_period 考古学文化（e.g. 龙山文化）
+phase	期别（e.g. 龙山文化晚期）
+如果没有相关描述即为：null","仰韶文化中期
+龙山文化晚期
+夏朝、商朝",,
+玉器 jade,,,,C3：年代区段 Chronological phase,\,\,文本,,"填写遗址分期，遗址分期为人工划定，分期的依据主要是以器物相似性等划分。例如盘龙城遗址有多期，单一期数可能对应不同文化/朝代（C2：相对年代），也可能不一定能找到对应文化/朝代信息。填写时可包括下述信息：
+chronological_label，如：“盘龙城一期”
+如果没有相关描述即为：null",,,
+玉器 jade,制作地点,ProductionPlace,器物被制造的地点，如窑址或作坊,制作地点类型（Location Type）,\,\,唯一值,,"L1	窑址	Kiln site
+L2	作坊	Workshop
+L3	居址内生产区	Household production area
+L4	综合生产区	Integrated production zone
+L5	区域生产中心	Regional production center
+L6	其他推定来源区	Inferred source area（需要填写推断值）
+L7	不明	Unknown",窑址、作坊、村落生产点、手工业聚落区域性生产中心等,,
+事物类型,"文化特征单元 CAU
+（Culture Attributes Unit）",CAU ID,文化特征单元定义（CAU Definition）,一级指标,二级指标,三级指标,值类型,索引/主键,抽取值字典/定义,原文描述/术语示例,原文描述转写示例,同义词示例
+陶器 pottery,人工物品编号,ObjectIdentifier,记录其唯一的编号。,人工物品编号,\,\,文本,是,"原文描述，形如：M4:17，或M5:20-3
+*此项必须具备值",,,
+陶器 pottery,器物名称,PotteryName,记录对某一具体陶器个体所使用的名称或称谓。该名称作为识别性标签，用于指代该陶器本身，而不等同于其器型分类、功能类别或文化属性。,器物名称,\,\,文本,,描述原文，如无相关内容则为null,,提取原文描述,
+陶器 pottery,子区域编号或名称,SubAreaIdentifier,区域的编号或名称,子区域名称,\,\,文本,是,出土的遗址中的子区域名称，如无则为null,,提取原文描述,
+陶器 pottery,,,,子区域编号,\,\,文本,是,出土的遗址中的子区域编号，如无则为null,,提取原文描述,
+陶器 pottery,出土遗址,FromSite,记录文物出土的遗址名称,遗址名称,\,\,文本,是,"出土的遗址名称
+*此项必须具备值",盘龙山一期、反山遗址,提取原文描述,
+陶器 pottery,原位遗迹实体,HumanMadeFeature,人类活动形成、并且不可在不破坏其整体性的情况下被移动的空间性特征,出土人造单元,\,\,文本,是,"出土的人造单元名称或编号
+*此项必须具备值","M12,、十二号墓",提取原文描述,
+陶器 pottery,陶土种类,ClayFabricType,胎土整体材质特征，陶土的基本类型,胎土结构（Paste structure）,\,\,唯一值,,"PS1：Fine clay ware	泥质陶：以细泥为主，少或无明显夹杂
+PS2：Sand-tempered ware	夹砂陶	：明显加入砂质颗粒
+PS3：Fine-sand ware 细砂陶：夹杂以细砂为主
+PS4：Grit-tempered ware 粗砂/碎屑夹杂陶：粗颗粒明显
+其他：填入实际值
+未知：null",泥质、夹砂、夹细砂、夹粗砂、夹云母、夹炭、夹蚌壳、泥质灰、夹砂褐、泥质红,夹砂 -> PS2; 夹砂褐 -> PS2; 夹粗砂 -> PS4; 夹细砂 -> PS3; 泥质 -> PS1; 泥质灰 -> PS1; 泥质红 -> PS1; 泥质陶->PS1; 以细泥为主->PS1; 少或无明显夹杂->PS1; 夹砂陶->PS2; 明显加入砂质颗粒->PS2; 细砂陶->PS3; 夹杂以细砂为主->PS3; 粗砂->PS4; 粗颗粒明显->PS4; 碎屑夹杂陶->PS4,"夹砂: 夹砂褐, 夹砂陶, 明显加入砂质颗粒; 粗砂: 夹粗砂, 粗颗粒明显, 碎屑夹杂陶; 细砂陶: 夹细砂, 夹杂以细砂为主; 泥质: 泥质陶, 泥质红, 泥质灰, 以细泥为主, 少或无明显夹杂; 泥质陶: Fine clay ware ：，; 夹砂陶: Sand-tempered ware ：; 细砂陶: Fine-sand ware ：; 粗砂: Grit-tempered ware /：; 夹砂: 夹砂陶, 夹砂褐, 明显加入砂质颗粒; 夹细砂: 细砂陶, 夹杂以细砂为主; 泥质: 泥质灰, 泥质陶, 泥质红, 以细泥为主, 少或无明显夹杂"
+陶器 pottery,,,,胎色与烧成表观（Body color & effect）,\,\,唯一值,,"BC1：Red ware 红陶：氧化焰烧成，胎色偏红
+BC2：Grey ware 灰陶：还原或不完全氧化
+BC3：Black ware 黑陶：强还原或渗碳
+BC4：White ware 白陶：高岭质或脱铁明显
+BC5：Buff/light-colored ware 淡色陶：浅黄、浅褐
+其他：填入实际值
+未知：null",红陶、灰陶、黑陶、白陶、红褐陶、灰褐陶、橙黄陶、外黑内红、灰陶、红陶、褐陶,灰陶 -> BC2; 白陶 -> BC4; 红陶 -> BC1; 黑陶 -> BC3; 红陶->BC1; 胎色偏红->BC1; 氧化焰烧成->BC1; 灰陶->BC2; 还原或不完全氧化->BC2; 黑陶->BC3; 强还原或渗碳->BC3; 白陶->BC4; 高岭质或脱铁明显->BC4; 浅黄->BC5; 浅褐->BC5; 淡色陶->BC5,"灰陶: 还原或不完全氧化; 白陶: 高岭质或脱铁明显; 红陶: 胎色偏红, 氧化焰烧成; 黑陶: 强还原或渗碳; 浅黄: 浅褐, 淡色陶; 红陶: Red ware ：，; 灰陶: Grey ware ：; 黑陶: Black ware ：; 白陶: White ware ：; 淡色陶: Buff/light-colored ware ：、; 浅褐: 浅黄, 淡色陶"
+陶器 pottery,,,,技术结果（Technical outcome）,\,\,唯一值,,"TC1：Hard ware 硬陶：高温烧成，胎体致密
+TC2：Soft ware 软陶	：低温烧成，胎体疏松
+TC3：Black-skinned ware 黑皮陶：表层发黑、内胎非黑
+TC4：Burnished black ware	 磨光黑陶：黑陶+高磨光
+其他：填入实际值
+未知：null",,硬陶->TC1; 胎体致密->TC1; 高温烧成->TC1; 软陶->TC2; 胎体疏松->TC2; 低温烧成->TC2; 黑皮陶->TC3; 内胎非黑->TC3; 表层发黑->TC3; 黑陶->TC4; 高磨光->TC4; 磨光黑陶->TC4,"硬陶: 胎体致密, 高温烧成; 软陶: 低温烧成, 胎体疏松; 黑皮陶: 内胎非黑, 表层发黑; 黑陶: 高磨光, 磨光黑陶; 硬陶: Hard ware ：，; 软陶: Soft ware ：，; 黑皮陶: Black-skinned ware ：、; 磨光黑陶: Burnished black ware ：+; 硬陶: 高温烧成, 胎体致密"
+陶器 pottery,,,,胎色亚型（Body color subtype）,\,\,唯一值,,"BS1：Red body 红胎
+BS2：Grey body 灰胎
+BS3：Black core 黑心
+BS4：White core 白胎
+其他：填入实际值
+未知：null",红陶、灰陶、黑陶、白陶、红褐陶、灰褐陶、橙黄陶、外黑内红、灰陶、红陶、褐陶,红胎->BS1; 灰胎->BS2; 黑心->BS3; 白胎->BS4,红胎: Red body; 灰胎: Grey body; 黑心: Black core; 白胎: White core
+陶器 pottery,,,,工艺/结构亚型（Technique & Structure）,\,\,唯一值,,"TS1：Fine-textured 质地细腻
+TS2：Coarse-textured 质地粗
+TS3：Compact 致密
+TS4：Porous 多孔
+其他：填入实际值
+未知：null",,质地细腻->TS1; 质地粗->TS2; 致密->TS3; 多孔->TS4,质地细腻: Fine-textured; 质地粗: Coarse-textured; 致密: Compact; 多孔: Porous
+陶器 pottery,陶土细腻程度 ,Clay Fineness,胎土颗粒大小及均匀度,陶土细腻程度,\,\,唯一值,,"CF1：Very coarse 极粗：颗粒明显粗大，杂质清晰可见，常为未淘洗自然泥
+CF2：Coarse 粗：可见较多粗颗粒，均匀性差
+CF3：Medium 中等：颗粒可见但较均匀
+CF4：Fine 细：颗粒细小，肉眼难辨，淘洗较充分
+CF5：Very fine 极细：颗粒极细，质地致密，常与高技术投入相关
+其他：填入实际值
+未知：null",极细、细、中等、粗、极粗等、质疏松、质细、质粗,"“粗胎”“胎质粗糙” → CF2-2
+
+“胎质较细”“细腻” → CF2-4
+
+“胎质极细”“如泥浆状” → CF2-5
+
+“夹砂较多” → CF2-2 或 CF2-3（结合掺杂模块）; 中等 -> CF3; 极粗等 -> CF1; 极细 -> CF5; 粗 -> CF2; 细 -> CF4; 质粗 -> CF2; 质细 -> CF4; 极粗->CF1; 颗粒明显粗大->CF1; 杂质清晰可见->CF1; 均匀性差->CF2; 可见较多粗颗粒->CF2; 中等->CF3; 颗粒可见但较均匀->CF3; 颗粒细小->CF4; 肉眼难辨->CF4; 淘洗较充分->CF4; 极细->CF5; 颗粒极细->CF5","中等: 颗粒可见但较均匀; 极粗: 极粗等, 颗粒明显粗大, 杂质清晰可见; 极细: 颗粒极细; 粗: 质粗, 均匀性差, 可见较多粗颗粒; 细: 质细, 颗粒细小, 肉眼难辨, 淘洗较充分; 极粗: Very coarse ：，，; 粗: Coarse ：，; 中等: Medium ：; 细: Fine ：，，; 极细: Very fine ：，，"
+陶器 pottery,保存状况,PreservationState,"器物本体的保存完整性。
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",本体完整性评价 PreservationState Dimension,\,\,属性族,,"PSD1：Completeness 完整性：是否完整、残缺程度
+PSD2：Fragmentation 碎裂程度：是否破碎、多片
+PSD3：Structural integrity 结构稳定性：是否变形、断裂
+PSD4：Surface preservation 表面保存：是否剥蚀、脱落
+PSD5：Edge condition 断口状况：新断/旧断、磨损
+PSD6：Restoration presence 修复情况：是否拼对、修复
+PSD7：其他
+PSD8：未知
+*分支除未知外，为复选",完好、残缺、破碎、烧裂、蚀损、基本完整、风化等,完整性->PSD1; 残缺程度->PSD1; 是否完整->PSD1; 多片->PSD2; 碎裂程度->PSD2; 是否破碎->PSD2; 断裂->PSD3; 是否变形->PSD3; 结构稳定性->PSD3; 脱落->PSD4; 表面保存->PSD4; 是否剥蚀->PSD4; 新断->PSD5; 旧断->PSD5; 磨损->PSD5; 修复->PSD6; 修复情况->PSD6; 是否拼对->PSD6,"完整性: 是否完整, 残缺程度; 多片: 碎裂程度, 是否破碎; 断裂: 是否变形, 结构稳定性; 脱落: 是否剥蚀, 表面保存; 旧断: 新断, 磨损; 修复: 修复情况, 是否拼对; 完整性: Completeness ：、; 碎裂程度: Fragmentation ：、; 结构稳定性: Structural integrity ：、; 表面保存: Surface preservation ：、; 断口状况: Edge condition ：/、; 修复情况: Restoration presence ：、; 脱落: 表面保存, 是否剥蚀; 新断: 磨损, 旧断"
+陶器 pottery,,,,,PSD1：Completeness 完整性：是否完整、残缺程度,\,数量值,,"完整：1
+残缺：fragment_count 残片数量（＞1的整数）
+其他：填入实际值
+未知：null",,,
+陶器 pottery,,,,,PSD2：Fragmentation 碎裂程度：是否破碎、多片,\,唯一值,,"PSD2-1：Very poor 极差：严重破碎，仅存少量残片
+PSD2-2：Poor 较差：多片残破，难以复原整体
+PSD2-3：Fair 一般：残缺但可识别形态
+PSD2-4：Good 较好：基本完整，局部破损
+PSD2-5：Excellent 极好：完整或近完整
+其他：填入实际值
+未知：null",,极差->PSD2-1; 严重破碎->PSD2-1; 仅存少量残片->PSD2-1; 较差->PSD2-2; 多片残破->PSD2-2; 难以复原整体->PSD2-2; 一般->PSD2-3; 残缺但可识别形态->PSD2-3; 较好->PSD2-4; 基本完整->PSD2-4; 局部破损->PSD2-4; 极好->PSD2-5; 完整或近完整->PSD2-5,"极差: 严重破碎, 仅存少量残片; 较差: 多片残破, 难以复原整体; 一般: 残缺但可识别形态; 较好: 局部破损, 基本完整; 极好: 完整或近完整; 极差: Very poor ：，; 较差: Poor ：，; 一般: Fair ：; 较好: Good ：，; 极好: Excellent ："
+陶器 pottery,,,,,PSD3：Structural integrity 结构稳定性：是否变形、断裂,\,唯一值,,"PSD3-1：Intact 无变形：器形保持原状
+PSD3-2：Deformed 变形：挤压、烧曲等导致的形态改变
+PSD3-3：Cracked 裂痕：存在结构性裂隙
+PSD3-4：Warped 翘曲
+其他：填入实际值
+未知：null",器形规整、变形严重、烧裂、挤压变形,变形 -> PSD3-2; 烧裂 -> PSD3-3; 变形严重 -> PSD3-2; 挤压变形 -> PSD3-2; 无变形->PSD3-1; 器形保持原状->PSD3-1; 变形->PSD3-2; 挤压->PSD3-2; 烧曲等导致的形态改变->PSD3-2; 裂痕->PSD3-3; 存在结构性裂隙->PSD3-3; 翘曲->PSD3-4,"变形: 挤压, 挤压变形, 变形严重, 烧曲等导致的形态改变; 烧裂: 裂痕, 存在结构性裂隙; 无变形: 器形保持原状; 无变形: Intact ：; 变形: Deformed ：、; 裂痕: Cracked ：; 翘曲: Warped"
+陶器 pottery,,,,,PSD4：Surface preservation 表面保存：是否剥蚀、脱落,\,唯一值,,"PSD4-1：Preserved 表面完好
+PSD4-2：Eroded/Weathered 剥蚀/风化：表层脱落、粉化
+PSD4-3：Peeling/Spalling 陶衣/表皮脱落
+PSD4-4：Encrusted 有附着物（烟炱、水垢等）
+其他：填入实际值
+未知：null",素面磨光、黑衣脱落、表面剥蚀、外表有烟炱,黑衣已脱落 -> PSD4-3; 表面剥蚀 -> PSD4-2; 表面完好->PSD4-1; 剥蚀->PSD4-2; 风化->PSD4-2; 粉化->PSD4-2; 陶衣->PSD4-3; 表皮脱落->PSD4-3; 烟炱->PSD4-4; 水垢等->PSD4-4; 有附着物->PSD4-4,"陶衣: 表皮脱落, 黑衣已脱落; 风化: 粉化, 剥蚀, 表面剥蚀; 烟炱: 水垢等, 有附着物; 表面完好: Preserved; 剥蚀: Eroded/Weathered /：、; 陶衣: Peeling/Spalling /; 有附着物: Encrusted （、）; 粉化: 风化, 剥蚀, 表面剥蚀"
+陶器 pottery,,,,,PSD5：Edge condition 断口状况：新断/旧断、磨损,\,唯一值,,"PSD5-1：Fresh break 新断：断面新鲜
+PSD5-2：Worn/Old break 旧断/磨损：断面有磨圆或旧痕
+PSD5-3：Rolled 滚磨：经过水流等搬运形成的滚磨
+其他：填入实际值
+未知：null",新断口、断口磨圆、旧断,断口磨圆 -> PSD5-2; 新断口 -> PSD5-1; 旧断 -> PSD5-2; 新断->PSD5-1; 断面新鲜->PSD5-1; 磨损->PSD5-2; 旧断->PSD5-2; 断面有磨圆或旧痕->PSD5-2; 滚磨->PSD5-3; 经过水流等搬运形成的滚磨->PSD5-3,"旧断: 磨损, 断口磨圆, 断面有磨圆或旧痕; 新断: 新断口, 断面新鲜; 滚磨: 经过水流等搬运形成的滚磨; 新断: Fresh break ：; 旧断: Worn/Old break /：; 滚磨: Rolled ：; 磨损: 旧断, 断口磨圆, 断面有磨圆或旧痕"
+陶器 pottery,,,,,PSD6：Restoration presence 修复情况：是否拼对、修复,\,二值化,,refit_success	可拼对：1；不可拼对：0,,,
+陶器 pottery,,,,,PSD7：其他,\,文本,,填写描述原文,,提取原文描述,
+陶器 pottery,,,,,PSD8：未知,\,文本,,null,,提取原文描述,
+陶器 pottery,完整程度,CompletenessDegree,器物结构部件的保留程度,结构部件完整程度,\,\,唯一值,,"CPD1：Extremely fragmentary：极不完整，少量残片，难以识别器型
+CPD2：Fragmentary	残缺：多片残存，器型可辨但严重缺失
+CPD3：Partially complete 部分完整：主要结构在，局部缺失
+CPD4：Nearly complete 基本完整：少量缺失，不影响整体
+CPD5：：Complete 完整：无明显缺失
+其他：填入实际值
+未知：null",全器、半器、局部残片、不可判类型、壁片、足片等,"“残片”“碎片” → CPD1
+“残存”“缺口明显” → CPD2
+“残缺但可复原” → CPD3
+“基本完整”“缺一小部” → CPD4
+“完整器” → CPD5; 少量残片->CPD1; 极不完整->CPD1; 难以识别器->CPD1; 残缺->CPD2; 多片残存->CPD2; 器型可辨但严重缺失->CPD2; 局部缺失->CPD3; 部分完整->CPD3; 主要结构在->CPD3; 基本完整->CPD4; 少量缺失->CPD4; 不影响整体->CPD4; 完整->CPD5; 无明显缺失->CPD5","少量残片: 极不完整, 难以识别器; 残缺: 多片残存, 器型可辨但严重缺失; 局部缺失: 部分完整, 主要结构在; 少量缺失: 基本完整, 不影响整体; 完整: 无明显缺失; 极不完整: Extremely fragmentary：，，; 残缺: Fragmentary ：，; 部分完整: Partially complete ：，; 基本完整: Nearly complete ：，; 完整: ：Complete ：; 极不完整: 少量残片, 难以识别器"
+陶器 pottery,掺杂物,TemperType,胎土中掺入的非塑性物质，包含矿物质和有机物等,"掺杂策略（Temper Strategy, ）",\,\,唯一值,,"TS0：无掺杂（自然胎）No temper
+TS1：单一掺杂Single temper
+TS2：多重掺杂Multiple temper
+TS3：系统性配比掺杂（明确、稳定比例）Systematic mixed temper
+其他：填入实际值
+未知：null","细砂、粗砂、云母、贝壳、炭粒、有机物、壳质、稻壳、植物纤维、骨粉、旧陶片草茎、矿物质、石英砂、长石、无掺杂物等
+
+
+
+
+",无掺杂物等 -> TS0; 无掺杂->TS0; 自然胎->TS0; 单一掺杂->TS1; 多重掺杂->TS2; 明确->TS3; 稳定比例->TS3; 系统性配比掺杂->TS3,"无掺杂: 自然胎, 无掺杂物等; 明确: 稳定比例, 系统性配比掺杂; 无掺杂: （）No temper; 单一掺杂: Single temper; 多重掺杂: Multiple temper; 系统性配比掺杂: （、）Systematic mixed temper; 自然胎: 无掺杂, 无掺杂物等"
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),材料来源（Material Origin）,\,\,属性族,,"MO1 ： 矿物质掺杂（Mineral temper）
+MO2 ：生物质掺杂（植物/动物）（Biogenic temper）
+MO3 ：人工再生掺杂（Artificial/recycled temper）
+MO4 ：混合来源（Mixed origin）
+MO0 ：无掺杂（No temper）
+MO5：其他 other
+MO6：未知 unknown
+*分支为单选填写，所以每个分支不需要单独“未知”选项",,矿物质掺杂->MO1; 植物->MO2; 动物->MO2; 生物质掺杂->MO2; 人工再生掺杂->MO3; 混合来源->MO4; 无掺杂->MO0,"动物: 植物, 生物质掺杂; 矿物质掺杂: （Mineral temper）; 生物质掺杂: （/）（Biogenic temper）; 人工再生掺杂: （Artificial/recycled temper）; 混合来源: （Mixed origin）; 无掺杂: （No temper）; 其他: other; 未知: unknown"
+陶器 pottery,,,,,MO0：无掺杂,\,文本,,如果进入MO0分支，直接填写“无掺杂”,石英,提取原文描述,
+陶器 pottery,,,,,"
+MO1：矿物质",\,多值,,"MO1.1 ：石英类（Quartz-based minerals）：a、石英砂 Quartz sand；b、细砂 Fine sand；c、粗砂 Coarse sand
+MO1.2 ：长石类（Feldspar-based minerals）：a、长石 Feldspar
+MO1.3 ： 云母类（Mica-based minerals）：a、云母
+MO1.4 ： 其他矿物（Other minerals）
+MO1.9 ：矿物质（未细分）（Mineral (unspecified)）
+其他：填入实际值",,细砂->MO1.1; 粗砂->MO1.1; 石英->MO1.1; 长石->MO1.2; 长石类->MO1.2; 云母->MO1.3; 云母类->MO1.3; 其他矿物->MO1.4; 矿物质->MO1.9; 未细分->MO1.9,"细砂: 石英, 粗砂; 长石: 长石类; 云母: 云母类; 矿物质: 未细分; 石英类: （Quartz-based minerals）：a、 Quartz sand；b、 Fine sand；c、 Coarse sand; 长石类: （Feldspar-based minerals）：a、 Feldspar; 云母类: （Mica-based minerals）：a、; 其他矿物: （Other minerals）; 矿物质: （）（Mineral (unspecified)）; 石英: 粗砂, 细砂; 未细分: 矿物质"
+陶器 pottery,,,,,MO2：生物质,\,多值,,"MO2.1 ： 植物性（Plant-based temper）：a、稻壳 Rice husk；b、植物纤维 Plant fiber；c、草茎 Grass stem；z、有机物 Organic matter (unspecified)
+MO2.2 ： 动物性（Animal-based temper）：a、贝壳 Shell；b、壳质 Shell-derived material；c、骨粉 Bone powder
+MO2.3 ： 生物质（未细分）(Biogenic temper)
+其他：填入实际值",,稻壳->MO2.1; 草茎->MO2.1; 植物性->MO2.1; 壳质->MO2.2; 骨粉->MO2.2; 贝壳->MO2.2; 生物质->MO2.3; 未细分->MO2.3,"草茎: 稻壳, 植物性; 骨粉: 壳质, 贝壳; 生物质: 未细分; 植物性: （Plant-based temper）：a、 Rice husk；b、 Plant fiber；c、 Grass stem；z、 Organic matter (unspecified); 动物性: （Animal-based temper）：a、 Shell；b、 Shell-derived material；c、 Bone powder; 生物质: （）(Biogenic temper); 稻壳: 草茎, 植物性; 壳质: 贝壳, 骨粉"
+陶器 pottery,,,,,MO3：人工再生,\,多值,,"MO3.1 ： 旧陶片（grog）(Ceramic-derived temper (grog)）
+MO3.2 ： 燃烧副产物（Combustion by-products）：a、炭粒 Charcoal temper
+MO3.3 ：人工掺杂（未细分）（Artificial temper (unspecified)）
+其他：填入实际值",,旧陶片->MO3.1; 炭粒->MO3.2; 燃烧副产物->MO3.2; 未细分->MO3.3; 人工掺杂->MO3.3,炭粒: 燃烧副产物; 未细分: 人工掺杂; 旧陶片: （grog）(Ceramic-derived temper (grog)）; 燃烧副产物: （Combustion by-products）：a、 Charcoal temper; 人工掺杂: （）（Artificial temper (unspecified)）
+陶器 pottery,,,,,MO4：混合来源（Mixed origin）,\,文本,,填写描述原文,,提取原文描述,
+陶器 pottery,,,,,MO5：其他 other,\,文本,,填写描述原文,,提取原文描述,
+陶器 pottery,,,,,MO6：未知 unknown,\,文本,,null,,提取原文描述,
+陶器 pottery,,,,颗粒度,\,\,唯一值,,"GP1 ： 细粒
+GP2 ：中粒
+GP3 ：粗粒
+GP9 ：未说明",,细粒->GP1; 中粒->GP2; 粗粒->GP3; 未说明->GP9,
+陶器 pottery,硬度,Hardness,用于物理检测，并可辅助推理烧成温度。,硬度,\,\,唯一值,,"HD1：Very soft 极软：易刻划，胎体疏松
+HD2：Soft 较软：可刻划，敲击无清音
+HD3：Medium 中等：不易刻划，声音一般
+HD4：Hard 较硬：难刻划，敲击清脆
+HD5：Very hard 极硬：极难刻划，近似瓷化
+其他：填入实际值
+未知：null",质疏松、质细、质粗、质坚硬,"“胎质疏松”“质软” → HD1 / HD2
+“质较坚”“较硬” → HD3 / HD4
+“坚硬”“敲击有金属声” → HD5; 极软->HD1; 易刻划->HD1; 胎体疏松->HD1; 较软->HD2; 可刻划->HD2; 敲击无清音->HD2; 中等->HD3; 声音一般->HD3; 不易刻划->HD3; 较硬->HD4; 难刻划->HD4; 敲击清脆->HD4; 极硬->HD5; 近似瓷化->HD5; 极难刻划->HD5","极软: 易刻划, 胎体疏松; 较软: 可刻划, 敲击无清音; 中等: 声音一般, 不易刻划; 较硬: 难刻划, 敲击清脆; 极硬: 近似瓷化, 极难刻划; 极软: Very soft ：，; 较软: Soft ：，; 中等: Medium ：，; 较硬: Hard ：，; 极硬: Very hard ：，; 中等: 不易刻划, 声音一般; 极硬: 极难刻划, 近似瓷化"
+陶器 pottery,烧成温度,FiringTemperatureType,记录生产该陶器时的窑温数据。低温、中温、高温陶的技术类型,烧成温度,\,\,唯一值,,"FTT1：Very low-fired 极低温烧成：<600 摄氏度
+FTT2：	Low-fired 低温烧成：600–800
+FTT3：Medium-fired 中温烧成：800–950
+FTT4：High-fired 高温烧成：950–1100
+FTT5：Very high-fired 极高温烧成：>1100
+其他：填入实际值
+未知：null",低温、中温、高温、还原气氛、氧化气氛等,"“火候不足”“低温烧成” → FTT1 / FTT2
+“烧成较高”“胎质坚硬” → FTT3 / FTT4
+“接近瓷化”“高温釉陶” → FTT5; 中温 -> FTT3; 低温 -> FTT1; 高温 -> FTT4; 摄氏度->FTT1; 极低温烧成->FTT1; 低温烧成->FTT2; 中温烧成->FTT3; 高温烧成->FTT4; 极高温烧成->FTT5","极低温烧成: 低温; 低温烧成: 低温; 中温烧成: 中温; 高温烧成: 高温; 极高温烧成: 高温; 极低温烧成: Very low-fired ：<600; 低温烧成: Low-fired ：600–800; 中温烧成: Medium-fired ：800–950; 高温烧成: High-fired ：950–1100; 极高温烧成: Very high-fired ：>1100; 中温: 中温烧成; 低温: 摄氏度, 极低温烧成; 高温: 高温烧成"
+陶器 pottery,基本器型,BasicVesselClass,器物大类，陶器的分类名称（鼎、罐、盆、豆、尊等），是类型体系的上位结构，用来集合同类形制的所有子型。,器皿类（Vessel）,\,\,唯一值,,"VT101：罐 Jar
+VT102：瓮 Urn
+VT103：瓿 Small jar / Pot
+VT104：壶 Ewer
+VT105：瓶 Bottle
+VT106：盆 Basin
+VT107：碗 Bowl
+VT108：杯 Cup
+VT109：豆 Dou (stemmed dish)
+VT110：尊 Zun
+VT111：簋 Gui
+VT112：鼎 Ding (tripod cauldron)
+VT113：鬲 Li (tripod cooking vessel)
+VT114：釜 Fu (cooking pot)
+VT115：甑 Zeng (steamer)
+VT116：盘 Plate
+VT117：盂 Yu (deep bowl)
+VT118：钵Bo
+VT119：匜 Yi (pouring vessel)
+VT120：盉 He (mixing/pouring vessel)
+其他：填入实际值
+未知：null",罐类、壶类、瓶类、鼎类、鬲类、豆类、盆类、碗类、杯类、甑类、瓮类、尊类、簋类、釜类、灶类、井类、仓类、屋类、俑类、瓿类、附件（耳、鋬、流、足、盖类）等,壶类 -> VT104; 尊类 -> VT110; 杯类 -> VT108; 瓮类 -> VT102; 瓶类 -> VT105; 瓿类 -> VT103; 甑类 -> VT115; 盆类 -> VT106; 碗类 -> VT107; 簋类 -> VT111; 罐类 -> VT101; 豆类 -> VT109; 釜类 -> VT114; 鬲类 -> VT113; 鼎类 -> VT112,罐: 罐类; 瓮: 瓮类; 瓿: 瓿类; 壶: 壶类; 瓶: 瓶类; 盆: 盆类; 碗: 碗类; 杯: 杯类; 豆: 豆类; 尊: 尊类; 簋: 簋类; 鼎: 鼎类; 鬲: 鬲类; 釜: 釜类; 甑: 甑类; 罐: Jar; 瓮: Urn; 瓿: Small jar / Pot; 壶: Ewer; 瓶: Bottle; 盆: Basin; 碗: Bowl; 杯: Cup; 豆: Dou (stemmed dish); 尊: Zun; 簋: Gui; 鼎: Ding (tripod cauldron); 鬲: Li (tripod cooking vessel); 釜: Fu (cooking pot); 甑: Zeng (steamer); 盘: Plate; 盂: Yu (deep bowl); 匜: Yi (pouring vessel); 盉: He (mixing/pouring vessel)
+陶器 pottery,,,,设施/构件（Installation/Fixture）,\,\,唯一值,,"VT201：灶 Stove
+VT202：井 Well lining
+VT203：仓 Storage facility
+VT204：屋 Architectural model / House
+VT205：窑具 Kiln furniture
+其他：填入实际值
+未知：null",,窑具->VT205,灶: Stove; 井: Well lining; 仓: Storage facility; 屋: Architectural model / House; 窑具: Kiln furniture
+陶器 pottery,,,,俑与模型（Figurine/Model）,\,\,唯一值,,"VT301：俑 Figurine
+VT302：器物模型 Object model
+其他：填入实际值
+未知：null",,器物模->VT302; 器物模型->VT302,器物模: 器物模型; 俑: Figurine; 器物模型: Object model
+陶器 pottery,,,,附件类型 Appendage Type,\,\,唯一值,,"AP01：耳 Lug / Ear
+AP02：鋬 Handle
+AP03：流 Spout
+AP04：足 Foot
+AP05：盖 Lid
+AP06：圈足 Ring foot
+AP07：三足 Tripod feet
+AP08：假足 Pseudo-foot
+其他：填入实际值
+未知：null",,圈足->AP06; 三足->AP07; 假足->AP08,耳: Lug / Ear; 鋬: Handle; 流: Spout; 足: Foot; 盖: Lid; 圈足: Ring foot; 三足: Tripod feet; 假足: Pseudo-foot
+陶器 pottery,器型部位特征,VesselMorphologicalFeature,"描述器物形体局部构造和具体部位形态，如口沿、腹部、底足、附加构件的形态特征，和特征描述
+
+部位层级（Part) 包括：
+P1 ：口沿（Rim / Mouth）
+P2 ：颈（Neck）
+P3 ：肩（Shoulder）
+P4 ：腹（Body / Belly）
+P5 ：底（Base / Bottom）
+P6 ：足（ Foot / Support）
+P7 ：器壁（Wall / Thickness）
+P8 ：附件区（Appendage zone）
+P9：其他（other)
+P10：未知（NULL)
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",部位层级（Part) ,\,\,属性族,,"P1 ：口沿（Rim / Mouth）
+P2 ：颈（Neck）
+P3 ：肩（Shoulder）
+P4 ：腹（Body / Belly）
+P5 ：底（Base / Bottom）
+P6 ：足（ Foot / Support）
+P7 ：器壁（Wall / Thickness）
+P8 ：附件区（Appendage zone）
+P9：其他
+P10：未知
+*分支除未知外，皆为复选","口沿特征：敞口、斜束口、折沿口、侈口、喇叭口、卷沿、直口、外撇口、内收口、折沿口、侈口、喇叭口、卷沿、加厚口、扁平口沿、宽口、小口、内折口、外撇口等
+腹部特征：鼓腹、鼓棱腹、深腹、浅腹、收腹、直腹、斜腹、扁腹、长腹、球腹、矮腹、卵形腹等
+底足特征：圜底、平底、圈足、高圈足、矮圈足、三棱足、鱼鳍足、三角足、低圈足、平折足、锥形足等
+附件特征:附耳、系钮、鋬手（把手）、扁耳、立耳、侧耳、钮、鋬、附加塑饰、突棱
+器壁特征",三棱足 -> P6; 三角足 -> P6; 低圈足 -> P6; 卵形腹等 -> P4; 口沿特征：敞口 -> P1; 器壁特征 -> P7; 圈足 -> P6; 平底 -> P5; 平折足 -> P6; 底足特征：圜底 -> P5; 扁平口沿 -> P1; 扁腹 -> P4; 收腹 -> P4; 斜腹 -> P4; 浅腹 -> P4; 深腹 -> P4; 球腹 -> P4; 直腹 -> P4; 矮圈足 -> P6; 矮腹 -> P4; 腹部特征：鼓腹 -> P4; 锥形足等 -> P6; 长腹 -> P4; 高圈足 -> P6; 鱼鳍足 -> P6; 鼓棱腹 -> P4,"口沿: 扁平口沿, 口沿特征：敞口; 腹: 收腹, 矮腹, 长腹, 斜腹, 扁腹, 深腹, 直腹, 浅腹, 球腹, 鼓棱腹, 卵形腹等, 腹部特征：鼓腹; 底: 平底, 底足特征：圜底; 足: 圈足, 低圈足, 平折足, 三角足, 鱼鳍足, 三棱足, 高圈足, 矮圈足, 锥形足等, 底足特征：圜底; 器壁: 器壁特征; 口沿: （Rim / Mouth）; 颈: （Neck）; 肩: （Shoulder）; 腹: （Body / Belly）; 底: （Base / Bottom）; 足: （ Foot / Support）; 器壁: （Wall / Thickness）; 附件区: （Appendage zone）; 圈足: 低圈足, 平折足, 矮圈足, 三角足, 高圈足, 三棱足, 鱼鳍足, 锥形足等; 收腹: 浅腹, 直腹, 球腹, 长腹, 深腹, 斜腹, 矮腹, 扁腹, 鼓棱腹, 卵形腹等, 腹部特征：鼓腹; 扁平口沿: 口沿特征：敞口; 平底: 底足特征：圜底"
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,P1 口沿特征（Rim / Mouth Attributes）,\,属性族,,"P1F1：敞收程度（Opening degree）
+P1F2：口沿剖面（Rim profile）
+P1F3：口沿方向(Rim direction）
+P1F4：口沿处理（Rim modification）
+P1F5：口径尺度（Rim size）",,敞收程度->P1F1; 口沿剖面->P1F2; 口沿方向->P1F3; 口沿处理->P1F4; 口径尺度->P1F5,敞收程度: （Opening degree）; 口沿剖面: （Rim profile）; 口沿方向: (Rim direction）; 口沿处理: （Rim modification）; 口径尺度: （Rim size）
+陶器 pottery,,,,,,P1F1：敞收程度（Opening degree）,唯一值,,"P1A101：敞口 Open mouth
+P1A102：小口 Narrow mouth
+P1A103：宽口 Wide mouth
+其他：填入实际值
+未知：null",,敞口->P1A101; 小口->P1A102; 宽口->P1A103,敞口: Open mouth; 小口: Narrow mouth; 宽口: Wide mouth
+陶器 pottery,,,,,,P1F2：口沿剖面（Rim profile）,唯一值,,"P1A201：直口 Straight rim
+P1A202：折沿口 Folded rim
+P1A203：内折口 Inward folded rim
+P1A204：卷沿 Rolled rim
+P1A205：扁平口沿 Flattened rim
+其他：填入实际值
+未知：null",,直口->P1A201; 折沿口->P1A202; 内折口->P1A203; 卷沿->P1A204; 扁平口沿->P1A205,直口: Straight rim; 折沿口: Folded rim; 内折口: Inward folded rim; 卷沿: Rolled rim; 扁平口沿: Flattened rim
+陶器 pottery,,,,,,P1F3：口沿方向(Rim direction）,唯一值,,"P1A301：外撇口 Everted rim
+P1A302：内收口 Inverted rim
+P1A303：喇叭口 Trumpet-shaped rim
+P1A304：侈口 Flaring rim
+P1A305：斜束口 Obliquely constricted rim
+其他：填入实际值
+未知：null",,外撇口->P1A301; 内收口->P1A302; 喇叭口->P1A303; 侈口->P1A304; 斜束口->P1A305,外撇口: Everted rim; 内收口: Inverted rim; 喇叭口: Trumpet-shaped rim; 侈口: Flaring rim; 斜束口: Obliquely constricted rim
+陶器 pottery,,,,,,P1F4：口沿处理（Rim modification）,唯一值,,"P1A401：加厚口Thickened rim
+其他：填入实际值
+未知：null",,加厚口->P1A401,加厚口: Thickened rim
+陶器 pottery,,,,,,P1F5：口径尺度（Rim size）,数量值,,填入数量（单位：mm），没有提及就写入null,,,
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,P2 颈部特征（Neck Attributes）,\,属性族,,"P2F1：颈部形态 Neck Shape
+P2F2：颈部高度 Neck Height",束颈、长颈、短颈、高颈、直颈、斜直颈、粗颈、细颈、卷沿、折沿,束颈 -> P2F101; 长颈 -> P2F201; 短颈 -> P2F202; 颈部形态->P2F1; 颈部高度->P2F2,颈部内收=束颈; 颈长=长颈; 颈部形态: Neck Shape; 颈部高度: Neck Height
+陶器 pottery,,,,,,P2 颈部特征（Neck Attributes）的字典相关,待补充,,"P2F101：束颈 Constricted neck
+P2F102：直颈 Straight neck
+P2F103：喇叭颈 Trumpet neck
+P2F104：斜直颈 Slanted straight neck
+P2F201：长颈 Long neck
+P2F202：短颈 Short neck
+P2F203：高颈 High neck
+P2F204：细颈 Thin/Narrow neck
+P2F205：粗颈 Thick neck
+其他：填入实际值
+未知：null",,束颈->P2F101; 直颈->P2F102; 喇叭颈->P2F103; 斜直颈->P2F104; 长颈->P2F201; 短颈->P2F202; 高颈->P2F203; 细颈->P2F204; 粗颈->P2F205,束颈: Constricted neck; 直颈: Straight neck; 喇叭颈: Trumpet neck; 斜直颈: Slanted straight neck; 长颈: Long neck; 短颈: Short neck; 高颈: High neck; 细颈: Thin/Narrow neck; 粗颈: Thick neck
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,P3 肩部特征（Shoulder Attributes）,\,属性族,,P3F1：肩部形态 Shoulder Shape,溜肩、折肩、鼓肩、广肩、耸肩、平肩、圆肩,溜肩 -> P3F101; 折肩 -> P3F102; 肩部形态->P3F1,肩部圆鼓=鼓肩; 肩部形态: Shoulder Shape
+陶器 pottery,,,,,,P3 肩部特征（Shoulder Attributes）的字典相关,待补充,,"P3F101：溜肩 Sloping shoulder
+P3F102：折肩 Angular shoulder
+P3F103：鼓肩 Rounded/Bulging shoulder
+P3F104：广肩 Broad shoulder
+P3F105：耸肩 High/Raised shoulder
+P3F106：平肩 Flat shoulder
+其他：填入实际值
+未知：null",,溜肩->P3F101; 折肩->P3F102; 鼓肩->P3F103; 广肩->P3F104; 耸肩->P3F105; 平肩->P3F106,溜肩: Sloping shoulder; 折肩: Angular shoulder; 鼓肩: Rounded/Bulging shoulder; 广肩: Broad shoulder; 耸肩: High/Raised shoulder; 平肩: Flat shoulder
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,P4 腹部特征（Body / Belly Attributes）,\,属性族,,"P4F1	：丰满度Body fullness
+P4F2	：轮廓Body profile
+P4F3	：比例Vertical proportion",,丰满度->P4F1; 轮廓->P4F2; 比例->P4F3,丰满度: Body fullness; 轮廓: Body profile; 比例: Vertical proportion
+陶器 pottery,,,,,,P4F1：丰满度,唯一值,,"P4F101：鼓腹	Globular belly
+P4F102：球腹 Spherical belly
+P4F103：卵形腹 Ovoid belly
+P4F104：扁腹 Flattened belly
+其他：填入实际值
+未知：null",,鼓腹->P4F101; 球腹->P4F102; 卵形腹->P4F103; 扁腹->P4F104,鼓腹: Globular belly; 球腹: Spherical belly; 卵形腹: Ovoid belly; 扁腹: Flattened belly
+陶器 pottery,,,,,,P4F2：轮廓,唯一值,,"P4F201：直腹	Straight-sided body
+P4F202：斜腹	Slanted body
+P4F203：收腹	Contracting body
+P4F204：鼓棱腹 Ribbed belly
+其他：填入实际值
+未知：null",,直腹->P4F201; 斜腹->P4F202; 收腹->P4F203; 鼓棱腹->P4F204,直腹: Straight-sided body; 斜腹: Slanted body; 收腹: Contracting body; 鼓棱腹: Ribbed belly
+陶器 pottery,,,,,,P4F3： 比例,唯一值,,"P4F301：深腹 Deep body
+P4F302：浅腹	Shallow body
+P4F303：长腹	Elongated body
+P4F304：矮腹	Short body
+其他：填入实际值
+未知：null",,深腹->P4F301; 浅腹->P4F302; 长腹->P4F303; 矮腹->P4F304,深腹: Deep body; 浅腹: Shallow body; 长腹: Elongated body; 矮腹: Short body
+陶器 pottery,,,,,P5 底型（Base type）,\,唯一值,,"P5F101：圜底 Rounded base
+P5F102：平底 Flat base
+其他：填入实际值
+未知：null",,圜底->P5F101; 平底->P5F102,圜底: Rounded base; 平底: Flat base
+陶器 pottery,,,,,P6 足型（Foot / Support）,\,唯一值,,"P6F101：圈足 Ring foot
+P6F102：高圈足 High ring foot
+P6F103：低圈足 Low ring foot
+P6F104：平折足 Folded flat foot
+P6F105：三角足 Triangular foot
+P6F106：三棱足 Trilateral foot
+P6F107：鱼鳍足 Fin-shaped foot
+P6F108：锥形足 Conical foot
+其他：填入实际值
+未知：null",,圈足->P6F101; 高圈足->P6F102; 低圈足->P6F103; 平折足->P6F104; 三角足->P6F105; 三棱足->P6F106; 鱼鳍足->P6F107; 锥形足->P6F108,圈足: Ring foot; 高圈足: High ring foot; 低圈足: Low ring foot; 平折足: Folded flat foot; 三角足: Triangular foot; 三棱足: Trilateral foot; 鱼鳍足: Fin-shaped foot; 锥形足: Conical foot
+陶器 pottery,,,,,P7 器壁特征（Wall / Thickness）,\,唯一值,,"P7F101：厚壁 Thick wall
+P7F102：薄壁 Thin wall
+P7F103：均匀壁 Uniform wall
+P7F104：不均匀壁 Uneven wall
+其他：填入实际值
+未知：null",,厚壁->P7F101; 薄壁->P7F102; 均匀壁->P7F103; 不均匀壁->P7F104,厚壁: Thick wall; 薄壁: Thin wall; 均匀壁: Uniform wall; 不均匀壁: Uneven wall
+陶器 pottery,,,,,P8 附件特征（Appendage Attributes）,\,唯一值,,"P8F101：附耳	Applied ear
+P8F102：扁耳	Flat ear
+P8F103：立耳	Vertical ear
+P8F104：侧耳	Lateral ear
+P8F105：系钮	Suspension knob
+P8F106：钮 Knob
+P8F107：鋬手/把手 Handle
+P8F108：附加塑饰 Applied plastic decoration
+P8F109：突棱 Raised ridge
+其他：填入实际值
+未知：null",,附耳->P8F101; 扁耳->P8F102; 立耳->P8F103; 侧耳->P8F104; 系钮->P8F105; 把手->P8F107; 鋬手->P8F107; 附加塑饰->P8F108; 突棱->P8F109,鋬手: 把手; 附耳: Applied ear; 扁耳: Flat ear; 立耳: Vertical ear; 侧耳: Lateral ear; 系钮: Suspension knob; 钮: Knob; 鋬手: / Handle; 附加塑饰: Applied plastic decoration; 突棱: Raised ridge
+陶器 pottery,,,,,P9 其他,\,文本,,原文描述,,提取原文描述,
+陶器 pottery,,,,,P10 未知,\,文本,,如果没有相关描述即为：无相关内容,,,
+陶器 pottery,器物组合,VesselAssemblageType,"同一出土单位内共存器物的模式，陶器所属的组合类型，其差异可反映时间分期。器物组合可以是归纳后的组合，也可以是客观的器物和器物的组合，例如杯盘组合。
+Scope note：器物组合常用于构建配套组（assemblage group）并指示生活方式变化。
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",组合情境 Context Domain,\,\,属性族,,"CD1	：炊煮系统	
+CD2	：礼制系统	
+CD3	：饮食系统	
+CD4	：储藏系统	
+CD5	：墓葬系统	
+CD6	：生产设施
+CD7：其他（other)
+CD8：未知（NULL)	
+*分支除未知外，皆为复选",炊煮组合、礼仪组合、储藏组合、随葬组合、饮食组合、水器组合、生产工具组合、家庭组合、鼎簋组合、杯盘组合等,炊煮系统->CD1; 礼制系统->CD2; 饮食系统->CD3; 储藏系统->CD4; 墓葬系统->CD5; 生产设施->CD6,其他: （other); 未知: （NULL)
+陶器 pottery,,,,,CD1 炊煮系统,\,唯一值,,"CD101	：炊煮组合Cooking set	
+CD102：蒸煮组合（甑-釜）	Steaming set	
+CD103：炊食一体组合 Cooking–serving set
+其他：填入实际值
+未知：null	",,炊煮组合->CD101; 蒸煮组合->CD102; 炊食一体组合->CD103,炊煮组合: Cooking set; 蒸煮组合: （-） Steaming set; 炊食一体组合: Cooking–serving set
+陶器 pottery,,,,,CD2 礼制系统,\,唯一值,,"CD201：鼎簋组合 Ding–Gui set	
+CD202	：礼仪食器组合Ritual food set	
+CD203	：礼仪饮酒组合Ritual drinking set	
+其他：填入实际值
+未知：null",,鼎簋组合->CD201; 礼仪食器组合->CD202; 礼仪饮酒组合->CD203,鼎簋组合: Ding–Gui set; 礼仪食器组合: Ritual food set; 礼仪饮酒组合: Ritual drinking set
+陶器 pottery,,,,,CD3 饮食系统,\,唯一值,,"CD301	：杯盘组合Cup–Plate set	
+CD302：注饮组合（壶-杯）	Pouring–drinking set
+其他：填入实际值
+未知：null",,杯盘组合->CD301; 注饮组合->CD302,杯盘组合: Cup–Plate set; 注饮组合: （-） Pouring–drinking set
+陶器 pottery,,,,,CD4 储藏系统,\,唯一值,,"CD401	：储藏组合Storage jar set	
+CD402	：家庭组合Household mixed set	
+其他：填入实际值
+未知：null",,储藏组合->CD401; 家庭组合->CD402,储藏组合: Storage jar set; 家庭组合: Household mixed set
+陶器 pottery,,,,,CD5 墓葬系统,\,唯一值,,"CD501	：随葬组合Funerary provision set	
+CD502	：明器/模型组合Model-based funerary set
+其他：填入实际值
+未知：null	",,随葬组合->CD501; 明器->CD502; 模型组合->CD502,明器: 模型组合; 随葬组合: Funerary provision set; 明器: /Model-based funerary set
+陶器 pottery,,,,,CD6 生产设施,\,唯一值,,"CD601：生产工具组合 Production tool set	
+CD602：水器/井具组合 Water facility set	
+CD603：灶—炊器组合 Kitchen installation set	
+其他：填入实际值
+未知：null",,生产工具组合->CD601; 水器->CD602; 井具组合->CD602; 炊器组合->CD603,水器: 井具组合; 生产工具组合: Production tool set; 水器: / Water facility set; 灶: — Kitchen installation set
+陶器 pottery,,,,,CD7 其他,\,文本,,原文描述,,提取原文描述,
+陶器 pottery,,,,,CD8 未知,\,文本,,如果没有相关描述即为：无相关内容,,,
+陶器 pottery,量度信息,MetricInformation,"器物的尺寸结构化数据，用于定量研究
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",量度分类,\,\,属性族,,"MT1：高度类
+MT2：直径类
+MT3：容积体积
+MT4：质量/重量
+MT5：壁厚类
+MT6：比例与指数",,高度->MT1; 高度类->MT1; 直径->MT2; 直径类->MT2; 容积体积->MT3; 质量->MT4; 重量->MT4; 壁厚->MT5; 壁厚类->MT5; 比例与指数->MT6,高度: 高度类; 直径: 直径类; 质量: 重量; 壁厚: 壁厚类; 重量: 质量
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,高度类（mm）,\,属性族,,"MT101：vessel_height 器高（完整器）
+MT102：rim_to_shoulder_h 口至肩高度
+MT103：shoulder_to_base_h 肩至底高度",,器高->MT101; 完整器->MT101; 口至肩高度->MT102; 肩至底高度->MT103,器高: 完整器; 器高: vessel_height （）; 口至肩高度: rim_to_shoulder_h; 肩至底高度: shoulder_to_base_h
+陶器 pottery,,,,,,MT101：vessel_height 器高（完整器）,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT102：rim_to_shoulder_h 口至肩高度,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT103：shoulder_to_base_h 肩至底高度,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,直径类（mm）,\,属性族,,"MT201	：	口径Rim diameter (RD)
+MT202	：颈径Neck diameter	
+MT203	：肩径Shoulder diameter	
+MT204	：最大腹径Maximum body diameter (BDmax)	
+MT205	：腹径（未说明最大/最小）Body diameter (BD)	
+MT206	：底径Base diameter	
+MT207	：	足径Foot diameter (FD)
+MT208	：内口径（若报告出现）Inner rim diameter	",高度、口径、腹径、足径、厚度、比例、容积、重量、长度、宽度等,口径 -> MT201; 腹径 -> MT205; 足径 -> MT207; 口径->MT201; 颈径->MT202; 肩径->MT203; 最大腹径->MT204; 腹径->MT205; 最小->MT205; 未说明最大->MT205; 底径->MT206; 足径->MT207; 内口径->MT208; 若报告出现->MT208,"最大腹径: 腹径; 腹径: 最小; 内口径: 口径; 口径: Rim diameter (RD); 颈径: Neck diameter; 肩径: Shoulder diameter; 最大腹径: Maximum body diameter (BDmax); 腹径: （/）Body diameter (BD); 底径: Base diameter; 足径: Foot diameter (FD); 内口径: （）Inner rim diameter; 腹径: 最小, 未说明最大; 内口径: 若报告出现"
+陶器 pottery,,,,,,MT201	：	口径Rim diameter (RD),数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT202	：颈径Neck diameter	,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT203	：肩径Shoulder diameter,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT204	：最大腹径Maximum body diameter (BDmax),数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT205	：腹径（未说明最大/最小）Body diameter (BD),数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,	MT206	：底径Base diameter	,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT207	：	足径Foot diameter (FD),数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT208	：内口径（若报告出现）Inner rim diameter	,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,容积体积,\,属性族,,"MT301	：容积/容量Capacity (Vcap)	
+MT302	：体积（计算/复原）Volume (V)	",,容量->MT301; 容积->MT301; 计算->MT302; 复原->MT302; 体积->MT302,"容量: 容积; 复原: 体积, 计算; 容积: /Capacity (Vcap); 体积: （/）Volume (V); 容积: 容量; 体积: 计算, 复原"
+陶器 pottery,,,,,,MT301：容积/容量Capacity (Vcap),数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT302：体积（计算/复原）Volume (V),数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,质量/重量（Mass）,\,属性族,,MT401：Mass/Weight重量,,重量->MT401,重量: Mass/Weight
+陶器 pottery,,,,,,MT401：Mass/Weight重量,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,壁厚类（mm）,\,属性族,,"MT501	：器壁厚（平均）Wall thickness (avg)	
+MT502	：口沿厚Rim thickness	
+MT503	：底厚Base thickness	
+MT504	：最小厚度Min thickness	
+MT505	：最大厚度Max thickness	",,平均->MT501; 器壁厚->MT501; 口沿厚->MT502; 底厚->MT503; 最小厚度->MT504; 最大厚度->MT505,平均: 器壁厚; 器壁厚: （）Wall thickness (avg); 口沿厚: Rim thickness; 底厚: Base thickness; 最小厚度: Min thickness; 最大厚度: Max thickness
+陶器 pottery,,,,,,MT501：器壁厚（平均）Wall thickness (avg),数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT502：口沿厚Rim thickness,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT503：底厚Base thickness,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT504：最小厚度Min thickness,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT505：最大厚度Max thickness,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),,比例与指数,\,属性族,,"MT601：Height-to-rim ratio (H/RD)	高口比
+MT602	：高腹比Height-to-body ratio (H/BDmax)	
+MT603	：口腹比Rim-to-body ratio (RD/BDmax)
+MT604	：修长指数（一般指 H/BDmax）Slenderness index
+MT605	：薄胎指数（与厚度相关的标准化指标）Wall thinness index	",,高口比->MT601; 高腹比->MT602; 口腹比->MT603; 一般指->MT604; 修长指数->MT604; 薄胎指数->MT605; 与厚度相关的标准化指标->MT605,一般指: 修长指数; 薄胎指数: 与厚度相关的标准化指标; 高口比: Height-to-rim ratio (H/RD); 高腹比: Height-to-body ratio (H/BDmax); 口腹比: Rim-to-body ratio (RD/BDmax); 修长指数: （ H/BDmax）Slenderness index; 薄胎指数: （）Wall thinness index
+陶器 pottery,,,,,,MT601：Height-to-rim ratio (H/RD) 高口比,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT602：高腹比Height-to-body ratio (H/BDmax),数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT603：口腹比Rim-to-body ratio (RD/BDmax),数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT604：修长指数（一般指 H/BDmax）Slenderness index,数量值,,根据描述填入数值，缺失则为null,,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,,,,,,MT605：薄胎指数（与厚度相关的标准化指标）Wall thinness index,数量值,,根据描述填入数值，缺失则为null,泥质灰、夹砂褐、泥质红、夹砂灰、夹砂红、泥质黑、泥质褐、夹砂黑、夹炭红、夹细砂灰、夹粗砂褐、泥质黄、夹细砂褐、夹细砂红、夹粗砂红,"提取数值 (e.g. ""15cm"" -> 15)",
+陶器 pottery,器物功能,FunctionalType,"按器物用途进行分类，陶器制造时的预设用途。
+Scope note：功能判断常用于识别相同器型在不同时期的用途变化。
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",器物功能,\,\,属性族,,"FT1：日常与生计
+FT2：生产
+FT3：礼仪与信仰
+FT4：丧葬与象征
+FT5：建筑与设施
+FT6：社会与娱乐
+FT7：其他
+FT8：未知
+*分支除未知外，皆为复选",,日常与生计->FT1; 生产->FT2; 礼仪与信仰->FT3; 丧葬与象征->FT4; 建筑与设施->FT5; 社会与娱乐->FT6,
+陶器 pottery,,,,,FT1：日常与生计,\,多值,,"
+FT101	：炊煮	Cooking
+FT102	：蒸煮	Steaming
+FT103	：盛食	Serving food
+FT104	：储藏	Storage
+FT105	：盛水	Water holding
+FT106	：注水	Pouring water
+FT107	：过滤	Filtering
+其他：填入实际值
+未知：null","炊煮类、盛储类、水器类、过滤器类、纺织工具、生产工具、礼器、冥器、模型明器、俑及偶像、建筑材料、娱乐与玩具等
+
+炊煮用器：鼎、甑、锅、鬲、灶具
+盛储用器：罐、缸、壶、盆、盒
+饮食器：杯、豆、盘、碗
+水器：壶、罐、瓿
+生产工具：纺轮、纺锤、磨盘、坩埚
+礼仪器：尊、觚、鼎（礼儀用）、豆（礼儀用）
+冥器/随葬器：明器、模型器
+俑及偶像：人物俑、动物俑、神怪俑等
+模型明器	陶屋、陶仓、陶灶、陶井、陶磨等。",炊煮用器：鼎 -> FT101; 炊煮类 -> FT101; 过滤器类 -> FT107; 炊煮->FT101; 蒸煮->FT102; 盛食->FT103; 储藏->FT104; 盛水->FT105; 注水->FT106; 过滤->FT107,"炊煮: 炊煮类, 炊煮用器：鼎; 过滤: 过滤器类; 炊煮: Cooking; 蒸煮: Steaming; 盛食: Serving food; 储藏: Storage; 盛水: Water holding; 注水: Pouring water; 过滤: Filtering"
+陶器 pottery,,,,,FT2：生产,\,多值,,"FT201：纺织 Textile production
+FT202：农业 Agricultural processing
+FT203：手工业 Craft production
+FT204：制陶 Pottery production
+其他：填入实际值
+未知：null",,纺织->FT201; 农业->FT202; 手工业->FT203; 制陶->FT204,纺织: Textile production; 农业: Agricultural processing; 手工业: Craft production; 制陶: Pottery production
+陶器 pottery,,,,,FT3：礼仪与信仰,\,多值,,"FT301：礼仪盛食 Ritual food service
+FT302：礼仪饮酒 Ritual drinking
+FT303：供献 Offering
+FT304：信仰象征 Religious symbolism
+其他：填入实际值
+未知：null",,礼仪盛食->FT301; 礼仪饮酒->FT302; 供献->FT303; 信仰象征->FT304,礼仪盛食: Ritual food service; 礼仪饮酒: Ritual drinking; 供献: Offering; 信仰象征: Religious symbolism
+陶器 pottery,,,,,FT4：丧葬与象征,\,多值,,"FT401	：随葬使用	Funerary use
+FT402	：明器象征	Mingqi symbolism
+FT403	：人像/偶像	Figurine / idol
+其他：填入实际值
+未知：null",,随葬使用->FT401; 明器象征->FT402; 偶像->FT403; 人像->FT403,人像: 偶像; 随葬使用: Funerary use; 明器象征: Mingqi symbolism; 人像: / Figurine / idol
+陶器 pottery,,,,,FT5：建筑与设施,\,多值,,"FT501	：建筑构件	Architectural component
+FT502	：生活设施	Domestic installation
+其他：填入实际值
+未知：null",,建筑构件->FT501; 生活设施->FT502,建筑构件: Architectural component; 生活设施: Domestic installation
+陶器 pottery,,,,,FT6：社会与娱乐,\,多值,,"FT601	：玩具	Toy
+FT602	：乐器	Musical instrument
+FT603	：娱乐	Leisure object
+其他：填入实际值
+未知：null",,玩具->FT601; 乐器->FT602; 娱乐->FT603,玩具: Toy; 乐器: Musical instrument; 娱乐: Leisure object
+陶器 pottery,,,,,FT7：其他,\,文本,,原文描述,,提取原文描述,
+陶器 pottery,,,,,FT8：未知,\,文本,,如果没有相关描述即为：无相关内容,,,
+陶器 pottery,成型工艺,Forming Technique,成型阶段的技术路线或基础技术,动力系统（power_system）,\,\,唯一值,,"P0：无轮/无持续旋转（Hand-powered）--手制
+P1：慢轮/转盘（Tournette / slow wheel）-慢轮/慢轮修正
+P2：快轮拉坯（Fast wheel throwing）-轮制/快轮拉胚
+其他：填入实际值
+未知：null",手制、轮制、泥条盘筑、模制、复合成型、倒筑/圈筑、捏塑、盘筑法、泥片拼接法、捏塑法、拍打法、慢轮修整、快轮拉坯、轮制＋手工修整等,快轮拉坯 -> P2; 慢轮修整 -> P1; 无轮->P0; 手制->P0; 无持续旋转->P0; 慢轮->P1; 转盘->P1; 慢轮修正->P1; 轮制->P2; 快轮拉胚->P2; 快轮拉坯->P2,"轮制: 快轮拉坯, 快轮拉胚; 慢轮: 转盘, 慢轮修整, 慢轮修正; 无轮: 手制, 无持续旋转; 无轮: /（Hand-powered）--; 慢轮: /（Tournette / slow wheel）-/; 快轮拉坯: （Fast wheel throwing）-/; 轮制: 快轮拉胚, 快轮拉坯; 转盘: 慢轮, 慢轮修正, 慢轮修整; 手制: 无轮, 无持续旋转"
+陶器 pottery,,,,主成型方式（primary_forming）,\,\,唯一值,,"F10：捏塑（Pinching / modeling as primary）
+F20：泥条盘筑/盘筑（Coiling as primary）
+F21：倒筑/圈筑（Coiling variant / ring-building）
+F30：泥片拼接/泥板成型（Slab-building as primary）
+F40：模制（Molding as primary）
+F50：轮制拉坯为主（Wheel-throwing as primary）
+其他：填入实际值
+未知：null",手制、轮制、泥条盘筑、模制、复合成型、倒筑/圈筑、捏塑、盘筑法、泥片拼接法、捏塑法、拍打法、慢轮修整、快轮拉坯、轮制＋手工修整等,倒筑/圈筑 -> F21; 捏塑 -> F10; 捏塑法 -> F10; 模制 -> F40; 泥条盘筑 -> F20; 泥片拼接法 -> F30; 轮制 -> F50; 捏塑->F10; 盘筑->F20; 泥条盘筑->F20; 倒筑->F21; 圈筑->F21; 泥板成->F30; 泥板成型->F30; 泥片拼接->F30; 模制->F40; 轮制拉坯为主->F50,"圈筑: 倒筑, 倒筑/圈筑; 捏塑: 捏塑法; 盘筑: 泥条盘筑; 泥板成: 泥板成型, 泥片拼接, 泥片拼接法; 轮制: 轮制拉坯为主; 捏塑: （Pinching / modeling as primary）; 泥条盘筑: /（Coiling as primary）; 倒筑: /（Coiling variant / ring-building）; 泥片拼接: /（Slab-building as primary）; 模制: （Molding as primary）; 轮制拉坯为主: （Wheel-throwing as primary）; 泥板成: 泥片拼接, 泥板成型, 泥片拼接法"
+陶器 pottery,,,,辅助成型（secondary_ops）,\,\,多值,,"S10：拍打法/拍打（Paddle-and-anvil / paddling）
+S20：慢轮修整（Wheel-finishing on slow wheel）
+S21：轮上修整（Wheel-finishing, speed unknown）
+S30：手工修整（Hand finishing / trimming without wheel）
+S40：附件加制（Applied features: 耳、鋬、足、流等）
+S50：复合成型标记（Composite forming flag）——仅作为标记，不当作工艺本体
+其他：填入实际值
+未知：null",手制、轮制、泥条盘筑、模制、复合成型、倒筑/圈筑、捏塑、盘筑法、泥片拼接法、捏塑法、拍打法、慢轮修整、快轮拉坯、轮制＋手工修整等,拍打砧垫-S10; 复合成型 -> S50; 慢轮修整 -> S20; 拍打法 -> S10; 轮制＋手工修整等 -> S30; 拍打->S10; 拍打法->S10; 慢轮修整->S20; 轮上修整->S21; 手工修整->S30; 流等->S40; 附件加制->S40; 仅作为标记->S50; 复合成型标记->S50; 不当作工艺本体->S50,"复合成型: 仅作为标记, 复合成型标记, 不当作工艺本体; 拍打: 拍打法; 手工修整: 轮制＋手工修整等; 流等: 附件加制; 拍打法: /（Paddle-and-anvil / paddling）; 慢轮修整: （Wheel-finishing on slow wheel）; 轮上修整: （Wheel-finishing, speed unknown）; 手工修整: （Hand finishing / trimming without wheel）; 附件加制: （Applied features: 、、、）; 复合成型标记: （Composite forming flag）——，"
+陶器 pottery,,,,组合链operation_chain,\,\,文本,,根据动力系统、主成型方式、辅助成型的类型进行组合填写；示例（盘筑→拍打→慢轮修整）：1，F20 primary  2，S10 secondary  3，S20 secondary；没有相关描述则填写“无相关内容”,,,
+陶器 pottery,修整技术,Finishing Technique,成型后对表面或局部的修整方法,形态校正与表面平整（Morphological Correction）,\,\,唯一值,,"FTQ101：刮削整形（Abrasive removal）：a、刮削
+FTQ102： 抹平整形（Plastic smoothing）：a、 抹光；b、细整抹平
+FTQ103： 拍压整形（Percussive compression）：a、 抛压
+FTQ104： 减材整形（Material removal shaping）：a、 修坯 / 车削（Trimming / turning）；b、 系统性减薄（Systematic thinning）
+FTQ105： 接合修正（Joint correction）：a、拼接/接合修正
+FTQ106：其他（other)
+FTQ107：未知（NULL)
+
+说明：抛压既可服务于 FTQ1（形态）也可服务于 FTQ2（光泽），以功能主导判定。",磨光、抹光、刮削、拍印、抛压、刻划修整、细整抹平、涂泥衣、施釉（晚期）等,刮削 -> FTQ101; 刮削->FTQ101; 刮削整形->FTQ101; 抹光->FTQ102; 细整抹平->FTQ102; 抹平整形->FTQ102; 抛压->FTQ103; 拍压整形->FTQ103; 车削->FTQ104; 修坯->FTQ104; 减材整形->FTQ104; 拼接->FTQ105; 接合修正->FTQ105,"刮削: 刮削整形; 抹光: 抹平整形, 细整抹平; 抛压: 拍压整形; 车削: 修坯, 减材整形; 拼接: 接合修正; 刮削整形: （Abrasive removal）：a、; 抹平整形: （Plastic smoothing）：a、 ；b、; 拍压整形: （Percussive compression）：a、; 减材整形: （Material removal shaping）：a、 / （Trimming / turning）；b、 （Systematic thinning）; 接合修正: （Joint correction）：a、/; 其他: （other); 未知: （NULL); 抹光: 细整抹平, 抹平整形"
+陶器 pottery,,,,表面致密与光泽提升（Surface Compaction & Luster）,\,\,唯一值,,"FTQ201：磨光（Abrasive polishing）：a、磨光
+FTQ202： 抛光/压光（Burnishing）：a、抛压（若以光泽为主；与 FTQ103-a共享方法，功能不同）
+
+说明：抛压既可服务于 FTQ1（形态）也可服务于 FTQ2（光泽），以功能主导判定。",,磨光->FTQ201; 抛压->FTQ202; 压光->FTQ202; 抛光->FTQ202,"抛压: 压光, 抛光; 磨光: （Abrasive polishing）：a、; 抛光: /（Burnishing）：a、（； FTQ103-a，）; 压光: 抛光, 抛压"
+陶器 pottery,,,,表面纹饰与信息添加（Surface Marking & Decoration）,\,\,唯一值,,"FTQ301： 拍印（Impressed decoration）：a、拍印
+FTQ302： 刻划（Incision & engraving）：a、刻划修整
+",方格、云雷、三角、水波、叶脉、乳钉,拍印->FTQ301; 刻划->FTQ302; 刻划修整->FTQ302,刻划: 刻划修整; 拍印: （Impressed decoration）：a、; 刻划: （Incision & engraving）：a、
+陶器 pottery,,,,表面覆层与质地改性（Surface Coating & Texture Modification）,\,\,唯一值,,"FTQ401-1：红衣 Red slip
+FTQ401-2：黑衣 Black slip
+FTQ401-3：白衣 White slip
+FTQ401-4：紫衣/褐色衣 Purple/Brown slip
+FTQ401-5：朱绘/涂朱 Painted vermilion
+FTQ401-6：一般陶衣（未详色）General slip
+其他：填入实际值",施红衣、器表黑衣、白衣脱落、外红内黑衣、涂朱,施红衣 -> FTQ401-1; 涂黑衣 -> FTQ401-2; 器表黑衣 -> FTQ401-2; 外红内黑衣 -> FTQ401-2; 施红衣 -> FTQ401-1; 白衣脱落 -> FTQ401-3; 红衣->FTQ401-1; 黑衣->FTQ401-2; 白衣->FTQ401-3; 紫衣->FTQ401-4; 褐色衣->FTQ401-4; 朱绘->FTQ401-5; 涂朱->FTQ401-5; 未详色->FTQ401-6; 一般陶衣->FTQ401-6,"红衣: 施红衣; 黑衣: 涂黑衣, 器表黑衣, 外红内黑衣; 白衣: 白衣脱落; 紫衣: 褐色衣; 朱绘: 涂朱; 未详色: 一般陶衣; 红衣: Red slip; 黑衣: Black slip; 白衣: White slip; 紫衣: / Purple/Brown slip; 朱绘: / Painted vermilion; 一般陶衣: （）General slip; 涂朱: 朱绘"
+陶器 pottery,,,,烧成相关表面处理（Firing-related Surface Treatment）,\,\,唯一值,,"FTQ501： 施釉（Glazing）：a、施釉
+",,施釉->FTQ501,施釉: （Glazing）：a、
+陶器 pottery,,,,缺陷修复与容错（Pre-firing repair & defect management）,\,\,唯一值,,"FTQ601： 烧前修补：a、 烧前修补（Pre-firing repair）
+",,烧前修补->FTQ601,烧前修补: ：a、 （Pre-firing repair）
+陶器 pottery,,,,修正强度（post_forming_intensity）,\,\,唯一值,,"I1：局部/轻微（low）
+I2：系统但不完全（medium）
+I3：全器系统修正（high）
+I4：其他
+I5：未知（unknown)",,轻微->I1; 局部->I1; 系统但不完全->I2; 全器系统修正->I3,局部: 轻微; 局部: /（low）; 系统但不完全: （medium）; 全器系统修正: （high）; 未知: （unknown)
+陶器 pottery,装饰手法,Decoration Technique,施加纹饰的动作或技术方式,装饰阶段 Decorative Stage,\,\,唯一值,,"DS1	：塑性阶段装饰（未完全干燥）Plastic-stage decoration	
+DS2	：半干阶段装饰Leather-hard decoration	
+DS3	：干燥阶段装饰Dry-stage decoration	
+DS4	：烧前表面处理Pre-firing surface treatment	
+DS5	：烧后装饰Post-firing decoration
+D36：其他（other)
+DS7：未知（NULL)	",刻划、拍印、戳点、彩绘、贴饰、镂空、堆纹、压印、刺戳、绳纹等、方格、云雷、三角,未完全干燥->DS1; 塑性阶段装饰->DS1; 半干阶段装饰->DS2; 干燥阶段装饰->DS3; 烧前表面处理->DS4; 烧后装饰->DS5,未完全干燥: 塑性阶段装饰; 塑性阶段装饰: （）Plastic-stage decoration; 半干阶段装饰: Leather-hard decoration; 干燥阶段装饰: Dry-stage decoration; 烧前表面处理: Pre-firing surface treatment; 烧后装饰: Post-firing decoration; 其他: （other); 未知: （NULL)
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),装饰机理大类 Decorative Mechanism,\,\,属性族,,"DM1	：减材型Subtractive (incised)	
+DM2	：加材型Additive (applied)	
+DM3	：压印型Impressed	
+DM4	：表面涂覆与着色Surface coating & coloring	
+DM5	：表面物理改性Surface modification	
+DM6	：穿孔型Perforation	
+DM7：其他（other)
+DM8：未知（NULL)	",方格、云雷、三角、水波、叶脉、乳钉,减材->DM1; 减材型->DM1; 加材->DM2; 加材型->DM2; 压印->DM3; 压印型->DM3; 表面涂覆与着色->DM4; 表面物理改性->DM5; 穿孔->DM6; 穿孔型->DM6,减材: 减材型; 加材: 加材型; 压印: 压印型; 穿孔: 穿孔型; 减材型: Subtractive (incised); 加材型: Additive (applied); 压印型: Impressed; 表面涂覆与着色: Surface coating & coloring; 表面物理改性: Surface modification; 穿孔型: Perforation; 其他: （other); 未知: （NULL)
+陶器 pottery,,,,,DM1 减材型（Subtractive）,\,多值,,"DF101：刻划	Incising	
+DF102	：梳划Combing	
+DF103	：刮削装饰Scraping	
+其他：填入实际值
+未知：null	",,刻划->DF101; 梳划->DF102; 刮削装饰->DF103,刻划: Incising; 梳划: Combing; 刮削装饰: Scraping
+陶器 pottery,,,,,DM2 加材型（Additive）,\,多值,,"DF201	：贴塑 / 堆贴Appliqué	
+DF202：模印浮雕	Molded relief
+其他：填入实际值
+未知：null	",,贴塑->DF201; 堆贴->DF201; 模印浮雕->DF202,贴塑: 堆贴; 贴塑: / Appliqué; 模印浮雕: Molded relief; 堆贴: 贴塑
+陶器 pottery,,,,,DM3 压印型（Impressed）,\,多值,,"DF301：戳印 / 压印	Stamping	
+DF302：拍印Paddle-impressed	
+DF303	：绳纹Cord-marking	
+DF304	：编织物印痕Textile impression	
+其他：填入实际值
+未知：null",,压印->DF301; 戳印->DF301; 拍印->DF302; 绳纹->DF303; 编织物印痕->DF304,戳印: 压印; 戳印: / Stamping; 拍印: Paddle-impressed; 绳纹: Cord-marking; 编织物印痕: Textile impression; 压印: 戳印
+陶器 pottery,,,,,DM4 涂覆与着色,\,多值,,"DF401	：施化妆土 / 涂层Slip coating	
+DF402：彩绘 / 涂绘	Painting	
+DF403	：涂染Wash / coating	
+其他：填入实际值
+未知：null",,涂层->DF401; 施化妆土->DF401; 涂绘->DF402; 彩绘->DF402; 涂染->DF403,施化妆土: 涂层; 彩绘: 涂绘; 施化妆土: / Slip coating; 彩绘: / Painting; 涂染: Wash / coating; 涂层: 施化妆土; 涂绘: 彩绘
+陶器 pottery,,,,,DM5 表面物理改性（Surface modification）,\,多值,,"DF501：磨光	Burnishing	
+DF502：抛光	Polishing	
+DF503：表面整饰	Texturing	
+其他：填入实际值
+未知：null",,磨光->DF501; 抛光->DF502; 表面整饰->DF503,磨光: Burnishing; 抛光: Polishing; 表面整饰: Texturing
+陶器 pottery,,,,,DM6 穿孔型（Perforation）,\,多值,,"DF601：点刺	Punctation	
+DF602	：穿孔Piercing	
+其他：填入实际值
+未知：null",,点刺->DF601; 穿孔->DF602,点刺: Punctation; 穿孔: Piercing
+陶器 pottery,,,,,DM7：其他（other),\,文本,,原文描述,,提取原文描述,
+陶器 pottery,,,,,DM8：未知（NULL),\,文本,,填入无相关内容,,提取原文描述,
+陶器 pottery,纹饰类型,DecorativeMotifType,纹样样式的分类体系和具体团，是形态识别与文化分析关键,纹饰呈现方式Motif Medium,\,\,多值,,"MM1：立体/塑性纹（凸起、贴饰、浮雕）Plastic relief (3D)
+MM2：线刻/凹刻纹（刻划、雀刻、划纹）Incised/engraved (2D)
+MM3：压印/拍印纹（印纹、绳纹、篮纹）Impressed (2D/low relief)	
+MM4：彩绘纹Painted (color)	
+MM5：镂孔/透孔纹Pierced (perforated)
+其他：填入实际值
+未知：null",弦纹、篮纹、旋纹、符号纹、镂孔纹、附加纹、绳纹、划纹、印纹、彩绘纹（几何、人物、动物）、浮雕纹、刻划纹、雀刻纹、凹弦纹、凸弦纹、贴饰纹、复合纹样、菱形纹、平行线纹、交叉线纹、网纹、云雷纹、圆圈纹、点纹、附加纹、旋涡纹、锯齿纹、锁口纹、连珠纹、带状纹带等。、方格、云雷、三角,彩绘纹（几何 -> MM4; 镂孔纹 -> MM5; 立体->MM1; 浮雕->MM1; 凸起->MM1; 线刻->MM2; 刻划->MM2; 雀刻->MM2; 篮纹->MM3; 压印->MM3; 印纹->MM3; 彩绘纹->MM4; 镂孔->MM5; 透孔纹->MM5,"彩绘纹: 彩绘纹（几何; 镂孔: 透孔纹, 镂孔纹; 立体: 浮雕, 凸起; 线刻: 雀刻, 刻划; 压印: 印纹, 篮纹; 立体: /（、、）Plastic relief (3D); 线刻: /（、、）Incised/engraved (2D); 压印: /（、、）Impressed (2D/low relief); 彩绘纹: Painted (color); 镂孔: /Pierced (perforated); 凸起: 浮雕, 立体; 印纹: 压印, 篮纹"
+陶器 pottery,,,,图形语法 Motif Grammar,\,\,多值,,"MG1	：线性/带状语法Linear bands	
+MG2	：几何重复语法Geometric repeated	
+MG3	：曲线/旋涡语法Curvilinear/spiral	
+MG4	：符号/记号语法Symbolic marks	
+MG5	：具象图像语法（人/兽/鸟等）Figural	
+MG6	：质感铺地语法（篮纹、绳纹、网纹）Texture fields
+其他：填入实际值
+未知：null",,线性->MG1; 带状语法->MG1; 几何重复语法->MG2; 曲线->MG3; 旋涡语法->MG3; 符号->MG4; 记号语法->MG4; 鸟等->MG5; 具象图像语法->MG5; 网纹->MG6; 绳纹->MG6; 篮纹->MG6,"线性: 带状语法; 曲线: 旋涡语法; 符号: 记号语法; 鸟等: 具象图像语法; 篮纹: 网纹, 绳纹; 线性: /Linear bands; 几何重复语法: Geometric repeated; 曲线: /Curvilinear/spiral; 符号: /Symbolic marks; 具象图像语法: （//）Figural; 质感铺地语法: （、、）Texture fields; 绳纹: 篮纹, 网纹"
+陶器 pottery,,,(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项),纹饰大类 Motif Class,\,\,属性族,,"MC10	：绳拍系Corded/rope-related	
+MC11	：编织/篮纹系Basket/weave-related	
+MC12	：弦纹/凸起线系String/raised line	
+MC13	：刻划线系Incised line patterns	
+MC14	：压印几何系Impression patterns	
+MC15	：旋涡/旋纹系Spiral/whorl patterns	
+MC16	：云雷/回纹系Thunder/cloud meander	
+MC17	：点纹/连珠系Dot & bead	
+MC18	：锯齿/折线系Zigzag & sawtooth	
+MC19	：镂孔/透孔系Openwork/perforation	
+MC20	：贴饰/浮雕系Applied/relief	
+MC21	：彩绘系Painted motifs	
+MC22	：符号纹系Symbolic marks	
+MC23：其他
+MC24：未知
+*分支为单选，填写选中的分支，其他留空",方格、云雷、三角、水波、叶脉、乳钉,云雷 -> MC16; 绳拍系->MC10; 编织->MC11; 篮纹系->MC11; 弦纹->MC12; 凸起线系->MC12; 刻划线系->MC13; 压印几何系->MC14; 旋涡->MC15; 旋纹系->MC15; 云雷->MC16; 回纹系->MC16; 点纹->MC17; 连珠系->MC17; 锯齿->MC18; 折线系->MC18; 镂孔->MC19; 透孔系->MC19; 贴饰->MC20; 浮雕系->MC20,编织: 篮纹系; 弦纹: 凸起线系; 旋涡: 旋纹系; 云雷: 回纹系; 点纹: 连珠系; 锯齿: 折线系; 镂孔: 透孔系; 贴饰: 浮雕系; 绳拍系: Corded/rope-related; 编织: /Basket/weave-related; 弦纹: /String/raised line; 刻划线系: Incised line patterns; 压印几何系: Impression patterns; 旋涡: /Spiral/whorl patterns; 云雷: /Thunder/cloud meander; 点纹: /Dot & bead; 锯齿: /Zigzag & sawtooth; 镂孔: /Openwork/perforation; 贴饰: /Applied/relief; 彩绘系: Painted motifs; 符号纹系: Symbolic marks
+陶器 pottery,,,,,MC10 绳拍系,\,唯一值,,"MTF1001：绳纹Cord-mark pattern
+其他：填入实际值
+未知：null",,绳纹->MTF1001,绳纹: Cord-mark pattern
+陶器 pottery,,,,,MC11 编织/篮纹系,\,唯一值,,"MTF1101	：篮纹	Basket-impressed pattern
+MTF1102	：网纹	Net pattern
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,篮纹->MTF1101; 网纹->MTF1102,篮纹: Basket-impressed pattern; 网纹: Net pattern
+陶器 pottery,,,,,MC13 刻划线系（含雀刻）,\,唯一值,,"MTF1301	：刻划纹	Incised pattern
+MTF1302	：划纹	Scratched line pattern
+MTF1303	：雀刻纹	Notched/incised “sparrow-peck” pattern
+MTF1304	：平行线纹	Parallel lines
+MTF1305	：交叉线纹	Cross-hatched lines
+其他：填入实际值
+未知：null",,刻划纹->MTF1301; 划纹->MTF1302; 雀刻纹->MTF1303; 平行线纹->MTF1304; 交叉线纹->MTF1305,刻划纹: Incised pattern; 划纹: Scratched line pattern; 雀刻纹: Notched/incised “sparrow-peck” pattern; 平行线纹: Parallel lines; 交叉线纹: Cross-hatched lines
+陶器 pottery,,,,,MC14 压印几何系（印纹/拍印）,\,唯一值,,"MTF1401	：印纹	Impressed pattern
+MTF1402	：菱形纹	Diamond/lozenge pattern
+MTF1403	：圆圈纹	Circle pattern
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,印纹->MTF1401; 菱形纹->MTF1402; 圆圈纹->MTF1403,印纹: Impressed pattern; 菱形纹: Diamond/lozenge pattern; 圆圈纹: Circle pattern
+陶器 pottery,,,,,MC15 旋涡/旋纹系,\,唯一值,,"MTF1501	：旋纹	Spiral pattern
+MTF1502	：旋涡纹	Whorl pattern
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,旋纹->MTF1501; 旋涡纹->MTF1502,旋纹: Spiral pattern; 旋涡纹: Whorl pattern
+陶器 pottery,,,,,MC16 云雷/回纹系,\,唯一值,,"MTF1601	：云雷纹	Cloud-and-thunder pattern
+MTF1602	：回纹	Meander pattern
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,云雷 -> MTF1601; 云雷纹->MTF1601; 回纹->MTF1602,云雷纹: 云雷; 云雷纹: Cloud-and-thunder pattern; 回纹: Meander pattern; 云雷: 云雷纹
+陶器 pottery,,,,,MC17 点纹/连珠系,\,唯一值,,"MTF1701	：点纹	Dot pattern
+MTF1702	：连珠纹	Bead-chain pattern
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,点纹->MTF1701; 连珠纹->MTF1702,点纹: Dot pattern; 连珠纹: Bead-chain pattern
+陶器 pottery,,,,,MC18 锯齿/折线系,\,唯一值,,"MTF1801	：锯齿纹	Sawtooth pattern
+MTF1802	：折线纹/曲折纹（补充）	Zigzag pattern
+其他：填入实际值
+未知：null",,锯齿纹->MTF1801; 补充->MTF1802; 曲折纹->MTF1802; 折线纹->MTF1802,"补充: 曲折纹, 折线纹; 锯齿纹: Sawtooth pattern; 折线纹: /（） Zigzag pattern; 补充: 折线纹, 曲折纹"
+陶器 pottery,,,,,MC19 镂孔/透孔系,\,唯一值,,"MTF1901	：镂孔纹	Openwork pattern
+MTF1902	：镂孔纹（锁口）	Keyhole/openwork “suokou” pattern
+其他：填入实际值
+未知：null",,锁口->MTF1902; 镂孔纹->MTF1902,锁口: 镂孔纹; 镂孔纹: Openwork pattern; 镂孔纹: （） Keyhole/openwork “suokou” pattern
+陶器 pottery,,,,,MC20 贴饰/浮雕系,\,唯一值,,"MTF2001	：贴饰纹	Applied ornament pattern
+MTF2002	：浮雕纹	Relief pattern
+MTF2003	：附加纹	Added band/added ornament
+其他：填入实际值
+未知：null",,贴饰纹->MTF2001; 浮雕纹->MTF2002; 附加纹->MTF2003,贴饰纹: Applied ornament pattern; 浮雕纹: Relief pattern; 附加纹: Added band/added ornament
+陶器 pottery,,,,,MC21 彩绘系（可加题材参数）,\,唯一值,,"PT1 Geometric（几何）
+PT2 Human figure（人物）
+PT3 Animal（动物）
+其他：填入实际值
+未知：null",,,
+陶器 pottery,,,,,MC22 符号纹系,\,唯一值,,"MTF2201：符号纹Symbol mark motif
+其他：填入实际值
+未知：null",方格、云雷、三角、水波、叶脉、乳钉,符号纹->MTF2201,符号纹: Symbol mark motif
+陶器 pottery,,,,,MC23 其他,\,文本,,原文描述,,提取原文描述,
+陶器 pottery,,,,,MC24 未知,\,文本,,如果没有相关描述即为：无相关内容,,,
+陶器 pottery,,,,布局方式,\,\,唯一值,,"LY1	：水平分带Horizontal bands	
+LY2	：竖向分区Vertical panels	
+LY3	：满铺All-over	
+LY4	：分区（口/肩/腹）Zoned (rim/shoulder/body)	
+LY5	：中心徽章式Central medallion
+其他：填入实际值
+未知：null",,水平分带->LY1; 竖向分区->LY2; 满铺->LY3; 分区->LY4; 中心徽章式->LY5,"分区: 肩, 腹; 水平分带: Horizontal bands; 竖向分区: Vertical panels; 满铺: All-over; 分区: （//）Zoned (rim/shoulder/body); 中心徽章式: Central medallion"
+陶器 pottery,制作者,ProductionActor,记录制造该文物的人或群体。,制作者,\,\,唯一值,,"M1：个体制作者	Individual potter
+M2：家庭/作坊单位	Household / Workshop
+M3：社群制作者	Community group
+M4：专业工匠群体	Specialized craftsmen
+M5：区域生产体系	Regional production system
+其他：填入实际值
+未知：null",,个体制作者->M1; 家庭->M2; 作坊单位->M2; 社群制作者->M3; 专业工匠群体->M4; 区域生产体系->M5,家庭: 作坊单位; 个体制作者: Individual potter; 家庭: / Household / Workshop; 社群制作者: Community group; 专业工匠群体: Specialized craftsmen; 区域生产体系: Regional production system
+陶器 pottery,制作绝对年代,ProductionAbsoluteDate,器物的制作绝对时期,C1：绝对年代 Absolute date,\,\,文本,,"该期别的绝对年代范围，描述可为“公元xxx；距今xxx”；包括：
+date_value	数值（整数）
+date_unit BCE / CE / BP
+date_calibration Cal / Uncal
+date_error ± 年数
+如果没有相关描述即为：null","2800 BCE ± 50
+4300±40 BP (Cal)
+",,
+陶器 pottery,制作相对年代,ProductionRelativeDate,所处的文化时期和文化期别，或朝代及朝代的期别；以及更细节的遗址分期,C2：相对年代 Relative date,\,\,文本,,"文化时期/期别和朝代/朝代期别，是同级别的概念，在夏朝之前没有朝代的命名，可能使用文化指称；夏朝之后用朝代指称，e.g.在夏朝之前的龙山文化，处于新石器时代晚期，用龙山文化指称。填写时可包括下述信息：
+cultural_period 考古学文化（e.g. 龙山文化）
+phase	期别（e.g. 龙山文化晚期）
+如果没有相关描述即为：null","仰韶文化中期
+龙山文化晚期
+夏朝、商朝",,
+陶器 pottery,,,,C3：年代区段 Chronological phase,\,\,文本,,"填写遗址分期，遗址分期为人工划定，分期的依据主要是以器物相似性等划分。例如盘龙城遗址有多期，单一期数可能对应不同文化/朝代（C2：相对年代），也可能不一定能找到对应文化/朝代信息。填写时可包括下述信息：
+chronological_label，如：“盘龙城一期”
+如果没有相关描述即为：null",,,
+陶器 pottery,制作地点,ProductionPlace,器物被制造的地点，如窑址或作坊,制作地点类型（Location Type）,\,\,唯一值,,"L1	窑址	Kiln site
+L2	作坊	Workshop
+L3	居址内生产区	Household production area
+L4	综合生产区	Integrated production zone
+L5	区域生产中心	Regional production center
+L6	其他推定来源区	Inferred source area（需要填写推断值）
+L7	不明	Unknown",窑址、作坊、村落生产点、手工业聚落区域性生产中心等,,
+事物类型,"文化特征单元 CAU
+（Culture Attributes Unit）",CAU ID,文化特征单元定义（CAU Definition）,一级指标,二级指标,三级指标,值类型,索引/主键,抽取值字典/定义,原文描述/术语示例,原文描述转写示例,同义词示例
+人造单元,考古单元名称,,,人造单元名称,\,\,文本,,"填入该人造单元描述中的名称（原文）
+if 没有相关内容，填入人造单元编码
+*此项必须具备值",,提取原文描述,
+人造单元,,,,人造单元编码,\,\,文本,是,"填入人造单元描述中的标准化编码
+*此项必须具备值",如：M12、十二号墓、12号墓坑等,提取原文描述,
+人造单元,考古单元子区域归属,SiteSubAreaAttribution,墓葬归属于遗址内子区域,子区域名称,\,\,文本,是,"填入子区域描述中的子区域名称（原文）area_name
+if 没有相关内容，填入子区域唯一编码
+else if 子区域唯一编码为null，填入null",,提取原文描述,
+人造单元,,,,子区域唯一编码,\,\,文本,是,"填入子区域描述中的标准化编码 area_code
+if 没有相关内容，填入null
+（有些人造单元不属于子区域，而是直接归属到遗址，所以不必须有值）",如：Area A，T105,提取原文描述,
+人造单元,出土遗址,FromSite,记录文物出土的遗址名称,遗址名称,\,\,文本,是,"出土的遗址名称
+*此项必须具备值",盘龙山一期、反山遗址,提取原文描述,
+人造单元,制作绝对年代,ProductionAbsoluteDate,器物的制作绝对时期,C1：绝对年代 Absolute date,\,\,文本,,"该期别的绝对年代范围，描述可为“公元xxx；距今xxx”；包括：
+date_value	数值（整数）
+date_unit BCE / CE / BP
+date_calibration Cal / Uncal
+date_error ± 年数
+如果没有相关描述即为：null","2800 BCE ± 50
+4300±40 BP (Cal)
+",,
+人造单元,制作相对年代,ProductionRelativeDate,所处的文化时期和文化期别，或朝代及朝代的期别；以及更细节的遗址分期,C2：相对年代 Relative date,\,\,文本,,"文化时期/期别和朝代/朝代期别，是同级别的概念，在夏朝之前没有朝代的命名，可能使用文化指称；夏朝之后用朝代指称，e.g.在夏朝之前的龙山文化，处于新石器时代晚期，用龙山文化指称。填写时可包括下述信息：
+cultural_period 考古学文化（e.g. 龙山文化）
+phase	期别（e.g. 龙山文化晚期）
+如果没有相关描述即为：null","仰韶文化中期
+龙山文化晚期
+夏朝、商朝",,
+人造单元,,,,C3：年代区段 Chronological phase,\,\,文本,,"填写遗址分期，遗址分期为人工划定，分期的依据主要是以器物相似性等划分。例如盘龙城遗址有多期，单一期数可能对应不同文化/朝代（C2：相对年代），也可能不一定能找到对应文化/朝代信息。填写时可包括下述信息：
+chronological_label，如：“盘龙城一期”
+如果没有相关描述即为：null",,,
+事物类型,"文化特征单元 CAU
+（Culture Attributes Unit）",CAU ID,文化特征单元定义（CAU Definition）,一级指标,二级指标,三级指标,值类型,索引/主键,抽取值字典/定义,原文描述/术语示例,原文描述转写示例,同义词示例
+子区域,子区域编号或名称,SubAreaIdentifier,区域的编号或名称,子区域名称,\,\,文本,是,"填入子区域描述中的子区域名称（原文）area_name
+if 没有相关内容，填入子区域唯一编码",,提取原文描述,
+子区域,,,,子区域唯一编码,\,\,文本,是,"填入子区域描述中的标准化编码 area_code
+*此项必须有值","如：Area A, T105",提取原文描述,
+子区域,子区域位置描述,SubAreaLocationDescription,该区域在遗址内的相对位置描述,子区域位置描述,\,\,文本,,"evidence_quote
+原文短语",如：位于遗址中心台地；作坊区位于遗址北部、平原、盆地、山地,提取原文描述,
+子区域,出土遗址,FromSite,记录文物出土的遗址名称,遗址名称,\,\,文本,是,出土的遗址名称,盘龙山一期、反山遗址,提取原文描述,
+子区域,遗址内子区域/发掘区,SiteSubArea,"遗址内子区域，遗址内的地理或功能区划，或者人工划定挖掘单位（西区、A区、探方、探沟等）
+(注意：优先填写最细粒度的子指标，仅在无法确定子类型时填写此项)",子区域类型（Area Type）,\,\,属性族,,"A1	功能区	Functional area
+A2	地理区	Geographic sector
+A3	发掘区	Excavation area
+A4	发掘单位	Excavation unit
+A9	不明	Unknown",墓区、居址区、宫殿区、作坊区、西区、北城墙区、探方T0102、探沟、城址区、仓储区、水域区等、墓地、聚落、城址,,
+子区域,,,,功能区（A1）,\,\,唯一值,,"A1-C1	居址区
+A1-C2	墓区
+A1-C3	宫殿区
+A1-C4	作坊区
+A1-C5	仓储区
+A1-C6	城址区
+A1-C7	水域区
+A1-C9	其他功能区",,,
+子区域,,,,地理区（A2）,\,\,唯一值,,"A2-C1	东区
+A2-C2	西区
+A2-C3	南区
+A2-C4	北区
+A2-C5	中部区
+A2-C9	其他地理区",,,
+子区域,,,,发掘区 / 单位（A3 / A4）,\,\,唯一值,,"A3-C1	发掘区（如 A区、B区）
+A4-C1	探方
+A4-C2	探沟
+A4-C3	解剖沟",,,
+子区域,制作绝对年代,ProductionAbsoluteDate,器物的制作绝对时期,C1：绝对年代 Absolute date,\,\,文本,,"该期别的绝对年代范围，描述可为“公元xxx；距今xxx”；包括：
+date_value	数值（整数）
+date_unit BCE / CE / BP
+date_calibration Cal / Uncal
+date_error ± 年数
+如果没有相关描述即为：null","2800 BCE ± 50
+4300±40 BP (Cal)
+",,
+子区域,制作相对年代,ProductionRelativeDate,所处的文化时期和文化期别，或朝代及朝代的期别；以及更细节的遗址分期,C2：相对年代 Relative date,\,\,文本,,"文化时期/期别和朝代/朝代期别，是同级别的概念，在夏朝之前没有朝代的命名，可能使用文化指称；夏朝之后用朝代指称，e.g.在夏朝之前的龙山文化，处于新石器时代晚期，用龙山文化指称。填写时可包括下述信息：
+cultural_period 考古学文化（e.g. 龙山文化）
+phase	期别（e.g. 龙山文化晚期）
+如果没有相关描述即为：null","仰韶文化中期
+龙山文化晚期
+夏朝、商朝",,
+子区域,,,,C3：年代区段 Chronological phase,\,\,文本,,"填写遗址分期，遗址分期为人工划定，分期的依据主要是以器物相似性等划分。例如盘龙城遗址有多期，单一期数可能对应不同文化/朝代（C2：相对年代），也可能不一定能找到对应文化/朝代信息。填写时可包括下述信息：
+chronological_label，如：“盘龙城一期”
+如果没有相关描述即为：null",,,
+事物类型,"文化特征单元 CAU
+（Culture Attributes Unit）",CAU ID,文化特征单元定义（CAU Definition）,一级指标,二级指标,三级指标,值类型,索引/主键,抽取值字典/定义,原文描述/术语示例,原文描述转写示例,同义词示例
+遗址 site,遗址名称,SiteName,遗址的标准名称、别名,遗址唯一标识符site_id,\,\,文本,,原文内容抽取，如无相关内容填入null,CN-SC-0007,"CN-SC-0007（中国·四川·第7号遗址）中的CN-SC-0007
+原则：Site ID 与名称分离; 提取原文描述",
+遗址 site,,,,遗址学术名称（原文或规范）site_real_name,\,\,文本,,原文内容抽取，如无相关内容填入null,中国·四川·第7号遗址,提取原文描述,
+遗址 site,,,,文献或报告位置 source_reference,\,\,文本,,原文内容抽取，如无相关内容填入null,平原、盆地、山地、台地、河谷、丘陵、岗地,提取原文描述,
+遗址 site,,,,遗址名称 site_name,\,\,文本,是,"原文内容抽取
+*此项必须具备值",例如：三星堆遗址、盘龙城遗址，一定要加上“遗址”二字,提取原文描述,
+遗址 site,遗址类型,SiteType,遗址类型,遗址类型主类（Site Type Category）,\,\,多值,,"ST1	：聚落遗址	Settlement site
+ST2	：城址	Walled city site
+ST3	：墓地	Cemetery
+ST4	：祭祀 / 宗教遗址	Ritual / religious site
+ST5	：手工业遗址	Craft / production site
+ST6	：防御设施	Defensive site
+ST7	：交通 / 工程遗址	Infrastructure site
+ST8	：复合型遗址	Multi-functional site
+其他：填入实际值
+未知：null",例如：聚落址、墓地、城址、祭祀坑、墓地、聚落、城址,城址 -> ST2; 墓地 -> ST3; 祭祀坑 -> ST4; 聚落 -> ST1; 聚落遗址->ST1; 城址->ST2; 墓地->ST3; 祭祀->ST4; 宗教遗址->ST4; 手工业遗址->ST5; 防御设施->ST6; 交通->ST7; 工程遗址->ST7; 复合型遗址->ST8,"聚落遗址: 聚落; 祭祀: 祭祀坑, 宗教遗址; 交通: 工程遗址; 聚落遗址: Settlement site; 城址: Walled city site; 墓地: Cemetery; 祭祀: / Ritual / religious site; 手工业遗址: Craft / production site; 防御设施: Defensive site; 交通: / Infrastructure site; 复合型遗址: Multi-functional site; 聚落: 聚落遗址"
+遗址 site,遗址当前位置,SiteLocation,遗址所在的行政区划、地理单元,遗址当前位置,\,\,文本,,"包括但不仅限下列要素，尽可能填写：
+administrative_location现代行政区
+country	中国
+province	四川省
+prefecture	成都市
+county	新津区
+township	宝墩镇（如有）
+village	××村（如有）",例如：四川省广汉市鸭子河南岸、平原、盆地、山地,,
+遗址 site,遗址空间数据,SiteSpatialData,具体的经纬度坐标、海拔高度数据。如果抽取不到，需要通过LLM基于当前位置进行推理标注,遗址空间数据,\,\,文本,,"包括但不仅限下列要素，尽可能填写：
+coordinate经纬度
+latitude	十进制度
+longitude	十进制度
+coordinate_system	WGS84 / CGCS2000
+coordinate_precision	精确 / 估计",,,
+遗址 site,遗址描述,SiteDescription,遗址的自然环境描述、发掘历史综述、保存状况等非结构化文本。,遗址原文描述,\,\,文本,,"采用原文描述内容，可能包括不仅限下列地理描述：
+河流（如：岷江）
+河谷（如：××河谷）
+台地（如：河漫台地）
+平原（如：成都平原）
+盆地（如：四川盆地）
+山地（如：低山丘陵）",,,
+遗址 site,发掘信息,ExcavationInfo,遗址的发掘背景信息,发掘信息,,,属性族,,"EI1：发掘面积
+EI2：发掘年份",,发掘面积->EI1; 发掘年份->EI2,
+遗址 site,,,,,发掘面积 Excavation Area,,数量值,,EI1：发掘面积 Excavation Area,发掘面积500平方米、揭露面积2000㎡,"提取数值 (e.g. ""500平方米"" -> 500)",发掘面积: 揭露面积; 发掘面积: Excavation Area
+遗址 site,,,,,发掘年份 Excavation Year,,文本,,EI2：发掘年份 Excavation Year,1986年发掘、2001-2002年,"提取原文 (e.g. ""1986年"")","发掘年份: 发掘时间, 发掘年度; 发掘年份: Excavation Year"
+遗址 site,制作绝对年代,ProductionAbsoluteDate,器物的制作绝对时期,C1：绝对年代 Absolute date,\,\,文本,,"该期别的绝对年代范围，描述可为“公元xxx；距今xxx”；包括：
+date_value	数值（整数）
+date_unit BCE / CE / BP
+date_calibration Cal / Uncal
+date_error ± 年数
+如果没有相关描述即为：null","2800 BCE ± 50
+4300±40 BP (Cal)
+",,
+遗址 site,制作相对年代,ProductionRelativeDate,所处的文化时期和文化期别，或朝代及朝代的期别；以及更细节的遗址分期,C2：相对年代 Relative date,\,\,文本,,"文化时期/期别和朝代/朝代期别，是同级别的概念，在夏朝之前没有朝代的命名，可能使用文化指称；夏朝之后用朝代指称，e.g.在夏朝之前的龙山文化，处于新石器时代晚期，用龙山文化指称。填写时可包括下述信息：
+cultural_period 考古学文化（e.g. 龙山文化）
+phase	期别（e.g. 龙山文化晚期）
+如果没有相关描述即为：null","仰韶文化中期
+龙山文化晚期
+夏朝、商朝",,
+遗址 site,,,,C3：年代区段 Chronological phase,\,\,文本,,"填写遗址分期，遗址分期为人工划定，分期的依据主要是以器物相似性等划分。例如盘龙城遗址有多期，单一期数可能对应不同文化/朝代（C2：相对年代），也可能不一定能找到对应文化/朝代信息。填写时可包括下述信息：
+chronological_label，如：“盘龙城一期”
+如果没有相关描述即为：null",,,

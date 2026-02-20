@@ -1,0 +1,511 @@
+entity_id,attribute_id,code,value,issue
+ca78618a-ae9f-42db-9581-ae05c1f0ff02,2d49c831-70af-4b37-b020-46ba7ed6aac9,SiteSpatialData,None,Missing Quote (Evidence).
+120b2753-9141-43d8-bafa-2420b1a36e12,90410984-86a0-4be2-957e-e615ddfe2a9f,SubAreaIdentifier,None,Missing Quote (Evidence).
+120b2753-9141-43d8-bafa-2420b1a36e12,43cc2c33-9f70-4de6-a51d-e50d566fc55c,Clay Fineness,None,Missing Quote (Evidence).
+120b2753-9141-43d8-bafa-2420b1a36e12,61384bf0-cd35-4027-89ad-e874de81b75c,Hardness,None,Missing Quote (Evidence).
+120b2753-9141-43d8-bafa-2420b1a36e12,7a1c95ac-2cde-4269-86a2-0cd53d4d56a5,FiringTemperatureType,None,Missing Quote (Evidence).
+120b2753-9141-43d8-bafa-2420b1a36e12,4e88894b-4438-479d-a6e3-7587ca396e45,Forming Technique,None,Missing Quote (Evidence).
+120b2753-9141-43d8-bafa-2420b1a36e12,152cd5da-1be8-45f2-b89f-d5225a6ea0ee,ProductionActor,None,Missing Quote (Evidence).
+61ec1ce1-2a43-4b37-83ea-c72af45a1786,73a7b881-194c-4cd5-81f4-f9f48123c272,SubAreaIdentifier,None,Missing Quote (Evidence).
+61ec1ce1-2a43-4b37-83ea-c72af45a1786,17329099-bceb-4376-902a-8001659db217,Clay Fineness,None,Missing Quote (Evidence).
+61ec1ce1-2a43-4b37-83ea-c72af45a1786,50996719-84a6-4020-b396-fc60a450aa8a,Hardness,None,Missing Quote (Evidence).
+61ec1ce1-2a43-4b37-83ea-c72af45a1786,b8ac2a5f-c3b7-42d1-be78-0e2f3bf7e387,FiringTemperatureType,None,Missing Quote (Evidence).
+61ec1ce1-2a43-4b37-83ea-c72af45a1786,a3bafbd9-ad0a-4bde-8f29-756607802d00,Forming Technique,None,Missing Quote (Evidence).
+61ec1ce1-2a43-4b37-83ea-c72af45a1786,06282f36-3b29-46b6-ad75-1cd7f90830d8,Finishing Technique,None,Missing Quote (Evidence).
+61ec1ce1-2a43-4b37-83ea-c72af45a1786,24ed3691-51e8-478a-a7cd-c4c7198c319d,Decoration Technique,None,Missing Quote (Evidence).
+61ec1ce1-2a43-4b37-83ea-c72af45a1786,9934dc8a-adab-4f7c-a4a1-3f16eb29a884,ProductionActor,None,Missing Quote (Evidence).
+4c8e2939-f9fb-43e3-8885-2f8fd4749bf7,f87febb0-2f21-432a-8523-63b280145d2f,SubAreaIdentifier,None,Missing Quote (Evidence).
+4c8e2939-f9fb-43e3-8885-2f8fd4749bf7,98b1edd9-2fe1-4493-b0eb-ce95071618e7,Hardness,None,Missing Quote (Evidence).
+4c8e2939-f9fb-43e3-8885-2f8fd4749bf7,4472201e-4957-488f-88de-d6bd4669cb89,FiringTemperatureType,None,Missing Quote (Evidence).
+4c8e2939-f9fb-43e3-8885-2f8fd4749bf7,5b843826-6ba7-4249-86d9-3da2b9fac165,Forming Technique,None,Missing Quote (Evidence).
+4c8e2939-f9fb-43e3-8885-2f8fd4749bf7,7d7e59db-c35a-48e1-b678-a3f900359e40,Finishing Technique,None,Missing Quote (Evidence).
+4c8e2939-f9fb-43e3-8885-2f8fd4749bf7,bb24be0e-fc11-46f2-90d6-b04208ba832a,ProductionActor,None,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,1625911e-d483-40a5-8908-574b798c980f,SubAreaIdentifier,None,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,48dedaa0-93b3-48a9-b643-faab6655ca9d,Clay Fineness,None,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,29e742f1-4704-4bde-b738-46e5071edb81,Hardness,None,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,d5ab3299-c334-4de1-a295-8a57af97e098,FiringTemperatureType,None,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,038521a4-6678-4478-88a7-bed74a97ad82,BasicVesselClass,None,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,df99bdbe-9c4c-423f-b37f-0bfd19247b5f,VesselAssemblageType,CD8,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,0873f9e9-90d3-44e4-bdf2-bf31e623ac66,MetricInformation,"[{'type': 'MT2', 'label': '直径类', 'value': '25.3', 'unit': 'cm', 'quote': '口径25.3'}, {'type': 'MT1', 'label': '高度类', 'value': '5.1', 'unit': 'cm', 'quote': '残高5.1厘米'}]",Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,2271bf0e-1f5c-4e5c-a455-8aecb450e87b,FunctionalType,FT8,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,ecd9c88f-6891-4f00-9dc9-b7c10b26dc60,Forming Technique,None,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,c69e6a30-7801-4e3b-b937-0b82b9e8c2e8,Finishing Technique,FTQ107,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,40e21741-0f0f-44c4-879c-24345cc0747a,Decoration Technique,DS7,Missing Quote (Evidence).
+417027ee-2eb0-40c1-b954-0a3573d9fd97,f7bbae9b-0680-4513-b7c0-565158aeaa93,ProductionActor,None,Missing Quote (Evidence).
+95fea13a-16c7-4971-bdd9-14bc77381271,af64a2f2-fbef-4095-a9a7-3237040ad7b2,SubAreaIdentifier,None,Missing Quote (Evidence).
+95fea13a-16c7-4971-bdd9-14bc77381271,d4c93b75-be46-4c22-99b5-1db7fce3d37e,Clay Fineness,None,Missing Quote (Evidence).
+95fea13a-16c7-4971-bdd9-14bc77381271,6fbbcf58-8c4c-4cf3-915a-623888155968,Hardness,None,Missing Quote (Evidence).
+95fea13a-16c7-4971-bdd9-14bc77381271,b2dd3f5a-6ba5-4a6f-bf6f-acca4bdbf916,FiringTemperatureType,None,Missing Quote (Evidence).
+95fea13a-16c7-4971-bdd9-14bc77381271,65ea66fa-7d2e-4239-aa4c-69a2ca6ccea7,Forming Technique,None,Missing Quote (Evidence).
+95fea13a-16c7-4971-bdd9-14bc77381271,a8c35e34-ea13-458f-97b4-3f75368b8cb0,ProductionActor,None,Missing Quote (Evidence).
+8b04257c-e5e9-484d-bb2b-d9588537c2fb,c77f49a5-75e7-4d10-9401-6ed727116005,SubAreaIdentifier,None,Missing Quote (Evidence).
+8b04257c-e5e9-484d-bb2b-d9588537c2fb,ad423181-6858-4509-a1fb-7f5bb1079cb8,Hardness,None,Missing Quote (Evidence).
+8b04257c-e5e9-484d-bb2b-d9588537c2fb,60b8548f-2a31-40be-bdf4-68c4b94b7dc5,FiringTemperatureType,None,Missing Quote (Evidence).
+2def5518-445b-4f15-8471-e0983cc865a1,e5013566-e7ee-487b-ad9f-167474d04394,SubAreaIdentifier,None,Missing Quote (Evidence).
+2def5518-445b-4f15-8471-e0983cc865a1,3f75fa0e-4a9e-4046-b80f-95f1cd107713,Hardness,None,Missing Quote (Evidence).
+2def5518-445b-4f15-8471-e0983cc865a1,00693cdb-5842-4308-8b8d-c6397804b200,FiringTemperatureType,None,Missing Quote (Evidence).
+2def5518-445b-4f15-8471-e0983cc865a1,e4a4c4d9-0f81-4030-b029-9158b386077c,Forming Technique,None,Missing Quote (Evidence).
+40ff78ce-4473-419a-a814-f971cc0af0db,3fb1ee83-cd32-45a8-ae39-ed36a43bac01,SiteSpatialData,None,Missing Quote (Evidence).
+6ec864d6-25a3-4aba-9b51-637f79ea8a74,c9c30930-5d27-42ec-82be-8d0e33441ed6,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,c84b52e0-d31e-4183-8345-14ebc453b499,ClayFabricType,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,a29845a1-fbab-435e-acf5-0142425fff56,Clay Fineness,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,aecdef96-0705-4170-8341-fe4f54107e38,PreservationState,[],Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,d548d31a-3e41-423b-9b41-b58817eb2e2e,CompletenessDegree,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,e872e5f4-2292-4b14-8751-07efe1873d04,TemperType,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,8349c6a5-0999-4bd8-a921-3c772d13c967,Hardness,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,e8497384-baa3-424c-8779-1c327d1420f9,FiringTemperatureType,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,267c7ffb-effa-4051-864a-7ae25d007c6a,VesselAssemblageType,[],Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,fb8a8ab5-a77c-4cae-8a38-5356971e8444,MetricInformation,[],Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,c0c85465-4198-4bac-af1b-a772115fd51b,FunctionalType,[],Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,63c037f1-fe59-467d-9b57-85c2b7d058f9,Forming Technique,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,67960a78-1116-4c53-9d6c-d3a7e888f29f,Finishing Technique,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,0979b589-25d3-4810-913d-3c4339c0b76a,Decoration Technique,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,6bdb8aec-2f6a-4e46-a3fb-9f2f409dfcee,DecorativeMotifType,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,d387dbbf-f6b4-4f94-81fe-ba5de4a13461,ProductionActor,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,56685ba3-a3bb-45a7-948b-a5cd4873cbfe,ProductionDate,None,Missing Quote (Evidence).
+d6dc16d8-e8e5-4309-873a-71747770ff82,eab26592-1264-466d-9be4-1961d5c79e50,ProductionPlace,None,Missing Quote (Evidence).
+d01274cd-ab4b-4e2b-8d61-a701df2f080e,1d1864b6-ec08-4395-baba-dc8fd9824d65,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,b8c8912d-e3c6-4174-b794-13ac5750d00a,ClayFabricType,None,Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,8b6844ab-9113-419d-9e3c-b6fdf2064c80,Clay Fineness,None,Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,aab1fae0-6ff9-41bc-b45e-f1ccb235de01,TemperType,None,Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,bcb48921-9efe-4be7-ae7a-acb8c3c2d366,Hardness,None,Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,c98d0594-1bcd-4f27-95ab-896ee82d7d01,FiringTemperatureType,None,Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,cda4783c-7a89-40cb-a75b-3597c041b9db,VesselAssemblageType,['CD8'],Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,ab89d501-3642-4086-bca1-29665ce94b66,MetricInformation,None,Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,9256d5d7-9a5c-4d11-8da6-fdd8999ed1e2,FunctionalType,['FT8'],Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,1534a358-d2f6-4ac5-b41e-45d1cf5e7004,Forming Technique,None,Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,86efdcea-2b68-42e2-a3a0-b8f164390353,Finishing Technique,['FTQ107'],Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,03d8551c-eacb-40ad-83b4-f39a7b120243,Decoration Technique,['DS7'],Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,7afda802-e206-48b1-81ef-42c9038776ea,DecorativeMotifType,None,Missing Quote (Evidence).
+32fd2fa3-c87f-4d41-b851-3a5f786872e0,f7d6cb56-79e9-4ccb-ba7c-3b6f2c180b59,ProductionActor,None,Missing Quote (Evidence).
+7f700da0-4937-4d4e-a086-b00aca60620c,84e6c582-5195-4230-9ea6-09d9ad696cdc,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,98521135-fc5f-4375-b4cb-715d8cee1b8a,ClayFabricType,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,ce409837-9c20-4d41-92b4-dbeedf639b4d,Clay Fineness,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,64c8a295-f840-4509-8a84-a5d23dec914c,PreservationState,[],Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,e70ac6b1-dc4f-4dc3-b681-bfe355c5a12a,CompletenessDegree,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,3065a87f-93d7-4a3e-b475-b83cc88983d2,TemperType,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,1ad2a424-d3cb-4fdb-a3cf-bbd667af6a56,Hardness,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,159a35e5-cd66-46b6-ada8-cf6aa85e9832,FiringTemperatureType,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,f71e8639-1be5-435b-960e-ae6c3654f852,BasicVesselClass,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,bfaa6609-c945-4cb9-a806-5d6c69c592a5,VesselMorphologicalFeature,[],Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,8ac1980a-91b1-4277-b961-1c4a32656c9d,VesselAssemblageType,[],Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,40ac5f04-ddf2-4c10-98b2-6c060f726a13,MetricInformation,[],Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,230ca5ba-22a3-47c2-8ea7-aaaf78220133,FunctionalType,[],Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,0e4dae2e-97c7-4a2e-abb5-f44d0f500ee4,Forming Technique,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,2deb23ad-deb7-4020-8f58-76ffb9df7849,Finishing Technique,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,db545f74-3fa8-46fe-a8a9-787a7ade3946,Decoration Technique,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,95ba73ba-6fd7-40fc-ac73-1b64960e2da4,DecorativeMotifType,None,Missing Quote (Evidence).
+7fb6c9d5-e4d9-4293-a1f7-84bf6b0e54e1,b588bf31-c222-4eb7-a94d-e2639f0e6a5d,ProductionActor,None,Missing Quote (Evidence).
+430e8bd2-414d-4889-aca6-0c4e697badcf,abce9c9f-89ff-4a7f-a7a3-66cad890b8d4,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,8a4c91f4-8dbe-459a-a27b-90c9d2a2e0cb,SubAreaIdentifier,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,9e568b5a-0b59-469a-b88e-d45b410dff0c,ClayFabricType,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,6c848f19-c97a-42c7-924f-b2bd22b9837d,Clay Fineness,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,b1e095b8-8cc1-4ebc-af21-b575be0e00d1,PreservationState,[],Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,39931f63-6aed-45c1-b2d7-a6dfa057ea96,CompletenessDegree,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,53ccad5b-09fe-4326-b97a-2f62b5104f5b,TemperType,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,1cd69a4f-f8ab-4e9b-8408-abab266fcd2d,Hardness,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,924e71f8-a4b2-4b5a-bb42-cfc6c3f6bd2f,FiringTemperatureType,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,e01af35c-7bfa-4d3a-a637-5d72e1c744da,VesselMorphologicalFeature,[],Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,0784f8c3-e7f6-4f2b-86d9-441417ed6886,VesselAssemblageType,[],Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,ca95fdf9-1628-4dc2-a719-5f6ba642f93d,MetricInformation,[],Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,d8bcc6ec-7b40-45b1-ac15-0af9cf9400e0,FunctionalType,[],Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,385c0599-fd3e-4304-af74-666074a5a9e8,Forming Technique,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,d48d49f8-0251-450c-9e90-682bbf689397,Finishing Technique,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,bfbfc50e-46bb-48f8-b9a6-4be029ba75cb,Decoration Technique,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,28cc2080-8b17-43f2-9ecd-11b0c4b85080,DecorativeMotifType,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,cf178068-e317-4187-997c-d64b3239fbb1,ProductionActor,None,Missing Quote (Evidence).
+06200c81-07e0-49cb-93d8-ebfd5832b858,bd813b59-8ad9-47f1-9441-e3b81030c9ce,ProductionPlace,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,ffba0045-bd4f-4bac-988c-70cefdbabb15,ClayFabricType,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,8765db49-556a-4202-ba29-91a245967e3a,Clay Fineness,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,aadfb229-0a02-444c-8be7-25342baaef85,PreservationState,[],Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,105df0c6-ddef-4893-adb8-b11c17371c73,CompletenessDegree,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,83fb0e18-54fd-4c0f-981e-540d6faa1283,TemperType,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,a6b91168-0a72-4f08-a9c4-9c573dc7ea85,Hardness,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,c1fd5496-b869-4b0e-9eca-e1c36ca58afd,FiringTemperatureType,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,2a55ccc1-d021-4d28-8dab-4b988b927e80,VesselAssemblageType,[],Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,51eb4228-1fff-4957-abb9-3d26c058ac16,MetricInformation,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,4ac43a6f-999e-42eb-88a6-52baed047d75,FunctionalType,[],Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,7429e56f-6ea4-401c-986f-a0ead42cb202,Forming Technique,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,e8477024-a1fa-4529-9d4b-f1b42c952e99,Finishing Technique,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,750ebb88-60e7-44ec-a16c-6c45e10fc9c9,Decoration Technique,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,fdee1f53-2a5e-4881-a675-43a596fe0e5b,DecorativeMotifType,None,Missing Quote (Evidence).
+e7c5601a-4bed-44ff-bf56-5cd0c5b90d06,75f250b3-1629-4391-81f6-971861971087,ProductionActor,None,Missing Quote (Evidence).
+ea43448e-d9bd-4010-9736-410f15dcc54f,31f37b04-a806-4321-aaf4-7f8bf6a03e44,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+e8aefaa2-8a40-485d-ba7a-bae6083568f7,b2905d9c-682b-4979-8022-654680920a88,Hardness,None,Missing Quote (Evidence).
+e8aefaa2-8a40-485d-ba7a-bae6083568f7,6d517108-aecf-431a-ab05-c38034a159a3,FiringTemperatureType,None,Missing Quote (Evidence).
+e8aefaa2-8a40-485d-ba7a-bae6083568f7,821b7e17-9c8b-47b8-8529-653374a11cc7,Decoration Technique,DS7,Missing Quote (Evidence).
+e8aefaa2-8a40-485d-ba7a-bae6083568f7,c9cf4ab5-3ab6-4d88-a50e-a293cb448231,DecorativeMotifType,None,Missing Quote (Evidence).
+2500bbe5-ba96-4a97-8142-c83571754d72,d0789045-8ca7-4398-9c29-d627bc7b7e4d,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+ab6456c1-6637-41db-a267-f4f9da315cda,bbf43890-5bcc-47c8-8e42-e2d8dc5a4056,SubAreaIdentifier,None,Missing Quote (Evidence).
+ab6456c1-6637-41db-a267-f4f9da315cda,e903554b-96f8-4a3b-9d3a-8990d07fbda4,Clay Fineness,None,Missing Quote (Evidence).
+ab6456c1-6637-41db-a267-f4f9da315cda,03f0d847-6134-42cc-81c4-9e5897f8b64b,Hardness,None,Missing Quote (Evidence).
+ab6456c1-6637-41db-a267-f4f9da315cda,ba7388be-7571-4745-ab64-73e83f670a6f,FiringTemperatureType,None,Missing Quote (Evidence).
+ab6456c1-6637-41db-a267-f4f9da315cda,6700a82c-ccd9-4c2a-9048-aebc14591a1b,Forming Technique,None,Missing Quote (Evidence).
+ab6456c1-6637-41db-a267-f4f9da315cda,c10c6992-b6b5-4352-9159-f2e7ea6855ed,Finishing Technique,None,Missing Quote (Evidence).
+ab6456c1-6637-41db-a267-f4f9da315cda,44c062a1-686f-4ef7-a1b0-27d5cfb7d6f6,ProductionActor,None,Missing Quote (Evidence).
+0663e5c3-07d7-46e4-8bc3-5702f30ce9c3,863af938-9c75-4bce-b867-6be6b19f376d,SubAreaIdentifier,None,Missing Quote (Evidence).
+0663e5c3-07d7-46e4-8bc3-5702f30ce9c3,864f8f61-ed36-4f31-b8ed-9059a5ae17dd,Hardness,None,Missing Quote (Evidence).
+0663e5c3-07d7-46e4-8bc3-5702f30ce9c3,78a17c01-1af8-4ba0-9757-f9803e576ded,FiringTemperatureType,None,Missing Quote (Evidence).
+0663e5c3-07d7-46e4-8bc3-5702f30ce9c3,133d346f-019e-43ee-8ac1-e11ad013291f,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '11.4', 'unit': 'cm', 'quote': '口径11.4'}, {'type': 'MT1', 'label': '高度类', 'value': '5.6', 'unit': 'cm', 'quote': '残高5.6厘米'}",Missing Quote (Evidence).
+0663e5c3-07d7-46e4-8bc3-5702f30ce9c3,0abc0ae2-5042-43a6-978e-b6bba41bda32,Forming Technique,None,Missing Quote (Evidence).
+0663e5c3-07d7-46e4-8bc3-5702f30ce9c3,5d68f272-be62-48ae-ac87-94ac40b4d472,Finishing Technique,None,Missing Quote (Evidence).
+0663e5c3-07d7-46e4-8bc3-5702f30ce9c3,0107fab6-be4a-4f7a-ade3-2fe1d934312b,ProductionActor,None,Missing Quote (Evidence).
+17f0fb4a-e0fc-468a-b90a-7c6d1260c9e7,fae505ea-238f-4eb5-96a4-038ba1e1aca2,Hardness,None,Missing Quote (Evidence).
+17f0fb4a-e0fc-468a-b90a-7c6d1260c9e7,69067549-915b-43aa-8274-858e3ab2e104,FiringTemperatureType,None,Missing Quote (Evidence).
+17f0fb4a-e0fc-468a-b90a-7c6d1260c9e7,fe3c019b-f1b1-4aeb-a1d4-1c5b715ec5cd,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '9.8', 'unit': 'cm', 'quote': '足径9.8'}, {'type': 'MT1', 'label': '高度类', 'value': '5', 'unit': 'cm', 'quote': '残高5厘米'}",Missing Quote (Evidence).
+17f0fb4a-e0fc-468a-b90a-7c6d1260c9e7,27230020-039d-429a-b52c-d3eb9fad2e37,Forming Technique,None,Missing Quote (Evidence).
+17f0fb4a-e0fc-468a-b90a-7c6d1260c9e7,ebde531a-e7de-4efb-8379-9794dc95de30,Finishing Technique,None,Missing Quote (Evidence).
+17f0fb4a-e0fc-468a-b90a-7c6d1260c9e7,b65d0ee7-7dd8-4b3c-a7f0-41c3089b42f9,ProductionActor,None,Missing Quote (Evidence).
+77676871-6f06-4ecd-ba69-5195bf02b947,d6379d7c-04b8-4885-8e16-405a122684aa,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+8474aa87-eeac-412d-8a97-b989bbdbebd9,e3755565-3b7f-448c-a85a-766516c13518,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+a715a07e-c6c5-4926-8fc8-6cff18952dc8,e04f4077-1340-40cd-b161-1f29013134a2,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+e2d6ef6c-ce18-47ea-9353-20495d2d0092,e0a998dc-b4ad-4f38-81a2-539dc24dbadf,SubAreaIdentifier,None,Missing Quote (Evidence).
+e2d6ef6c-ce18-47ea-9353-20495d2d0092,2e0837c2-83aa-4692-a780-ddefbd0f5ea3,Clay Fineness,None,Missing Quote (Evidence).
+e2d6ef6c-ce18-47ea-9353-20495d2d0092,5948ff37-2256-4a7b-810e-c3f083c513e5,Hardness,None,Missing Quote (Evidence).
+e2d6ef6c-ce18-47ea-9353-20495d2d0092,c75b5692-4d81-4f71-bbee-f6b18e3585c0,FiringTemperatureType,None,Missing Quote (Evidence).
+e2d6ef6c-ce18-47ea-9353-20495d2d0092,5b1f521b-45cf-4d7f-8213-687917073d48,MetricInformation,None,Missing Quote (Evidence).
+e2d6ef6c-ce18-47ea-9353-20495d2d0092,30e85d0e-33b1-42b3-89c3-a7b3ab22ed3c,Forming Technique,None,Missing Quote (Evidence).
+e2d6ef6c-ce18-47ea-9353-20495d2d0092,d8848f93-320f-4f41-8097-dcf34b466b5f,Finishing Technique,None,Missing Quote (Evidence).
+e2d6ef6c-ce18-47ea-9353-20495d2d0092,2e4a33a6-15e8-4fc2-9f63-18dc5e281d9b,Decoration Technique,None,Missing Quote (Evidence).
+e2d6ef6c-ce18-47ea-9353-20495d2d0092,6ccdc658-1321-4cc5-9648-9c98897d4444,DecorativeMotifType,None,Missing Quote (Evidence).
+fefcc256-03d3-42af-8d23-c86e60b0a5a4,4fdda189-0871-433f-a5fd-c3b7ec9138d9,SubAreaIdentifier,None,Missing Quote (Evidence).
+fefcc256-03d3-42af-8d23-c86e60b0a5a4,c316d678-19ac-4304-a48c-3ab6ecadc37d,Hardness,None,Missing Quote (Evidence).
+fefcc256-03d3-42af-8d23-c86e60b0a5a4,e1ad81aa-b3fc-42c3-b619-6ed9f9d482c3,FiringTemperatureType,None,Missing Quote (Evidence).
+fefcc256-03d3-42af-8d23-c86e60b0a5a4,d5521ab6-6290-4771-bcb6-5140abf96953,Forming Technique,None,Missing Quote (Evidence).
+fefcc256-03d3-42af-8d23-c86e60b0a5a4,1ddc5911-760c-4d18-b3fd-28b014a08181,Finishing Technique,None,Missing Quote (Evidence).
+fefcc256-03d3-42af-8d23-c86e60b0a5a4,bfcca519-1503-4a8b-b76e-6e483cfac1db,Decoration Technique,None,Missing Quote (Evidence).
+fefcc256-03d3-42af-8d23-c86e60b0a5a4,b9c2c636-4053-4b8e-b350-658274393421,DecorativeMotifType,None,Missing Quote (Evidence).
+fefcc256-03d3-42af-8d23-c86e60b0a5a4,44b82d77-e6c3-42c7-b820-363177352208,ProductionActor,None,Missing Quote (Evidence).
+db8e2719-d3b4-4375-b5ad-99a3e0c7fa6e,abd7d8a1-2f15-40b1-89f2-91a3d6482075,SubAreaIdentifier,None,Missing Quote (Evidence).
+db8e2719-d3b4-4375-b5ad-99a3e0c7fa6e,1217952d-f536-4e26-aaec-a10ea11ea672,Hardness,None,Missing Quote (Evidence).
+db8e2719-d3b4-4375-b5ad-99a3e0c7fa6e,657fbcde-c8c7-4cfb-9afa-1c0409008b54,FiringTemperatureType,None,Missing Quote (Evidence).
+db8e2719-d3b4-4375-b5ad-99a3e0c7fa6e,5c766044-c329-4a7a-ae53-7d4ba5847c46,MetricInformation,None,Missing Quote (Evidence).
+db8e2719-d3b4-4375-b5ad-99a3e0c7fa6e,d1edb0c4-9b32-4841-a1ac-7959997c480c,Forming Technique,None,Missing Quote (Evidence).
+db8e2719-d3b4-4375-b5ad-99a3e0c7fa6e,ab874eda-03ca-4c5c-9fbe-f008ca471bd9,Finishing Technique,None,Missing Quote (Evidence).
+db8e2719-d3b4-4375-b5ad-99a3e0c7fa6e,a8d5ca65-d9e2-422f-a1e1-c30fae2f4d3a,Decoration Technique,None,Missing Quote (Evidence).
+db8e2719-d3b4-4375-b5ad-99a3e0c7fa6e,e49a5b39-29d6-4be3-9973-98230d12029a,DecorativeMotifType,None,Missing Quote (Evidence).
+db8e2719-d3b4-4375-b5ad-99a3e0c7fa6e,2b11d69f-80f0-4199-aaa0-b4b6c98cdcc1,ProductionActor,None,Missing Quote (Evidence).
+388b35e0-b5f4-44fb-9336-eb273c92cca9,b253cfa9-41ab-4d4f-bf1f-fe666af8b1e9,SubAreaIdentifier,None,Missing Quote (Evidence).
+388b35e0-b5f4-44fb-9336-eb273c92cca9,125fd3af-8b42-4f24-9f4d-c7056f346ecb,Clay Fineness,None,Missing Quote (Evidence).
+388b35e0-b5f4-44fb-9336-eb273c92cca9,433ad6a1-ed49-4c7b-9c57-d2c0ee221644,Hardness,None,Missing Quote (Evidence).
+388b35e0-b5f4-44fb-9336-eb273c92cca9,624a3fcd-02c4-4033-a900-6dca30c6500b,FiringTemperatureType,None,Missing Quote (Evidence).
+388b35e0-b5f4-44fb-9336-eb273c92cca9,4dc74da7-9317-4bcf-a22c-3ad4199fb328,BasicVesselClass,None,Missing Quote (Evidence).
+388b35e0-b5f4-44fb-9336-eb273c92cca9,006ee29b-c3c3-4a6b-97e5-9618a709d551,Forming Technique,None,Missing Quote (Evidence).
+388b35e0-b5f4-44fb-9336-eb273c92cca9,624c5a6d-0870-4c6b-9816-d57ee0febe50,Finishing Technique,None,Missing Quote (Evidence).
+388b35e0-b5f4-44fb-9336-eb273c92cca9,32b26fde-a097-48ba-9fe5-9aee0d65a6da,ProductionActor,None,Missing Quote (Evidence).
+033b48cf-a7b0-496a-a135-78e00edd812e,c16315cd-954e-42c2-900b-7beb6b3ea821,SubAreaIdentifier,None,Missing Quote (Evidence).
+033b48cf-a7b0-496a-a135-78e00edd812e,12270ef7-46a0-4b31-a318-ea54e9fc774f,Clay Fineness,None,Missing Quote (Evidence).
+033b48cf-a7b0-496a-a135-78e00edd812e,d0940093-321d-47cf-a7ad-b3a2df981bba,Hardness,None,Missing Quote (Evidence).
+033b48cf-a7b0-496a-a135-78e00edd812e,14324133-6a68-41a3-bd0e-21d27fc4786d,FiringTemperatureType,None,Missing Quote (Evidence).
+033b48cf-a7b0-496a-a135-78e00edd812e,478c3c58-4191-4a56-9b51-8bd36fc4da88,Forming Technique,None,Missing Quote (Evidence).
+033b48cf-a7b0-496a-a135-78e00edd812e,05918b64-7dc4-4415-8985-b25621df6a90,Finishing Technique,None,Missing Quote (Evidence).
+033b48cf-a7b0-496a-a135-78e00edd812e,0fa5b3cc-12fd-4f6e-ba67-8f1a9c72d68d,ProductionActor,None,Missing Quote (Evidence).
+a9d6f180-ec24-4bc1-b76f-cc5b73f7761f,095ac1f2-8fd9-454e-916f-78d9b4e1a7fe,SubAreaIdentifier,None,Missing Quote (Evidence).
+a9d6f180-ec24-4bc1-b76f-cc5b73f7761f,72538cad-52fe-4079-bdbe-5cb9be95fbf6,Clay Fineness,None,Missing Quote (Evidence).
+a9d6f180-ec24-4bc1-b76f-cc5b73f7761f,079d3443-cba6-489c-a691-1b99266875a7,Hardness,None,Missing Quote (Evidence).
+a9d6f180-ec24-4bc1-b76f-cc5b73f7761f,71ce83f7-6d60-4a2a-8455-5f47d5eeac0a,FiringTemperatureType,None,Missing Quote (Evidence).
+a9d6f180-ec24-4bc1-b76f-cc5b73f7761f,636a2661-3b79-454c-a6dd-29f0741555b6,Forming Technique,None,Missing Quote (Evidence).
+a9d6f180-ec24-4bc1-b76f-cc5b73f7761f,ca6a2ca3-75b4-4d84-91a3-a6bb7c4c8b21,Finishing Technique,None,Missing Quote (Evidence).
+a9d6f180-ec24-4bc1-b76f-cc5b73f7761f,b53a92f7-345f-4795-9f96-431ae488497d,ProductionActor,None,Missing Quote (Evidence).
+1e7cb50e-835e-45e9-935b-e9b2822eb1f4,1bfcc550-2740-42bc-9bb1-c7e1eba9d292,Hardness,None,Missing Quote (Evidence).
+1e7cb50e-835e-45e9-935b-e9b2822eb1f4,eeeef44d-358c-4cb5-8cc0-b031233d2828,FiringTemperatureType,None,Missing Quote (Evidence).
+1e7cb50e-835e-45e9-935b-e9b2822eb1f4,ac178570-17d3-41fa-8f06-49050259c0dd,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '22.2', 'unit': 'cm', 'quote': '口径22.2'}, {'type': 'MT1', 'label': '高度类', 'value': '8', 'unit': 'cm', 'quote': '残高8厘米'}",Missing Quote (Evidence).
+1e7cb50e-835e-45e9-935b-e9b2822eb1f4,b220223b-cad5-4d4f-8fbe-15a47d4bfcfb,DecorativeMotifType,None,Missing Quote (Evidence).
+8cb98906-ac5a-4624-babd-728e18ee6f49,e4663fb8-e46f-499b-87eb-4ada15b5f3dc,Hardness,None,Missing Quote (Evidence).
+8cb98906-ac5a-4624-babd-728e18ee6f49,2f540453-327a-4604-bcd2-194eec472992,FiringTemperatureType,None,Missing Quote (Evidence).
+8cb98906-ac5a-4624-babd-728e18ee6f49,07d35f37-b257-4e44-8e54-8f85aed46835,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '27.6', 'unit': 'cm', 'quote': '口径27.6'}, {'type': 'MT1', 'label': '高度类', 'value': '6', 'unit': 'cm', 'quote': '残高6厘米'}",Missing Quote (Evidence).
+c2220b74-e0b6-4d25-b68b-4261ecccfe1a,836276e3-7e2d-45a4-af9f-f71cbb57a019,Hardness,None,Missing Quote (Evidence).
+c2220b74-e0b6-4d25-b68b-4261ecccfe1a,f070a942-f731-4b13-9325-48ee555b5db9,FiringTemperatureType,None,Missing Quote (Evidence).
+c2220b74-e0b6-4d25-b68b-4261ecccfe1a,9c5ca1d1-3d1d-40f3-9ba9-e1c9577a641a,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '26', 'unit': 'cm', 'quote': '口径26'}, {'type': 'MT1', 'label': '高度类', 'value': '7.6', 'unit': 'cm', 'quote': '残高7.6厘米'}",Missing Quote (Evidence).
+c2220b74-e0b6-4d25-b68b-4261ecccfe1a,32c0cbe8-dacd-41b7-b162-fe1403100191,ProductionActor,None,Missing Quote (Evidence).
+32038292-532f-49fa-a5d4-a32c8fd061b4,166721d0-4336-4b52-8b0e-8b1f550fe83b,Hardness,None,Missing Quote (Evidence).
+32038292-532f-49fa-a5d4-a32c8fd061b4,34751a49-5f4e-4a1d-864e-91d3351f9399,FiringTemperatureType,None,Missing Quote (Evidence).
+32038292-532f-49fa-a5d4-a32c8fd061b4,c0a1ba8d-c1f6-4a5a-8c54-cc5472dfe0fb,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '18.4', 'unit': 'cm', 'quote': '口径18.4'}, {'type': 'MT1', 'label': '高度类', 'value': '5', 'unit': 'cm', 'quote': '残高5厘米'}",Missing Quote (Evidence).
+32038292-532f-49fa-a5d4-a32c8fd061b4,c408a65c-edb5-434c-95af-24c92f3bc059,Forming Technique,None,Missing Quote (Evidence).
+32038292-532f-49fa-a5d4-a32c8fd061b4,3b4b5f4a-364f-4d88-9a1e-5112eab0746c,Finishing Technique,None,Missing Quote (Evidence).
+32038292-532f-49fa-a5d4-a32c8fd061b4,f6e653e3-8270-4de5-8390-1ec4779ee404,Decoration Technique,None,Missing Quote (Evidence).
+32038292-532f-49fa-a5d4-a32c8fd061b4,5fd7ba4d-57c8-4710-ac2f-aa038c3fcb0f,DecorativeMotifType,None,Missing Quote (Evidence).
+32038292-532f-49fa-a5d4-a32c8fd061b4,22149809-fef9-453a-8606-e64d67f87957,ProductionActor,None,Missing Quote (Evidence).
+539e1291-498f-4d26-9d7d-983c9f940d07,345b2c0d-4064-413a-be78-bfe54fea08db,Hardness,None,Missing Quote (Evidence).
+539e1291-498f-4d26-9d7d-983c9f940d07,95a0fe45-aa74-4a77-b27c-70c43c15e9bb,FiringTemperatureType,None,Missing Quote (Evidence).
+539e1291-498f-4d26-9d7d-983c9f940d07,f1e579e8-eeb2-43d1-b480-35d005a16d65,Forming Technique,None,Missing Quote (Evidence).
+539e1291-498f-4d26-9d7d-983c9f940d07,3e854e1e-a42f-4f30-8369-664e654b3e32,Finishing Technique,None,Missing Quote (Evidence).
+539e1291-498f-4d26-9d7d-983c9f940d07,546f40fc-40cc-4131-a5d3-227a32fee2b1,Decoration Technique,None,Missing Quote (Evidence).
+539e1291-498f-4d26-9d7d-983c9f940d07,4c70f317-c428-4934-90dd-0fcf63cba932,DecorativeMotifType,None,Missing Quote (Evidence).
+539e1291-498f-4d26-9d7d-983c9f940d07,f30b5e9d-999e-4842-b71c-b38468178973,ProductionActor,None,Missing Quote (Evidence).
+0f83f916-6414-43be-bc3a-b8d125a98dca,5af88847-490b-48de-8507-8385399c4978,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '16.6', 'unit': 'cm', 'quote': '口径16.6'}, {'type': 'MT1', 'label': '高度类', 'value': '3.6', 'unit': 'cm', 'quote': '残高3.6厘米'}",Missing Quote (Evidence).
+0be6c6a7-bd3f-4bd5-86f8-167b1be39b2a,dd7eb416-9a74-4abb-9223-2173cb74e7f8,Hardness,None,Missing Quote (Evidence).
+0be6c6a7-bd3f-4bd5-86f8-167b1be39b2a,0aa43318-8a2e-4d56-ab9c-ab2f27e873b7,FiringTemperatureType,None,Missing Quote (Evidence).
+9d577d1a-2661-420b-9564-3b2abc2380c4,67c62988-d98a-465e-a483-6974ec3df269,SiteSpatialData,None,Missing Quote (Evidence).
+53e386c6-41e3-43e1-8435-17ac0727258b,6b42cf2c-53e5-47a6-8959-d0f4786914bb,HumanMadeFeature,None,Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,134bac91-849f-4afe-8f90-efded55fbe0d,SubAreaIdentifier,None,Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,5ec45c35-5680-43a0-b12b-2029390e0639,Clay Fineness,None,Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,d8b936b7-fc33-49fb-8f7c-507bfa175a05,CompletenessDegree,None,Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,73ab635c-5896-4418-84d3-378ffe132a31,Hardness,None,Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,7f0bdcb7-7ef2-4011-a6c6-09c700a79a7d,FiringTemperatureType,None,Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,a79cb01b-edc3-4ffd-b198-6b21b89b632f,MetricInformation,"{'code': 'MT2', 'label': '直径类', 'value': '25.6', 'unit': 'cm', 'quote': '口径25.6'}, {'code': 'MT1', 'label': '高度类', 'value': '30.4', 'unit': 'cm', 'quote': '通高30.4厘米'}",Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,4f002224-438f-4c88-ae81-56a8e1263f2d,Forming Technique,None,Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,8e6c02c7-4938-4e67-9987-ac86d18fa635,Finishing Technique,None,Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,b20f201d-ea0e-4136-8c62-0dde852edd20,Decoration Technique,None,Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,a0bcfc95-55bf-48cb-bfe8-cf92230a1acc,DecorativeMotifType,None,Missing Quote (Evidence).
+5efe58ec-3a25-454c-9ea2-55d3cf91bf55,26159ef6-9629-414f-b135-3dd16470e685,ProductionActor,None,Missing Quote (Evidence).
+90cffae1-f7ae-4ff9-9856-6b6b8cf65e7b,a932efd2-d952-45c2-bc5d-fc65ec981ece,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,d3db5b4d-6821-4b60-ab4f-9f7a51e95dd5,SubAreaIdentifier,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,ac5bad8c-ed97-4176-a79e-deb21c35f435,ClayFabricType,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,4f6a6fb5-f993-4808-b631-4531c2be7fd4,Clay Fineness,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,bbf367df-f858-4c7a-884a-9ed5b46798ff,TemperType,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,ae6a9f82-4aa4-458b-92c9-4377eb25ffbc,Hardness,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,60118c5e-e65c-405c-8599-6a6f1880282d,FiringTemperatureType,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,8736716b-945a-4738-8862-459d700d25c1,Forming Technique,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,1e6f706c-9cde-4b95-bd13-8c9dfb3cbc8d,Finishing Technique,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,076e2f6e-03b6-4105-a3a2-8f2534e1f002,Decoration Technique,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,298ae20c-5f52-4954-be89-457a62358ae8,DecorativeMotifType,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,86c35790-f526-4dd5-a595-f3e71a0cb1ac,ProductionActor,None,Missing Quote (Evidence).
+5e99801f-55b4-4db0-9470-48d1cc268841,b0e46716-9c72-4f99-961d-5a7afce24883,ProductionPlace,L7,Missing Quote (Evidence).
+580fac64-033c-4f5d-8cd8-7bab0a94e252,357ce510-a6dd-406c-bfe6-0d06c44af572,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+0fca61f1-eed4-44a8-a287-6028196aa5d7,ea761180-cc2c-4aa1-b382-c743ebf968f1,HumanMadeFeature,None,Missing Quote (Evidence).
+ede9a1f2-b99d-464f-a518-6e17dea25606,b170df1b-bfef-41ed-bc6d-cf2fdaba1d21,ProductionDate,None,Missing Quote (Evidence).
+785edef6-f1c4-4d13-8647-3f28eaec255c,2267a262-bf2b-40f6-830a-e32fc765c005,SiteSubAreaAttribution,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,20aa0251-869c-4afc-9d95-20ffe772fc9c,ClayFabricType,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,8ff4e3be-2439-4e5f-bbf1-7970ce6d7236,Clay Fineness,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,1d5738c3-4f53-409b-9412-efb301fcf953,TemperType,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,c25cb0ce-a5ef-4795-8c34-58698a07930b,Hardness,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,9fc8c336-b9bd-40ef-9b22-7ca1e1917e9c,FiringTemperatureType,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,4a439356-80e3-4225-8583-629cb807e43b,VesselAssemblageType,CD8,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,c1394186-38ba-481c-badf-23b423f4cacf,FunctionalType,FT8,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,94bc989a-2b72-41a5-8d21-62043bad027d,Forming Technique,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,29a2c219-17c0-4835-ab81-a2095e470b7d,Finishing Technique,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,7eddb90c-ea3e-40a6-9ca3-82bbabd6045b,Decoration Technique,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,e4097ab8-cd2d-40ac-b36d-660b33f285aa,DecorativeMotifType,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,afd34690-ff92-471c-9d14-3d99473d5a01,ProductionActor,None,Missing Quote (Evidence).
+03f5e218-c7f6-4ca7-bc32-7044ae0d12b3,9ed53b87-733c-44ee-8576-0b637a476177,ProductionPlace,L7,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,1c4051f9-0f7a-439c-82fc-d6b4e9ec93e8,ClayFabricType,None,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,af0ff323-fccc-4b09-a8d3-e7ec1ec11b07,Clay Fineness,None,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,cded5738-666e-4432-9895-262f0eeca812,TemperType,None,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,e28db76c-5a04-49df-af84-b4485219fd49,Hardness,None,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,9272f1c1-4feb-4735-a58a-83bbfab62d96,FiringTemperatureType,None,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,825f88cc-67c8-448c-9e81-c61c168b5ee7,MetricInformation,"{'code': 'MT2', 'label': '直径类', 'value': '28', 'unit': 'cm', 'quote': '口径28'}, {'code': 'MT1', 'label': '高度类', 'value': '32', 'unit': 'cm', 'quote': '高32厘米'}",Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,1f994042-b4bf-4622-803c-c7c184da4991,Forming Technique,None,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,5044c56e-7561-4dd0-99f0-72293a20d138,Finishing Technique,None,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,39bf14ea-58f3-449a-ac93-ff9d29f8127a,Decoration Technique,None,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,eb4e0741-8a19-4687-88cf-4c83867a1fa3,DecorativeMotifType,None,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,e54f4b98-dc2a-4bc9-8152-5483ccbe58ef,ProductionActor,None,Missing Quote (Evidence).
+d7b9a890-2439-42d1-b446-be1b7eecaf91,e3fd5c99-03cb-45e2-9823-5182a77db606,ProductionPlace,L7,Missing Quote (Evidence).
+0c95d18c-bd00-4651-98e3-40e24765f503,2350b0ba-4afb-4360-a64c-456363ee37f4,ClayFabricType,None,Missing Quote (Evidence).
+0c95d18c-bd00-4651-98e3-40e24765f503,74f9b89a-f76e-4e2c-a241-e8265c9333fb,Clay Fineness,None,Missing Quote (Evidence).
+0c95d18c-bd00-4651-98e3-40e24765f503,7de20c62-c582-4430-8ece-76aa239ff63e,TemperType,None,Missing Quote (Evidence).
+0c95d18c-bd00-4651-98e3-40e24765f503,63283950-15c7-40d7-8a39-ca03384439e6,Hardness,None,Missing Quote (Evidence).
+0c95d18c-bd00-4651-98e3-40e24765f503,8eff3900-3bf5-43a4-b11b-b6cfa22a624d,FiringTemperatureType,None,Missing Quote (Evidence).
+0c95d18c-bd00-4651-98e3-40e24765f503,246af41a-64e0-4249-8dce-a5426529ba2e,Forming Technique,None,Missing Quote (Evidence).
+0c95d18c-bd00-4651-98e3-40e24765f503,9add5702-9381-4627-adec-3b2ac1b50935,Finishing Technique,None,Missing Quote (Evidence).
+0c95d18c-bd00-4651-98e3-40e24765f503,521e3c82-42ec-449d-97de-2feb9568a6cd,Decoration Technique,None,Missing Quote (Evidence).
+0c95d18c-bd00-4651-98e3-40e24765f503,c0863db9-9825-4828-8d3b-b30f502586ac,DecorativeMotifType,None,Missing Quote (Evidence).
+0c95d18c-bd00-4651-98e3-40e24765f503,4460ffb0-8095-4e07-9598-d38a4caf97cc,ProductionActor,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,3e805f0f-b60d-44b6-8430-e0eb36db01d9,ClayFabricType,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,87fc7ff2-583a-478c-a56c-ab1397f4d0a0,Clay Fineness,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,a6e39eed-d5c1-4d0f-8a22-a3d0b810bb8a,TemperType,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,b212da48-d09e-4bbe-9994-e42315444bcb,Hardness,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,ecea70a4-a51c-4d71-aaff-10e7385ad9a5,FiringTemperatureType,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,1d7042c1-0dff-4f39-8579-60e1157db1fe,VesselAssemblageType,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,79c15c5e-94ce-4765-a8ad-9bc91321aec1,MetricInformation,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,713ac8d3-c710-4d70-935c-4e99ae82f4bb,FunctionalType,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,c2cf69df-730c-4168-88f5-38a70a79156e,Forming Technique,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,0d3228f7-762d-43fb-b3a0-6ea4cb86ea8c,Finishing Technique,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,eb6d8c23-9e8b-4f33-aad5-497f58f6d5dc,Decoration Technique,None,Missing Quote (Evidence).
+1548396c-6667-47ec-9b4c-1653afb7d28e,3d03a898-3e17-4a92-bc50-d85f7e79d2a8,ProductionActor,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,56ca8007-0bce-4dbb-bd19-fa07d1c6245b,ClayFabricType,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,9eb1e701-4516-46d4-b11e-a07b4ad807a4,Clay Fineness,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,f519142b-c9ae-41ae-bc10-c24e22524a44,CompletenessDegree,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,c67bf616-61a9-4eb3-bdae-46e1c6c3d864,TemperType,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,10bb737e-ab30-4316-adf6-bcf7377f16ac,Hardness,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,1236c568-fc26-48ff-9d22-e7a3962e59d3,FiringTemperatureType,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,9cffd2a2-0f93-4680-b975-6f2cc50a9e00,MetricInformation,"{'type': 'MT1', 'label': '高度类', 'value': '16', 'unit': 'cm', 'quote': '长16厘米'}",Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,8d183a5d-b962-4e03-ba5d-a686594e9621,Forming Technique,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,eebe08e6-e29b-48ba-a4ee-00fdc4cf7c8e,Finishing Technique,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,7ea30c99-a2dd-4db9-88e4-a893e46052c7,Decoration Technique,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,29c1b6d3-26dd-410d-bc07-3da42582758f,DecorativeMotifType,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,435a0b59-d2d8-4a57-afc5-32da1b616fb6,ProductionActor,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,6ee8bc63-cc8d-466f-a527-619c1b8d98e1,ProductionDate,None,Missing Quote (Evidence).
+f63f6e4e-1fa9-4228-894a-c8a33742759d,8a34b8fd-c4f4-4648-b2bb-efe5a7d1a415,ProductionPlace,None,Missing Quote (Evidence).
+e3df56e2-35f9-4eff-9d52-46e12cda8dd8,665369c4-a644-4047-bc4f-f79d1205d40b,Hardness,None,Missing Quote (Evidence).
+e3df56e2-35f9-4eff-9d52-46e12cda8dd8,b41e29fc-968b-455a-846d-6eb815fef99e,FiringTemperatureType,None,Missing Quote (Evidence).
+e3df56e2-35f9-4eff-9d52-46e12cda8dd8,d0cb3da5-54c9-4c8f-bd77-3b4736a287fa,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '18.4', 'unit': 'cm', 'quote': '口径18.4'}, {'type': 'MT2', 'label': '直径类', 'value': '22', 'unit': 'cm', 'quote': '腹径22'}, {'type': 'MT1', 'label': '高度类', 'value': '14.8', 'unit': 'cm', 'quote': '高14.8厘米'}",Missing Quote (Evidence).
+e3df56e2-35f9-4eff-9d52-46e12cda8dd8,35fdcecc-b271-4b62-9537-d4b472b6db4e,Forming Technique,None,Missing Quote (Evidence).
+e3df56e2-35f9-4eff-9d52-46e12cda8dd8,abb168ce-47e7-49a9-888a-d6ad97abbf7f,ProductionActor,None,Missing Quote (Evidence).
+bb24db36-0fd6-486c-951e-e0a093ed573e,2f3e1f49-a08d-4613-a7d5-940df8089eeb,Hardness,None,Missing Quote (Evidence).
+bb24db36-0fd6-486c-951e-e0a093ed573e,0c7afaec-a79f-41e6-b3d0-5d469baf6182,FiringTemperatureType,None,Missing Quote (Evidence).
+bb24db36-0fd6-486c-951e-e0a093ed573e,a3464c20-a3e1-44a6-af4e-f8164a490e04,Forming Technique,None,Missing Quote (Evidence).
+bb24db36-0fd6-486c-951e-e0a093ed573e,3e455e7f-27aa-40bb-be56-7cf8c0b11cd8,Finishing Technique,None,Missing Quote (Evidence).
+bb24db36-0fd6-486c-951e-e0a093ed573e,1a21e0fb-41ec-418c-8576-076d72ce6086,Decoration Technique,None,Missing Quote (Evidence).
+bb24db36-0fd6-486c-951e-e0a093ed573e,a533f394-f10a-4219-ae69-0c47589bda8f,DecorativeMotifType,None,Missing Quote (Evidence).
+bb24db36-0fd6-486c-951e-e0a093ed573e,2973b4ed-3864-4ba9-b988-9e300a1dcb30,ProductionActor,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,3e21fb29-292e-4b40-8bc5-604d70aa5081,ClayFabricType,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,23749c64-d9c0-4cfa-9f73-6a617fe0e973,Clay Fineness,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,590618a6-50ee-4701-bbc3-97ca5dae955f,TemperType,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,3cc6d155-6a90-4d58-aacb-70cdc0dee561,Hardness,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,7083e0c2-8799-4d1c-b364-66f9a56d76ab,FiringTemperatureType,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,06379e7e-71a2-4ae2-ab93-f93e65b169f1,MetricInformation,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,082c4b70-4df5-4fd2-99c9-fee65f73c2e6,Forming Technique,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,2e0e69ba-506a-4ab7-974a-a9f786cc45f2,Finishing Technique,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,f84f72d0-3421-41d0-bdfd-179b9f64b147,Decoration Technique,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,9aed8f55-f889-426d-a30d-289cce8a059f,ProductionActor,None,Missing Quote (Evidence).
+7c1b468b-67de-43c5-b445-beae60eebe52,38997d68-b2a0-4897-9996-40abfd4f65b8,ProductionPlace,L7,Missing Quote (Evidence).
+cd228825-33dd-43da-8884-8a9ab73b8175,a5e0fb75-2e87-44c3-b857-854471b64b99,Hardness,None,Missing Quote (Evidence).
+cd228825-33dd-43da-8884-8a9ab73b8175,84cf5ada-f016-443c-9e91-6339edf87fda,FiringTemperatureType,None,Missing Quote (Evidence).
+cd228825-33dd-43da-8884-8a9ab73b8175,8cfd5dce-412d-430b-9e40-ab8c962d730b,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '29.6', 'unit': 'cm', 'quote': '盘径29.6'}, {'type': 'MT1', 'label': '高度类', 'value': '17.2', 'unit': 'cm', 'quote': '残高17.2厘米'}",Missing Quote (Evidence).
+cd228825-33dd-43da-8884-8a9ab73b8175,d39e249e-9cf5-4103-b3d9-21675a51925e,Forming Technique,None,Missing Quote (Evidence).
+cd228825-33dd-43da-8884-8a9ab73b8175,9328f3f0-1cde-40c8-9fcc-c0dc5393bc68,ProductionActor,None,Missing Quote (Evidence).
+9f7b6c89-7ba7-4bff-b9de-3b021df4f616,e1a8bf57-3c22-453d-9d7e-9c09869f1214,Hardness,None,Missing Quote (Evidence).
+9f7b6c89-7ba7-4bff-b9de-3b021df4f616,43fae6bf-59e0-4240-a60d-1b2480ef02b7,FiringTemperatureType,None,Missing Quote (Evidence).
+9f7b6c89-7ba7-4bff-b9de-3b021df4f616,a1257729-b56d-44b3-b79a-dcc78dc03064,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '22.5', 'unit': 'cm', 'quote': '口径 22.5'}, {'type': 'MT1', 'label': '高度类', 'value': '6', 'unit': 'cm', 'quote': '高 6 厘米'}",Missing Quote (Evidence).
+9f7b6c89-7ba7-4bff-b9de-3b021df4f616,d7026a01-bd07-4c50-9dcf-c2cefd2f6251,ProductionActor,None,Missing Quote (Evidence).
+5cf09155-c2a7-4f7b-a4b0-76d3344d38b5,adfe9d59-0355-48cf-a746-c0281cb18129,MetricInformation,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,7b3ff4d4-8100-4472-8002-e6441769892b,ClayFabricType,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,dbc5ff2a-057a-4f69-86a4-a760d9d0d7c9,Clay Fineness,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,e7d613ab-ef11-449b-89cd-470cbc49f1ac,TemperType,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,ef8e2873-a115-4ac5-9e80-9c253efeb625,Hardness,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,acb7812a-d84e-4689-826a-3892bde49be1,FiringTemperatureType,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,4cae5dd3-0d66-4c76-9a26-96502a82b113,MetricInformation,"{'code': 'MT2', 'label': '直径类', 'value': '28', 'unit': 'cm', 'quote': '口径28'}, {'code': 'MT1', 'label': '高度类', 'value': '34.8', 'unit': 'cm', 'quote': '高34.8'}, {'code': 'MT1', 'label': '高度类', 'value': '20.8', 'unit': 'cm', 'quote': '足高20.8厘米'}",Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,d04b9360-f159-4fe6-85f2-5219a4405694,Forming Technique,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,5dada210-32e4-42e7-92ed-27434ebbf4c3,Finishing Technique,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,6684a42f-acda-4d14-ba06-87c3e2d1441a,Decoration Technique,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,9edccfe8-16cd-417b-a7cf-dec38ee8e174,ProductionActor,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,6c681c43-213f-4c55-b67b-894bf13ea2a9,ProductionDate,None,Missing Quote (Evidence).
+d0deac29-5b8d-4ab6-912a-ae5876cd69f1,471edb5d-f106-4b89-bff7-1ddfdb3ef16a,ProductionPlace,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,eef0c507-a79d-4ec6-8d80-9e26d539cd89,ClayFabricType,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,a5e4e6be-f70d-4be6-bd60-7dcc2119bdbe,Clay Fineness,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,738dc6eb-cecd-4c3b-8a00-105631207f82,TemperType,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,2c07e465-4da7-4767-8ee1-a8710a049832,Hardness,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,2e3ac7d3-f63b-4059-826a-4a80d2da3dab,FiringTemperatureType,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,60285e0f-30f3-4ef7-9af0-4250cc5866de,Forming Technique,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,81aa53d9-d24a-484b-861c-f5e505b9adba,Finishing Technique,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,c9cc1ce3-b5e9-41ce-b533-131dd93c7aa7,Decoration Technique,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,bc025f09-3f44-4d53-9a78-ec2b71c7c410,DecorativeMotifType,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,e200cb35-2cbf-491a-8a54-90f93330309f,ProductionActor,None,Missing Quote (Evidence).
+268be141-7188-40e9-9d23-bf19952ed4a3,9b9c07d6-0fb0-4b26-a286-d06a6308300c,ProductionPlace,L7,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,8e61d647-f0db-44da-9ee9-f51b6a58a175,ClayFabricType,None,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,fe098140-58ce-4a85-922e-3eb01527cc7d,Clay Fineness,None,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,ad53434f-1093-4445-b96b-2ac16594b1bf,TemperType,None,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,b888d7ad-6518-4d46-85bc-4aac92c18fdf,Hardness,None,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,fb646822-03a1-425d-a598-edf4be72f5dc,FiringTemperatureType,None,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,aaa647aa-77fe-49a9-8b43-04f85573bae5,Forming Technique,None,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,02f60150-6dae-4c37-98d0-da0a18cae9ba,Finishing Technique,None,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,ac68d15c-c354-458b-90d0-0fafb8eccc53,Decoration Technique,None,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,e29644e8-71e0-4c89-8f96-477866e75bb9,DecorativeMotifType,None,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,d681bc2b-b855-415d-b70c-2f5d949be048,ProductionActor,None,Missing Quote (Evidence).
+feb6f90a-36aa-4d81-a87e-be0233e76928,8e7832d3-f497-45ff-bf1d-9fbb20008c97,ProductionPlace,L7,Missing Quote (Evidence).
+111add23-136f-4c64-947a-548ae6b7fdc5,01ffbbce-19e1-44f5-8914-392fd1497289,Hardness,None,Missing Quote (Evidence).
+111add23-136f-4c64-947a-548ae6b7fdc5,d3c2129d-6972-46c4-b180-d07cc16366e2,FiringTemperatureType,None,Missing Quote (Evidence).
+111add23-136f-4c64-947a-548ae6b7fdc5,443f0f1e-1316-4f37-94ce-da88d312e0cf,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '28.8', 'unit': 'cm', 'quote': '口径28.8'}, {'type': 'MT2', 'label': '直径类', 'value': '31.2', 'unit': 'cm', 'quote': '腹径31.2厘米'}",Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,8aa43ac1-b0a3-44ec-b5c7-a261336f8e77,ClayFabricType,None,Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,1f4b7b42-deda-4de6-a413-449616370dd8,Clay Fineness,None,Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,074095dd-458d-4430-8d8b-94556deff8ee,TemperType,None,Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,763d4d6f-6b3e-465e-b05a-ba3d75fe536d,Hardness,None,Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,5070c3c4-ebfb-4285-8099-f660190d161b,FiringTemperatureType,None,Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,207913f3-1377-40f7-85c2-1f6ec670019c,Forming Technique,None,Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,36a94748-e6e6-40fe-abb3-cc9ca49b6f4a,Finishing Technique,None,Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,dd325141-12f3-43ab-bbd8-37e0157b6562,Decoration Technique,None,Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,33419947-b5f5-4a91-8c87-57334c346626,DecorativeMotifType,None,Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,ab7d9534-98fc-4c00-abc1-f6313fbeb87d,ProductionActor,None,Missing Quote (Evidence).
+9d30a1b9-1bda-4756-a5a2-5ccd95693d78,15f26a70-283f-461f-88c6-9165dcf0dc2c,ProductionPlace,L7,Missing Quote (Evidence).
+43cc8c5d-3951-4e60-83fc-2c52b8f372f0,17cb7d2d-a939-43d0-a3b2-281fe3ccad6a,Hardness,None,Missing Quote (Evidence).
+43cc8c5d-3951-4e60-83fc-2c52b8f372f0,cc86f9b9-455f-454f-990e-291add164d05,FiringTemperatureType,None,Missing Quote (Evidence).
+43cc8c5d-3951-4e60-83fc-2c52b8f372f0,ff306157-627a-42e0-9fe7-8d5af48a3f42,Forming Technique,None,Missing Quote (Evidence).
+43cc8c5d-3951-4e60-83fc-2c52b8f372f0,27af2e24-51ed-40f7-b63c-d1270ef2cb5e,Finishing Technique,None,Missing Quote (Evidence).
+43cc8c5d-3951-4e60-83fc-2c52b8f372f0,f344baf7-4942-44d1-8418-0cf1c6221568,ProductionActor,None,Missing Quote (Evidence).
+40171efc-9889-44c8-88f7-b35f676fca92,f8b3cd52-df3a-48bc-9fc9-53335dfd4b7e,SubAreaIdentifier,None,Missing Quote (Evidence).
+40171efc-9889-44c8-88f7-b35f676fca92,ef3f8ac1-2162-48be-8856-aaba423a7254,Hardness,None,Missing Quote (Evidence).
+40171efc-9889-44c8-88f7-b35f676fca92,36724a21-a994-41d3-98d9-cfbb13b0457c,FiringTemperatureType,None,Missing Quote (Evidence).
+40171efc-9889-44c8-88f7-b35f676fca92,5e3ec019-84bc-4432-b27a-0d27d2df6b4c,Forming Technique,None,Missing Quote (Evidence).
+40171efc-9889-44c8-88f7-b35f676fca92,d67d950a-17ab-41f6-bb5f-9b560b9497f5,Finishing Technique,None,Missing Quote (Evidence).
+40171efc-9889-44c8-88f7-b35f676fca92,fb995416-0b85-4c5d-98ab-ea671ebe9ba8,ProductionActor,None,Missing Quote (Evidence).
+2ea7543c-9951-4720-8051-b2622b97cdb2,11475b3f-fe98-445a-94c6-9891789f4e64,SubAreaIdentifier,None,Missing Quote (Evidence).
+2ea7543c-9951-4720-8051-b2622b97cdb2,812e4ecc-d9c0-4f78-ba41-0d024711c6e3,Hardness,None,Missing Quote (Evidence).
+2ea7543c-9951-4720-8051-b2622b97cdb2,f5193cf0-0636-4041-a80d-83509f33239e,FiringTemperatureType,None,Missing Quote (Evidence).
+2ea7543c-9951-4720-8051-b2622b97cdb2,8f63f885-af3d-4170-9737-3265b5bc6c16,Forming Technique,None,Missing Quote (Evidence).
+2ea7543c-9951-4720-8051-b2622b97cdb2,175f1294-ff77-4c81-b482-99705074907d,Finishing Technique,None,Missing Quote (Evidence).
+2ea7543c-9951-4720-8051-b2622b97cdb2,d24891bb-fa09-457a-8b3a-4d6e753eebe7,Decoration Technique,None,Missing Quote (Evidence).
+2ea7543c-9951-4720-8051-b2622b97cdb2,57143bbc-dc58-47b7-9da4-ae29949a6622,DecorativeMotifType,None,Missing Quote (Evidence).
+2ea7543c-9951-4720-8051-b2622b97cdb2,a8e953fb-0489-4c4f-b889-f276e2cace5e,ProductionActor,None,Missing Quote (Evidence).
+f7e0a2b2-6677-4d6a-ba3d-3ac28063eede,f11769cc-58a0-4d35-9880-b0b48e3fa23f,SubAreaIdentifier,None,Missing Quote (Evidence).
+f7e0a2b2-6677-4d6a-ba3d-3ac28063eede,577b4217-4c91-4cdb-b964-3a63f75ada42,Hardness,None,Missing Quote (Evidence).
+f7e0a2b2-6677-4d6a-ba3d-3ac28063eede,78ff45eb-cd7f-4fd6-b7bb-68cb43aa3484,FiringTemperatureType,None,Missing Quote (Evidence).
+f7e0a2b2-6677-4d6a-ba3d-3ac28063eede,90faee26-280d-45fc-856d-9d70b74bd960,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '27.6', 'unit': 'cm', 'quote': '口径27.6厘米'}, {'type': 'MT1', 'label': '高度类', 'value': '3.9', 'unit': 'cm', 'quote': '残高3.9厘米'}",Missing Quote (Evidence).
+f7e0a2b2-6677-4d6a-ba3d-3ac28063eede,5e2029f8-93e5-426f-b3f3-053c4a87934b,Forming Technique,None,Missing Quote (Evidence).
+f7e0a2b2-6677-4d6a-ba3d-3ac28063eede,22d1a0db-94a3-49ea-b6ba-4ae86f53d975,DecorativeMotifType,None,Missing Quote (Evidence).
+f7e0a2b2-6677-4d6a-ba3d-3ac28063eede,fa2877d6-9627-4d29-91a9-86feefd8e4cc,ProductionActor,None,Missing Quote (Evidence).
+b14f9b60-a0f1-40c6-b7aa-2cb7c7182028,448aa22f-aa8b-4079-ac9f-dc6f3b515816,SubAreaIdentifier,None,Missing Quote (Evidence).
+b14f9b60-a0f1-40c6-b7aa-2cb7c7182028,e6155063-3885-4443-99ac-e1accc4e912d,Hardness,None,Missing Quote (Evidence).
+b14f9b60-a0f1-40c6-b7aa-2cb7c7182028,e5c17df1-55b9-4658-a3e9-ed68b2922c15,FiringTemperatureType,None,Missing Quote (Evidence).
+b14f9b60-a0f1-40c6-b7aa-2cb7c7182028,9ba81dd4-b5b2-4cc4-b208-145ccbc1d3b7,Forming Technique,None,Missing Quote (Evidence).
+b14f9b60-a0f1-40c6-b7aa-2cb7c7182028,4d274aa2-7334-4abb-a89a-65e8acead616,ProductionActor,None,Missing Quote (Evidence).
+2ff3404b-0b47-4cdd-9130-38d4c7a5e756,1694be8c-36c0-45e7-b305-b0ca5665d9eb,SubAreaIdentifier,None,Missing Quote (Evidence).
+2ff3404b-0b47-4cdd-9130-38d4c7a5e756,69deda63-744d-48ed-93f2-620e4a931fdf,Clay Fineness,None,Missing Quote (Evidence).
+2ff3404b-0b47-4cdd-9130-38d4c7a5e756,77812b4a-6788-4ff4-8371-62a96743c693,Hardness,None,Missing Quote (Evidence).
+2ff3404b-0b47-4cdd-9130-38d4c7a5e756,f2980ef6-2aa2-4c96-93e3-a3abb496045c,FiringTemperatureType,None,Missing Quote (Evidence).
+2ff3404b-0b47-4cdd-9130-38d4c7a5e756,b2deb0ef-f632-481f-9b59-3722aaedfaaa,MetricInformation,5cm (MT1),Missing Quote (Evidence).
+2ff3404b-0b47-4cdd-9130-38d4c7a5e756,30f25b79-8149-4590-922c-4066bb331ae9,Forming Technique,None,Missing Quote (Evidence).
+2ff3404b-0b47-4cdd-9130-38d4c7a5e756,a82d905a-8764-4c30-99a3-52e9cec5008f,Finishing Technique,None,Missing Quote (Evidence).
+2ff3404b-0b47-4cdd-9130-38d4c7a5e756,5f39439a-794a-4f60-8887-3ac7f541d9a5,ProductionActor,None,Missing Quote (Evidence).
+4f14b55e-8ef2-494f-9c9b-70b14000de52,3298025f-70b2-4399-a70f-0be8d2dd11db,SubAreaIdentifier,None,Missing Quote (Evidence).
+4f14b55e-8ef2-494f-9c9b-70b14000de52,62b04df3-6fab-4dd4-adf5-5893170bdd53,Hardness,None,Missing Quote (Evidence).
+4f14b55e-8ef2-494f-9c9b-70b14000de52,d5a35276-9839-4ab3-9b50-5b397786ccb1,FiringTemperatureType,None,Missing Quote (Evidence).
+d0353a79-0aa2-407b-9ff2-107fd407c6c6,ada31b06-e06f-4862-88e6-fd01dc53d88c,SubAreaIdentifier,None,Missing Quote (Evidence).
+d0353a79-0aa2-407b-9ff2-107fd407c6c6,8de9f26d-46fb-4544-9293-04b9ff59497f,Clay Fineness,None,Missing Quote (Evidence).
+d0353a79-0aa2-407b-9ff2-107fd407c6c6,da695b46-50a1-4042-a0b9-fa59ce1a3749,Hardness,None,Missing Quote (Evidence).
+d0353a79-0aa2-407b-9ff2-107fd407c6c6,26414e54-4d84-440a-b2fc-a59ffc22df84,FiringTemperatureType,None,Missing Quote (Evidence).
+d0353a79-0aa2-407b-9ff2-107fd407c6c6,e32c1ffb-8fff-4af9-98f1-80ecb7afc4ba,Forming Technique,None,Missing Quote (Evidence).
+d0353a79-0aa2-407b-9ff2-107fd407c6c6,478f20c3-78d8-4ec4-81bd-8d826bf25f83,Finishing Technique,None,Missing Quote (Evidence).
+d0353a79-0aa2-407b-9ff2-107fd407c6c6,42d57d4a-c40b-4d84-8fc6-113cc6e88220,Decoration Technique,None,Missing Quote (Evidence).
+d0353a79-0aa2-407b-9ff2-107fd407c6c6,13e69386-d321-4e8f-aaf8-7a6c92eded67,DecorativeMotifType,None,Missing Quote (Evidence).
+d0353a79-0aa2-407b-9ff2-107fd407c6c6,8505710e-5b8c-458e-a452-7df81ef2c6ad,ProductionActor,None,Missing Quote (Evidence).
+421d4d5c-af08-4f55-9f3f-56ad892c82b8,b4303cb0-5910-4805-bd14-133fdb414355,SubAreaIdentifier,None,Missing Quote (Evidence).
+421d4d5c-af08-4f55-9f3f-56ad892c82b8,1bc35937-17ac-464d-a62a-2f8df615a1a8,Hardness,None,Missing Quote (Evidence).
+421d4d5c-af08-4f55-9f3f-56ad892c82b8,0bb83a65-9e38-4e83-babd-ae1bed0e8d0a,FiringTemperatureType,None,Missing Quote (Evidence).
+af3c74f5-a7db-4016-81b7-1d663366c87f,b3fa02f9-0166-4a27-ba9f-1583afd78378,SubAreaIdentifier,None,Missing Quote (Evidence).
+af3c74f5-a7db-4016-81b7-1d663366c87f,f33fe628-6b96-4436-81a9-140c54e93e1e,Hardness,None,Missing Quote (Evidence).
+af3c74f5-a7db-4016-81b7-1d663366c87f,9e7457ad-e802-4962-8a57-ac7180e7757f,FiringTemperatureType,None,Missing Quote (Evidence).
+18f04a42-926f-4747-bba9-edca2465d4a9,d63e2272-fb54-4564-bffc-96c6ff8f4908,SubAreaIdentifier,None,Missing Quote (Evidence).
+18f04a42-926f-4747-bba9-edca2465d4a9,e60e81fc-415a-4e0e-8265-a4564412f0b5,Hardness,None,Missing Quote (Evidence).
+18f04a42-926f-4747-bba9-edca2465d4a9,19794da9-7c7b-41dd-a570-71eec5db4e43,FiringTemperatureType,None,Missing Quote (Evidence).
+18f04a42-926f-4747-bba9-edca2465d4a9,43dfc357-3946-4a14-b5f5-41bfe4e821a9,DecorativeMotifType,None,Missing Quote (Evidence).
+18f04a42-926f-4747-bba9-edca2465d4a9,7e90fd9b-f4d5-4039-93f9-2d4b1638f8aa,ProductionActor,None,Missing Quote (Evidence).
+e7ff0132-87b6-400b-8f6b-977a26e5c368,a40b51c9-9846-4e8c-bfea-6389addac634,SubAreaIdentifier,None,Missing Quote (Evidence).
+e7ff0132-87b6-400b-8f6b-977a26e5c368,8849e3a2-db83-4566-b384-db1680faa79d,Hardness,None,Missing Quote (Evidence).
+e7ff0132-87b6-400b-8f6b-977a26e5c368,8c23d0e0-a735-49ee-8442-ef37b616449d,FiringTemperatureType,None,Missing Quote (Evidence).
+e7ff0132-87b6-400b-8f6b-977a26e5c368,2d58de95-da78-44c1-8b1f-b1d1d1089a7f,DecorativeMotifType,None,Missing Quote (Evidence).
+d127e204-5b3a-465f-8e17-08846bfa1a36,50d2842f-0fcd-4e1b-9842-b2d1cb4d47ff,SubAreaIdentifier,None,Missing Quote (Evidence).
+d127e204-5b3a-465f-8e17-08846bfa1a36,924f7df9-9668-4c1a-a83e-71382d29ef9d,Hardness,None,Missing Quote (Evidence).
+d127e204-5b3a-465f-8e17-08846bfa1a36,32c4ef05-cee0-469f-b631-943be3d69298,FiringTemperatureType,None,Missing Quote (Evidence).
+d127e204-5b3a-465f-8e17-08846bfa1a36,dba32a69-39d1-4e9b-8701-b2ed2760055b,Forming Technique,None,Missing Quote (Evidence).
+d127e204-5b3a-465f-8e17-08846bfa1a36,77b4af4b-5ab1-4465-b921-650f4677ea1c,Finishing Technique,None,Missing Quote (Evidence).
+d127e204-5b3a-465f-8e17-08846bfa1a36,9a01c643-6169-415a-8bb1-5df031288747,Decoration Technique,None,Missing Quote (Evidence).
+d127e204-5b3a-465f-8e17-08846bfa1a36,07a3b509-bf48-445f-b423-9567eeb20bcc,DecorativeMotifType,None,Missing Quote (Evidence).
+d127e204-5b3a-465f-8e17-08846bfa1a36,bbddaae7-5b4e-484f-be8c-701562d92e97,ProductionActor,None,Missing Quote (Evidence).
+588f28fb-e74b-4570-8189-04e3437f9cc3,eb2b0fec-10fd-4192-8d1d-3a03cdd228f1,SubAreaIdentifier,None,Missing Quote (Evidence).
+588f28fb-e74b-4570-8189-04e3437f9cc3,95eed1a8-c9e3-48c1-b343-90a42e70e3f1,Clay Fineness,None,Missing Quote (Evidence).
+588f28fb-e74b-4570-8189-04e3437f9cc3,0db47959-b0a3-4079-b8a9-183466c17e90,Hardness,None,Missing Quote (Evidence).
+588f28fb-e74b-4570-8189-04e3437f9cc3,357136a6-b5dd-470c-a6fc-7bfc75488c48,FiringTemperatureType,None,Missing Quote (Evidence).
+588f28fb-e74b-4570-8189-04e3437f9cc3,577112f3-0f93-4d0b-949d-0fd0dc14f568,Forming Technique,None,Missing Quote (Evidence).
+588f28fb-e74b-4570-8189-04e3437f9cc3,f7731e84-75f6-460e-bbe7-ce4da79d5b8c,Finishing Technique,None,Missing Quote (Evidence).
+588f28fb-e74b-4570-8189-04e3437f9cc3,8b39e8fb-b69f-408a-b1ee-78430930bee4,Decoration Technique,None,Missing Quote (Evidence).
+588f28fb-e74b-4570-8189-04e3437f9cc3,f2e18462-af9c-430f-b3c6-3cff44093a4e,DecorativeMotifType,None,Missing Quote (Evidence).
+588f28fb-e74b-4570-8189-04e3437f9cc3,dbfda4b0-0839-4d2c-ac98-b48b60a78178,ProductionActor,None,Missing Quote (Evidence).
+c58221d9-c983-4a78-92df-0a06e7b0426d,b638a9a6-e4b3-4550-8d22-eea85c9c85d1,SubAreaIdentifier,None,Missing Quote (Evidence).
+c58221d9-c983-4a78-92df-0a06e7b0426d,ca92d8d2-a58a-45ab-a59d-a160096c5424,Hardness,None,Missing Quote (Evidence).
+c58221d9-c983-4a78-92df-0a06e7b0426d,56708347-4ac9-41b0-a6ae-f4791e8108ad,FiringTemperatureType,None,Missing Quote (Evidence).
+c58221d9-c983-4a78-92df-0a06e7b0426d,d999f9ad-6d1d-465c-9747-1c9497133171,Forming Technique,None,Missing Quote (Evidence).
+c58221d9-c983-4a78-92df-0a06e7b0426d,b53fbbbc-3719-4133-84b7-c219306b978a,Finishing Technique,None,Missing Quote (Evidence).
+c58221d9-c983-4a78-92df-0a06e7b0426d,b9f135bc-f2d7-46b1-8a0c-619e3cdec41b,Decoration Technique,None,Missing Quote (Evidence).
+c58221d9-c983-4a78-92df-0a06e7b0426d,cabba95f-4475-482f-9ef8-bafb4012ca6e,DecorativeMotifType,None,Missing Quote (Evidence).
+c58221d9-c983-4a78-92df-0a06e7b0426d,4e2b0038-776b-437e-a209-b5c54cbe4a2d,ProductionActor,None,Missing Quote (Evidence).
+59f0dfe4-a47c-4e64-948f-3a78a4fbef52,108affdc-81ee-4890-ac20-cbc3fe218309,SubAreaIdentifier,None,Missing Quote (Evidence).
+59f0dfe4-a47c-4e64-948f-3a78a4fbef52,25069165-ab3a-417e-b1ef-480b7bc019bb,Clay Fineness,None,Missing Quote (Evidence).
+59f0dfe4-a47c-4e64-948f-3a78a4fbef52,016178c5-1aa6-4053-82d8-ece8b944b443,Hardness,None,Missing Quote (Evidence).
+59f0dfe4-a47c-4e64-948f-3a78a4fbef52,d4e4b25e-29f6-442e-a82f-5431db4252d6,FiringTemperatureType,None,Missing Quote (Evidence).
+59f0dfe4-a47c-4e64-948f-3a78a4fbef52,d3ffc6f6-d752-464b-be28-53fb04183863,MetricInformation,"{'type': 'MT2', 'label': '直径类', 'value': '16.6', 'unit': 'cm', 'quote': '口径16.6厘米'}, {'type': 'MT2', 'label': '直径类', 'value': '19.4', 'unit': 'cm', 'quote': '最大腹径19.4厘米'}, {'type': 'MT1', 'label': '高度类', 'value': '5.8', 'unit': 'cm', 'quote': '残高5.8厘米'}",Missing Quote (Evidence).
+59f0dfe4-a47c-4e64-948f-3a78a4fbef52,5b31a0cc-f511-4090-99fe-2716a2d72027,Forming Technique,None,Missing Quote (Evidence).
+59f0dfe4-a47c-4e64-948f-3a78a4fbef52,86bdd5a1-f14d-457a-9a83-208791fc7d52,Finishing Technique,None,Missing Quote (Evidence).
+59f0dfe4-a47c-4e64-948f-3a78a4fbef52,c0edd4fa-12cd-49b7-aeac-4495a0ad44e1,Decoration Technique,None,Missing Quote (Evidence).
+59f0dfe4-a47c-4e64-948f-3a78a4fbef52,ac4d5346-1d91-429a-b8be-fd3cfab8836e,DecorativeMotifType,None,Missing Quote (Evidence).
+59f0dfe4-a47c-4e64-948f-3a78a4fbef52,432db537-b9b3-492e-9400-06fcfa480d1f,ProductionActor,None,Missing Quote (Evidence).

@@ -6,11 +6,20 @@ __pycache__/
 
 # 数据库文件
 database/*.db*
+*.db
+*.db-journal
+archive/database/*.db*
 
 # 原始报告和大体量资源（不上传到 GitHub）
 遗址出土报告/
-yuki-ref/
+yuki-ref/*
+!yuki-ref/30reports-for-enhancing-dictionary/
+!yuki-ref/MD/
+!yuki-ref/MD2/
+!yuki-ref/MD3/
 reports/
+uploads/
+backups/
 
 # 日志
 logs/
@@ -21,4 +30,5 @@ logs/
 
 # 临时文件
 .specstory/
+.playwright-mcp/
 
