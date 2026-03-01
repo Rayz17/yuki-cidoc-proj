@@ -642,6 +642,10 @@ Extraction Schema:
 {schema_json}
 [DATA END]
 
+[Schema Instruction]
+- "description" field contains specific Enum Codes (e.g., "BC1: Red ware"). Use these Codes as values.
+- If "description" is empty or describes a measurement, extract the actual text/number from the source.
+
 Please extract the attributes defined in the Schema from the Target Text, referencing the Context. Return the JSON object.
 """
         

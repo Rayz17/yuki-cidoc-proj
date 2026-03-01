@@ -146,7 +146,17 @@ class SchemaParser:
             if level == 0:
                 name = self._get_val(row, ["FieldName", "name", "字段名", "文化特征单元定义（CAU Definition）"])
             
-        desc = self._get_val(row, ["Description", "desc", "描述", "抽取值字典/定义", "文化特征单元定义（CAU Definition）"])
+        raw_desc = self._get_val(row, ["Description", "desc", "描述", "抽取值字典/定义", "文化特征单元定义（CAU Definition）"])
+        
+        # Clean Description to remove misleading instructions
+        clean_desc = raw_desc
+        if clean_desc:
+            # Remove "其他：填入实际值", "未知：null" etc.
+            clean_desc = re.sub(r'其他[：:]\s*填入实际值', '', clean_desc)
+            clean_desc = re.sub(r'未知[：:]\s*null', '', clean_desc)
+            clean_desc = re.sub(r'\*分支除未知外.*', '', clean_desc)
+            clean_desc = re.sub(r'\*此项必须具备值', '', clean_desc)
+            clean_desc = clean_desc.strip()
         
         # If name is still empty, use code
         if not name:
@@ -155,7 +165,7 @@ class SchemaParser:
         return {
             "code": code,
             "name": name,
-            "description": desc or "",
+            "description": clean_desc or "",
             "children": []
         }
 
