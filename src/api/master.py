@@ -1,12 +1,69 @@
 from fastapi import APIRouter, Depends
 from fastapi.responses import StreamingResponse
-from sqlalchemy.orm import Session
+from sqlalchemy.orm import Session, joinedload
 from src.db.database import get_db
 from src.db.models import MasterEntity, MasterAttribute
 import csv
 import io
 
 router = APIRouter()
+
+def generate_master_csv_stream(query, db: Session):
+    """Generator for streaming master data CSV export."""
+    output = io.StringIO()
+    # Define columns
+    fieldnames = ["Entity ID", "Site Name", "Name", "Type", "Updated At", "Attribute Code", "Attribute Value", "Quote"]
+    writer = csv.DictWriter(output, fieldnames=fieldnames)
+    writer.writeheader()
+    
+    # Yield header
+    yield output.getvalue()
+    output.seek(0)
+    output.truncate(0)
+    
+    batch_size = 1000
+    offset = 0
+    
+    while True:
+        # Fetch batch with attributes eager loaded
+        entities = query.options(joinedload(MasterEntity.attributes))\
+            .order_by(MasterEntity.updated_at.desc())\
+            .offset(offset).limit(batch_size).all()
+            
+        if not entities:
+            break
+            
+        for entity in entities:
+            base_row = {
+                "Entity ID": str(entity.id),
+                "Site Name": entity.site_name,
+                "Name": entity.name,
+                "Type": entity.entity_type,
+                "Updated At": entity.updated_at.isoformat() if entity.updated_at else ""
+            }
+            
+            attributes = entity.attributes
+            
+            if not attributes:
+                row = base_row.copy()
+                row["Attribute Code"] = ""
+                row["Attribute Value"] = ""
+                row["Quote"] = ""
+                writer.writerow(row)
+            else:
+                for attr in attributes:
+                    row = base_row.copy()
+                    row["Attribute Code"] = attr.attribute_code
+                    row["Attribute Value"] = attr.attribute_value
+                    row["Quote"] = attr.quote
+                    writer.writerow(row)
+        
+        # Yield batch
+        yield output.getvalue()
+        output.seek(0)
+        output.truncate(0)
+        
+        offset += batch_size
 
 @router.get("/export")
 def export_master_entities(
@@ -15,7 +72,7 @@ def export_master_entities(
     db: Session = Depends(get_db)
 ):
     """
-    Export all matching master entities to CSV.
+    Export all matching master entities to CSV via Stream.
     """
     query = db.query(MasterEntity)
     
@@ -24,43 +81,8 @@ def export_master_entities(
     if entity_type:
         query = query.filter(MasterEntity.entity_type == entity_type)
         
-    entities = query.order_by(MasterEntity.updated_at.desc()).all()
-    
-    output = io.StringIO()
-    # Define columns
-    fieldnames = ["Entity ID", "Site Name", "Name", "Type", "Updated At", "Attribute Code", "Attribute Value", "Quote"]
-    writer = csv.DictWriter(output, fieldnames=fieldnames)
-    writer.writeheader()
-    
-    for entity in entities:
-        base_row = {
-            "Entity ID": str(entity.id),
-            "Site Name": entity.site_name,
-            "Name": entity.name,
-            "Type": entity.entity_type,
-            "Updated At": entity.updated_at.isoformat() if entity.updated_at else ""
-        }
-        
-        attributes = entity.attributes # Using relationship
-        
-        if not attributes:
-            row = base_row.copy()
-            row["Attribute Code"] = ""
-            row["Attribute Value"] = ""
-            row["Quote"] = ""
-            writer.writerow(row)
-        else:
-            for attr in attributes:
-                row = base_row.copy()
-                row["Attribute Code"] = attr.attribute_code
-                row["Attribute Value"] = attr.attribute_value
-                row["Quote"] = attr.quote
-                writer.writerow(row)
-
-    output.seek(0)
-    
     return StreamingResponse(
-        iter([output.getvalue()]),
+        generate_master_csv_stream(query, db),
         media_type="text/csv",
         headers={"Content-Disposition": "attachment; filename=master_data_export.csv"}
     )
