@@ -16,8 +16,14 @@
 - **SUBAREA (区域/发掘区)**: 遗址内的具体地理分区或发掘单位（如：北城墙发掘区、T102探方、西区）。
   - *注意*：章节标题如“工作综述”、“地层堆积”、“结语”、“前言”、“随葬器物”属于**文本结构**，**绝对不是** SUBAREA 实体。
 - **FEATURE (遗迹/单位)**: 不可移动的考古遗存（如：墓葬 M1、灰坑 H1、房址 F1、水井 J1、灶 Z1）。
-- **ARTIFACT (器物)**: 可移动的出土文物（如：陶器 M1:1、玉器、石器）。通常有编号（如 
-M1:1）或作为遗迹内的出土物描述。
+- **ARTIFACT (器物)**: 可移动的出土文物。**请务必根据材质/类型使用以下具体类型，以便匹配提取模版**：
+  - **POTTERY (陶器)**: 陶器、陶片、瓷器。
+  - **JADE (玉器)**: 玉器、绿松石。
+  - **STONE (石器)**: 石器。
+  - **BRONZE (铜器)**: 铜器、青铜器。
+  - **IRON (铁器)**: 铁器。
+  - **BONE (骨角牙器)**: 骨器、角器。
+  - **OTHER (其他器物)**: 无法归类的其他器物。
   - **层级灵活性**: 器物通常属于 `FEATURE`，但如果是**地层出土物**（如 T102②:1），则可以直接属于 `SUBAREA`。
 
 ## 2. 文本归集与清洗 (Text Segmentation & Cleaning)
@@ -53,7 +59,7 @@ M1:1）或作为遗迹内的出土物描述。
   "entities": [
     {
       "name": "实体名称 (如 M1)",
-      "type": "SITE | SUBAREA | FEATURE | ARTIFACT",
+      "type": "SITE | SUBAREA | FEATURE | POTTERY | JADE | STONE | BRONZE | IRON | BONE | OTHER",
       "entity_tips": "String (该实体特有的身份指纹，如位置、层位、保存状况) or null",
       "related_text": "String (清洗后的描述文本，排除图片引用)",
       "children": [ ... ]
@@ -83,13 +89,13 @@ M1:2，夹砂红陶鼎，[img: ding.jpg] 高15厘米，足部残缺。"
       "children": [
         {
           "name": "M1:1",
-          "type": "ARTIFACT",
+          "type": "POTTERY",
           "entity_tips": "泥质灰陶",
           "related_text": "M1:1，泥质灰陶罐，口径12厘米。"
         },
         {
           "name": "M1:2",
-          "type": "ARTIFACT",
+          "type": "POTTERY",
           "entity_tips": "夹砂红陶，足部残缺",
           "related_text": "M1:2，夹砂红陶鼎，高15厘米，足部残缺。"
         }

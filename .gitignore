@@ -8,6 +8,8 @@ __pycache__/
 database/*.db*
 *.db
 *.db-journal
+*.db-shm
+*.db-wal
 archive/database/*.db*
 
 # 原始报告和大体量资源（不上传到 GitHub）
